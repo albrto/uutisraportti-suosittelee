@@ -455,10 +455,74 @@ a:hover {
 /* ===== FOOTER ===== */
 .footer {
   text-align: center;
-  padding: 32px 24px;
+  padding: 64px 24px;
+  background: rgba(255, 255, 255, 0.02);
+  border-top: 1px solid var(--border);
+}
+
+.feedback-container {
+  max-width: 500px;
+  margin: 0 auto 40px;
+  text-align: left;
+}
+
+.feedback-container h3 {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  text-align: center;
+  color: var(--text-primary);
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color var(--transition);
+}
+
+.form-group textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: var(--accent);
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 12px;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.submit-btn:hover {
+  filter: brightness(1.1);
+  transform: translateY(-1px);
+}
+
+.footer-info {
   font-size: 0.8rem;
   color: var(--text-secondary);
-  border-top: 1px solid var(--border);
+  opacity: 0.7;
 }
 
 /* ===== RESPONSIVE ===== */

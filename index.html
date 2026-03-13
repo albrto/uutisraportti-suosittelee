@@ -84,7 +84,19 @@
 
     <!-- Footer -->
     <footer class="footer">
-      <p>Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti"
+      <div class="feedback-container">
+        <h3>Anna palautetta tai ehdota korjausta</h3>
+        <form name="palaute" method="POST" data-netlify="true">
+          <div class="form-group">
+            <input type="text" name="nimi" placeholder="Nimesi (valinnainen)">
+          </div>
+          <div class="form-group">
+            <textarea name="viesti" placeholder="Viestisi..." required></textarea>
+          </div>
+          <button type="submit" class="submit-btn">Lähetä palaute</button>
+        </form>
+      </div>
+      <p class="footer-info">Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti"
           target="_blank">Uutisraportti-podcastista</a> tekoälyn avulla.</p>
     </footer>
   </div>
