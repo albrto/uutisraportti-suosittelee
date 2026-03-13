@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uutisraportti – Suositukset</title>
+  <meta name="description" content="Kaikki Uutisraportti-podcastin kulttuuri- ja kulutussuositukset yhdessä paikassa. Etsi kirjoja, elokuvia, podcasteja ja paljon muuta.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Hero / Header -->
+    <header class="hero">
+      <div class="hero-content">
+        <h1 class="hero-title">Uutisraportti<span class="hero-accent">Suositukset</span></h1>
+        <p class="hero-subtitle">Kaikki Helsingin Sanomien Uutisraportti-podcastin kulttuuri- ja kulutussuositukset – haettavana ja selattavana.</p>
+        <div class="stats" id="stats"></div>
+      </div>
+    </header>
+
+    <!-- Search & Filters -->
+    <section class="controls">
+      <div class="search-container">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="searchInput" placeholder="Etsi suosituksista... (esim. teatteri, hiihto, Venäjä)" autocomplete="off">
+      </div>
+      <div class="filter-row">
+        <div class="filter-group">
+          <label for="categoryFilter">Pääkategoria</label>
+          <select id="categoryFilter">
+            <option value="">Kaikki</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="recommenderFilter">Suosittelija</label>
+          <select id="recommenderFilter">
+            <option value="">Kaikki</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="yearFilter">Vuosi</label>
+          <select id="yearFilter">
+            <option value="">Kaikki</option>
+          </select>
+        </div>
+        <button class="reset-btn" id="resetFilters" title="Tyhjennä suodattimet">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M8 6V4a2 2 0 012-2h4a2 2 0 012 2v2m3 0v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6h14"/></svg>
+          Tyhjennä
+        </button>
+      </div>
+      <div class="results-count" id="resultsCount"></div>
+    </section>
+
+    <!-- Results -->
+    <main class="results" id="results"></main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti" target="_blank">Uutisraportti-podcastista</a> tekoälyn avulla.</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
