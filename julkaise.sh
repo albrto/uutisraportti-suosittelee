@@ -6,8 +6,8 @@ cp "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsan
 
 cd /Users/antero/.gemini/antigravity/scratch/uutisraportti-web
 
-git add suositukset.json
-git commit -m "Päivitetty data $(date '+%d.%m.%Y')"
+git add .
+git commit -m "Päivitys: $(date '+%d.%m.%Y %H:%M')"
 git push
 
 echo "✅ Julkaistu! https://albrto.github.io/uutisraportti-suosittelee/"
