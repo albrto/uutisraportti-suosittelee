@@ -250,5 +250,41 @@ function setupListeners() {
   });
 }
 
+// --- Feedback Form Handling ---
+function setupFeedbackForm() {
+  const form = document.querySelector('form[name="palaute"]');
+  const btn = document.getElementById('submitBtn');
+  
+  if (!form) return;
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (btn) {
+      btn.textContent = "Lähetetään...";
+      btn.disabled = true;
+    }
+
+    const formData = new FormData(form);
+
+    fetch('/', {
+      method: 'POST',
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString()
+    })
+    .then(() => {
+      window.location.href = '/kiitos.html';
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+      if (btn) {
+        btn.textContent = "Virhe. Yritä uudelleen.";
+        btn.disabled = false;
+        btn.style.backgroundColor = "var(--tag-ruoka)"; // Red-ish error color
+      }
+    });
+  });
+}
+
 // Start the app
 init();
+setupFeedbackForm();

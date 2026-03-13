@@ -88,7 +88,7 @@
     <footer class="footer">
       <div class="feedback-container">
         <h3>Anna palautetta tai ehdota korjausta</h3>
-        <form name="palaute" method="POST" action="/kiitos.html" data-netlify="true">
+        <form id="feedbackForm" name="palaute" data-netlify="true">
           <input type="hidden" name="form-name" value="palaute" />
           <div class="form-group">
             <input type="text" name="nimi" placeholder="Nimesi (valinnainen)">
@@ -96,7 +96,7 @@
           <div class="form-group">
             <textarea name="viesti" placeholder="Viestisi..." required></textarea>
           </div>
-          <button type="submit" class="submit-btn">Lähetä palaute</button>
+          <button type="submit" id="submitBtn" class="submit-btn">Lähetä palaute</button>
         </form>
       </div>
       <p class="footer-info">Data poimittu automaattisesti <a href="https://www.hs.fi/uutisraportti"
