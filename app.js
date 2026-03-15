@@ -5,8 +5,14 @@ let allRecs = []; // flattened: each rec has jakso info attached
 
 async function init() {
   try {
-    const res = await fetch('suositukset.json');
-    allData = await res.json();
+    // Check if data is already loaded via script tag (for local file:// access)
+    if (window.SUOSITUKSET_DATA) {
+      allData = window.SUOSITUKSET_DATA;
+    } else {
+      // Fallback to fetch for web environment
+      const res = await fetch('suositukset.json');
+      allData = await res.json();
+    }
     
     // Flatten: attach episode info to each recommendation
     allRecs = [];
@@ -211,11 +217,14 @@ function renderCard(rec) {
   }
   
   return `
-    <div class="rec-card">
-      <div class="rec-top">
-        <div class="rec-title"><a href="${escapeHtml(rec.google_linkki || '#')}" target="_blank">${escapeHtml(rec.teos)}</a></div>
-        <span class="rec-badge ${badgeClass}">${escapeHtml(rec.paakategoria || 'muu')}</span>
-      </div>
+      <div class="rec-card">
+        <div class="rec-top">
+          <div class="rec-title">
+            <a href="${escapeHtml(rec.google_linkki || '#')}" target="_blank">${escapeHtml(rec.teos)}</a>
+            ${rec.kuulijasuositus ? `<span class="rec-badge listener" style="margin-left:8px; vertical-align:middle;">🎧 Kuulijan suositus</span>` : ''}
+          </div>
+          <span class="rec-badge ${badgeClass}">${escapeHtml(rec.paakategoria || 'muu')}</span>
+        </div>
       <div class="rec-desc">${escapeHtml(rec.kuvaus || '')}</div>
       <div class="rec-meta">
         <div class="rec-recommender">${escapeHtml(rec.suosittelija || 'Ei varmuutta')}</div>
@@ -247,6 +256,41 @@ function setupListeners() {
     document.getElementById('recommenderFilter').value = '';
     document.getElementById('yearFilter').value = '';
     applyFilters();
+  });
+
+  setupScrollListener();
+  setupMobileFilters();
+}
+
+function setupScrollListener() {
+  const controls = document.querySelector('.controls');
+  let lastScrollY = window.scrollY;
+  
+  window.addEventListener('scroll', () => {
+    const currentScrollY = window.scrollY;
+    
+    // Minify when scrolling down, expand when scrolling up
+    // threshold of 100px before minifying
+    if (currentScrollY > 100 && currentScrollY > lastScrollY) {
+      controls.classList.add('minified');
+    } else if (currentScrollY < lastScrollY || currentScrollY <= 100) {
+      controls.classList.remove('minified');
+    }
+    
+    lastScrollY = currentScrollY;
+  }, { passive: true });
+}
+
+function setupMobileFilters() {
+  const toggleBtn = document.getElementById('mobileFilterToggle');
+  const filterRow = document.getElementById('filterRow');
+  
+  if (!toggleBtn || !filterRow) return;
+  
+  toggleBtn.addEventListener('click', () => {
+    const isShowing = filterRow.classList.toggle('show');
+    toggleBtn.classList.toggle('active', isShowing);
+    toggleBtn.querySelector('span').textContent = isShowing ? 'Piilota suodattimet' : 'Näytä suodattimet';
   });
 }
 
@@ -285,6 +329,34 @@ function setupFeedbackForm() {
   });
 }
 
+// --- About Modal Handling ---
+function setupAboutModal() {
+  const modal = document.getElementById('aboutModal');
+  const link = document.getElementById('aboutLink');
+  const close = document.querySelector('.close-modal');
+
+  if (!modal || !link || !close) return;
+
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    modal.style.display = 'block';
+    document.body.style.overflow = 'hidden'; // Prevent scroll
+  });
+
+  close.addEventListener('click', () => {
+    modal.style.display = 'none';
+    document.body.style.overflow = 'auto';
+  });
+
+  window.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+      document.body.style.overflow = 'auto';
+    }
+  });
+}
+
 // Start the app
 init();
 setupFeedbackForm();
+setupAboutModal();

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muutokset - Uutisraportti suosittelee</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .changelog-container {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 0 24px;
+    }
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 32px;
+      color: var(--accent-light);
+      font-weight: 500;
+    }
+    .version-tag {
+      display: inline-block;
+      padding: 4px 12px;
+      background: var(--accent-glow);
+      color: var(--accent-light);
+      border-radius: 100px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    .change-item {
+      margin-bottom: 48px;
+      padding-left: 24px;
+      border-left: 2px solid var(--border);
+    }
+    .change-date {
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+    }
+    .change-list {
+      list-style: none;
+    }
+    .change-list li {
+      margin-bottom: 8px;
+      position: relative;
+    }
+    .change-list li::before {
+      content: '•';
+      position: absolute;
+      left: -16px;
+      color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+  <div class="changelog-container">
+    <a href="index.html" class="back-link">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M19 12H5M12 19l-7-7 7-7"/>
+      </svg>
+      Takaisin suosituksiin
+    </a>
+    
+    <h1 class="hero-title" style="text-align: left; margin-bottom: 40px;">Päivitykset & <span class="hero-accent">Muutokset</span></h1>
+
+    <div class="change-item">
+      <span class="version-tag">v1.1.0</span>
+      <div class="change-date">15. maaliskuuta 2026</div>
+      <ul class="change-list">
+        <li>Lisätty <strong>Kuulijasuositukset</strong>: Kuulijoiden lähettämät suositukset on nyt merkitty erillisellä 🎧-badgella.</li>
+        <li>Uusi <strong>About-osio</strong>: Tietoa projektista ja sen toteutuksesta.</li>
+        <li>Lisätty tämä <strong>muutoslogi</strong> helpottamaan päivitysten seuraamista.</li>
+        <li>Parannettu paikallista toimivuutta (CORS-ohitus datan latauksessa).</li>
+        <li>Päivitetty validointityökalu tunnistamaan kuulijasuositukset.</li>
+      </ul>
+    </div>
+
+    <div class="change-item">
+      <span class="version-tag">v1.0.5</span>
+      <div class="change-date">13. maaliskuuta 2026</div>
+      <ul class="change-list">
+        <li>Siirrytty käyttämään Netlify Forms -palvelua palautteen käsittelyyn.</li>
+        <li>Toteutettu AJAX-pohjainen palautteen lähetys (ei enää häiritseviä uudelleenohjauksia).</li>
+        <li>Korjattu mobiilinäkymän asetteluongelmia.</li>
+      </ul>
+    </div>
+
+    <div class="change-item">
+      <span class="version-tag">v1.0.0</span>
+      <div class="change-date">Maaliskuu 2026</div>
+      <ul class="change-list">
+        <li>Ensimmäinen julkaisuversio.</li>
+        <li>Automaattinen suositusten keräys Uutisraportti-podcastin jaksoista.</li>
+        <li>Hakutoiminnot, kategoriat ja suosittelijasuodattimet.</li>
+        <li>Tumma, moderni käyttöliittymä.</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

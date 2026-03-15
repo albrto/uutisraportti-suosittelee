@@ -1,4 +1,4 @@
-[
+window.SUOSITUKSET_DATA = [
   {
     "id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
     "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
@@ -16866,4 +16866,4 @@
       }
     ]
   }
-]
+];
