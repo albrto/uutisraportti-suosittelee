@@ -962,10 +962,9 @@ function showToast(msg, duration = 2500) {
 // =====================================================
 function setFilter(f) {
   currentFilter = f;
-  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  const btnId = f === 'all' ? 'filter-all' : (f === 'open' ? 'filter-open' : 'filter-done');
-  const btn = document.getElementById(btnId);
-  if (btn) btn.classList.add('active');
+  document.getElementById('filter-all').classList.toggle('active', f === 'all');
+  document.getElementById('filter-open').classList.toggle('active', f === 'open');
+  document.getElementById('filter-done').classList.toggle('active', f === 'done');
   renderList();
 }
 
@@ -1018,7 +1017,8 @@ function renderList() {
 }
 
 function renderCard(jakso) {
-  const n_open = jakso.suositukset.filter(rec => {
+  const recs = showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset;
+  const n_open = recs.filter(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
     return !(c && (c.skipped || c.is_edited));
   }).length;

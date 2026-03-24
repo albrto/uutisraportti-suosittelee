@@ -17,7 +17,7 @@ def hae_epailyttavien_luettelo(jakso_id):
             
         for jakso in data:
             if jakso.get("jakso_id") == jakso_id:
-                return len(jakso.get("epailyttavat_suositukset", []))
+                return sum(1 for r in jakso.get("suositukset", []) if r.get("is_suspicious"))
     except Exception as e:
         print(f"Laheta_ilmoitus: Virhe luettaessa epailyttavat.json: {e}")
         
