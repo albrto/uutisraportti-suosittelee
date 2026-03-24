@@ -102,16 +102,24 @@ def paivita_html(uusi_teksti):
         major, minor, patch = map(int, versio_match.groups())
         uusi_versio = f"v{major}.{minor + 1}.0"
         
+    # Muotoillaan päivämäärä suomeksi: "24. maaliskuuta 2026"
+    kuukaudet = {
+        1: "tammikuuta", 2: "helmikuuta", 3: "maaliskuuta", 4: "huhtikuuta",
+        5: "toukokuuta", 6: "kesäkuuta", 7: "heinäkuuta", 8: "elokuuta",
+        9: "syyskuuta", 10: "lokakuuta", 11: "marraskuuta", 12: "joulukuuta"
+    }
+    nyt = datetime.now()
+    nykyinen_pvm = f"{nyt.day}. {kuukaudet[nyt.month]} {nyt.year}"
+    
     # Tarkistetaan, onko tälle päivälle jo tehty automaattipäivitys (vältetään tuplat)
-    nykyinen_pvm = datetime.now().strftime("%d.%m.%Y")
-    if f"{nykyinen_pvm} | Automaattinen päivitys" in sisalto:
+    if f'<div class="change-date">{nykyinen_pvm}</div>' in sisalto:
         print(f"⚠️ Muutosloki on jo päivitetty tänään ({nykyinen_pvm}). Hypätään yli.")
         return False
 
     uusi_html_lohkare = f'''
     <div class="change-item">
       <span class="version-tag">{uusi_versio}</span>
-      <div class="change-date">{nykyinen_pvm} | Automaattinen päivitys</div>
+      <div class="change-date">{nykyinen_pvm}</div>
       {uusi_teksti}
     </div>
 '''
