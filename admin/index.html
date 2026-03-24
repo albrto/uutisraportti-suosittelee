@@ -1404,8 +1404,33 @@ async function verifyCorrect(jakso_id, r_idx) {
     if (response.status === 401) throw new Error('Väärä salasana.');
     if (!response.ok) throw new Error('Palvelinvirhe: ' + response.statusText);
     
-    showToast('✅ Lisätty pysyviin ohituksiin. Lista päivittyy...');
-    setTimeout(() => location.reload(), 2000);
+    // Päivitä paikallinen tila: merkitse suositus ei-epäilyttäväksi
+    const jakso = DATA.find(j => j.jakso_id === jakso_id);
+    if (jakso) {
+      const rec = jakso.suositukset.find(r => r.r_idx === r_idx);
+      if (rec) rec.is_suspicious = false;
+      // Päivitä myös DATA_SUSPICIOUS jos saatavilla
+      if (DATA_SUSPICIOUS) {
+        const sj = DATA_SUSPICIOUS.find(j => j.jakso_id === jakso_id);
+        if (sj) {
+          const sr = sj.suositukset.find(r => r.r_idx === r_idx);
+          if (sr) sr.is_suspicious = false;
+        }
+      }
+      // Päivitä myös DATA_FULL jos saatavilla
+      if (DATA_FULL) {
+        const fj = DATA_FULL.find(j => j.jakso_id === jakso_id);
+        if (fj) {
+          const fr = fj.suositukset.find(r => r.r_idx === r_idx);
+          if (fr) fr.is_suspicious = false;
+        }
+      }
+      refreshRec(jakso_id, r_idx);
+      refreshCardHeader(jakso_id);
+      updateStats();
+    }
+    
+    showToast('✅ Vahvistettu oikeaksi ja tallennettu pysyvästi.');
   } catch (err) {
     console.error('Verify failed:', err);
     showToast('❌ Virhe: ' + err.message);
