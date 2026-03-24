@@ -10,6 +10,13 @@ cp "$SOURCE_JSON" "$TARGET_DIR/suositukset.json"
 # 2. Luo JS-versio (CORS-ohitusta varten)
 cat "$TARGET_DIR/suositukset.json" | sed '1s/^/window.SUOSITUKSET_DATA = /' | sed '$s/$/;/' > "$TARGET_DIR/suositukset.js"
 
+# 2.5 Päivitä myös admin/epailyttavat.js ja tyhjennä korjaukset
+EPAILYTTAVAT_JS="/Users/antero/.gemini/antigravity/scratch/validointidata/epailyttavat.js"
+if [ -f "$EPAILYTTAVAT_JS" ]; then
+    cp "$EPAILYTTAVAT_JS" "$TARGET_DIR/admin/epailyttavat.js"
+fi
+echo "[]" > "$TARGET_DIR/admin/korjaukset.json"
+
 # 3. Git-toimenpiteet
 cd "$TARGET_DIR"
 git add .
