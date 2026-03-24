@@ -1244,6 +1244,7 @@ function renderRec(jakso, rec) {
 
   <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
     ${isEdited || isSkipped ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
+    ${isSuspicious && !isEdited && !isSkipped ? `<button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">Vahvista oikeaksi</button>` : ''}
     <button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>
     <button class="action-btn btn-primary" id="save-rec-btn-${jakso.jakso_id}-${rec.r_idx}" onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>Päivitä</button>
   </div>
