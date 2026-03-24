@@ -44,37 +44,28 @@ def muotoile_claudella(commits):
     historia_str = "\n".join(f"- {c}" for c in commits)
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     
-    # Lokitetaan avaimen alku (turvallisesti) tyypin tunnistamiseksi
-    key_prefix = ANTHROPIC_API_KEY[:10] if ANTHROPIC_API_KEY else "PUUTTUU"
-    print(f"🔑 Käytetään avainta (alku): {key_prefix}...")
+    prompt = f"""Olet "Uutisraportti suosittelee" -verkkosivuston rento tiedottaja. 
+Koodari on tehnyt taustalla teknisiä päivityksiä. Sinun tehtäväsi on tiivistää nämä tavalliselle käyttäjälle ymmärrettävästi.
 
-    # Yritetään listata saatavilla olevat mallit (diagnostiikka)
-    try:
-        available_models = client.models.list()
-        print("💡 Saatavilla olevat mallit tilillesi:")
-        for m in available_models.data:
-            print(f"  - {m.id}")
-    except Exception as e:
-        print(f"⚠️ Mallien listaus epäonnistui: {e}")
+TYYLI JA MUOTO:
+1. Käytä RANSKALAISIA VIIVOJA (HTML: <ul> ja <li>).
+2. Pidä teksti LYHYENÄ ja ytimekkäänä.
+3. ÄLÄ paljasta tarkkaa arkkitehtuuria, mallinimiä (kuten Claude 4) tai kirjastojen versioita.
+4. Kuvaile tekniset muutokset abstraktisti (esim. "Parannettu automaatiota", "Päivitetty tekoälyä", "Varmistettu sovelluksen vakaus").
+5. Korosta käyttäjälle näkyvää hyötyä (jos sellaista on).
+6. Palauta VAIN validia HTML-koodia (pelkkä <ul>...</ul>), ei markdownia tai muuta tekstiä.
 
-    prompt = f"""Olet "Uutisraportti suosittelee" -verkkosivuston rento ja nörttihuumoria viljelevä tiedottaja. 
-Koodari on tehnyt taustalla teknisiä päivityksiä. Sinun tehtäväsi on tiivistää nämä ihmislukijalle YHTEEN TAI KAHTEEN LYHYEEN KAPPALEESEEN ymmärrettävästi ja humoristisesti, korostaen mitä siistiä "pellin alla" tapahtui verkkosivulle ja koko automaatiolle.
-Kirjoita validia, semanttisesti puhdasta HTML:ää. Käytä rohkeasti <strong>-tageja tärkeissä kohdissa. ÄLÄ LAITA mitään muuta kuin pelkkää HTML-asennettua tekstiä (kuten <p>jotain uutta...</p>). Älä sido sitä ylimääräisten elementtien sisään.
-
-Koodarin commitit:
+Koodarin tekniset commitit:
 {historia_str}
     """
 
     models_to_try = [
         "claude-sonnet-4-6",
-        "claude-haiku-4-5-20251001",
-        "claude-sonnet-4-5-20250929",
-        "claude-opus-4-1-20250805"
+        "claude-haiku-4-5-20251001"
     ]
     
     for model_name in models_to_try:
         try:
-            print(f"  - Yritetään mallia: {model_name}...")
             response = client.messages.create(
                 model=model_name,
                 max_tokens=800,
@@ -82,9 +73,10 @@ Koodarin commitit:
                 messages=[{"role": "user", "content": prompt}]
             )
             tulos = response.content[0].text.strip()
-            if tulos.startswith("```html"): tulos = tulos[7:]
-            elif tulos.startswith("```"): tulos = tulos[3:]
-            if tulos.endswith("```"): tulos = tulos[:-3]
+            # Puhdistus
+            tulos = re.sub(r'^```html\s*', '', tulos)
+            tulos = re.sub(r'^```\s*', '', tulos)
+            tulos = re.sub(r'\s*```$', '', tulos)
             return tulos.strip()
         except Exception as e:
             print(f"  ⚠️ Malli {model_name} epäonnistui: {e}")
@@ -105,14 +97,14 @@ def paivita_html(uusi_teksti):
         
     # Tarkistetaan, onko tälle päivälle jo tehty automaattipäivitys (vältetään tuplat)
     nykyinen_pvm = datetime.now().strftime("%d.%m.%Y")
-    if f"{nykyinen_pvm} | Tekoälyn katsaus" in sisalto:
+    if f"{nykyinen_pvm} | Automaattinen päivitys" in sisalto:
         print(f"⚠️ Muutosloki on jo päivitetty tänään ({nykyinen_pvm}). Hypätään yli.")
         return False
 
     uusi_html_lohkare = f'''
     <div class="change-item">
       <span class="version-tag">Automaattipäivitys</span>
-      <div class="change-date">{nykyinen_pvm} | Tekoälyn katsaus pellin alle</div>
+      <div class="change-date">{nykyinen_pvm} | Automaattinen päivitys</div>
       {uusi_teksti}
     </div>
 '''
@@ -122,7 +114,6 @@ def paivita_html(uusi_teksti):
     match = re.search(pattern, sisalto, re.IGNORECASE | re.DOTALL)
     
     if match:
-        print(f"✅ Löydettiin lisäyskohta: {match.group(1)[:50]}...")
         kohta = match.end()
         uusi_sisalto = sisalto[:kohta] + uusi_html_lohkare + sisalto[kohta:]
         
@@ -132,8 +123,6 @@ def paivita_html(uusi_teksti):
         return True
     else:
         print("❌ Virhe: Ei löydetty h1-tagia, jossa luki 'Muutosloki'.")
-        print("Tiedoston alkuosa viitteeksi:")
-        print(sisalto[:300])
         return False
 
 def main():
@@ -142,18 +131,14 @@ def main():
         return
         
     commits = hae_git_historia()
-    print(f"🔍 Löydettiin {len(commits)} huomioitavaa commitia.")
-    
     if not commits:
         print("ℹ️ Ei uusia teknisiä committeja listattavaksi.")
         return
         
-    print("🤖 Pyydetään Claudelta tiivistystä...")
+    print("🤖 Pyydetään Claudelta tiivistystä (käyttäjäystävällinen muoto)...")
     html_teksti = muotoile_claudella(commits)
     
     if html_teksti:
-        print("📝 Generoitu teksti:")
-        print(html_teksti[:100] + "...")
         paivita_html(html_teksti)
     else:
         print("❌ Virhe: Claude ei palauttanut tekstiä.")
