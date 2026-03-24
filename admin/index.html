@@ -904,6 +904,7 @@ function loadDataScriptAndInit() {
         const ohRes = await fetch('ohitukset.json?v=' + Date.now());
         if (ohRes.ok) {
           const ohitukset = await ohRes.json();
+          window.OHITUKSET = ohitukset;
           const ohSet = new Set(ohitukset.map(o => o.jakso_id + ':' + o.r_idx));
           DATA_SUSPICIOUS.forEach(jakso => {
             jakso.suositukset.forEach(rec => {
@@ -915,6 +916,33 @@ function loadDataScriptAndInit() {
         }
       } catch(e) { /* ohitukset.json ei vielä olemassa, ok */ }
       
+      // Lataa odottavat korjaukset (korjaukset.json)
+      try {
+        const korjRes = await fetch('korjaukset.json?v=' + Date.now());
+        if (korjRes.ok) {
+          const korjaukset = await korjRes.json();
+          window.KORJAUKSET = korjaukset;
+          
+          const korjMap = {};
+          korjaukset.forEach(k => {
+             korjMap[k.jakso_id + ':' + k.r_idx] = k;
+          });
+          
+          DATA_SUSPICIOUS.forEach(jakso => {
+             jakso.suositukset.forEach(rec => {
+               const pend = korjMap[jakso.jakso_id + ':' + rec.r_idx];
+               if (pend && pend.uusi_data) {
+                 Object.assign(rec, pend.uusi_data);
+                 rec.is_suspicious = false;
+               } else if (pend && pend.uusi_suosittelija) {
+                 rec.suosittelija = pend.uusi_suosittelija;
+                 rec.is_suspicious = false;
+               }
+             });
+          });
+        }
+      } catch(e) { }
+
       DATA = DATA_SUSPICIOUS;
       updateStats();
       renderList();
@@ -1023,7 +1051,18 @@ async function loadFullData() {
 // HELPERS (sama kuin aiemmin)
 // =====================================================
 function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
-function getCorr(jakso_id, r_idx) { return CORRECTIONS[corrKey(jakso_id, r_idx)]; }
+function getCorr(jakso_id, r_idx) { 
+  const k = corrKey(jakso_id, r_idx);
+  if (CORRECTIONS[k]) return CORRECTIONS[k]; 
+  
+  if (window.OHITUKSET) {
+    if (window.OHITUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) return { skipped: true, saved: true };
+  }
+  if (window.KORJAUKSET) {
+    if (window.KORJAUKSET.find(o => o.jakso_id === jakso_id && o.r_idx === r_idx)) return { is_edited: true, saved: true };
+  }
+  return null;
+}
 function setCorr(jakso_id, r_idx, val) { CORRECTIONS[corrKey(jakso_id, r_idx)] = val; updateStats(); updateSaveBtn(); }
 function totalRecs() { 
   if (mainView === 'suspicious') {
@@ -1219,6 +1258,7 @@ function renderRec(jakso, rec) {
   const c = getCorr(jakso.jakso_id, rec.r_idx);
   const isEdited = c && c.is_edited;
   const isSkipped = c && c.skipped;
+  const isSaved = c && c.saved;
   const isSuspicious = rec.is_suspicious;
   const participants = jakso.rss_osallistujat;
 
@@ -1272,9 +1312,10 @@ function renderRec(jakso, rec) {
   </div>
 
   <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
-    ${isEdited || isSkipped ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
+    ${isSaved ? `<div class="badge badge-ok" style="margin-right:auto">✓ Tallennettu GitHubiin</div>` : ''}
+    ${(isEdited || isSkipped) && !isSaved ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
     ${isSuspicious && !isEdited && !isSkipped ? `<button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">Vahvista oikeaksi</button>` : ''}
-    <button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>
+    ${!isSaved ? `<button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>` : ''}
     <button class="action-btn btn-primary" id="save-rec-btn-${jakso.jakso_id}-${rec.r_idx}" onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>Päivitä</button>
   </div>
 </div>`;
