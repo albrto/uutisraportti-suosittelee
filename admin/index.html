@@ -868,6 +868,9 @@ function logout() {
 // =====================================================
 // STATE
 // =====================================================
+let DATA = [];           // aktiivinen data (vaihtelee tilan mukaan)
+let DATA_SUSPICIOUS = null; // epailyttavat.js data
+let DATA_FULL = null;       // suositukset.json data (ladataan tarvittaessa)
 let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
 let currentFilter = 'all'; // 'all', 'open', 'done'
 let showMode = 'suspicious'; // 'suspicious' tai 'all'
@@ -883,12 +886,13 @@ function loadDataScriptAndInit() {
   // Hide login gate
   document.getElementById('login-gate').style.display = 'none';
 
-  // Load the script dynamically so it doesn't load until we pass the gate
+  // Load the validation script dynamically
   const script = document.createElement('script');
-  script.src = 'epailyttavat.js?v=' + Date.now(); // cache buster
+  script.src = 'epailyttavat.js?v=' + Date.now();
   script.onload = () => {
     if (window.VALIDATION_DATA) {
-      DATA = window.VALIDATION_DATA;
+      DATA_SUSPICIOUS = window.VALIDATION_DATA;
+      DATA = DATA_SUSPICIOUS;
       updateStats();
       renderList();
     } else {
@@ -907,6 +911,64 @@ function loadDataScriptAndInit() {
     `;
   };
   document.body.appendChild(script);
+}
+
+async function loadFullData() {
+  if (DATA_FULL) {
+    // Jo ladattu, käytä suoraan
+    DATA = DATA_FULL;
+    updateStats();
+    renderList();
+    return;
+  }
+  try {
+    document.getElementById('main-list').innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">⏳</div>
+        <h2>Ladataan koko tietokantaa...</h2>
+      </div>`;
+    const resp = await fetch('/suositukset.json?v=' + Date.now());
+    const allData = await resp.json();
+    
+    // Muunna suositukset.json admin-työkalun muotoon
+    DATA_FULL = allData.map((jakso, j_idx) => {
+      // Lisätään is_suspicious=false kaikille (täydessä näkymässä ei ole epäilyksiä)
+      const suositukset = (jakso.suositukset || []).map((rec, r_idx) => ({
+        r_idx: r_idx,
+        is_suspicious: false,
+        suosittelija: rec.suosittelija || '',
+        teos: rec.teos || '?',
+        paakategoria: rec.paakategoria || '',
+        kategoriat: rec.kategoriat || [],
+        kuvaus: rec.kuvaus || '',
+        google_linkki: rec.google_linkki || '',
+        lisatieto_linkki: rec.lisatieto_linkki || '',
+      }));
+      return {
+        j_idx: j_idx,
+        jakso_id: jakso.id,
+        jakso_otsikko: jakso.jakso_otsikko,
+        paivamaara: jakso.paivamaara || '?',
+        audio_url: '',
+        kesto_sek: 0,
+        kesto_str: '',
+        rss_osallistujat: [],
+        rss_kuvaus: '',
+        suositukset: suositukset,
+      };
+    });
+    DATA = DATA_FULL;
+    updateStats();
+    renderList();
+  } catch (err) {
+    console.error('Virhe ladattaessa suositukset.json:', err);
+    document.getElementById('main-list').innerHTML = `
+      <div class="empty">
+        <div class="empty-icon">❌</div>
+        <h2>Tietokannan lataus epäonnistui</h2>
+        <p>${err.message}</p>
+      </div>`;
+  }
 }
 
 // =====================================================
@@ -938,7 +1000,7 @@ function updateStats() {
 }
 
 function updateSaveBtn() {
-  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.suosittelija).length;
+  const n = Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.is_edited).length;
   document.getElementById('save-count').textContent = n;
 }
 
@@ -972,8 +1034,13 @@ function setShowMode(m) {
   showMode = m;
   document.getElementById('filter-suspicious').classList.toggle('active', m === 'suspicious');
   document.getElementById('filter-all-recs').classList.toggle('active', m === 'all');
-  renderList();
-  updateStats();
+  if (m === 'all') {
+    loadFullData();
+  } else {
+    DATA = DATA_SUSPICIOUS || [];
+    updateStats();
+    renderList();
+  }
 }
 
 document.getElementById('search').addEventListener('input', e => {
