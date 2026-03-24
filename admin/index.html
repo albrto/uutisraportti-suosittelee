@@ -816,15 +816,13 @@
     <span class="search-icon">🔍</span>
     <input type="text" id="search" placeholder="Hae jaksoa tai suosittelijaa..." />
   </div>
-  <button class="filter-btn active" id="filter-all" onclick="setFilter('all')">Kaikki</button>
-  <button class="filter-btn" id="filter-open" onclick="setFilter('open')">Avoimet</button>
-  <button class="filter-btn" id="filter-done" onclick="setFilter('done')">Korjatut</button>
+  <button class="filter-btn active" id="view-suspicious" onclick="setMainView('suspicious')">Vain epäilyttävät</button>
+  <button class="filter-btn" id="view-all" onclick="setMainView('all')">Kaikki</button>
+  <button class="filter-btn" id="view-corrected" onclick="setMainView('corrected')">Korjatut</button>
   <div style="display:flex; align-items:center; gap:8px; margin-left:auto;">
     <div class="progress-bar-wrap">
       <div class="progress-bar-fill" id="global-progress" style="width:0%"></div>
     </div>
-    <button class="filter-btn active" id="filter-suspicious" onclick="setShowMode('suspicious')">Vain epäilyttävät</button>
-    <button class="filter-btn" id="filter-all-recs" onclick="setShowMode('all')">Näytä kaikki</button>
     <div class="progress-info" id="progress-text">0 / 0</div>
   </div>
 </div>
@@ -872,8 +870,7 @@ let DATA = [];           // aktiivinen data (vaihtelee tilan mukaan)
 let DATA_SUSPICIOUS = null; // epailyttavat.js data
 let DATA_FULL = null;       // suositukset.json data (ladataan tarvittaessa)
 let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
-let currentFilter = 'all'; // 'all', 'open', 'done'
-let showMode = 'suspicious'; // 'suspicious' tai 'all'
+let mainView = 'suspicious'; // 'suspicious', 'all', 'corrected'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
 
@@ -1029,7 +1026,7 @@ function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
 function getCorr(jakso_id, r_idx) { return CORRECTIONS[corrKey(jakso_id, r_idx)]; }
 function setCorr(jakso_id, r_idx, val) { CORRECTIONS[corrKey(jakso_id, r_idx)] = val; updateStats(); updateSaveBtn(); }
 function totalRecs() { 
-  if (showMode === 'suspicious') {
+  if (mainView === 'suspicious') {
     return DATA.reduce((s, j) => s + j.suositukset.filter(r => r.is_suspicious).length, 0); 
   }
   return DATA.reduce((s, j) => s + j.suositukset.length, 0); 
@@ -1073,25 +1070,23 @@ function showToast(msg, duration = 2500) {
 // =====================================================
 // RENDER (sama kuin aiemmin)
 // =====================================================
-function setFilter(f) {
-  currentFilter = f;
-  document.getElementById('filter-all').classList.toggle('active', f === 'all');
-  document.getElementById('filter-open').classList.toggle('active', f === 'open');
-  document.getElementById('filter-done').classList.toggle('active', f === 'done');
-  renderList();
-}
-
-function setShowMode(m) {
-  showMode = m;
-  document.getElementById('filter-suspicious').classList.toggle('active', m === 'suspicious');
-  document.getElementById('filter-all-recs').classList.toggle('active', m === 'all');
-  if (m === 'all') {
-    loadFullData();
+function setMainView(view) {
+  mainView = view;
+  document.getElementById('view-suspicious').classList.toggle('active', view === 'suspicious');
+  document.getElementById('view-all').classList.toggle('active', view === 'all');
+  document.getElementById('view-corrected').classList.toggle('active', view === 'corrected');
+  
+  if (view === 'all' || view === 'corrected') {
+    if (!DATA_FULL || DATA_FULL.length === 0) {
+      loadFullData();
+      return;
+    }
+    DATA = DATA_FULL;
   } else {
     DATA = DATA_SUSPICIOUS || [];
-    updateStats();
-    renderList();
   }
+  updateStats();
+  renderList();
 }
 
 document.getElementById('search').addEventListener('input', e => {
@@ -1110,17 +1105,25 @@ function isJaksoResolved(jakso) {
 
 function renderList() {
   let filtered = DATA.filter(jakso => {
-    // Piilota jaksot joissa ei ole relevantteja suosituksia nykynäkymässä
-    if (showMode === 'suspicious') {
-      if (!jakso.suositukset.some(r => r.is_suspicious)) return false;
+    // 1. View filtering
+    if (mainView === 'suspicious') {
+      const hasUnresolved = jakso.suositukset.some(r => {
+        if (!r.is_suspicious) return false;
+        const c = getCorr(jakso.jakso_id, r.r_idx);
+        return !(c && (c.skipped || c.is_edited));
+      });
+      if (!hasUnresolved) return false;
+    } else if (mainView === 'corrected') {
+      const hasCorrection = jakso.suositukset.some(r => !!getCorr(jakso.jakso_id, r.r_idx));
+      if (!hasCorrection) return false;
     }
+
+    // 2. Search filtering
     if (currentSearch) {
       const hay = (jakso.jakso_otsikko + ' ' +
         jakso.suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
       if (!hay.includes(currentSearch)) return false;
     }
-    if (currentFilter === 'done') return isJaksoResolved(jakso);
-    if (currentFilter === 'open') return !isJaksoResolved(jakso);
     return true;
   });
 
@@ -1203,9 +1206,9 @@ function renderCard(jakso) {
       <strong>RSS-kuvaus:</strong> ${escHtml(jakso.rss_kuvaus || '–')}
     </div>
     <div class="recs-section">
-      <div class="recs-title">${showMode === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
+      <div class="recs-title">${mainView === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
       ${jakso.suositukset
-          .filter(r => showMode === 'all' || r.is_suspicious)
+          .filter(r => mainView !== 'suspicious' || r.is_suspicious)
           .map(rec => renderRec(jakso, rec)).join('')}
     </div>
   </div>
