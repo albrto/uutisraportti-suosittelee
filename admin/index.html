@@ -991,6 +991,10 @@ function isJaksoResolved(jakso) {
 
 function renderList() {
   let filtered = DATA.filter(jakso => {
+    // Piilota jaksot joissa ei ole relevantteja suosituksia nykynäkymässä
+    if (showMode === 'suspicious') {
+      if (!jakso.suositukset.some(r => r.is_suspicious)) return false;
+    }
     if (currentSearch) {
       const hay = (jakso.jakso_otsikko + ' ' +
         jakso.suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
