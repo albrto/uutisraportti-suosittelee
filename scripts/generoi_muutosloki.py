@@ -95,6 +95,13 @@ def paivita_html(uusi_teksti):
     with open(html_polku, 'r', encoding='utf-8') as f:
         sisalto = f.read()
         
+    # Etsi viimeisin versionumero diagnostiikkaa tai automaatiota varten
+    versio_match = re.search(r'<span class="version-tag">v(\d+)\.(\d+)\.(\d+)</span>', sisalto)
+    uusi_versio = "v1.2.0" # Oletus jos ei löydy
+    if versio_match:
+        major, minor, patch = map(int, versio_match.groups())
+        uusi_versio = f"v{major}.{minor + 1}.0"
+        
     # Tarkistetaan, onko tälle päivälle jo tehty automaattipäivitys (vältetään tuplat)
     nykyinen_pvm = datetime.now().strftime("%d.%m.%Y")
     if f"{nykyinen_pvm} | Automaattinen päivitys" in sisalto:
@@ -103,7 +110,7 @@ def paivita_html(uusi_teksti):
 
     uusi_html_lohkare = f'''
     <div class="change-item">
-      <span class="version-tag">Automaattipäivitys</span>
+      <span class="version-tag">{uusi_versio}</span>
       <div class="change-date">{nykyinen_pvm} | Automaattinen päivitys</div>
       {uusi_teksti}
     </div>
@@ -119,7 +126,7 @@ def paivita_html(uusi_teksti):
         
         with open(html_polku, 'w', encoding='utf-8') as f:
             f.write(uusi_sisalto)
-        print("🚀 Muutosloki tallennettu onnistuneesti!")
+        print(f"🚀 Muutosloki {uusi_versio} tallennettu onnistuneesti!")
         return True
     else:
         print("❌ Virhe: Ei löydetty h1-tagia, jossa luki 'Muutosloki'.")
