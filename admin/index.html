@@ -889,26 +889,9 @@ function loadDataScriptAndInit() {
   // Load the validation script dynamically
   const script = document.createElement('script');
   script.src = 'epailyttavat.js?v=' + Date.now();
-  script.onload = async () => {
+  script.onload = () => {
     if (window.VALIDATION_DATA) {
       DATA_SUSPICIOUS = window.VALIDATION_DATA;
-      
-      // Lataa ohitukset.json ja suodata pois jo vahvistetut
-      try {
-        const ohRes = await fetch('ohitukset.json?v=' + Date.now());
-        if (ohRes.ok) {
-          const ohitukset = await ohRes.json();
-          const ohSet = new Set(ohitukset.map(o => o.jakso_id + ':' + o.r_idx));
-          DATA_SUSPICIOUS.forEach(jakso => {
-            jakso.suositukset.forEach(rec => {
-              if (ohSet.has(jakso.jakso_id + ':' + rec.r_idx)) {
-                rec.is_suspicious = false;
-              }
-            });
-          });
-        }
-      } catch(e) { /* ohitukset.json ei vielä olemassa, ok */ }
-      
       DATA = DATA_SUSPICIOUS;
       updateStats();
       renderList();
