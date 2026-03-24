@@ -478,6 +478,11 @@
       transition: border-color 0.15s;
     }
 
+    .rec-item.suspicious-border {
+      border-color: rgba(245, 158, 11, 0.4);
+      box-shadow: inset 4px 0 0 var(--warn);
+    }
+
     .rec-item.resolved-rec {
       border-color: rgba(52,211,153,0.3);
       background: rgba(5,41,24,0.5);
@@ -818,7 +823,9 @@
     <div class="progress-bar-wrap">
       <div class="progress-bar-fill" id="global-progress" style="width:0%"></div>
     </div>
-    <span class="progress-info" id="progress-text">0 / 0</span>
+    <button class="filter-btn active" id="filter-suspicious" onclick="setShowMode('suspicious')">Vain epäilyttävät</button>
+    <button class="filter-btn" id="filter-all-recs" onclick="setShowMode('all')">Näytä kaikki</button>
+    <div class="progress-info" id="progress-text">0 / 0</div>
   </div>
 </div>
 
@@ -862,8 +869,8 @@ function logout() {
 // STATE
 // =====================================================
 let DATA = [];           // alkuperäinen data
-let CORRECTIONS = {};    // { "jakso_id:r_idx": { suosittelija: "...", skipped: false } }
-let currentFilter = 'all';
+let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
+let showMode = 'suspicious'; // 'suspicious' tai 'all'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
 
@@ -908,13 +915,22 @@ function loadDataScriptAndInit() {
 function corrKey(jakso_id, r_idx) { return `${jakso_id}:${r_idx}`; }
 function getCorr(jakso_id, r_idx) { return CORRECTIONS[corrKey(jakso_id, r_idx)]; }
 function setCorr(jakso_id, r_idx, val) { CORRECTIONS[corrKey(jakso_id, r_idx)] = val; updateStats(); updateSaveBtn(); }
-function totalRecs() { return DATA.reduce((s, j) => s + j.epailyttavat_suositukset.length, 0); }
-function resolvedRecs() { return Object.values(CORRECTIONS).filter(c => c && !c.skipped && c.suosittelija).length; }
+function totalRecs() { 
+  if (showMode === 'suspicious') {
+    return DATA.reduce((s, j) => s + j.suositukset.filter(r => r.is_suspicious).length, 0); 
+  }
+  return DATA.reduce((s, j) => s + j.suositukset.length, 0); 
+}
+function resolvedRecs() { 
+  return Object.values(CORRECTIONS).filter(c => c && !c.skipped).length; 
+}
 
 function updateStats() {
+  const total = totalRecs();
+  const resolved = resolvedRecs();
   document.getElementById('stat-jakso').innerHTML = `<strong>${DATA.length}</strong> jaksoa`;
-  document.getElementById('stat-rec').innerHTML = `<strong>${totalRecs()}</strong> suositusta`;
-  document.getElementById('stat-resolved').innerHTML = `<strong>${resolvedRecs()}</strong> korjattu`;
+  document.getElementById('stat-rec').innerHTML = `<strong>${total}</strong> suositusta`;
+  document.getElementById('stat-resolved').innerHTML = `<strong>${resolved}</strong> muokattu`;
 
   const pct = totalRecs() > 0 ? Math.round(resolvedRecs() / totalRecs() * 100) : 0;
   document.getElementById('global-progress').style.width = pct + '%';
@@ -944,11 +960,12 @@ function showToast(msg, duration = 2500) {
 // =====================================================
 // RENDER (sama kuin aiemmin)
 // =====================================================
-function setFilter(f) {
-  currentFilter = f;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  document.getElementById('filter-' + f).classList.add('active');
+function setShowMode(m) {
+  showMode = m;
+  document.getElementById('filter-suspicious').classList.toggle('active', m === 'suspicious');
+  document.getElementById('filter-all-recs').classList.toggle('active', m === 'all');
   renderList();
+  updateStats();
 }
 
 document.getElementById('search').addEventListener('input', e => {
@@ -957,9 +974,10 @@ document.getElementById('search').addEventListener('input', e => {
 });
 
 function isJaksoResolved(jakso) {
-  return jakso.epailyttavat_suositukset.every(rec => {
+  const recs = showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset;
+  return recs.every(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
-    return c && (c.skipped || c.suosittelija);
+    return c && (c.skipped || c.is_edited);
   });
 }
 
@@ -1008,9 +1026,9 @@ function renderCard(jakso, num) {
       <div class="episode-date">${jakso.paivamaara}</div>
       <div class="episode-title">${escHtml(jakso.jakso_otsikko)}</div>
       <div class="episode-badge-row">
-        ${resolved
-          ? `<span class="badge badge-ok">✓ Kaikki käsitelty</span>`
-          : `<span class="badge badge-warn">⚠️ ${n_open} auki</span>`}
+        ${n_open > 0
+          ? `<span class="badge badge-warn">⚠️ ${n_open} auki</span>`
+          : `<span class="badge badge-ok">✓ Valmis</span>`}
         ${jakso.rss_osallistujat.length > 0
           ? `<span class="badge badge-participants">📻 ${escHtml(jakso.rss_osallistujat.join(', '))}</span>`
           : ''}
@@ -1052,8 +1070,10 @@ function renderCard(jakso, num) {
       <strong>RSS-kuvaus:</strong> ${escHtml(jakso.rss_kuvaus || '–')}
     </div>
     <div class="recs-section">
-      <div class="recs-title">Epäilyttävät suositukset (${jakso.epailyttavat_suositukset.length} kpl)</div>
-      ${jakso.epailyttavat_suositukset.map(rec => renderRec(jakso, rec)).join('')}
+      <div class="recs-title">${showMode === 'suspicious' ? 'Epäilyttävät suositukset' : 'Kaikki suositukset'} (${jakso.suositukset.length} kpl)</div>
+      ${jakso.suositukset
+          .filter(r => showMode === 'all' || r.is_suspicious)
+          .map(rec => renderRec(jakso, rec)).join('')}
     </div>
   </div>
 </div>`;
@@ -1061,50 +1081,65 @@ function renderCard(jakso, num) {
 
 function renderRec(jakso, rec) {
   const c = getCorr(jakso.jakso_id, rec.r_idx);
-  const resolved = c && !c.skipped && c.suosittelija;
-  const skipped = c && c.skipped;
+  const isEdited = c && c.is_edited;
+  const isSkipped = c && c.skipped;
+  const isSuspicious = rec.is_suspicious;
   const participants = jakso.rss_osallistujat;
 
+  const currentRec = isEdited ? { ...rec, ...c.uusi_data } : rec;
+
   return `
-<div class="rec-item${resolved ? ' resolved-rec' : ''}${skipped ? ' skipped-rec' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
+<div class="rec-item${isEdited ? ' resolved-rec' : ''}${isSkipped ? ' skipped-rec' : ''}${isSuspicious && !isEdited && !isSkipped ? ' suspicious-border' : ''}" id="rec-${jakso.jakso_id}-${rec.r_idx}">
   <div class="rec-header">
-    <div class="rec-teos">${escHtml(rec.teos)}</div>
+    <div class="rec-teos">${isEdited ? `<span class="badge badge-ok" style="margin-right:8px">Muokattu</span>` : ''}${escHtml(currentRec.teos)}</div>
+    <div class="rec-category">${escHtml(currentRec.paakategoria)}</div>
   </div>
+  
+  ${isSuspicious && !isEdited && !isSkipped ? `
   <div class="rec-alert">
     <span class="rec-alert-icon">⚠️</span>
     <div class="rec-alert-text">Suosittelija <strong>"${escHtml(rec.suosittelija)}"</strong> ei löydy jakson RSS-osallistujista</div>
   </div>
-  ${resolved ? `
-    <div class="resolved-label">
-      ✅ Korjattu → <strong>${escHtml(c.suosittelija)}</strong>
-      <button class="skip-btn" style="margin-left:8px;" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>
+  ` : ''}
+
+  <div class="edit-grid" style="display:grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 10px;">
+    <div>
+      <label class="player-label" style="font-size:0.6rem">TEOS</label>
+      <input class="custom-input" type="text" id="edit-teos-${jakso.jakso_id}-${rec.r_idx}" value="${escAttr(currentRec.teos)}" oninput="markEdited('${jakso.jakso_id}',${rec.r_idx})">
     </div>
-  ` : skipped ? `
-    <div class="resolved-label" style="color:var(--text-dim)">
-      ⏭ Ohitettu
-      <button class="skip-btn" style="margin-left:8px;" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>
+    <div>
+      <label class="player-label" style="font-size:0.6rem">SUOSITTELIJA</label>
+      <div style="display:flex; gap:4px">
+        <input class="custom-input" type="text" id="edit-suo-${jakso.jakso_id}-${rec.r_idx}" value="${escAttr(currentRec.suosittelija)}" oninput="markEdited('${jakso.jakso_id}',${rec.r_idx})">
+        <select class="custom-input" style="width:auto; padding: 2px" onchange="document.getElementById('edit-suo-${jakso.jakso_id}-${rec.r_idx}').value=this.value; markEdited('${jakso.jakso_id}',${rec.r_idx})">
+          <option value="">Valitse...</option>
+          ${participants.map(p => `<option value="${escAttr(p)}">${escHtml(p)}</option>`).join('')}
+        </select>
+      </div>
     </div>
-  ` : `
-    <div class="rec-participants">
-      ${participants.map(p => `
-        <button class="participant-btn" id="pbtn-${jakso.jakso_id}-${rec.r_idx}-${encodeURIComponent(p)}"
-          onclick="selectParticipant('${jakso.jakso_id}',${rec.r_idx},'${escAttr(p)}',this)">
-          ${escHtml(p)}
-        </button>
-      `).join('')}
+    <div style="grid-column: span 2">
+      <label class="player-label" style="font-size:0.6rem">KUVAUS</label>
+      <textarea class="custom-input" id="edit-kuvaus-${jakso.jakso_id}-${rec.r_idx}" style="width:100%; height: 60px; resize: vertical;" oninput="markEdited('${jakso.jakso_id}',${rec.r_idx})">${escHtml(currentRec.kuvaus)}</textarea>
     </div>
-    <div class="rec-actions">
-      <input class="custom-input" type="text"
-        id="custominput-${jakso.jakso_id}-${rec.r_idx}"
-        placeholder="Tai kirjoita nimi vapaasti..."
-        oninput="customInputChange('${jakso.jakso_id}',${rec.r_idx},this)"
-        onkeydown="if(event.key==='Enter') confirmCorr('${jakso.jakso_id}',${rec.r_idx})" />
-      <button class="action-btn btn-primary" id="confirmbtn-${jakso.jakso_id}-${rec.r_idx}"
-        onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>Tallenna</button>
-      <button class="action-btn btn-verify" onclick="verifyCorrect('${jakso.jakso_id}',${rec.r_idx})">Vahvista oikeaksi</button>
-      <button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">Ohita</button>
+    <div>
+      <label class="player-label" style="font-size:0.6rem">PÄÄKATEGORIA</label>
+      <select class="custom-input" id="edit-paak-${jakso.jakso_id}-${rec.r_idx}" onchange="markEdited('${jakso.jakso_id}',${rec.r_idx})">
+        ${['kirja', 'elokuva', 'tv-sarja', 'podcast', 'artikkeli', 'musiikki', 'ruoka', 'kulttuuri', 'urheilu', 'muu'].map(cat => 
+          `<option value="${cat}" ${currentRec.paakategoria === cat ? 'selected' : ''}>${cat}</option>`
+        ).join('')}
+      </select>
     </div>
-  `}
+    <div>
+      <label class="player-label" style="font-size:0.6rem">TÄGIT (pilkulla erotettu)</label>
+      <input class="custom-input" type="text" id="edit-tagit-${jakso.jakso_id}-${rec.r_idx}" value="${escAttr((currentRec.kategoriat || []).join(', '))}" oninput="markEdited('${jakso.jakso_id}',${rec.r_idx})">
+    </div>
+  </div>
+
+  <div class="rec-actions" style="margin-top: 12px; justify-content: flex-end;">
+    ${isEdited || isSkipped ? `<button class="action-btn btn-skip" onclick="undoCorr('${jakso.jakso_id}',${rec.r_idx})">Kumoa</button>` : ''}
+    <button class="action-btn btn-skip" onclick="skipRec('${jakso.jakso_id}',${rec.r_idx})">${isSkipped ? 'Ohitettu' : 'Ohita'}</button>
+    <button class="action-btn btn-primary" id="save-rec-btn-${jakso.jakso_id}-${rec.r_idx}" onclick="confirmCorr('${jakso.jakso_id}',${rec.r_idx})" disabled>Päivitä</button>
+  </div>
 </div>`;
 }
 
@@ -1209,48 +1244,24 @@ function skipBy(jakso_id, delta) {
 
 let pendingSelections = {};
 
-function selectParticipant(jakso_id, r_idx, name, btn) {
-  const key = `${jakso_id}:${r_idx}`;
-  if (pendingSelections[key] === name) {
-    delete pendingSelections[key];
-    btn.classList.remove('selected');
-    const inp = document.getElementById(`custominput-${jakso_id}-${r_idx}`);
-    if (inp) inp.value = '';
-  } else {
-    document.querySelectorAll(`[id^="pbtn-${jakso_id}-${r_idx}-"]`).forEach(b => b.classList.remove('selected'));
-    pendingSelections[key] = name;
-    btn.classList.add('selected');
-    const inp = document.getElementById(`custominput-${jakso_id}-${r_idx}`);
-    if (inp) inp.value = name;
-  }
-  updateConfirmBtn(jakso_id, r_idx);
-}
-
-function customInputChange(jakso_id, r_idx, input) {
-  const key = `${jakso_id}:${r_idx}`;
-  pendingSelections[key] = input.value.trim();
-  document.querySelectorAll(`[id^="pbtn-${jakso_id}-${r_idx}-"]`).forEach(b => {
-    b.classList.remove('selected');
-    if (b.textContent.trim() === input.value.trim()) b.classList.add('selected');
-  });
-  updateConfirmBtn(jakso_id, r_idx);
-}
-
-function updateConfirmBtn(jakso_id, r_idx) {
-  const key = `${jakso_id}:${r_idx}`;
-  const btn = document.getElementById(`confirmbtn-${jakso_id}-${r_idx}`);
-  if (btn) btn.disabled = !pendingSelections[key];
+function markEdited(jakso_id, r_idx) {
+  const btn = document.getElementById(`save-rec-btn-${jakso_id}-${r_idx}`);
+  if (btn) btn.disabled = false;
 }
 
 function confirmCorr(jakso_id, r_idx) {
-  const key = `${jakso_id}:${r_idx}`;
-  const name = pendingSelections[key] || document.getElementById(`custominput-${jakso_id}-${r_idx}`)?.value?.trim();
-  if (!name) return;
-  setCorr(jakso_id, r_idx, { suosittelija: name });
-  delete pendingSelections[key];
+  const uusi_data = {
+    teos: document.getElementById(`edit-teos-${jakso_id}-${r_idx}`).value.trim(),
+    suosittelija: document.getElementById(`edit-suo-${jakso_id}-${r_idx}`).value.trim(),
+    kuvaus: document.getElementById(`edit-kuvaus-${jakso_id}-${r_idx}`).value.trim(),
+    paakategoria: document.getElementById(`edit-paak-${jakso_id}-${r_idx}`).value,
+    kategoriat: document.getElementById(`edit-tagit-${jakso_id}-${r_idx}`).value.split(',').map(s => s.trim()).filter(s => s)
+  };
+  
+  setCorr(jakso_id, r_idx, { is_edited: true, uusi_data: uusi_data });
   refreshRec(jakso_id, r_idx);
   refreshCardHeader(jakso_id);
-  showToast(`✅ Korjattu: ${name}`);
+  showToast(`✅ Päivitetty paikallisesti: ${uusi_data.teos}`);
 }
 
 function skipRec(jakso_id, r_idx) {
@@ -1328,17 +1339,16 @@ function refreshCardHeader(jakso_id) {
 function saveChanges() {
   const corrections = [];
   DATA.forEach(jakso => {
-    jakso.epailyttavat_suositukset.forEach(rec => {
+    jakso.suositukset.forEach(rec => {
       const c = getCorr(jakso.jakso_id, rec.r_idx);
-      if (c && !c.skipped && c.suosittelija) {
+      if (c && !c.skipped && c.is_edited) {
         corrections.push({
           jakso_id: jakso.jakso_id,
           jakso_otsikko: jakso.jakso_otsikko,
           paivamaara: jakso.paivamaara,
           r_idx: rec.r_idx,
-          vanha_suosittelija: rec.suosittelija,
-          uusi_suosittelija: c.suosittelija,
           teos: rec.teos,
+          uusi_data: c.uusi_data
         });
       }
     });

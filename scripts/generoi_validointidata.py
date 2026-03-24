@@ -163,8 +163,8 @@ def main():
             for o in json.load(f):
                 ohitukset_set.add((o.get("jakso_id", ""), o.get("r_idx", -1)))
 
-    # Ryhmittele epäilyttävät jakson mukaan
-    epailyttavat_jaksot = {}
+    # Ryhmittele jaksot ja suositukset (sisältäen normaalit ja epäilyttävät)
+    muokattavat_jaksot = {}
 
     for j_idx, jakso in enumerate(data):
         jakso_id = jakso["id"]
@@ -178,44 +178,54 @@ def main():
                     rss_info = rinfo
                     break
 
-        if not rss_info or not rss_info.get("osallistujat"):
-            continue
+        # Jos ei löydy RSS-infoa lainkaan, otetaan vain perusmalli suosituksista
+        rss_osallistujat = rss_info["osallistujat"] if rss_info else []
 
-        rss_osallistujat = rss_info["osallistujat"]
+        if jakso_id not in muokattavat_jaksot:
+            muokattavat_jaksot[jakso_id] = {
+                "j_idx": j_idx,
+                "jakso_id": jakso_id,
+                "jakso_otsikko": jakso_otsikko,
+                "paivamaara": jakso.get("paivamaara", "?"),
+                "audio_url": rss_info.get("audio_url", "") if rss_info else "",
+                "kesto_sek": rss_info.get("kesto_sek", 0) if rss_info else 0,
+                "kesto_str": rss_info.get("kesto_str", "") if rss_info else "",
+                "rss_osallistujat": rss_osallistujat,
+                "rss_kuvaus": rss_info.get("kuvaus", "") if rss_info else "",
+                "suositukset": [],
+            }
 
         for r_idx, rec in enumerate(jakso.get("suositukset", [])):
             suosittelija = rec.get("suosittelija", "")
-            if not suosittelija:
-                continue
-            if not loytyy(suosittelija, rss_osallistujat):
-                # Tarkista onko ohitettu
-                if (jakso_id, r_idx) in ohitukset_set:
-                    continue
-                # Tallenna jakso-avaimella
-                if jakso_id not in epailyttavat_jaksot:
-                    epailyttavat_jaksot[jakso_id] = {
-                        "j_idx": j_idx,
-                        "jakso_id": jakso_id,
-                        "jakso_otsikko": jakso_otsikko,
-                        "paivamaara": jakso.get("paivamaara", "?"),
-                        "audio_url": rss_info.get("audio_url", ""),
-                        "kesto_sek": rss_info.get("kesto_sek", 0),
-                        "kesto_str": rss_info.get("kesto_str", ""),
-                        "rss_osallistujat": rss_osallistujat,
-                        "rss_kuvaus": rss_info.get("kuvaus", ""),
-                        "epailyttavat_suositukset": [],
-                    }
-                epailyttavat_jaksot[jakso_id]["epailyttavat_suositukset"].append({
-                    "r_idx": r_idx,
-                    "suosittelija": suosittelija,
-                    "teos": rec.get("teos", "?"),
-                    "paakategoria": rec.get("paakategoria", ""),
-                    "kuvaus": rec.get("kuvaus", ""),
-                    "google_linkki": rec.get("google_linkki", ""),
-                })
+            
+            # Tarkistetaan onko tämä suositus epäilyttävä
+            is_suspicious = False
+            if rss_osallistujat and suosittelija:
+                if not loytyy(suosittelija, rss_osallistujat):
+                    if (jakso_id, r_idx) not in ohitukset_set:
+                        is_suspicious = True
+            
+            # Lisää kaikki suositukset listaan (oli ne epäilyttäviä tai ei)
+            # Rajoitetaan määrää hieman jos satoja, mutta tässä otetaan kaikki
+            muokattavat_jaksot[jakso_id]["suositukset"].append({
+                "r_idx": r_idx,
+                "is_suspicious": is_suspicious,
+                "suosittelija": suosittelija,
+                "teos": rec.get("teos", "?"),
+                "paakategoria": rec.get("paakategoria", ""),
+                "kategoriat": rec.get("kategoriat", []),
+                "kuvaus": rec.get("kuvaus", ""),
+                "google_linkki": rec.get("google_linkki", ""),
+                "lisatieto_linkki": rec.get("lisatieto_linkki", ""),
+            })
 
-    tuloslista = list(epailyttavat_jaksot.values())
+    # Suodatetaan vain ne jaksot, joissa on suosituksia
+    tuloslista = [j for j in muokattavat_jaksot.values() if j["suositukset"]]
+    
+    # Rajoitetaan tuloslistaa esim. viimeisiin 50 jaksoon, ettei tiedosto paisu liikaa
+    # Käyttäjän työn helpottamiseksi otetaan kuitenkin reilusti
     tuloslista.sort(key=lambda x: x["paivamaara"], reverse=True)
+    tuloslista = tuloslista[:100]  # Viimeiset 100 jaksoa riittää ylläpitoon
 
     os.makedirs(os.path.dirname(TULOS), exist_ok=True)
     with open(TULOS, "w", encoding="utf-8") as f:
@@ -228,7 +238,9 @@ def main():
         json.dump(tuloslista, f, ensure_ascii=False, indent=2)
         f.write(";\n")
 
-    print(f"✅ Generoitu {len(tuloslista)} jaksoa, yhteensä {sum(len(j['epailyttavat_suositukset']) for j in tuloslista)} epäilyttävää suositusta.")
+    print(f"✅ Generoitu {len(tuloslista)} jaksoa.")
+    n_epailyttavat = sum(sum(1 for r in j['suositukset'] if r['is_suspicious']) for j in tuloslista)
+    print(f"   Yhteensä {n_epailyttavat} epäilyttävää suositusta.")
     print(f"   Tiedosto: {TULOS}")
 
 

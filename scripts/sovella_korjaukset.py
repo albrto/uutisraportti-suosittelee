@@ -40,9 +40,7 @@ def main():
     for korj in korjaukset:
         jakso_id = korj["jakso_id"]
         r_idx = korj["r_idx"]
-        vanha = korj["vanha_suosittelija"]
-        uusi = korj["uusi_suosittelija"]
-
+        
         jakso = jakso_map.get(jakso_id)
         if not jakso:
             print(f"  ⚠️ Jaksoa ei löydy: {jakso_id} ({korj.get('jakso_otsikko', '?')})")
@@ -56,14 +54,27 @@ def main():
             continue
 
         rec = suositukset[r_idx]
-        nykyinen = rec.get("suosittelija", "")
-        if nykyinen != vanha:
-            print(f"  ⚠️ Odotettiin \"{vanha}\", löytyi \"{nykyinen}\" – OHITETAAN!")
-            virhe += 1
-            continue
+        
+        if "uusi_data" in korj:
+            uusi_data = korj["uusi_data"]
+            # Päivitä kaikki kentät uuden datan mukaisiksi
+            for k, v in uusi_data.items():
+                rec[k] = v
+            print(f"  ✅ {korj.get('paivamaara', '?')}: Päivitetty koko tietue: \"{rec.get('teos', '?')}\"")
+        else:
+            # Legacy / suosittelija-only mode
+            vanha = korj.get("vanha_suosittelija", "")
+            uusi = korj.get("uusi_suosittelija", "")
+            nykyinen = rec.get("suosittelija", "")
+            
+            if vanha and nykyinen != vanha:
+                print(f"  ⚠️ Odotettiin \"{vanha}\", löytyi \"{nykyinen}\" – OHITETAAN!")
+                virhe += 1
+                continue
 
-        rec["suosittelija"] = uusi
-        print(f"  ✅ {korj.get('paivamaara', '?')}: \"{vanha}\" → \"{uusi}\" ({korj.get('teos', '?')})")
+            rec["suosittelija"] = uusi
+            print(f"  ✅ {korj.get('paivamaara', '?')}: \"{vanha}\" → \"{uusi}\" ({rec.get('teos', '?')})")
+        
         ok += 1
 
     # Tallenna
