@@ -1,4 +1,4 @@
-window.VALIDATION_DATA = [
+[
   {
     "j_idx": 352,
     "jakso_id": "tag:soundcloud,2010:tracks/854839819",
@@ -1724,4 +1724,4 @@ window.VALIDATION_DATA = [
       }
     ]
   }
-];
+]
