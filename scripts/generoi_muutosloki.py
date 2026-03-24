@@ -60,17 +60,23 @@ Koodarin commitit:
         print(f"Claude-virhe (muutosloki): {e}")
         return None
 
+import re
+
 def paivita_html(uusi_teksti):
     html_polku = "muutokset.html"
     if not os.path.exists(html_polku):
-        print(f"Ei löydy tiedostoa {html_polku}, ei päivitetä.")
-        return
+        print(f"❌ Virhe: Tiedostoa {html_polku} ei löydy.")
+        return False
         
     with open(html_polku, 'r', encoding='utf-8') as f:
         sisalto = f.read()
         
+    # Tarkistetaan, onko tälle päivälle jo tehty automaattipäivitys (vältetään tuplat)
     nykyinen_pvm = datetime.now().strftime("%d.%m.%Y")
-    
+    if f"{nykyinen_pvm} | Tekoälyn katsaus" in sisalto:
+        print(f"⚠️ Muutosloki on jo päivitetty tänään ({nykyinen_pvm}). Hypätään yli.")
+        return False
+
     uusi_html_lohkare = f'''
     <div class="change-item">
       <span class="version-tag">Automaattipäivitys</span>
@@ -79,32 +85,46 @@ def paivita_html(uusi_teksti):
     </div>
 '''
     
-    # Etsi otsikon h1 loppu ja injektoi sen jälkeen
-    etsinta = '<h1 class="hero-title" style="text-align: left; margin-bottom: 40px;">Päivitykset & <span class="hero-accent">Muutosloki</span></h1>'
-    insertti_kohta = sisalto.find(etsinta)
-    if insertti_kohta > -1:
-        insertti_kohta += len(etsinta)
-        uusi_sisalto = sisalto[:insertti_kohta] + uusi_html_lohkare + sisalto[insertti_kohta:]
+    # Etsitään h1-tagi välittämättä välilyönneistä tai tarkasta sisällöstä
+    pattern = r'(<h1[^>]*>.*?Muutosloki.*?</h1>)'
+    match = re.search(pattern, sisalto, re.IGNORECASE | re.DOTALL)
+    
+    if match:
+        print(f"✅ Löydettiin lisäyskohta: {match.group(1)[:50]}...")
+        kohta = match.end()
+        uusi_sisalto = sisalto[:kohta] + uusi_html_lohkare + sisalto[kohta:]
+        
         with open(html_polku, 'w', encoding='utf-8') as f:
             f.write(uusi_sisalto)
-        print("✅ Muutosloki päivitetty!")
+        print("🚀 Muutosloki tallennettu onnistuneesti!")
         return True
-    return False
+    else:
+        print("❌ Virhe: Ei löydetty h1-tagia, jossa luki 'Muutosloki'.")
+        print("Tiedoston alkuosa viitteeksi:")
+        print(sisalto[:300])
+        return False
 
 def main():
     if not ANTHROPIC_API_KEY:
-        print("Ei Claude-avainta muutoslokia varten, hypätään yli.")
+        print("❌ Virhe: ANTHROPIC_API_KEY puuttuu.")
         return
         
     commits = hae_git_historia()
+    print(f"🔍 Löydettiin {len(commits)} huomioitavaa commitia.")
+    
     if not commits:
-        print("Ei uusia committeja uutisoitavaksi muutoslokiin.")
+        print("ℹ️ Ei uusia teknisiä committeja listattavaksi.")
         return
         
-    print(f"Generoidaan muutoslokia {len(commits)} commitin pohjalta...")
+    print("🤖 Pyydetään Claudelta tiivistystä...")
     html_teksti = muotoile_claudella(commits)
+    
     if html_teksti:
+        print("📝 Generoitu teksti:")
+        print(html_teksti[:100] + "...")
         paivita_html(html_teksti)
+    else:
+        print("❌ Virhe: Claude ei palauttanut tekstiä.")
 
 if __name__ == "__main__":
     main()
