@@ -1,37 +1,5 @@
 window.SUOSITUKSET_DATA = [
   {
-    "id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
-    "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
-    "paivamaara": "19.3.2026",
-    "suositukset": [
-      {
-        "teos": "En yksin Putinia vastaan (Mr. Nobody Against Putin)",
-        "paakategoria": "elokuva",
-        "google_linkki": "https://www.google.com/search?q=Mr+Nobody+Against+Putin+dokumentti",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mr+Nobody+Against+Putin",
-        "kuvaus": "Dokumentti venäläisestä videokuvaajasta Pavel Lankista, joka suhtautuu kriittisesti Putiniin ja joutuu kuvaamaan propagandatunteja pienessä venäläisessä koulussa hyökkäyssodan alettua. Kylmäävä kuvaus siitä, miten isänmaallinen propaganda levisi nopeasti kaikkialle Venäjällä. Katsottavissa Areenassa.",
-        "suosittelija": "Jussi Niemeläinen",
-        "kategoriat": [
-          "dokumentti",
-          "Venäjä",
-          "sota"
-        ]
-      },
-      {
-        "teos": "Moraalinen kunnianhimo",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Moraalinen+kunnianhimo+Rutger+Bregman",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Rutger+Bregman",
-        "kuvaus": "Hollantilaisen historioitsija Rutger Bregmanin teos, joka käsittelee sitä, mihin lahjakkaat ja kunnianhimoiset ihmiset käyttävät aikansa. Kirja saarnaa toiminnan puolesta tiedostamisen sijaan ja haastaa lukijan miettimään omia valintojaan – someaktivismi ei Bregmanin mukaan riitä.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "tietokirja",
-          "etiikka",
-          "yhteiskunta"
-        ]
-      }
-    ]
-  },
   {
     "id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
     "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
