@@ -80,7 +80,7 @@ def paivita_html(uusi_teksti):
 '''
     
     # Etsi otsikon h1 loppu ja injektoi sen jälkeen
-    etsinta = '<h1 class="hero-title" style="text-align: left; margin-bottom: 40px;">Päivitykset & <span class="hero-accent">Muutokset</span></h1>'
+    etsinta = '<h1 class="hero-title" style="text-align: left; margin-bottom: 40px;">Päivitykset & <span class="hero-accent">Muutosloki</span></h1>'
     insertti_kohta = sisalto.find(etsinta)
     if insertti_kohta > -1:
         insertti_kohta += len(etsinta)
