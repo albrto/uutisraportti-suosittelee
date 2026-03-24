@@ -893,6 +893,15 @@ function loadDataScriptAndInit() {
     if (window.VALIDATION_DATA) {
       DATA_SUSPICIOUS = window.VALIDATION_DATA;
       
+      // Sortataan julkaisupäivän mukaan (uusin ensin), koska DD.MM.YYYY on hankala sortata pythonissa pelkkänä merkkijonona
+      DATA_SUSPICIOUS.sort((a, b) => {
+        const pa = a.paivamaara.split('.');
+        const pb = b.paivamaara.split('.');
+        const da = new Date(pa[2], pa[1] - 1, pa[0]);
+        const db = new Date(pb[2], pb[1] - 1, pb[0]);
+        return db.getTime() - da.getTime();
+      });
+      
       // Lataa ohitukset.json ja suodata pois jo vahvistetut
       try {
         const ohRes = await fetch('ohitukset.json?v=' + Date.now());
