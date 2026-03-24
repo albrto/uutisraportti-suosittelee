@@ -4353,7 +4353,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia-Berner",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Céline Dion – esiintyminen Pariisin olympialaisten avajaisissa 2024",
         "paakategoria": "musiikki",
         "kategoriat": [
