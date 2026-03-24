@@ -868,8 +868,8 @@ function logout() {
 // =====================================================
 // STATE
 // =====================================================
-let DATA = [];           // alkuperäinen data
 let CORRECTIONS = {};    // { "jakso_id:r_idx": { ...uudet_kentat... } }
+let currentFilter = 'all'; // 'all', 'open', 'done'
 let showMode = 'suspicious'; // 'suspicious' tai 'all'
 let currentSearch = '';
 let activeAudio = null;  // tällä hetkellä auki oleva Audio-objekti
@@ -960,6 +960,15 @@ function showToast(msg, duration = 2500) {
 // =====================================================
 // RENDER (sama kuin aiemmin)
 // =====================================================
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  const btnId = f === 'all' ? 'filter-all' : (f === 'open' ? 'filter-open' : 'filter-done');
+  const btn = document.getElementById(btnId);
+  if (btn) btn.classList.add('active');
+  renderList();
+}
+
 function setShowMode(m) {
   showMode = m;
   document.getElementById('filter-suspicious').classList.toggle('active', m === 'suspicious');
@@ -985,7 +994,7 @@ function renderList() {
   let filtered = DATA.filter(jakso => {
     if (currentSearch) {
       const hay = (jakso.jakso_otsikko + ' ' +
-        jakso.epailyttavat_suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
+        jakso.suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
       if (!hay.includes(currentSearch)) return false;
     }
     if (currentFilter === 'done') return isJaksoResolved(jakso);
@@ -1005,14 +1014,13 @@ function renderList() {
     return;
   }
 
-  container.innerHTML = filtered.map((jakso, i) => renderCard(jakso, i + 1)).join('');
+  container.innerHTML = filtered.map((jakso, i) => renderCard(jakso)).join('');
 }
 
-function renderCard(jakso, num) {
-  const resolved = isJaksoResolved(jakso);
-  const n_open = jakso.epailyttavat_suositukset.filter(r => {
-    const c = getCorr(jakso.jakso_id, r.r_idx);
-    return !c || (!c.skipped && !c.suosittelija);
+function renderCard(jakso) {
+  const n_open = jakso.suositukset.filter(rec => {
+    const c = getCorr(jakso.jakso_id, rec.r_idx);
+    return !(c && (c.skipped || c.is_edited));
   }).length;
 
   const startSek = Math.max(0, jakso.kesto_sek - 900);
@@ -1307,7 +1315,7 @@ async function verifyCorrect(jakso_id, r_idx) {
 function refreshRec(jakso_id, r_idx) {
   const jakso = DATA.find(j => j.jakso_id === jakso_id);
   if (!jakso) return;
-  const rec = jakso.epailyttavat_suositukset.find(r => r.r_idx === r_idx);
+  const rec = jakso.suositukset.find(r => r.r_idx === r_idx);
   if (!rec) return;
   const el = document.getElementById(`rec-${jakso_id}-${r_idx}`);
   if (el) el.outerHTML = renderRec(jakso, rec);
@@ -1318,20 +1326,22 @@ function refreshCardHeader(jakso_id) {
   if (!jakso) return;
   const card = document.getElementById('card-' + jakso_id);
   if (!card) return;
-  const resolved = isJaksoResolved(jakso);
-  if (resolved) card.classList.add('resolved');
-  else card.classList.remove('resolved');
-  
-  const n_open = jakso.epailyttavat_suositukset.filter(r => {
-    const c = getCorr(jakso.jakso_id, r.r_idx);
-    return !c || (!c.skipped && !c.suosittelija);
+  const n_open = (showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset).filter(rec => {
+    const c = getCorr(jakso.jakso_id, rec.r_idx);
+    return !(c && (c.skipped || c.is_edited));
   }).length;
+  
   const badgeRow = card.querySelector('.episode-badge-row');
   if (badgeRow) {
     const first = badgeRow.firstElementChild;
     if (first) {
-      first.className = resolved ? 'badge badge-ok' : 'badge badge-warn';
-      first.textContent = resolved ? '✓ Kaikki käsitelty' : `⚠️ ${n_open} auki`;
+      if (n_open > 0) {
+        first.className = 'badge badge-warn';
+        first.innerHTML = `⚠️ ${n_open} auki`;
+      } else {
+        first.className = 'badge badge-ok';
+        first.innerHTML = `✓ Valmis`;
+      }
     }
   }
 }
