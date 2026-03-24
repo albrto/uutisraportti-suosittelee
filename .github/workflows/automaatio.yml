@@ -10,6 +10,8 @@ on:
 jobs:
   run-automation:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Lataa repositorio
@@ -41,10 +43,15 @@ jobs:
       - name: 4. Lähetä raportti sähköpostitse Netlify Formsin kautta
         run: python scripts/laheta_ilmoitus.py
         
-      - name: 5. Commitoi tulokset takaisin GitHubiin (josta Netlify julkaisee ne)
+      - name: 5. Generoi automaattinen muutosloki
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generoi_muutosloki.py
+        
+      - name: 6. Commitoi tulokset takaisin GitHubiin (josta Netlify julkaisee ne)
         run: |
           git config --global user.name 'GitHub Actions Automaatio'
           git config --global user.email 'actions@github.com'
-          git add suositukset.json historia_json.txt admin/epailyttavat.json admin/epailyttavat.js admin/korjaukset.json || true
+          git add suositukset.json historia_json.txt admin/epailyttavat.json admin/epailyttavat.js admin/korjaukset.json muutokset.html || true
           git commit -m "Automaatio: Uudet suositukset ja validointidata" || echo "Ei uutta commitoitavaa"
           git push
