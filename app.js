@@ -228,9 +228,11 @@ function renderCard(rec) {
       <div class="rec-desc">${escapeHtml(rec.kuvaus || '')}</div>
       <div class="rec-meta">
         <div class="rec-recommender">${escapeHtml(rec.suosittelija || 'Ei varmuutta')}</div>
-        <div class="rec-tags">${tags}</div>
       </div>
-      ${links ? `<div class="rec-links">${links}</div>` : ''}
+      <div class="rec-footer">
+        ${links ? `<div class="rec-links">${links}</div>` : '<div></div>'}
+        ${tags ? `<div class="rec-tags">${tags}</div>` : ''}
+      </div>
     </div>`;
 }
 
