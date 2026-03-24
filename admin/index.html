@@ -1049,8 +1049,9 @@ document.getElementById('search').addEventListener('input', e => {
 });
 
 function isJaksoResolved(jakso) {
-  const recs = showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset;
-  return recs.every(rec => {
+  const suspiciousRecs = jakso.suositukset.filter(r => r.is_suspicious);
+  if (suspiciousRecs.length === 0) return true; // ei epäilyttäviä = valmis
+  return suspiciousRecs.every(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
     return c && (c.skipped || c.is_edited);
   });
@@ -1089,8 +1090,9 @@ function renderList() {
 
 function renderCard(jakso) {
   const resolved = isJaksoResolved(jakso);
-  const recs = showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset;
-  const n_open = recs.filter(rec => {
+  // "Auki"-laskuri: lasketaan vain epäilyttävät, ei kaikkia normaaleja suosituksia
+  const suspiciousRecs = jakso.suositukset.filter(r => r.is_suspicious);
+  const n_open = suspiciousRecs.filter(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
     return !(c && (c.skipped || c.is_edited));
   }).length;
@@ -1145,7 +1147,7 @@ function renderCard(jakso) {
         </div>
       </div>
     </div>
-    ` : `<div class="rss-kuvaus">⚠️ Ei audio-URL:ta tälle jaksolle.</div>`}
+    ` : (jakso.kesto_sek > 0 ? `<div class="rss-kuvaus">⚠️ Ei audio-URL:ta tälle jaksolle.</div>` : '')}
     <div class="rss-kuvaus">
       <strong>RSS-kuvaus:</strong> ${escHtml(jakso.rss_kuvaus || '–')}
     </div>
@@ -1398,7 +1400,8 @@ function refreshCardHeader(jakso_id) {
   if (!jakso) return;
   const card = document.getElementById('card-' + jakso_id);
   if (!card) return;
-  const n_open = (showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset).filter(rec => {
+  const suspiciousRecs = jakso.suositukset.filter(r => r.is_suspicious);
+  const n_open = suspiciousRecs.filter(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
     return !(c && (c.skipped || c.is_edited));
   }).length;
