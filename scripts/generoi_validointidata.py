@@ -222,10 +222,7 @@ def main():
     # Suodatetaan vain ne jaksot, joissa on suosituksia
     tuloslista = [j for j in muokattavat_jaksot.values() if j["suositukset"]]
     
-    # Rajoitetaan tuloslistaa esim. viimeisiin 50 jaksoon, ettei tiedosto paisu liikaa
-    # Käyttäjän työn helpottamiseksi otetaan kuitenkin reilusti
     tuloslista.sort(key=lambda x: x["paivamaara"], reverse=True)
-    tuloslista = tuloslista[:100]  # Viimeiset 100 jaksoa riittää ylläpitoon
 
     os.makedirs(os.path.dirname(TULOS), exist_ok=True)
     with open(TULOS, "w", encoding="utf-8") as f:

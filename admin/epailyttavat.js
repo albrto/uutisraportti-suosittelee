@@ -6347,5 +6347,15635 @@ window.VALIDATION_DATA = [
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Hello+World+Hannah+Fry"
       }
     ]
+  },
+  {
+    "j_idx": 299,
+    "jakso_id": "tag:soundcloud,2010:tracks/1096272514",
+    "jakso_otsikko": "29.7.2021: Rokotepassit, Simone Biles, työllisyysaste",
+    "paivamaara": "29.7.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/4b73897e-f45a-4e3b-b81d-221ebe8ffb65.mp3",
+    "kesto_sek": 3205,
+    "kesto_str": "53:25",
+    "rss_osallistujat": [
+      "Emil Elo",
+      "Joakim Westrén-Doll"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Emil Elo, Hilla Körkkö ja Joakim Westrén-Doll keskustelevat rokotepassien mahdollisesta käyttöönotosta, telinevoimistelija Simone Bilesista sekä Suomen työllisyysasteesta. \n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä ta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Hilla Körkkä",
+        "teos": "Katriina Pajarin Instagram (Tokion olympialaiset)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "urheilu",
+          "olympialaiset",
+          "sosiaalinen media"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittaja Katriina Pajari seuraa Tokion olympialaisia ja jakaa kulissien takaista materiaalia Instagramissaan yhdessä valokuvaaja Sami Keron ja toimittaja Ari Pusan kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Katriina+Pajari+Instagram+Tokio+olympialaiset",
+        "lisatieto_linkki": "https://www.instagram.com/katriina.pajari/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Hilla Körkkä",
+        "teos": "Linnanmäki",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "huvipuisto",
+          "kesä",
+          "Helsinki"
+        ],
+        "kuvaus": "Helsinkiläinen huvipuisto Linnanmäki, jonne kannattaa mennä koulujen alettua, jolloin jonot ovat lyhyemmät. Kesän klassikkokäynti.",
+        "google_linkki": "https://www.google.com/search?q=Linnanmäki+Helsinki",
+        "lisatieto_linkki": "https://www.linnanmaki.fi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Ichiro Suzuki -henkilökuva",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "urheilu",
+          "baseball",
+          "henkilökuva"
+        ],
+        "kuvaus": "Mestarillinen feature-henkilökuva japanilaisesta baseball-tähdestä Ichiro Suzukista, joka käsittelee urheilijan identiteettiä ja sitä, mitä tapahtuu kun koko elämä on rakentunut yhden asian varaan.",
+        "google_linkki": "https://www.google.com/search?q=Ichiro+Suzuki+henkilökuva+baseball+urheilu+identiteetti",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ichiro+Suzuki+feature+profile+baseball"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Suomi Billi (Remarkably Bright Creatures)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "esikoiskirja",
+          "amerikkalainen kirjallisuus"
+        ],
+        "kuvaus": "Amerikkalaisen eläintieteilijän 72-vuotiaana kirjoittama esikoisromaani, josta tuli bestseller Yhdysvalloissa. Poikkeuksellisen kauniisti kirjoitettu teos, joka sai lukijan ihastumaan lausetasolla.",
+        "google_linkki": "https://www.google.com/search?q=Remarkably+Bright+Creatures+Shelby+Van+Pelt+suomi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Remarkably+Bright+Creatures"
+      }
+    ]
+  },
+  {
+    "j_idx": 202,
+    "jakso_id": "tag:soundcloud,2010:tracks/1552777555",
+    "jakso_otsikko": "29.6.2023: Venäjä, Junnila, graffiti",
+    "paivamaara": "29.6.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/9f1bd285-b393-437a-a769-060abd1e5d4e.mp3",
+    "kesto_sek": 3514,
+    "kesto_str": "58:34",
+    "rss_osallistujat": [
+      "Joona Aaltonen",
+      "Matilda Jokinen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina ovat Venäjä ja Jevgeni Prigožinin kapina, elinkeinoministeri Vilhelm Junnilan natsivihjailut ja Helsingin apulaispormestari Paavo Arhinmäen graffiti.\n\nStudiossa kesätiimiin kuuluvat Venla Kuokkanen, Joona Aaltonen ja Matilda Jokinen. Jakson leikkasi Tuukka Lindholm.\n\nLue podcastista lisää tästä jutusta: https://www.hs.fi/politiikka/art-2000009685625.html\n\nPodcast toim",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Indiana Jones ja kohtalonpyörä",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "seikkailu",
+          "toiminta"
+        ],
+        "kuvaus": "Uusin Indiana Jones -elokuva, jota Matilda odottaa innolla. Historiaa rakastava professori seikkailee aarteiden perässä tuttuun tapaan.",
+        "google_linkki": "https://www.google.com/search?q=Indiana+Jones+ja+kohtalonpyörä",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Indiana+Jones+and+the+Dial+of+Destiny"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Vankilakokeilu Skandinavian malliin (dokumentti)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "vankila",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Kolmiosainen dokumentti Yle Areenassa, joka kertoo yhdysvaltalaisesta vankilasta, jossa on otettu oppia Ruotsin ja Skandinavian vankilanhoidosta. Rinnastaa karut amerikkalaiset vankilaolot pohjoismaiseen malliin.",
+        "google_linkki": "https://www.google.com/search?q=vankilakokeilu+Skandinavian+malliin+dokumentti+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=vankilakokeilu+skandinavian+malliin"
+      }
+    ]
+  },
+  {
+    "j_idx": 43,
+    "jakso_id": "2a47db7e-b4fc-40b5-ad1c-3445b467c189",
+    "jakso_otsikko": "Pelkoa Kiovassa, Bidenin sairauspiilottelu ja ylioppilaskirjoitukset",
+    "paivamaara": "29.5.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/2a47db7e-b4fc-40b5-ad1c-3445b467c189.mp3",
+    "kesto_sek": 4006,
+    "kesto_str": "01:06:46",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla podcastissa kuullaan, miltä Venäjän moukarointi ihan konkreettisesti tuntui yöllä kiovalaisessa kerrostalossa. Keskustellaan myös kohukirjasta, joka valottaa Joe Bidenin sairauden piilottelua hänen presidenttikautensa lopussa. Lisäksi käväistään boomer-osastolla fiilistelemässä ylioppilaskirjoituksia ja Anu-Elina kertoo, miksi hän päätti haastaa poikansa äikän kirjoituksissa. Stu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Ihmisiä, vuosia, elämää",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "historia",
+          "Neuvostoliitto"
+        ],
+        "kuvaus": "Ilja Ehrenburgin muistelmateos, jossa hän käy retrospektiivisesti läpi elämänsä Kiovassa, Pariisissa ja Moskovassa. Kirja kuvaa elävästi 1900-luvun alun historiallisia henkilöitä, kuten Leniniä.",
+        "google_linkki": "https://www.google.com/search?q=Ihmisi%C3%A4+vuosia+el%C3%A4m%C3%A4%C3%A4+Ilja+Ehrenburg",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ihmisi%C3%A4+vuosia+el%C3%A4m%C3%A4%C3%A4"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Useful Work versus Useless Toil",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "essee",
+          "sosialismi",
+          "työelämä"
+        ],
+        "kuvaus": "William Morrisin 1800-luvun essee, joka käsittelee hyvän työn, levon ja ilon merkitystä. Resonoi vahvasti nykyajan tietotyöläisen arkeen ja kysymyksiin siitä, mikä tekee työstä tarpeellista ja merkityksellistä.",
+        "google_linkki": "https://www.google.com/search?q=Useful+Work+versus+Useless+Toil+William+Morris",
+        "lisatieto_linkki": "https://www.google.com/search?q=Useful+Work+versus+Useless+Toil+William+Morris+full+text"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Likainen somesota",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "sosiaalinen media",
+          "journalismi"
+        ],
+        "kuvaus": "Pekka Mykkäsen kirja Riikka Purran rasismikohun ympärillä käydystä somesodasta, perussuomalaisten aggressiivisesta viestintäkulttuurista ja yhteiskunnallisen keskustelun myrkyttymisestä. Teos avaa ohjelmallista some-manipulaatiota suomalaisessa politiikassa.",
+        "google_linkki": "https://www.google.com/search?q=Likainen+somesota+Pekka+Mykk%C3%A4nen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Likainen+somesota+Pekka+Mykk%C3%A4nen"
+      }
+    ]
+  },
+  {
+    "j_idx": 312,
+    "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
+    "jakso_otsikko": "29.4.2021: Keskustan arvoton sirkus, EU:n elvytyspaketin kohtalo, jea",
+    "paivamaara": "29.4.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/4c8a84fb-b1ff-46c7-b06b-320f9b143226/1039086244-uutisraportti-2942021-keskustan-arvoton-sirkus-eun-e.mp3",
+    "kesto_sek": 3875,
+    "kesto_str": "01:04:35",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Teemu Muhonen keskustelevat lähinnä keskustasta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  aika",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sooley",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "urheilu",
+          "amerikka"
+        ],
+        "kuvaus": "John Grishamin uusi kirja, joka kertoo eteläsudanilaisesta nuoresta koripalloilijasta, joka saa stipendin amerikkalaiseen kouluun. Marko Junkkari luki kirjaa puoleen yöhön asti ja suosittelee lämpimästi.",
+        "google_linkki": "https://www.google.com/search?q=Sooley+John+Grisham",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sooley+John+Grisham"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Line of Duty",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliisisarja",
+          "thrilleri",
+          "brittiläinen"
+        ],
+        "kuvaus": "Brittiläinen poliisisarja, jossa tutkitaan poliisin sisäistä korruptiota. Kuudes kausi tulossa Ylelle toukokuun alkupuolella. Erittäin hyvin käsikirjoitettu ja koukuttava.",
+        "google_linkki": "https://www.google.com/search?q=Line+of+Duty+TV+series",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Line+of+Duty"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Umbrella Academy",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "supersankari",
+          "netflix",
+          "fantasia"
+        ],
+        "kuvaus": "Netflixin supersankarisarja, jota on verrattu Game of Thronesiin intensiivisyytensä ja mielettömien cliffhangeriensa vuoksi. Kaksi kautta saatavilla.",
+        "google_linkki": "https://www.google.com/search?q=Umbrella+Academy+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Umbrella+Academy"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Super Context podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kulttuuri",
+          "media",
+          "sarjakuva"
+        ],
+        "kuvaus": "Lopetettu mediapodcast, jossa graafikko ja kirjastonhoitaja pureutuvat merkittävien kulttuuriteosten – kirjojen, elokuvien ja sarjakuvien – syntyhistoriaan ja taustoihin. Kaksisataa jaksoa, joista jokainen sisältää myös uuden suosituksen.",
+        "google_linkki": "https://www.google.com/search?q=Super+Context+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Super%20Context%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 171,
+    "jakso_id": "tag:soundcloud,2010:tracks/1761187194",
+    "jakso_otsikko": "29.2.2024: Gaza sirpaloi politiikkaa, rkp, kulttuuriskandaalit",
+    "paivamaara": "29.2.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/a3a67d13-3ea9-458a-934c-9f11c6ad4bd1.mp3",
+    "kesto_sek": 4714,
+    "kesto_str": "01:18:34",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa keskustellaan Gazan tilanteesta ja varsinkin siitä, miten se repii hallituksia ja politiikkaa rikki muissa maissa. Lisäksi keskustelussa rkp:n puheenjohtajakisailu ja suomalaiset kultturiskandaalit.\nStudiossa Tuomas Peltomäki, Marko Junkkari, Salla Vuorikoski ja Anni Keski-Heikkilä. \nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraporttipod.\n\nLue",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Think Twice (podcast Michael Jacksonista)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "musiikki",
+          "dokumentti",
+          "etiikka"
+        ],
+        "kuvaus": "Podcast, joka kertoo Michael Jacksonin tarinan ja pohtii samalla kysymystä siitä, miten suhtautua artistiin, jota on syytetty seksuaalisesta hyväksikäytöstä. Suosittelijan mukaan auttoi selventämään suhdetta Michael Jacksoniin.",
+        "google_linkki": "https://www.google.com/search?q=Think+Twice+podcast+Michael+Jackson",
+        "lisatieto_linkki": "https://open.spotify.com/search/Think%20Twice%20Michael%20Jackson%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Merriam-Webster: Word of the Day",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kieli",
+          "oppiminen",
+          "englanti"
+        ],
+        "kuvaus": "Sanakirjayhtiö Merriam-Websterin lyhyt päivittäinen podcast, jossa esitellään yksi englanninkielinen sana, sen käyttöyhteydet ja historia. Alle minuutin mittainen jakso sopii aamurutiiniin.",
+        "google_linkki": "https://www.google.com/search?q=Merriam-Webster+Word+of+the+Day+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Merriam-Webster%20Word%20of%20the%20Day"
+      }
+    ]
+  },
+  {
+    "j_idx": 227,
+    "jakso_id": "tag:soundcloud,2010:tracks/1412326084",
+    "jakso_otsikko": "29.12.2022: Vuosikatsaus 2022",
+    "paivamaara": "29.12.2022",
+    "audio_url": "https://podcasts.captivate.fm/media/55c0af83-be32-4ecf-ab78-352edfa09d14/1412326084-uutisraportti-29122022-vuosikatsaus.mp3",
+    "kesto_sek": 2685,
+    "kesto_str": "44:45",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat vuoden 2022 tärkeimpinä pitämistään tai jollakin tapaa eniten mieleen jääneistä tapahtumista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten i",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Mr. 1001 (Herra ykkönen)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "ruotsalainen kirjallisuus",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Ruotsalaisen dekkaristin Jens Lapiduksen uusi kirja, joka kuvaa viihdyttävällä tavalla Ruotsin maahanmuuttajalähiöiden varjoyhteiskuntaa ja väkivallan kasvua.",
+        "google_linkki": "https://www.google.com/search?q=Jens+Lapidus+Mr+1001",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jens+Lapidus+Mr+1001"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "The Rest Is History",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "brittiläinen",
+          "sivistys"
+        ],
+        "kuvaus": "Brittiläinen historiapodcast, jossa Tom Holland ja Dominic Sandbrook käyvät läpi historiallisia tapahtumia viihdyttävällä ja sivistyneellä otteella. Erittäin suositeltava.",
+        "google_linkki": "https://www.google.com/search?q=The+Rest+Is+History+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History"
+      }
+    ]
+  },
+  {
+    "j_idx": 336,
+    "jakso_id": "tag:soundcloud,2010:tracks/919661269",
+    "jakso_otsikko": "29.10.2020: Trump–Biden 2020, this is it baby!",
+    "paivamaara": "29.10.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/5a71367c-48d9-4c35-a274-3c98421ae78e/919661269-uutisraportti-29102020-trumpbiden-2020-this-is-it-baby.mp3",
+    "kesto_sek": 3179,
+    "kesto_str": "52:59",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner, Laura Saarikoski ja Marko Junkkari keskustelevat pelkästään Yhdysvaltain presidentinvaaleista. Mitkä ovat viimeisen viikon tunnelmat, mitä Trumpin kaoottinen kausi tarkoittaa äänestyksen kannalta, mitä oikeastaan edustaa ehdokas Joe Biden?\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja ana",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Schitt's Creek",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "sitcom",
+          "kanada"
+        ],
+        "kuvaus": "Kanadalainen komediasarja, jossa rikas perhe menettää omaisuutensa ja joutuu muuttamaan pieneen Schitt's Creek -nimiseen kaupunkiin. Voitti useita Emmy-palkintoja viimeisellä kaudellaan.",
+        "google_linkki": "https://www.google.com/search?q=Schitt%27s+Creek",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Schitt%27s+Creek"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Stuff to Blow Your Mind",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "filosofia",
+          "tiede",
+          "esoteerisuus"
+        ],
+        "kuvaus": "Podcast, joka käsittelee esoteerisia ja hämäriä aiheita, kuten Roko's Basilisk -ajatusharjoitusta. Suositellaan filosofiasta ja kummista ideoista kiinnostuneille.",
+        "google_linkki": "https://www.google.com/search?q=Stuff+to+Blow+Your+Mind+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Stuff%20to%20Blow%20Your%20Mind"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "A Spy Among Friends",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "vakoilu",
+          "narratiivinen historia"
+        ],
+        "kuvaus": "Ben Macintyre'n kirja brittivakooja Kim Philbystä, joka toimi kolmekymmentä vuotta kaksoisagenttina välittäen tietoja Neuvostoliitolle. Narratiivinen historiakuvaus Cambridgen vakoilijaporukasta ja petoksesta.",
+        "google_linkki": "https://www.google.com/search?q=A+Spy+Among+Friends+Ben+Macintyre",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Spy+Among+Friends+Ben+Macintyre"
+      }
+    ]
+  },
+  {
+    "j_idx": 7,
+    "jakso_id": "63e724c9-43cc-42ce-824c-6c5a41358027",
+    "jakso_otsikko": "SDP:n kulttuuri ja kuohunta, luokka-Suomi, Minnesota",
+    "paivamaara": "29.1.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/63e724c9-43cc-42ce-824c-6c5a41358027.mp3",
+    "kesto_sek": 4345,
+    "kesto_str": "01:12:25",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Hanna Havusto",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski ja Anna-Sofia Berner keskustelevat politiikan toimituksen esihenkilön Hanna Mahlamäen kanssa Sdp:n ympärillä kuohuvasta ahdistelu- ja häirintäskandaalista. Lisäksi keskustellaan HS:n jutusta joka käsitteli tapauksia joissa poliisi ei toiminut henkilön suojaamiseksi ennen tämän surmaa; ja vielä lyhyesti Minnesotasta, jossa Trumpin ICE-m",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Landman",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "komedia",
+          "amerikka"
+        ],
+        "kuvaus": "Tv-sarja Oklahomasta, jossa Billy Bob Thornton esittää paikallista toimittajaa, joka alkaa selvittää mahtisuvun konnantekojen ja epäilyttävän kuoleman salaisuuksia. Koominen pohjavire ja antisankarihahmo tekevät siitä viihdyttävää katsottavaa.",
+        "google_linkki": "https://www.google.com/search?q=Landman+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Landman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "The Wolf of Wall Street",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "talous"
+        ],
+        "kuvaus": "Martin Scorsesen ohjaama tositarinaan perustuva elokuva Jordan Belfortista, pörssimekklarista joka rikastui huijauksilla ja eli yltäkylläistä elämää ennen kuin pahuus sai palkkansa. Leonardo DiCaprio loistaa pääosassa.",
+        "google_linkki": "https://www.google.com/search?q=The+Wolf+of+Wall+Street+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Wolf+of+Wall+Street"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Good Traitor",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historia",
+          "geopolitiikka",
+          "toinen maailmansota"
+        ],
+        "kuvaus": "Vuonna 2020 valmistunut tanskalainen elokuva Tanskan USA:n suurlähettilääs Henrik Kaufmanista, joka toisen maailmansodan aikana julistautui vapaan Tanskan edustajaksi ja neuvotteli omavaltaisesti Grönlannin sotilasoikeuksista Rooseveltille.",
+        "google_linkki": "https://www.google.com/search?q=The+Good+Traitor+2020+tanskalainen+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Good+Traitor"
+      }
+    ]
+  },
+  {
+    "j_idx": 190,
+    "jakso_id": "tag:soundcloud,2010:tracks/1627527729",
+    "jakso_otsikko": "28.9.2023: Yliopistovaltaus, Inkerin kirkko, Nuorisourheilu",
+    "paivamaara": "28.9.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/bea19792-01a3-4ea5-898d-185c51ac0ebc.mp3",
+    "kesto_sek": 4608,
+    "kesto_str": "01:16:48",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tommi Nieminen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina opiskelijoiden yliopistovaltaukset ja jatkuvasti kiristyvä työmarkkinatilanne. Lisäksi ihmtellään sitä, miksi suomalaiset konservatiiviset papit käyvät hakemassa pappisvihkimyksen rajan takaa Inkerin kirkolta. Kolmantena aiheena paneudutaan siihen, onko mitään järkeä siinä, että harrastuksiin lastaan vievä isä nukkuu jäähallin parkkipaikalla.\nStudiossa Marko Junkka",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Lempipodi-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "ihmissuhteet",
+          "viihde",
+          "Taylor Swift"
+        ],
+        "kuvaus": "Julien ja Elinan pitämä podcast, joka käsittelee suhde- ja ihmissuhde-asioita. Muun muassa Taylor Swift -jaksoissa käydään läpi artistin eksät ja pohditaan, miten julkisuus vaikuttaa ihmissuhteisiin.",
+        "google_linkki": "https://www.google.com/search?q=Lempipodi+podcast+Julia+Elina",
+        "lisatieto_linkki": "https://open.spotify.com/search/Lempipodi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Veden varaan",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "suomalainen rap",
+          "hip-hop",
+          "2000-luku"
+        ],
+        "kuvaus": "PMPmiesin vuonna 2009 julkaistu levy, jonka Tommi Nieminen suosittelee kuuntelemaan uudelleen PMP-kohun keskellä. Hänen mukaansa se on 'ihan törkeän kova levy'.",
+        "google_linkki": "https://www.google.com/search?q=PMPmies+Veden+varaan+2009",
+        "lisatieto_linkki": "https://open.spotify.com/search/PMPmies%20Veden%20varaan"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Super Pumped: The Battle for Uber",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "bisnes",
+          "startup",
+          "teknologia"
+        ],
+        "kuvaus": "Mike Isaacin kirja Uberin synkästä tarinasta: miten yhtiön perustaja kohteli sijoittajia, kilpailijoita ja työntekijöitä, sekä millainen kyseenalainen yrityskulttuuri startup-jättiläisen taustalla piilee.",
+        "google_linkki": "https://www.google.com/search?q=Super+Pumped+The+Battle+for+Uber+Mike+Isaac",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Super+Pumped+The+Battle+for+Uber"
+      }
+    ]
+  },
+  {
+    "j_idx": 30,
+    "jakso_id": "21f6ad2d-0338-4a46-a37a-b092b87343f0",
+    "jakso_otsikko": "Paha rahatilanne, Keskisarjan show, lasten puhelimet",
+    "paivamaara": "28.8.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/21f6ad2d-0338-4a46-a37a-b092b87343f0.mp3",
+    "kesto_sek": 5451,
+    "kesto_str": "01:30:51",
+    "rss_osallistujat": [
+      "Teemu Muhonen"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Salla keskustelevat Suomen talouden tilanteesta, joka on ollut kaikkien huulilla nyt kun budjettiriihi käynnistyy ensi viikolla. Lisäksi aiheeksi valikoitui eilen keskiviikkona A-Studiossa melkoista mölinää pitänyt Teemu Keskisarja, ja lopuksi vielä keskustellaan vanhempien reaktiosta lasten kännykättömyyteen kouluissa sekä EU:n uudesta tiukemmasta laps",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "The Darkest Hour",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historia",
+          "toinen maailmansota",
+          "poliittinen draama"
+        ],
+        "kuvaus": "Gary Oldmanin tähdittämä elokuva Winston Churchillistä ja hänen kamppailustaan miellyttämispolitiikan ja Hitlerin vastaisen taistelun välillä. Oldmanin muodonmuutos on käsittämätön.",
+        "google_linkki": "https://www.google.com/search?q=The+Darkest+Hour+2017+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Darkest+Hour+2017"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Jussi Halla-aho – elämäkerta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "elämäkerta",
+          "perussuomalaiset"
+        ],
+        "kuvaus": "Markku Heikkilän kirjoittama Jussi Halla-ahon elämäkerta, jossa Halla-aho kertoo itsestään ehkä enemmän kuin yleensä. Aktorisoitu elämäkerta, jossa kohde oli mukana kirjan teossa.",
+        "google_linkki": "https://www.google.com/search?q=Jussi+Halla-aho+elämäkerta+Markku+Heikkilä",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jussi+Halla-aho+Markku+Heikkilä"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ville Itälä – elämäkerta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "elämäkerta",
+          "kokoomus"
+        ],
+        "kuvaus": "Pauli Komsin kirjoittama semi-omaelämäkerrallinen teos Ville Itälästä, 2000-luvun alun kokoomuksen puheenjohtajasta. Perustuu pitkälti vuonna 2003 tehtyihin julkaisemattomiin taustahaastatteluihin ja kuvaa raadollisesti puoluejohtajan työn rankkuutta.",
+        "google_linkki": "https://www.google.com/search?q=Ville+Itälä+elämäkerta+Pauli+Komsi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ville+Itälä+Pauli+Komsi"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Plain English -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "The Atlanticin toimittajan pitämä podcast, joka käsittelee tekoälyä ja teknologiaa selkeästi. Muun muassa jakso, jossa pohditaan kirjoittamisen katoamista ajattelun välineenä tekoälyn myötä.",
+        "google_linkki": "https://www.google.com/search?q=Plain+English+podcast+The+Atlantic",
+        "lisatieto_linkki": "https://open.spotify.com/search/Plain%20English%20podcast"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Dwarkesh Podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "Silicon Valley"
+        ],
+        "kuvaus": "24-vuotiaan Dwarkesh Patelin pitämä podcast, jossa vierailevat Silicon Valleyn huippunimet kuten Mark Zuckerberg. Syvällistä ja älykästä keskustelua tekoälyn tulevaisuudesta.",
+        "google_linkki": "https://www.google.com/search?q=Dwarkesh+Podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Dwarkesh%20Podcast"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Memos to the President -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "geopolitiikka",
+          "teknologia"
+        ],
+        "kuvaus": "Eric Schmidtin (entinen Googlen toimitusjohtaja) perustaman Special Competitive Studies Project -organisaation podcast. Tiivistää jokaisesta aiheesta – tekoälystä, kvanttitietokoneista, Kiinasta – minimissään sen, mitä USA:n presidentin tulisi tietää.",
+        "google_linkki": "https://www.google.com/search?q=Memos+to+the+President+podcast+Eric+Schmidt",
+        "lisatieto_linkki": "https://open.spotify.com/search/Memos%20to%20the%20President%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 249,
+    "jakso_id": "tag:soundcloud,2010:tracks/1313434396",
+    "jakso_otsikko": "28.7.2022: Sunak & Truss, venäläisten viisumit ja paikallislehdet",
+    "paivamaara": "28.7.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/098283eb-6ebb-4a3e-b276-328fb8f9cdd4.mp3",
+    "kesto_sek": 4646,
+    "kesto_str": "01:17:26",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Ilmo Ilkka",
+      "Inkeri Harju",
+      "Joona Aaltonen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Inkeri Harju, Joona Aaltonen ja Ilmo Ilkka keskustelevat Britannian kahdesta pääministeriehdokkaasta, venäläisten turistiviisumeista Suomeen ja paikallislehti Loviisan Sanomien vastauksesta K-kauppiaan vaikutusyritykseen.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät u",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "How Civil Wars Start – Barbara F. Walter",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "yhteiskunta",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Barbara Walterin teos, jossa hän soveltaa Yhdysvaltain viranomaistyökaluja sisällissotien ennustamiseen – tällä kertaa Yhdysvaltoihin itseensä. Herättänyt kohua alarmistisena mutta myös totuudenmukaisena.",
+        "google_linkki": "https://www.google.com/search?q=How+Civil+Wars+Start+Barbara+Walter",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=How+Civil+Wars+Start+Barbara+Walter"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Stepa – uusi levy",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "räp",
+          "suomalainen musiikki",
+          "hip-hop"
+        ],
+        "kuvaus": "Suomalaisen räppäri Stepan tuore levy, jossa on kauniisti käytetty suomen kieltä. Sisältää muun muassa biisin 'Oulu' Oulu-henkisille kuuntelijoille.",
+        "google_linkki": "https://www.google.com/search?q=Stepa+räppäri+uusi+levy+2022",
+        "lisatieto_linkki": "https://open.spotify.com/search/Stepa%20r%C3%A4pp%C3%A4ri"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Hamilton – saksankielinen versio (Hampuri)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "musikaali",
+          "teatteri",
+          "historia"
+        ],
+        "kuvaus": "Lin-Manuel Mirandan Hamilton-musikaalista tehdään saksankielinen versio, jota esitetään Hampurissa syksystä 2022 alkaen. Suosittelija kehottaa lähtemään katsomaan sitä paikan päälle.",
+        "google_linkki": "https://www.google.com/search?q=Hamilton+musikaali+Hampuri+saksa",
+        "lisatieto_linkki": "https://www.google.com/search?q=Hamilton+Musical+Hamburg+deutsch"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Politiikka-Suomi – audiohenkilökuvat (podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "dokumentti",
+          "Suomi"
+        ],
+        "kuvaus": "Dokumenttisarja Politiikka-Suomen haastatteluihin pohjautuvat audiohenkilökuvat eri poliitikoista. Erityisesti jo politiikasta vetäytyneiden poliitikkojen rehellinen puhe tekee sarjasta kiinnostavan.",
+        "google_linkki": "https://www.google.com/search?q=Politiikka-Suomi+audiohenkilökuvat+podcast",
+        "lisatieto_linkki": "https://supla.fi/search?q=Politiikka-Suomi"
+      }
+    ]
+  },
+  {
+    "j_idx": 308,
+    "jakso_id": "tag:soundcloud,2010:tracks/1057300072",
+    "jakso_otsikko": "28.5.2021: Valko-Venäjä ei piittaa,Marinin aamiainen kertoo Suomesta,perintätoimistot rikkovat lakia",
+    "paivamaara": "28.5.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/37753ccb-9c9e-4d44-8af8-6504ec093a6d.mp3",
+    "kesto_sek": 3440,
+    "kesto_str": "57:20",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tommi Nieminen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Maria Manner",
+        "teos": "Systeemin murskaaja",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "lastensuojelu",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Yle Areenassa saatavilla oleva elokuva, joka kertoo lastensuojelujärjestelmästä. Maria Manner suosittelee katsomaan sen nopeasti ennen kuin se poistuu.",
+        "google_linkki": "https://www.google.com/search?q=Systeemin+murskaaja+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Systemsprenger"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Plot",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "trilleri",
+          "kirjallisuusmaailma"
+        ],
+        "kuvaus": "Jean Hanff Korelitzin kirjoittama amerikkalainen trilleri, jossa epäonnistunut kirjailija varastaa kuolleen oppilaansa ainutlaatuisen juonirakenteen ja nousee maailmankuuluksi – kunnes joku alkaa epäillä plagiointia.",
+        "google_linkki": "https://www.google.com/search?q=Plot+Jean+Hanff+Korelitz+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Plot+Jean+Hanff+Korelitz"
+      }
+    ]
+  },
+  {
+    "j_idx": 357,
+    "jakso_id": "tag:soundcloud,2010:tracks/829844563",
+    "jakso_otsikko": "28.5.2020: EU:n koronamiljardit, ravintolat ja lentokentät Suomessa, Trump vs. Twitter",
+    "paivamaara": "28.5.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/38920c4c-641b-4d44-99a2-4373e9589002.mp3",
+    "kesto_sek": 4624,
+    "kesto_str": "01:17:04",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat EU:n jäsenmailtaan keräämästä 750 miljardista eurosta, joka on pääasiallinen ase horisontissa kurkkivaa lamaa vastaan, ja suomalaisten ravintoloiden ja lentovuorojen oikeudesta tukeen kriisiaikoina, sekä Trumpin ja Twitterin faktantarkastus-gatesta.\nPitkien, epämukavien hiljaisuuksien varalle Marko suositt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Le Bureau des Légendes (Vakoiluverkosto)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "vakoilu",
+          "draama",
+          "ranskalainen"
+        ],
+        "kuvaus": "Ranskalainen vakoilusarja, joka käsittelee identiteettiä ja ihmisyyttä toiminnan sijaan. Marko katsoi seitsemän jaksoa kolmessa päivässä.",
+        "google_linkki": "https://www.google.com/search?q=Le+Bureau+des+L%C3%A9gendes",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Le+Bureau+des+Legendes"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "The Upshot -kolumni (New York Times, Thomas Edsall)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "yhteiskunta",
+          "journalismi"
+        ],
+        "kuvaus": "New York Timesin kolumnisti Thomas Edsallin säännöllinen kolumni, jossa hän kokoaa tutkijoiden näkemyksiä ajankohtaisista yhteiskunnallisista kysymyksistä. Hyvä lääke yhteiskuntatieteen kaipuuseen.",
+        "google_linkki": "https://www.google.com/search?q=New+York+Times+The+Upshot+Thomas+Edsall+column",
+        "lisatieto_linkki": "https://www.google.com/search?q=New+York+Times+The+Upshot+Thomas+Edsall+column"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Wind of Change",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "tiedustelu",
+          "musiikki"
+        ],
+        "kuvaus": "Kahdeksanosainen Spotify-podcast, joka tutkii kysymystä siitä, oliko Scorpionsin kuuluisa kappale Wind of Change CIA:n ujuttama propagandabiisi Neuvostoliittoon. Avaa laajemman maailman tiedustelupalvelujen kulttuurivaikuttamisesta.",
+        "google_linkki": "https://www.google.com/search?q=Wind+of+Change+podcast+Spotify",
+        "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 262,
+    "jakso_id": "tag:soundcloud,2010:tracks/1258577011",
+    "jakso_otsikko": "28.4.2022: Venäjän kaasuaseen imeminen, Musk, TP Niinistön sairastuminen",
+    "paivamaara": "28.4.2022",
+    "audio_url": "https://podcasts.captivate.fm/media/fdb3b472-b051-4803-a9f6-8b46ad4ae66f/1258577011-uutisraportti-2842022-venajan-kaasuaseen-imeminen-mu.mp3",
+    "kesto_sek": 4360,
+    "kesto_str": "01:12:40",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat Venäjän käyttämästä kaasuaseesta ja sen aiheuttamista välittömistä polvilleen lankeamisista, Elon Muskin Twitter-ostosta, ja tasavallan presidentti Niinistön kuumottavasta sairastumisesta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärke",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Borgen (kausi 3)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "politiikka",
+          "draama",
+          "tanskalainen"
+        ],
+        "kuvaus": "Tanskalainen poliittinen draama, jonka kolmas kausi palaa naispääministerin tarinaan 15 vuoden tauon jälkeen. Suosittelija kehuu sarjan poliittisten mekanismien kuvausta, mutta varoittaa pienestä pettymyksestä verrattuna alkukausiin.",
+        "google_linkki": "https://www.google.com/search?q=Borgen+kausi+3",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Borgen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Julia",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "ruoka",
+          "historiallinen draama",
+          "naishenkilö"
+        ],
+        "kuvaus": "HBO:n sarja Julia Childistä, joka kertoo kuinka amerikkalainen kokkiikoni pyrki läpimurtoon miehiseen televisiomaailmaan. Laadukas lavastus, kaunis rakkausstory ja ajankuva 1960-luvun Amerikasta.",
+        "google_linkki": "https://www.google.com/search?q=Julia+HBO+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Julia+2022+HBO"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Kitchen Wise (Keys to Good Cooking)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "keittokirja",
+          "ruokatiede",
+          "kokkaus"
+        ],
+        "kuvaus": "Keittokirja, joka selittää ruoanlaiton tieteelliset perusteet tavalliselle kotikokille ilman liiallista kemian jargonia. Askel tai kaksi peruskeittokirjaa ylöspäin.",
+        "google_linkki": "https://www.google.com/search?q=Keys+to+Good+Cooking+J.+Kenji+Lopez-Alt",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Keys+to+Good+Cooking"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "We Own This City",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "David Simon"
+        ],
+        "kuvaus": "David Simonin uusi HBO-sarja. Suosittelija mainitsee sen ohimennen The Wiren tekijän uutena teoksena, mutta ei ole itse vielä nähnyt sitä.",
+        "google_linkki": "https://www.google.com/search?q=We+Own+This+City+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=We+Own+This+City"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Crypto Island",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kryptovaluutta",
+          "talous",
+          "tutkiva journalismi"
+        ],
+        "kuvaus": "PJ Vogtin podcast-sarja, joka tutkii kryptovaluuttamaailmaa ja sen henkilöitä. Lähtökohtana on viraalinen mainosvideo, jossa kryptomiljonäärit ostavat yksityisen saaren kryptohengaajille.",
+        "google_linkki": "https://www.google.com/search?q=Crypto+Island+podcast+PJ+Vogt",
+        "lisatieto_linkki": "https://open.spotify.com/search/Crypto%20Island%20PJ%20Vogt"
+      }
+    ]
+  },
+  {
+    "j_idx": 168,
+    "jakso_id": "tag:soundcloud,2010:tracks/1786586266",
+    "jakso_otsikko": "28.3.2024: Suomalaiset r i p, sepitysgate, Yellow film",
+    "paivamaara": "28.3.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/afaac859-4090-4b0d-9056-8a45e2b1f782.mp3",
+    "kesto_sek": 5326,
+    "kesto_str": "01:28:46",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheena häkellyttävät uudet laskelmat, joiden mukaan suomalaisia on reilun sadan vuoden päästä noin miljoona – ja siitä seurannut syntyvyyskeskustelu; Aamulehden veteraanitoimittaja Matti Kuuselan jutuista noussut sepityskohu, ja Yellow Filmin huono työilmapiiri. \n\nStudiossa Tuomas Peltomäki, Anna-Sofia Berner ja Salla Vuorikoski. \n\nJaksoon liittyviä linkkejä:\nJuttu, josta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Serious Problems (Ski-rious Problems)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "hiihto",
+          "urheilu",
+          "urheilijapodcast"
+        ],
+        "kuvaus": "Englanninkielinen hiihtopodcast, jota pitävät hiihtäjät Mika Vermeulen ja James Clugnet. Podcastissa käsitellään hiihtoa sisäpiirin näkökulmasta, mukaan lukien suomalainen hiihto ja Suomen hiihtoliiton rahavaikeudet.",
+        "google_linkki": "https://www.google.com/search?q=Ski-rious+Problems+podcast+Mika+Vermeulen+James+Clugnet",
+        "lisatieto_linkki": "https://open.spotify.com/search/Ski-rious%20Problems"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Vapaaehtoisesti lapseton",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "lapsettomuus",
+          "henkilökohtaiset tarinat"
+        ],
+        "kuvaus": "HS:n toimittajan Heini Maksimaisen kirja, joka käsittelee vapaaehtoisesti lapsettomia ihmisiä. Kirja sisältää tiedettä ja kymmeniä henkilökohtaisia tarinoita terävästi kirjoitettuna, ottamatta kantaa kirjoittajan omaan tilanteeseen.",
+        "google_linkki": "https://www.google.com/search?q=Heini+Maksimainen+Vapaaehtoisesti+lapseton+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Vapaaehtoisesti+lapseton+Heini+Maksimainen"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "3 Body Problem",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "scifi",
+          "Netflix",
+          "kiinalainen kirjallisuus"
+        ],
+        "kuvaus": "Game of Thronesin tekijöiden David Benioffin ja D.B. Weissin Netflix-sarja, joka perustuu Liu Cixin kiinalaiseen scifi-kirjasarjaan. Sarjassa tutkitaan mystistä ilmiötä, jossa huippufyysikot ympäri maailman alkavat nähdä näkökentässään nollaan tikittävän numerosarjan.",
+        "google_linkki": "https://www.google.com/search?q=3+Body+Problem+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=3+Body+Problem"
+      }
+    ]
+  },
+  {
+    "j_idx": 416,
+    "jakso_id": "tag:soundcloud,2010:tracks/597272277",
+    "jakso_otsikko": "28.3.2019: Järkyttävä pedofiliarinki paljastui, Muellerin raportti ja persujen vaalivideo",
+    "paivamaara": "28.3.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/922ab018-b47b-43e0-a934-0c0f2698fc1d.mp3",
+    "kesto_sek": 3423,
+    "kesto_str": "57:03",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Aino Frilander ja Marko Junkkari keskustelevat Keskusrikospoliisin paljastamasta, Suomessa ammattimaisesti operoineesta pedofiliaringistä, Robert Muellerin raportista ja sen merkityksestä Trumpille ja demokraateille ja perussuomalaisten vaalivideosta ja sen merkityksestä sananvapaudelle.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "Hesburger Ranskan perunat paprikamajoneesilla",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "pikaruoka",
+          "ranskalaiset perunat"
+        ],
+        "kuvaus": "Aino Frilander suosittelee Hesburgerin Ranskan perunoita paprikamajoneesilla. Keskustelussa todettiin Hesburgerin ranskalaiset parhaimmiksi pikaruokaketjujen tarjonnassa.",
+        "google_linkki": "https://www.google.com/search?q=Hesburger+Ranskan+perunat+paprikamajonees",
+        "lisatieto_linkki": "https://www.hesburger.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "It's Official: Russiagate Is This Generation's WMD",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "media",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Matt Taibbi kirjoitti analyyttisen ja brutaalin tekstin Trumpin, Muellerin tutkinnan ja median suhteesta. Marko Junkkari kuvailee sitä erittäin hyväksi, tiukaksi ja hienoksi tekstiksi.",
+        "google_linkki": "https://www.google.com/search?q=It%27s+Official+Russiagate+Is+This+Generation%27s+WMD+Matt+Taibbi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Matt+Taibbi+Russiagate+WMD+Medium"
+      }
+    ]
+  },
+  {
+    "j_idx": 420,
+    "jakso_id": "tag:soundcloud,2010:tracks/582735039",
+    "jakso_otsikko": "28.2.2019: Sote-uudistuksen kuolema, Anne Bernerin jääviys, M. Cohenin kuuleminen",
+    "paivamaara": "28.2.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/da2338c5-a526-4dd8-8214-07619f617662.mp3",
+    "kesto_sek": 4140,
+    "kesto_str": "01:09:00",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Aino Frilander keskustelevat viimeisestä kahdesta viikosta sote-uudistuksen ympärillä, Anne Berneriin liittyvistä jääviyskysymyksistä hänen pankkiuransa tultua julki ja Trumpin entisen asianajajan Michael Cohenin kuulemisesta Yhdysvaltain kongressissa.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Life on the Edge: The Coming of Age of Quantum Biology",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "populaaritiede",
+          "kvanttifysiikka",
+          "biologia"
+        ],
+        "kuvaus": "Johnjoe McFaddenin ja Jim Al-Khalilin kirja kvanttibiologiasta, joka käsittelee kvanttifysiikan ilmiöiden roolia elävissä organismeissa. Tuomas suosittelee sitä kiinnostavana populaaritieteellisenä teoksena todellisuuden luonteesta.",
+        "google_linkki": "https://www.google.com/search?q=Life+on+the+Edge+The+Coming+of+Age+of+Quantum+Biology",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Life+on+the+Edge+The+Coming+of+Age+of+Quantum+Biology"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "Meet the Mormon Transhumanists Seeking Salvation in the Singularity",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "uskonto",
+          "transhumanismi",
+          "kulttiuskonnot"
+        ],
+        "kuvaus": "Artikkeli, joka käsittelee mormonien piirissä kasvavaa transhumanismia ja ajatusta teknologiasta oikopolkuna jumaluuteen. Aino Frilander suosittelee sitä kiinnostavana katsauksena itselle vieraaseen ajattelumaailmaan.",
+        "google_linkki": "https://www.google.com/search?q=Meet+the+Mormon+Transhumanists+Seeking+Salvation+in+the+Singularity",
+        "lisatieto_linkki": "https://www.google.com/search?q=Meet+the+Mormon+Transhumanists+Seeking+Salvation+in+the+Singularity"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Thomas Merton: The Monk Who Became a Prophet (The New Yorker)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "uskonto",
+          "elämäkerta",
+          "New Yorker"
+        ],
+        "kuvaus": "New Yorker -lehden artikkeli katolilaisesta munkista Thomas Mertonista, jota pidetään modernina profeettana. Marko Junkkari suosittelee sitä yllättävän hienona ja humaanina lukukokemuksena.",
+        "google_linkki": "https://www.google.com/search?q=Thomas+Merton+The+Monk+Who+Became+a+Prophet+New+Yorker",
+        "lisatieto_linkki": "https://www.google.com/search?q=Thomas+Merton+The+Monk+Who+Became+a+Prophet+New+Yorker"
+      }
+    ]
+  },
+  {
+    "j_idx": 180,
+    "jakso_id": "tag:soundcloud,2010:tracks/1699967748",
+    "jakso_otsikko": "28.12.2023: Vuoden parhaat 2023, baby yeah!",
+    "paivamaara": "28.12.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/dcfaae59-0a10-4436-bf3c-763969326fd3/1699967748-uutisraportti-28122023-vuoden-parhaat-2023-baby-yeah.mp3",
+    "kesto_sek": 4430,
+    "kesto_str": "01:13:50",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa kukin keskustelijoista on valinnut yhden aiheen, jota pitää mielestään vuoden merkittävimpänä tai kiinnostavimpana. \nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \nJakson leikkasi Janne Elkki.\n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraporttipod.\n\nLue podcastista lisää tästä jutusta: https://www.hs.fi/nyt/art-2000002918658.ht",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Many Mistakes – kirja omista mokista ja epäonnistumisista",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "itsensä kehittäminen",
+          "huumori"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee tätä kirjaa, jonka kirjoittaja on Dan MacCrum. Kirja käsittelee omia mokia ja epäonnistumisia.",
+        "google_linkki": "https://www.google.com/search?q=Many+Mistakes+Dan+MacCrum",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Many+Mistakes+Dan+MacCrum"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "ACT UP -kansanliike",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "aktivismi",
+          "historia",
+          "politiikka"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee tutustumaan ACT UP -kansanliikkeeseen, joka oli 1980-luvun Amerikassa AIDS-epidemiaa vastaan taistellut aktivistiryhmä. Liike on vaikuttanut merkittävästi nykyaikaiseen vasemmistoaktivismiin.",
+        "google_linkki": "https://www.google.com/search?q=ACT+UP+AIDS+aktivismi",
+        "lisatieto_linkki": "https://en.wikipedia.org/wiki/ACT_UP"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kovan viikon ilta",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "satiiri",
+          "ajankohtaisohjelma",
+          "suomalainen tv"
+        ],
+        "kuvaus": "Salla Vuorikoski suosittelee Jukka Lindströmin juontamaa suomalaista tv-satiiriohjelmaa, jossa käsitellään viikon uutisia huumorin keinoin paneeliformaatissa.",
+        "google_linkki": "https://www.google.com/search?q=Kovan+viikon+ilta+TV",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kovan+viikon+ilta"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ville Ranta – pilapiirtäjä",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "satiiri",
+          "pilapiirros",
+          "suomalainen kulttuuri"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee Ville Rantaa Suomen parhaana satiirikkona, joka pitää pintansa vuodesta toiseen erinomaisilla pilapiirroksissaan.",
+        "google_linkki": "https://www.google.com/search?q=Ville+Ranta+pilapiirtäjä",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ville+Ranta+pilapiirrokset"
+      }
+    ]
+  },
+  {
+    "j_idx": 16,
+    "jakso_id": "94a090e5-cb24-4da5-9996-1591eee5b212",
+    "jakso_otsikko": "Karmiva Ukraina-suunnitelma, Suomi-vibes, conundrumit",
+    "paivamaara": "28.11.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/94a090e5-cb24-4da5-9996-1591eee5b212.mp3",
+    "kesto_sek": 3850,
+    "kesto_str": "01:04:10",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>ÄÄNI FIXATTU! Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski, Anna-Sofia Berner ja Marko Junkkari keskustelevat elävän yleisön edessä helteisessä Surf Housessa Uutisraportti podcastin pikkujoulutapahtumassa. Aiheena on USA:n ja Venäjän suunnittelema umpisurkea rauhansuunnitelma, joka vuodettiin  julki, ja kaikki siihen liittyvät rönsyt. Lisäksi keskustellaan mustasta tiistaista surkei",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Katabasis",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "yliopistomaailma",
+          "mytologia"
+        ],
+        "kuvaus": "R.F. Kuangin tuore romaani, jossa Cambridgen yliopiston tutkija päätyy manalaan pelastettuaan vahingossa tappamansa väitöskirjaohjaajansa. Danten hengessä kulkeva fantastinen matka helvetin piireihin, täynnä myyttejä ja pohdintaa elämän tarkoituksesta.",
+        "google_linkki": "https://www.google.com/search?q=Katabasis+R.F.+Kuang",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Katabasis+R.F.+Kuang"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Free Press: An Oral History of the Village Voice",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "journalismi",
+          "vastakulttuuri",
+          "historia"
+        ],
+        "kuvaus": "Village Voice -lehden oraalihistoria, jossa on haastateltu lehden toimittajia eri vuosikymmeniltä. Viihdyttävä ja hauska kirja vastakulttuuri-journalismin maailmasta 1960-luvulta nykypäivään.",
+        "google_linkki": "https://www.google.com/search?q=The+Free+Press+Oral+History+Village+Voice",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Free+Press+Oral+History+Village+Voice"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Paavo Teittisen Finlandia-palkittu kirja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "Finlandia-palkinto"
+        ],
+        "kuvaus": "Paavo Teittisen tietokirja, joka voitti vuoden 2025 tietokirjallisuuden Finlandia-palkinnon.",
+        "google_linkki": "https://www.google.com/search?q=Paavo+Teittinen+Finlandia+tietokirja+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Paavo+Teittinen"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Monika Fagerholmin Finlandia-palkittu romaani",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "kaunokirjallisuus",
+          "Finlandia-palkinto"
+        ],
+        "kuvaus": "Monika Fagerholmin romaani, joka voitti vuoden 2025 kaunokirjallisuuden Finlandia-palkinnon.",
+        "google_linkki": "https://www.google.com/search?q=Monika+Fagerholm+Finlandia+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Monika+Fagerholm"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Tomi Kontion Lasten Finlandia -palkittu kirja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "lastenkirja",
+          "Finlandia-palkinto"
+        ],
+        "kuvaus": "Tomi Kontion lastenkirja, joka voitti vuoden 2025 Lasten Finlandia -palkinnon.",
+        "google_linkki": "https://www.google.com/search?q=Tomi+Kontio+Lasten+Finlandia+2025",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tomi+Kontio"
+      }
+    ]
+  },
+  {
+    "j_idx": 71,
+    "jakso_id": "ebe225f5-0ca4-4dfb-8be5-1ec6e2083374",
+    "jakso_otsikko": "28.11.2024: Poikien seksikirjasta konservatiivikuohu, Ottawan-sopimuksesta irtautuminen, rauha Libanoniin",
+    "paivamaara": "28.11.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/ebe225f5-0ca4-4dfb-8be5-1ec6e2083374.mp3",
+    "kesto_sek": 4663,
+    "kesto_str": "01:17:43",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Anna-Sofia keskustelevat yhdessä toimittaja Satu Vasantolan kanssa Respektiä-nimisestä teini-ikäisille pojille kirjoitetusta seksikirjasta konservatiivi- ja uskonnollispiireissä noussut melko tulehtunut keskustelu; Puolustusvoimain komentaja laittoi liikkeelle suurella todennäköisyydellä maaliin päätyvän tapahtumaketjun kun ehdotti että Ottawan-sopimuks",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Inside the Highs and Lows of Sapphic Pop's Banner Year",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "musiikkijournalismi",
+          "queer-kulttuuri",
+          "pop-musiikki"
+        ],
+        "kuvaus": "Rolling Stone -lehdessä julkaistu pitkä artikkeli siitä, miten lesbojen tekemä popmusiikki löi läpi ennennäkemättömällä tavalla vuonna 2024 ja mitä se merkitsee queer-ihmisille kulttuurisesti.",
+        "google_linkki": "https://www.google.com/search?q=Inside+the+Highs+and+Lows+of+Sapphic+Pop+Banner+Year+Rolling+Stone",
+        "lisatieto_linkki": "https://www.rollingstone.com/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Dyyni (tv-sarja)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "sci-fi",
+          "fantasia",
+          "kirjasovitus"
+        ],
+        "kuvaus": "Uusi Dyyni-maailmaan sijoittuva tv-sarja, jonka ensimmäinen jakso vakuutti katsojan. Suhde Dyyni-universumiin on kahtalainen, mutta sarja vaikuttaa lupaavalta.",
+        "google_linkki": "https://www.google.com/search?q=Dune+Prophecy+tv-sarja+2024",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Dune+Prophecy"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Rest Is Classified",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "vakoilu",
+          "historia",
+          "true crime"
+        ],
+        "kuvaus": "Goal Hanger -tuotantoyhtiön uusi podcast-sarja, joka käsittelee vakoilun, salamurhien ja peitettyjen operaatioiden maailmaa. Suosittelija luottaa vahvasti tuotantoyhtiön brändiin.",
+        "google_linkki": "https://www.google.com/search?q=The+Rest+Is+Classified+podcast+Goal+Hanger",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20Classified"
+      }
+    ]
+  },
+  {
+    "j_idx": 383,
+    "jakso_id": "tag:soundcloud,2010:tracks/719777419",
+    "jakso_otsikko": "28.11.2019: Perussuomalaisten rakettinousu gallupeissa, Veijo Baltzarin kultti",
+    "paivamaara": "28.11.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/df083c51-3ca0-4fe9-85e9-88474b51ee8c.mp3",
+    "kesto_sek": 4107,
+    "kesto_str": "01:08:27",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat tulikuumista gallup-luvuista, joiden mukaan perussuomalaiset on kirkkaasti suosituin puolue tällä hetkellä – mutta onko syynä talous, kulttuurisota, feministien ihmeelliset menot vai mikä? Lisäksi aiheena järkyttävä ja huolestuttava tapaus Veijo Baltzar, kun yhteiskunnan eliitin ylimmillä käytävillä mielellään vii",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Lauma",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "luonto",
+          "tietokirja"
+        ],
+        "kuvaus": "Jouni Tikkasen kirjoittama tarinallinen tietokirja suomalaisen susivihan historiasta. Kertoo 1800-luvulla eläneestä susilaumasta, joka söi lapsia Turun seudulla.",
+        "google_linkki": "https://www.google.com/search?q=Lauma+Jouni+Tikkanen+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Lauma+Jouni+Tikkanen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Long Play",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "journalismi",
+          "podcast",
+          "äänikirja"
+        ],
+        "kuvaus": "Pitkiin journalistisiin teksteihin erikoistunut suomalainen julkaisu, joka tekee tutkivaa journalismia ja julkaisee esseitä. Kaikki jutut ovat kuunneltavissa MP3-muodossa ammattilaisääninäyttelijän lukemina.",
+        "google_linkki": "https://www.google.com/search?q=Long+Play+journalismi+Suomi",
+        "lisatieto_linkki": "https://longplay.fi"
+      }
+    ]
+  },
+  {
+    "j_idx": 286,
+    "jakso_id": "tag:soundcloud,2010:tracks/1149466168",
+    "jakso_otsikko": "28.10.2021: Kabinettibudjetti Helsingissä, Marinin boomer-kommentit, R.I.P. UROS-areena",
+    "paivamaara": "28.10.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/3d257830-e3aa-4f7d-9590-59f389affb81.mp3",
+    "kesto_sek": 3922,
+    "kesto_str": "01:05:22",
+    "rss_osallistujat": [
+      "Lari Malmberg",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja HS:n kaupunkitoimituksen esimies Lari Malmberg  keskustelevat Helsingin tuoreesta pormestarista Juhana Vartiaisesta, joka mylläsi pääkaupungin totuttuja tapoja mitä tulee budjetointiin; ja pääministeri Sanna Marinin ”boomerointi”-kommenteista, jotka joko ovat negatiivisen kierteen alku tai tyylikäs modernin ajan kuitti, sekä Uros-areenas",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Succession",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "perhedynamiikka",
+          "media"
+        ],
+        "kuvaus": "HBO:n dramasarja media-imperiumista ja sen perillisten valtataistelusta. Murdoch-suku toimii esikuvana konservatiivista mediaa pyörittävälle patriarkalle ja hänen kolmelle lapselleen.",
+        "google_linkki": "https://www.google.com/search?q=Succession+HBO+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Politiikka-Suomi",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "historia"
+        ],
+        "kuvaus": "Yleisradion dokumenttisarja, joka käy läpi suomalaisen politiikan merkittäviä tapauksia ja henkilöitä kuten Alexander Stubb, Ahti Karjalainen ja Sanna Marin. Kärkipoliitikot puhuvat poikkeuksellisella rehellisyydellä.",
+        "google_linkki": "https://www.google.com/search?q=Politiikka-Suomi+Yleisradio+dokumenttisarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Politiikka-Suomi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Lari Malmberg",
+        "teos": "Radiolab: Everybody's Got a Genome",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tiede",
+          "biologia",
+          "evoluutio"
+        ],
+        "kuvaus": "Radiolab-podcastin kolmen jakson spesiaali, joka käsittelee X-kromosomia ja immuniteettiin liittyviä geenejä. Selittää muun muassa evoluutiobiologisin perustein, miksi naisilla on vahvempi immuniteetti kuin miehillä.",
+        "google_linkki": "https://www.google.com/search?q=Radiolab+Everybody%27s+Got+a+Genome+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Everybody%27s%20Got%20a%20Genome"
+      }
+    ]
+  },
+  {
+    "j_idx": 325,
+    "jakso_id": "tag:soundcloud,2010:tracks/974461843",
+    "jakso_otsikko": "28.1.2020: AZ vs. EU, Stonks, possut helvetissä",
+    "paivamaara": "28.1.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/f17ffa26-6a35-4044-99f4-e08f454bddcf.mp3",
+    "kesto_sek": 4344,
+    "kesto_str": "01:12:24",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon uutisraportti podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Art of Fermentation: An In-Depth Exploration of Essential Concepts",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fermentaatio",
+          "ruoanlaitto",
+          "tietokirja"
+        ],
+        "kuvaus": "Sandor Ellix Katzin kirjoittama kattava teos fermentaatiosta eli hapatuksesta. Suosittelija kuuntelee sitä äänikirjana ja kehuu sen rauhoittavan vaikutuksen.",
+        "google_linkki": "https://www.google.com/search?q=The+Art+of+Fermentation+Sandor+Katz",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Art+of+Fermentation+Sandor+Katz"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Inkivääriolueen (Ginger Beer) kotivalmistus",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "fermentaatio",
+          "kotivalmistus",
+          "juomat"
+        ],
+        "kuvaus": "Kotitekoinen fermentoitu inkiväärijuoma, joka valmistetaan raastetusta inkivääristä, vedestä ja sokerista. Suosittelija kehuu fermentaatioharrastusta luontoon tutustuttavana ja helposti aloitettavana kotiprojektina.",
+        "google_linkki": "https://www.google.com/search?q=inkiv%C3%A4%C3%A4riolut+kotivalmistus+fermentaatio",
+        "lisatieto_linkki": "https://www.google.com/search?q=ginger+beer+homemade+fermentation+recipe"
+      }
+    ]
+  },
+  {
+    "j_idx": 295,
+    "jakso_id": "tag:soundcloud,2010:tracks/1113986368",
+    "jakso_otsikko": "27.8.2021: Afganistanin kaaos, keskustan loiset, iloisia uutisia Itämerestä",
+    "paivamaara": "27.8.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/ee82a99f-5075-499c-90aa-ed2d212c1ec0.mp3",
+    "kesto_sek": 3292,
+    "kesto_str": "54:52",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Sara Vainio",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Sara Vainio keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: tur",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Maria Manner",
+        "teos": "Muistissanne kiinni",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "New York",
+          "klassikko"
+        ],
+        "kuvaus": "Vivian Gornickin klassikkomuistelmateos 1980-luvun New Yorkista, jossa hän kävelee vanhan äitinsä kanssa pitkin katuja ja muistelee lapsuuttaan New Yorkin juutalaiskortteleissa.",
+        "google_linkki": "https://www.google.com/search?q=Vivian+Gornick+Muistissanne+kiinni",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Vivian+Gornick+Fierce+Attachments"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Sara Vainio",
+        "teos": "Sadan vuoden yksinäisyys",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "maaginen realismi",
+          "latinalainen Amerikka"
+        ],
+        "kuvaus": "Gabriel García Márquezin maagisen realismin klassikko, jossa tiivistetyssä ja rikkaassa kerronnassa yhdistyvät elämäntarinat, väkivalta, kummallinen ja ihana.",
+        "google_linkki": "https://www.google.com/search?q=Sadan+vuoden+yksin%C3%A4isyys+Gabriel+Garcia+Marquez",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Hundred+Years+of+Solitude+Garcia+Marquez"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Agentti Sonja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "vakoilu",
+          "toinen maailmansota"
+        ],
+        "kuvaus": "Ben Macintyren tietokirja Saksan juutalaisesta perheenäidistä, josta tuli puna-armeijan agentti ja Neuvostoliiton keskeinen vakooja Shanghaissa, Sveitsissä ja Englannissa – muun muassa ydinpommisalaisuuksien varastaja.",
+        "google_linkki": "https://www.google.com/search?q=Agent+Sonya+Ben+Macintyre",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Agent+Sonya+Ben+Macintyre"
+      }
+    ]
+  },
+  {
+    "j_idx": 198,
+    "jakso_id": "tag:soundcloud,2010:tracks/1575773839",
+    "jakso_otsikko": "27.7.2023: Espanjan vaalit, hiilinielut, kostokuluttaminen",
+    "paivamaara": "27.7.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/db49b37d-8931-4365-bfdf-f0333bbb86e6/1575773839-uutisraportti-2772023a.mp3",
+    "kesto_sek": 3612,
+    "kesto_str": "01:00:12",
+    "rss_osallistujat": [
+      "Joona Aaltonen",
+      "Matilda Jokinen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tässä jaksossa käsitellään Espanjan vaaleja, hiilinieluja ja kostokuluttamista.\nStudiossa Venla Kuokkanen, Matilda Jokinen ja Joona Aaltonen. \nJakson leikkasi Ville-Veikko Niemelä.\n\nJaksossa mainittuja linkkejä:\nJuttu Espanjan vaaleista: https://www.hs.fi/ulkomaat/art-2000009724275.html\nKai Mykkäsen haastattelu: https://www.hs.fi/politiikka/art-2000009730958.html\nJuttu tehtaanpiippujen tulppaamise",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Alfred Baga – poliittinen satiiri (Instagram/TikTok)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "satiiri",
+          "sosiaalinen media",
+          "politiikka"
+        ],
+        "kuvaus": "Suomenruotsalainen koomikko, joka tekee purevaa RKP- ja hallitusyhteistyösatiiria päälleduppaamalla vanhoja piirrettyjä lastenohjelmia. Löytyy Instagramista ja TikTokista nimellä Alfred Baga.",
+        "google_linkki": "https://www.google.com/search?q=Alfred+Baga+satiiri+RKP",
+        "lisatieto_linkki": "https://www.tiktok.com/search?q=Alfred+Baga"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Pistaasijäätelö",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "jäätelö",
+          "kestävä kulutus",
+          "kesä"
+        ],
+        "kuvaus": "Pistaasi on lajike, joka kestää hyvin kuumia ja kuivia kesiä, joten pistaasijäätelö on kestävä valinta kuivuvassa maailmassa. Ei tarvitse luopua herkuista tulevaisuudessakaan.",
+        "google_linkki": "https://www.google.com/search?q=pistaasij%C3%A4%C3%A4tel%C3%B6",
+        "lisatieto_linkki": "https://www.google.com/search?q=pistaasij%C3%A4%C3%A4tel%C3%B6+resepti"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Venla Kuokkanen",
+        "teos": "Tamminiemen museo",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "historia",
+          "Helsinki"
+        ],
+        "kuvaus": "Tamminiemen museossa on erittäin taitavat museo-oppaat. Suositellaan myös yleisesti extempore-rupatteluja museoiden asiantuntevan henkilökunnan kanssa – sieltä saattaa aueta yllättäviä tarinoita.",
+        "google_linkki": "https://www.google.com/search?q=Tamminiemen+museo+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Tamminiemen+museo+opastettu+kierros"
+      }
+    ]
+  },
+  {
+    "j_idx": 155,
+    "jakso_id": "tag:soundcloud,2010:tracks/1857839199",
+    "jakso_otsikko": "27.6.2024: Suomi-areena, helteet, mystiset kaivoskuolemat",
+    "paivamaara": "27.6.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/b2df4bbb-370e-42a1-81fe-e260a912d9bb.mp3",
+    "kesto_sek": 2885,
+    "kesto_str": "48:05",
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Joona Aaltonen",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Joona Aaltonen, Rasmus Helaniemi ja Heini Pitkänen puhuvat Suomi-areenan roolin muuttumisesta vuosien varrella. Lisäksi Joona, Rasmus ja Heini puhuvat pohjoisella pallonpuoliskolla jo poikkeuksellisen aikaisin alkaneesta helleaallosta sekä mystisistä sähköautoakkutehtaan työntekijöiden kuolemista Pohjois-Ruotsissa.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Kuningas kuolee (Elina Backman)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "suomalainen kirjallisuus",
+          "kesälukeminen"
+        ],
+        "kuvaus": "Elina Backmanin trilleridekkarisarjan ensimmäinen osa, joka sijoittuu Helsinkiin. Sarjassa on kolme osaa ja se tarjoaa kiinnostavia murhakäsittelyjä sekä ihmissuhdekuvioita – täydellistä kesälukemista.",
+        "google_linkki": "https://www.google.com/search?q=Elina+Backman+Kuningas+kuolee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Elina+Backman+Kuningas+kuolee"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Kööpenhamina-trilogia (Tove Ditlevsen)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "tanskalainen kirjallisuus",
+          "klassikko"
+        ],
+        "kuvaus": "Tanskalaisen kirjailijan Tove Ditlevsenin omaelämäkerrallinen klassikkotrilogia, joka kertoo lapsuudesta, nuoruudesta ja aikuisuudesta. Pienimuotoinen ja tiivis kerronta, jota suosittelija pitää parhaana kevään lukemisena.",
+        "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+K%C3%B6%C3%B6penhamina-trilogia",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+Copenhagen+trilogy"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "UEFA Euroopan mestaruuskilpailut (jalkapallo)",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "televisio",
+          "urheilu-oikeudet"
+        ],
+        "kuvaus": "Jalkapallon Euroopan mestaruuskilpailut, joita voi katsoa Yleltä. Suosittelija kehottaa katsomaan nyt, kun Ylen budjettileikkaukset saattavat tulevaisuudessa viedä urheiluoikeudet.",
+        "google_linkki": "https://www.google.com/search?q=UEFA+Euro+2024+Yle",
+        "lisatieto_linkki": "https://www.google.com/search?q=UEFA+Euro+2024+Yle"
+      }
+    ]
+  },
+  {
+    "j_idx": 405,
+    "jakso_id": "tag:soundcloud,2010:tracks/642832485",
+    "jakso_otsikko": "27.6.2019: Säästöliekkejä, liekinheittimiä ja palavaa aktivismia",
+    "paivamaara": "27.6.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/19f3c290-290f-484e-86b9-adf3c5c9ad6a.mp3",
+    "kesto_sek": 3313,
+    "kesto_str": "55:13",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Milka Valtanen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Pitäisikö Suomen pihistää vai panostaa EU-järjestelyihin? Miksi Iranin ja USA:n välit kiristyvät? Onko yrityksen pakko sateenkaariliputtaa? Pride-viikon podcastissa Alma Onali, Tuija Siltamäki ja Milka Valtanen keskustelevat viikon ajankohtaisista kysymyksistä. Jaksossa selviää, jäävätkö ulkomaalaiset toimittajat kaipaamaan huippukokouskrääsää, kuka haluaa pommittaa ja ketä ja pohditaan, kuka saa ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Root of Evil -podcast (Black Dahlia -murha)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "murha",
+          "historia"
+        ],
+        "kuvaus": "True crime -podcast, joka kertoo Black Dahlia -murhasta epäillyn miehen perheestä. Juontajina toimivat syytetyn miehen jälkeläiset, ja sisältö on erittäin graafista ja järkyttävää.",
+        "google_linkki": "https://www.google.com/search?q=Root+of+Evil+podcast+Black+Dahlia",
+        "lisatieto_linkki": "https://open.spotify.com/search/Root%20of%20Evil%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "Helsingin Sanomien jutut Jari Aarnion tuomiosta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "rikosuutiset",
+          "oikeus",
+          "poliisi"
+        ],
+        "kuvaus": "Helsingin Sanomien rikostoimituksen jutut Jari Aarnion hovioikeustuomiosta, jossa tiivistetään selkeästi kolmesataasivuinen tuomio kaikkine oleellisine pointteineen.",
+        "google_linkki": "https://www.google.com/search?q=Jari+Aarnio+tuomio+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.hs.fi/haku/?query=Jari+Aarnio"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Hercule Poirot -elokuvat (Yle Areena)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "murhamysteeri",
+          "klassikko",
+          "dekkari"
+        ],
+        "kuvaus": "Klassiset Hercule Poirot -murhamysteerielokuvat, joita esitetään televisiossa ja löytyvät Yle Areenasta. Suosittelija kehuu näitä erityisesti hyvän mielen viihteenä.",
+        "google_linkki": "https://www.google.com/search?q=Hercule+Poirot+elokuvat+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hercule+Poirot"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Downton Abbey (kausi 3)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draamasarja",
+          "brittiläinen",
+          "historiallinen"
+        ],
+        "kuvaus": "Suosittu brittiläinen draamasarja, jonka kolmas kausi on alkanut televisiossa. Aiemmat jaksot löytyvät myös Yle Areenasta.",
+        "google_linkki": "https://www.google.com/search?q=Downton+Abbey+kausi+3+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Downton+Abbey"
+      }
+    ]
+  },
+  {
+    "j_idx": 258,
+    "jakso_id": "tag:soundcloud,2010:tracks/1276286824",
+    "jakso_otsikko": "27.5.2022: Marin Ukrainassa, presidenttikysely, lätkä",
+    "paivamaara": "27.5.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/3a1610b0-ca66-4377-b99f-fcda4512083c.mp3",
+    "kesto_sek": 3119,
+    "kesto_str": "51:59",
+    "rss_osallistujat": [
+      "Emil Elo",
+      "Jaakko Lyytinen",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Jaakko Lyytinen ja Emil Elo keskustelevat Sanna Marinin yllätysvierailusta Ukrainassa, Iltasanomien presidenttikyselystä ja lätkän MM-kisoista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ih",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jaakko Lyytinen",
+        "teos": "Minä, koira ja ihmiskunta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "eläimet",
+          "ihmissuhteet"
+        ],
+        "kuvaus": "Tiedetoimittaja ja biologi Tiina Raivaran kirja koiran ja ihmisen suhteen syvyydestä. Suosittelija palaa kirjan ajatuksiin joka ilta.",
+        "google_linkki": "https://www.google.com/search?q=Min%C3%A4+koira+ja+ihmiskunta+Tiina+Raivara",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Min%C3%A4+koira+ja+ihmiskunta"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Wienin Filharmonikkojen Philip Glass -konsertti 1993 (Gidon Kremer)",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "klassinen musiikki",
+          "viulu",
+          "Philip Glass"
+        ],
+        "kuvaus": "Latvialaisen viuluvirtuoosi Gidon Kremerin johtama Wienin Filharmonikkojen Philip Glass -konsertti vuodelta 1993. Suosittelija kuuntelee konserttia noin kolme kertaa viikossa uusilla kuulokkeillaan.",
+        "google_linkki": "https://www.google.com/search?q=Wiener+Philharmoniker+Philip+Glass+1993+Gidon+Kremer",
+        "lisatieto_linkki": "https://open.spotify.com/search/Philip%20Glass%20Gidon%20Kremer%20Vienna%20Philharmonic%201993"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Fourth Man",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "vakoilu",
+          "CIA"
+        ],
+        "kuvaus": "Entisen CIA-agentin Robert Baerin tietokirja, joka käsittelee 1990-luvulla pidätettyjen CIA:n vakoojien tapausta ja myyttistä neljättä paljastumatonta maanpetturia CIA:n sisällä.",
+        "google_linkki": "https://www.google.com/search?q=The+Fourth+Man+Robert+Baer",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fourth+Man+Robert+Baer"
+      }
+    ]
+  },
+  {
+    "j_idx": 211,
+    "jakso_id": "tag:soundcloud,2010:tracks/1501486573",
+    "jakso_otsikko": "27.4.2023: Hallituspohja, Sudan, Woltin pimeät kuljettajat",
+    "paivamaara": "27.4.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/29be157c-23fc-4978-ae59-9f8e39a90f32/1501486573-uutisraportti-2742023-hallituspohja-sudan-woltin-pim.mp3",
+    "kesto_sek": 4341,
+    "kesto_str": "01:12:21",
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki",
+      "Ville Similä"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustellaan Petteri Orpon valitsemasta hallituspohjasta kok, ps, rkp, kd, ja Sudanin tilanteesta ja Venäjän toimista siellä, sekä HS:n selvityksestä jonka mukaan Woltin kuskipassia käytetään ketjutettuna pimeään työvoimaan. \nStudiossa Tuomas Peltomäki, Ville Similä ja Salla Vuorikoski. \nJakson leikkasi Mikko Peura.\n\nJaksossa mainittuja linkkejä:\nhttps://www.hs.fi/kaupunki/a",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kovan viikon ilta",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliittinen satiiri",
+          "komedia",
+          "suomalainen tv"
+        ],
+        "kuvaus": "Jukka Lindströmin tähdittämä poliittisen satiirin ohjelma Ylellä. Ruotii puolueita ja poliitikkojen tekemisiä hauskasti ja oivaltavasti.",
+        "google_linkki": "https://www.google.com/search?q=Kovan+viikon+ilta+Yle",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kovan+viikon+ilta"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Ville Similä",
+        "teos": "Salaliitto Kairossa",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "trilleri",
+          "poliittinen elokuva",
+          "Lähi-itä"
+        ],
+        "kuvaus": "Ruotsalaisen ohjaajan Turkissa kuvaama trilleri, joka kertoo Kairon tuhatvuotiaan islamilaisen yliopiston al-Azharin johtajuuden ympärillä käytävästä vallankäytöstä ja salajuonista. Jännittävää kuvausta ja tiedustelupalvelujuonittelua.",
+        "google_linkki": "https://www.google.com/search?q=Salaliitto+Kairossa+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Salaliitto+Kairossa"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Past Present Future",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "filosofia",
+          "ideat"
+        ],
+        "kuvaus": "London Review of Booksin viikoittainen podcast, jossa David Runciman käy läpi tärkeiden ideoiden historiaa filosofiasta talouteen ja kulttuuriin. Erittäin sivistävää ja korkeatasoista kuunneltavaa.",
+        "google_linkki": "https://www.google.com/search?q=Past+Present+Future+podcast+London+Review+of+Books",
+        "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 52,
+    "jakso_id": "4664f771-5410-486d-a813-6321662f5c89",
+    "jakso_otsikko": "Viestisekoilu, Orpon moka ja lemmikkisyyllisyys",
+    "paivamaara": "27.3.2025",
+    "audio_url": "https://podcasts.captivate.fm/media/7acf7759-1f0e-41fe-8f89-a7418669802c/URPOD-25-03-27.mp3",
+    "kesto_sek": 4301,
+    "kesto_str": "01:11:41",
+    "rss_osallistujat": [
+      "Inkeri Harju"
+    ],
+    "rss_kuvaus": "<p>Salla, Marko ja HS:n audio- ja sometoimittaja Inkeri Harju äimistelevät Trumpin hallinnon Signal-viestisekoilua. Myös keskustellaan siitä, onko Petteri Orpo tehnyt valtavan mokan luvatessaan julkistaa sote-säästölistan ennen vaaleja. Onko kaikki vain pelinpolitiikkaa? Lopuksi tunnetaan syyllisyyttä ja opitaan käsittämättömiä asioita lemmikkien maailmasta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Inkeri Harju",
+        "teos": "Hard to Break",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "sosiaalinen media",
+          "nuorisokulttuuri"
+        ],
+        "kuvaus": "Suomalaisista Snapchat-julkkiksista kertova dokumenttisarja, joka seuraa nuorten rappiollista lähiöelämää usean vuoden ajan. Saatavilla Yle Areenassa.",
+        "google_linkki": "https://www.google.com/search?q=Hard+to+Break+dokumentti+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hard+to+Break"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Severance",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "scifi",
+          "draama",
+          "Apple TV+"
+        ],
+        "kuvaus": "Apple TV+:n scifi-draama, jossa työntekijöiden muistit jakautuvat työ- ja vapaa-ajan minään. Toinen kausi on nyt päättynyt ja kolmas on tulossa.",
+        "google_linkki": "https://www.google.com/search?q=Severance+Apple+TV+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "She Said",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "tutkiva journalismi",
+          "tositapahtumat",
+          "Netflix"
+        ],
+        "kuvaus": "Vuonna 2022 valmistunut elokuva, joka kertoo New York Timesin toimittajien Megan Twohey'n ja Jodi Kantorin tutkivasta journalismista Harvey Weinsteinin seksuaalisen häirinnän paljastamiseksi. Saatavilla Netflixilla.",
+        "google_linkki": "https://www.google.com/search?q=She+Said+2022+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=She+Said+2022"
+      }
+    ]
+  },
+  {
+    "j_idx": 57,
+    "jakso_id": "f5571190-cd5f-4331-91aa-aeb2dc2794f4",
+    "jakso_otsikko": "27.2.2025: Trump-kaaos vol. 256, nuorten terapiapuhe, Pekka-poika",
+    "paivamaara": "27.2.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/f5571190-cd5f-4331-91aa-aeb2dc2794f4.mp3",
+    "kesto_sek": 4376,
+    "kesto_str": "01:12:56",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa vielä kertaalleen Trumpin aloittamasta uudesta Yhdysvaltain ulkopolitiikasta alkanut epävarmuuden aika Euroopassa ja Suomessa, mainio HS:n artikkeli jossa kaksi tutkijaa kertovat miten yhteiskunnan läpäisevä nuorten terapiapuhe vääristää heidän maailmankuvaansa, ja Pekka-pojan tapaus, joka järkytti koko Suomea ennen kuin paljastui feikiksi.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Norjan hiihtotähdet",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "urheilu",
+          "hiihto"
+        ],
+        "kuvaus": "Viaplayn dokumenttisarja, joka seuraa Norjan miesten hiihtojoukkueen matkaa kohti Trondheimin MM-kisoja. Käsittelee inhimillisellä otteella tappioita, pettymyksiä ja kovan kilpailun kestämistä.",
+        "google_linkki": "https://www.google.com/search?q=Norjan+hiihtot%C3%A4hdet+Viaplay",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Norjan+hiihtot%C3%A4hdet"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Political Gabfest",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "amerikka",
+          "uutisanalyysi"
+        ],
+        "kuvaus": "Amerikkalainen politiikkapodcast, joka käsittelee maailman tapahtumia viisaasti ja tiiviisti. Toimii osittain inspiraationa Uutisraportti-podcastille.",
+        "google_linkki": "https://www.google.com/search?q=Political+Gabfest+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Political%20Gabfest"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Obscure Islands (amanvir.com/obscure-islands)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "maantiede",
+          "saaret",
+          "kuriositeetti"
+        ],
+        "kuvaus": "Perinteinen nettisivusto, joka luetteloi maailman outoja ja erikoisia saaria kartan ja tekstin kera. Sisältää muun muassa tietoa Espanjan ja Ranskan yhteishallinnoimasta Pheasant Islandista sekä maailman syrjäisimmästä asutusta saaresta Tristan da Cunhasta.",
+        "google_linkki": "https://www.google.com/search?q=amanvir.com+obscure+islands",
+        "lisatieto_linkki": "https://amanvir.com/obscure-islands"
+      }
+    ]
+  },
+  {
+    "j_idx": 370,
+    "jakso_id": "tag:soundcloud,2010:tracks/767382514",
+    "jakso_otsikko": "27.2.2020: Fasismi, koronavirus, Peter Nygård",
+    "paivamaara": "27.2.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/7a58960b-3740-47f1-8f64-b1165153561f.mp3",
+    "kesto_sek": 3748,
+    "kesto_str": "01:02:28",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat perussuomalaisten nuorten häkellyttävistä fasismimeinigeistä, koronaviruksen saapumisesta Suomeen ja Peter Nygårdin tekemää seksuaalista häirintää kokevista syytöksistä juuri kun #metoon pitäisi olla valmis.\nPitkien epämukavien hiljaisuuksien varalle Marko suosittelee John Grishamin kirjaa (https://www.goodreads.c",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Guardians",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "oikeusdraaama",
+          "jännitys",
+          "amerikkalainen kirjallisuus"
+        ],
+        "kuvaus": "John Grishamin uusin oikeusdraamaromaani, joka alkaa suoraan toiminnan keskeltä vankilasta. Taitava tarinankerronta, joka koukuttaa heti ensimmäisiltä sivuilta.",
+        "google_linkki": "https://www.google.com/search?q=The+Guardians+John+Grisham",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Guardians+John+Grisham"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "itsensä kehittäminen",
+          "digitaalisuus",
+          "elämänhallinta"
+        ],
+        "kuvaus": "Cal Newportin tietokirja siitä, miten häiritsevät digitaaliset härpäkkeet saa pois elämästä ja miten valita ne asiat, jotka todella ovat tärkeitä. Kirjan alkuosa käsittelee syvällisesti ajan arvoa nykyajassa.",
+        "google_linkki": "https://www.google.com/search?q=Digital+Minimalism+Cal+Newport",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Digital+Minimalism+Cal+Newport"
+      }
+    ]
+  },
+  {
+    "j_idx": 235,
+    "jakso_id": "tag:soundcloud,2010:tracks/1371084559",
+    "jakso_otsikko": "27.10.2022: Hallituskriisi 1, hallituskriisi 2, ydinaseet",
+    "paivamaara": "27.10.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/c6874a73-b70c-459b-8efc-7dcd1e1eb563.mp3",
+    "kesto_sek": 3794,
+    "kesto_str": "01:03:14",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat hallituskriiseistä, jotka johtuvat sekä enhdollistamisasetuksesta että hallituksen kaavailemista lisäveroista; sekä ydinaseiden sijoittelusta Suomeen.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Antti Holman koulumatka",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "huumori",
+          "arkielämä",
+          "rentoutuminen"
+        ],
+        "kuvaus": "Antti Holman rento ja käsikirjoittamaton podcast, jossa hän juttelee vapaasti arkipäiväisistä asioista automatkallaan. Kuuntelijoille tulee hyvä mieli.",
+        "google_linkki": "https://www.google.com/search?q=Antti+Holman+koulumatka+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Antti%20Holman%20koulumatka"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Song of the Cell",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "lääketiede",
+          "historia"
+        ],
+        "kuvaus": "Siddhartha Mukherjeen teos solujen historiasta – sekä evolutiivisesta että tieteellisestä löytämisen historiasta 1600-luvulta nykypäivään. Upea ja innostava tietokirja lääketieteen historiasta.",
+        "google_linkki": "https://www.google.com/search?q=Song+of+the+Cell+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Song+of+the+Cell"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Korean kielen opinnot",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kielenopiskelu",
+          "harrastus",
+          "korea"
+        ],
+        "kuvaus": "Anni Keski-Heikki suosittelee Korean kielen opiskelua työväenopistossa. Korealaiset aakkoset ovat yllättävän helppo opetella, koska ne perustuvat äänteisiin.",
+        "google_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Korean+kielen+opinnot+ty%C3%B6v%C3%A4enopisto+Suomi"
+      }
+    ]
+  },
+  {
+    "j_idx": 275,
+    "jakso_id": "tag:soundcloud,2010:tracks/1204713763",
+    "jakso_otsikko": "27.1.2022: Talouden myllerrys, Päivi Räsäsen oikeudenkäynti, vaalitulos",
+    "paivamaara": "27.1.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/d716e3cd-01bc-4ec4-8a80-df65073d576d.mp3",
+    "kesto_sek": 4092,
+    "kesto_str": "01:08:12",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alex af Heurlin keskustelevat useista yhtäaikaisista makrotason uhkista maailmassa, Päivi Räsäsen oikeudenkäynnistä ja vielä kerran aluevaaleista.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kun niin perkeleesti sahaa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yrityshistoria",
+          "taloushistoria",
+          "suomalainen"
+        ],
+        "kuvaus": "Sakari Siltalan ja Petri Keskisarjan kirjoittama historiikki Suomen suurimmasta sahayhtiöstä Versowoodista ja sen omistaneen Kopran suvun tarinoista. Kirja kertoo suorasanaisesti sukupolvenvaihdoksen kariutumisesta ja veljesten välisestä riidasta.",
+        "google_linkki": "https://www.google.com/search?q=Kun+niin+perkeleesti+sahaa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kun+niin+perkeleesti+sahaa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Aleksi Af Heurlin",
+        "teos": "Putinin sisäpiirissä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "Venäjä",
+          "talous"
+        ],
+        "kuvaus": "Entisen Financial Times -toimittajan Catherine Beltonin teos, joka avaa karulla tavalla Venäjän poliittisen järjestelmän toimintaa ja omaisuuden jakautumista Putinin lähipiirissä.",
+        "google_linkki": "https://www.google.com/search?q=Putinin+sis%C3%A4piiriss%C3%A4+Catherine+Belton",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Putin%27s+People+Catherine+Belton"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Viirus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tiede",
+          "pandemia",
+          "tietokirja"
+        ],
+        "kuvaus": "Matt Ridleyn ja Alina Chanin kirja, joka tutkii hypoteesia koronaviruksen alkuperästä kiinalaisessa laboratoriossa Wuhanissa. Kirja avaa seikkaperäisesti virusten käyttäytymistä ja leviämistä.",
+        "google_linkki": "https://www.google.com/search?q=Viral+Matt+Ridley+Alina+Chan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Viral+Matt+Ridley+Alina+Chan"
+      }
+    ]
+  },
+  {
+    "j_idx": 142,
+    "jakso_id": "tag:soundcloud,2010:tracks/1924030769",
+    "jakso_otsikko": "26.9.2024: Velka 4ever, woken loppu?, eduskuntatalon veripylväät",
+    "paivamaara": "26.9.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/875c0e6b-da38-4b88-80ac-632fd47a56f6.mp3",
+    "kesto_sek": 4677,
+    "kesto_str": "01:17:57",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Sohvi ja Marko keskustelevat valtionvelan sinnikkäästä kasvusta vuodesta toiseen; USA:ssa käytävästä keskustelusta, jonka mukaan \"woke\" on jo loppu; ja kansanedustajia ilahduttaneesta turvetempauksesta, jonka seurauksena eduskutatalo sai uutta hauskaa väriä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Power Broker – Robert Moses and the Fall of New York",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "politiikka",
+          "elämäkerta"
+        ],
+        "kuvaus": "Robert Caron klassikkokirja New Yorkin kaupunkisuunnittelija Robert Moseksesta ja vallankäytöstä. Täyttää viisikymmentä vuotta ja on herättänyt uutta kiinnostusta haastattelujen ja lukupiirien myötä.",
+        "google_linkki": "https://www.google.com/search?q=The+Power+Broker+Robert+Caro",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+Broker+Robert+Caro"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "9 to 5 (WNNA) – Power Broker -lukupiiri-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "politiikka",
+          "lukupiiri"
+        ],
+        "kuvaus": "Podcast, jossa luetaan Robert Caron Power Broker -kirja jakso jaksolta läpi. Vieraina mm. Robert Caro itse, Alexandria Ocasio-Cortez ja Conan O'Brien.",
+        "google_linkki": "https://www.google.com/search?q=9+to+5+WNNA+Power+Broker+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/9%20to%205%20WNNA%20Power%20Broker"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Erkki Tuomiojan päiväkirjat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "päiväkirja",
+          "suomalainen"
+        ],
+        "kuvaus": "Erkki Tuomiojan moniosaiset päiväkirjat, joissa kuvataan poliitikon arkea suurten tapahtumien ohella. Suosittelija arvostaa erityisesti pieniä yksityiskohtia ja poliitikon työn inhimillisyyttä.",
+        "google_linkki": "https://www.google.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Matti Vanhasen päiväkirjat 2023",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "päiväkirja",
+          "suomalainen"
+        ],
+        "kuvaus": "Matti Vanhasen päiväkirjat vuodelta 2023, joissa hän kuvaa puhemieskautensa arkea, koronapandemiaa ja Suomen Nato-prosessia. Sisältää myös henkilökohtaisia hetkiä kuten oman kodin rakentamisen ilot.",
+        "google_linkki": "https://www.google.com/search?q=Matti+Vanhasen+p%C3%A4iv%C3%A4kirjat+2023",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Matti+Vanhanen+p%C3%A4iv%C3%A4kirja"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Sliced Bread (BBC)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kuluttaja",
+          "tiede",
+          "BBC"
+        ],
+        "kuvaus": "BBC:n podcast, jossa perehdytään eri tuotteisiin ja selvitetään, onko niissä oikeasti katetta väitteille. Kuunneltuina jaksoina mm. auton renkaat ja kollageenia sisältävät kasvirasvat.",
+        "google_linkki": "https://www.google.com/search?q=Sliced+Bread+BBC+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Sliced%20Bread%20BBC"
+      }
+    ]
+  },
+  {
+    "j_idx": 392,
+    "jakso_id": "tag:soundcloud,2010:tracks/687068518",
+    "jakso_otsikko": "26.9.2019: Ilmastokokous, brexitin ja Trumpin tuoreimmat käänteet, Kokoomus ja ahkera keskiluokka",
+    "paivamaara": "26.9.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/548f3379-f155-4e08-82b2-a48e234478a8.mp3",
+    "kesto_sek": 3754,
+    "kesto_str": "01:02:34",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "26.9.2019: Ilmastokokous, brexitin ja Trumpin tuoreimmat käänteet, Kokoomus ja ahkera keskiluokka by Helsingin Sanomat",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Storybased Inquiry -journalistinen metodi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "journalismi",
+          "metodi",
+          "tutkiva toimittajuus"
+        ],
+        "kuvaus": "Ranskalaisten toimittajien, tutkijoiden ja opettajien kehittämä tutkivan journalismin metodi, jossa lähdetään liikkeelle hypoteesista ennen aineiston keruuta. Sopii myös journalismin ulkopuoliseen ajatteluun.",
+        "google_linkki": "https://www.google.com/search?q=Storybased+Inquiry+journalism+method",
+        "lisatieto_linkki": "https://www.google.com/search?q=Story+Based+Inquiry+Association"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Mindscape-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tiede",
+          "fysiikka",
+          "keskusteluohjelma"
+        ],
+        "kuvaus": "Fyysikko Sean Carrollin pitämä podcast, jossa hän keskustelee älykkäästi ja miellyttävällä tyylillä eri aiheiden asiantuntijoiden kanssa. Yli 65-osainen sarja.",
+        "google_linkki": "https://www.google.com/search?q=Mindscape+podcast+Sean+Carroll",
+        "lisatieto_linkki": "https://open.spotify.com/search/Mindscape%20Sean%20Carroll"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Radio Sodoma, toinen tuotantokausi",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kuunnelma",
+          "komedia",
+          "Yle Areena"
+        ],
+        "kuvaus": "Antti Holman kirjoittama ja näyttelemä radiokuunnelma, jonka toinen tuotantokausi on saatavilla Yle Areenassa. Tällä kaudella Sodomaniemen paikallisradiossa kamppaillaan organisaatiouudistuksen kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Radio+Sodoma+toinen+tuotantokausi+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Radio+Sodoma"
+      }
+    ]
+  },
+  {
+    "j_idx": 39,
+    "jakso_id": "5ae70b59-55ee-4a4e-9cf2-290640c7a9b8",
+    "jakso_otsikko": "Trumpin nuoleskelu, Ruotsi vie kaiken, maanantailorvinta",
+    "paivamaara": "26.6.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/5ae70b59-55ee-4a4e-9cf2-290640c7a9b8.mp3",
+    "kesto_sek": 3428,
+    "kesto_str": "57:08",
+    "rss_osallistujat": [
+      "Hanna Havusto",
+      "Helmi Sundström",
+      "John Helin",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "<p>Jaksossa aiheina Nato-johtajien Yhdysvaltain presidenttiin Donald Trumpiin kohdistama erikoinen mielistely, Ruotsin Suomeen verrattuna ylivertainen maakuva sekä tutkimuksen mukaan maanantaisin korostuvat sairauspoissaolot.</p><p>Studiossa Rasmus Helaniemi, Helmi Sundström, Hanna Havusto ja John Helin.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Helmi Sundström",
+        "teos": "Kun saa rakastaa",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "sateenkaari",
+          "seniorit"
+        ],
+        "kuvaus": "Yle Areenan dokumenttisarja, jossa seurataan seitsemää sateenkaarisenioria. Kuusiosainen lämminhenkineen sarja käsittelee rakkautta, parisuhdetta ja vanhuutta.",
+        "google_linkki": "https://www.google.com/search?q=Kun+saa+rakastaa+Yle+Areena+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kun+saa+rakastaa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Johnn Helin",
+        "teos": "Ursan Aurinkokuntamalli",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "luontopolku",
+          "tähtitiede",
+          "kaupunkivaellus"
+        ],
+        "kuvaus": "Helsingin ja Espoon rajalla sijaitseva kävelyreittikokonaisuus, jossa aurinkokunta on esitetty mittakaavassa maastossa. Aurinko sijaitsee Patterimäessä ja planeetat on sijoiteltu pitkin reittiäaina Länsiväylän varteen asti.",
+        "google_linkki": "https://www.google.com/search?q=Ursan+Aurinkokuntamalli+Helsinki+Espoo+Patterimäki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ursan+Aurinkokuntamalli+Helsinki+Espoo+Patterimäki"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Hanna Havusto",
+        "teos": "Journalisti.fi – Marko-Oskari Lehtosen haastattelu",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "journalismi",
+          "media",
+          "metapohdinta"
+        ],
+        "kuvaus": "Iltalehden politiikan toimittaja Marko-Oskari Lehtosen haastattelu, jossa pohditaan miksi ihmiset haluavat kuunnella podcasteja, joissa toimittajat puhuvat keskenään.",
+        "google_linkki": "https://www.google.com/search?q=Journalisti.fi+Marko-Oskari+Lehtonen+haastattelu",
+        "lisatieto_linkki": "https://www.journalisti.fi"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Hanna Havusto",
+        "teos": "Suomen Lehdistön podcast – Paavo Teittisen haastattelu",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "journalismi",
+          "media",
+          "oikeudenkäynnit"
+        ],
+        "kuvaus": "Suomen Lehdistön podcastin jakso, jossa Paavo Teittinen kertoo millaista on kun juttujen kohteet haastavat toimittajia käräjille ja miten paljon se vie työaikaa.",
+        "google_linkki": "https://www.google.com/search?q=Suomen+Lehdistö+podcast+Paavo+Teittinen",
+        "lisatieto_linkki": "https://open.spotify.com/search/Suomen%20Lehdist%C3%B6%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 366,
+    "jakso_id": "tag:soundcloud,2010:tracks/783794824",
+    "jakso_otsikko": "26.3.2020: Marinin suuri suunnitelma, hallitus vs perustuslakiproffat, Uudenmaan karanteeni",
+    "paivamaara": "26.3.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/5b895466-8306-40f3-bed8-b7ae13ef2226.mp3",
+    "kesto_sek": 3526,
+    "kesto_str": "58:46",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat edelleen karanteeniolosuhteista, edelleen Marian aivan onnettomien internetyhteyksien rankaisemina, mutta näistä aiheista: pääministeri Sanna Marin ja THL ovat hieroneet Suomen Suurta Suunnitelmaa, jonka avulla koronasta päästään eroon – mikä se on, ja onko se hyvä? Maria on selvittänyt ja kertoo. Lisäksi puhumme ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Perfectloaf.com – hapanleipäsaitti",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "leivonta",
+          "hapanleipä",
+          "ruoanlaitto"
+        ],
+        "kuvaus": "Verkkosivusto leivän leivonnan harrastajille, erityisesti hapanleivän tekemiseen. Sisältää ohjeet taikinan taittamiseen, viiltämiseen ja juuren kasvattamiseen.",
+        "google_linkki": "https://www.google.com/search?q=The+Perfect+Loaf+hapanleip%C3%A4",
+        "lisatieto_linkki": "https://www.theperfectloaf.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Say Nothing",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "Pohjois-Irlanti",
+          "tositapahtumat"
+        ],
+        "kuvaus": "Tositapahtumiin perustuva kirja Pohjois-Irlannin konflikteista, IRA:sta ja yksittäisten ihmisten elämäntarinoista Belfastissa 1960–70-luvuilla. Erittäin vaikuttava ja kiehtova teos.",
+        "google_linkki": "https://www.google.com/search?q=Say+Nothing+Patrick+Radden+Keefe",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Say+Nothing"
+      }
+    ]
+  },
+  {
+    "j_idx": 3,
+    "jakso_id": "266b1bb4-9359-4ed6-b79b-78a85a03b722",
+    "jakso_otsikko": "Sota 4v – mitäs nyt?, tekoäly, mitalikato",
+    "paivamaara": "26.2.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/266b1bb4-9359-4ed6-b79b-78a85a03b722.mp3",
+    "kesto_sek": 5327,
+    "kesto_str": "01:28:47",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski ja Jussi Niemeläinen keskustelevat Venäjän murhakampanjasta Ukrainassa – se täytti neljä vuotta, ja tasavallan presidentti Alexander Stubb kohosi tällä(kin) viikolla yhdeksi hallitsevista äänistä Euroopassa; ja lisäksi tekoälykeskustelusta Suomessa, joka on ja pysyy tekoälyskeptikkojen hallinnassa, sekä hiihdosta ja Suomen olympiajoukkuee",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Humiseva harju",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikkokirjallisuus",
+          "gothic",
+          "rakkaus"
+        ],
+        "kuvaus": "Emily Brontën klassikkoromaani vuodelta 1847, joka kertoo kostosta, väkivallasta, katkeruudesta sekä rikkaiden ja köyhien välisistä jännitteistä. Tuomas suosittelee kirjaa elokuva-adaptaation sijaan.",
+        "google_linkki": "https://www.google.com/search?q=Humiseva+harju+Emily+Brontë",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Wuthering+Heights+Emily+Brontë"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Pohjoisten kansojen historia – Olaus Magnus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "1500-luku",
+          "Pohjoismaat"
+        ],
+        "kuvaus": "Ruotsalaisen piispan Olaus Magnuksen 1500-luvulla latinaksi kirjoittama teos, jossa käydään läpi pohjoisten kansojen elämää – mukaan lukien suomalaisten juustonvalmistus ja saamelaisten hiihtotaidot. Tuomas tutustui teokseen tekoälyn avulla Projekt Runebergin kautta.",
+        "google_linkki": "https://www.google.com/search?q=Pohjoisten+kansojen+historia+Olaus+Magnus",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Historia+de+Gentibus+Septentrionalibus+Olaus+Magnus"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Dolce & Gabbana pistaasilevite",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "italialainen",
+          "herkku",
+          "levite"
+        ],
+        "kuvaus": "Dolce & Gabbanan makeahko pistaasilevite, jota Jussi Niemeläinen tuo yleensä Milanosta. Sopii erinomaisesti esimerkiksi piparin päälle.",
+        "google_linkki": "https://www.google.com/search?q=Dolce+Gabbana+pistachio+spread",
+        "lisatieto_linkki": "https://www.google.com/search?q=Dolce+Gabbana+pistachio+cream+buy"
+      }
+    ]
+  },
+  {
+    "j_idx": 379,
+    "jakso_id": "tag:soundcloud,2010:tracks/732834520",
+    "jakso_otsikko": "26.12.2019: Vuoden lausunto, vuoden somekohu, vuoden pieni uutinen",
+    "paivamaara": "26.12.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/1129bb28-a055-4681-bed6-6bd413925973.mp3",
+    "kesto_sek": 3298,
+    "kesto_str": "54:58",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon joulujaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat kuluneesta vuodesta. Jokainen on valinnut kepeän tai raskaan aiheen kategorioista Vuoden lausunto, vuoden somekohu, vuoden pieni uutinen, ja he keskustelevat näiden poimintojen syvällisemmistä tai vähemmän syvällisistä (mustat kanat) merkityksistä.\nJoulun glögien äärellä tapahtuvien pitkien epämukavien hiljai",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Karakasissa on vielä yö",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "Venezuela",
+          "poliittinen kriisi"
+        ],
+        "kuvaus": "Romaani, joka kuvaa Venezuelan poliittista kriisiä ja arkea. Suositellaan, koska taide voi välittää poliittisia kriisejä paremmin kuin uutiset.",
+        "google_linkki": "https://www.google.com/search?q=Karakasissa+on+vielä+yö",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Karakasissa+on+vielä+yö"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Elements of Style",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "kirjoittaminen",
+          "opas",
+          "tyyli"
+        ],
+        "kuvaus": "William Strunk Jr. ja E.B. Whiten klassinen 30-sivuinen kirjoittamisopas, jota pidetään kautta aikojen parhaana kirjoittamisen käsikirjana. Pakollista luettavaa amerikkalaisissa yliopistoissa.",
+        "google_linkki": "https://www.google.com/search?q=The+Elements+of+Style+Strunk+White",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Elements+of+Style+Strunk+White"
+      }
+    ]
+  },
+  {
+    "j_idx": 333,
+    "jakso_id": "tag:soundcloud,2010:tracks/936479926",
+    "jakso_otsikko": "26.11.2020: Koronan leviäminen, Unkari ja Puola, Maradona",
+    "paivamaara": "26.11.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/ebbcc29f-5117-4041-b3e8-b0536dccaa75.mp3",
+    "kesto_sek": 3646,
+    "kesto_str": "01:00:46",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon Uutisraportti podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat ajankohtaisista aiheista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. K",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Burning Down the House",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "elämäkerta"
+        ],
+        "kuvaus": "Julian Zelizerin kirjoittama elämäkerta Newt Gingrichistä, republikaanien kongressin puhemiehestä, jota pidetään trumpilaisuuden varhaisena ilmentymänä. Kirja kuvaa yksityiskohtaisesti, kuinka Gingrich manipuloi mediaa ja käytti aggressiivista hyökkäystaktiikkaa politiikassa.",
+        "google_linkki": "https://www.google.com/search?q=Burning+Down+the+House+Julian+Zelizer+Newt+Gingrich",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Burning+Down+the+House+Julian+Zelizer"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Heräämisiä (Awakenings)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "lääketiede",
+          "1990-luku"
+        ],
+        "kuvaus": "Robin Williamsin tähdittämä koskettava draama vuodelta 1990, joka perustuu neurologi Oliver Sacksin omakohtaiseen kirjaan. Elokuva kertoo potilaista, jotka ovat vuosikymmeniä olleet oman kehonsa vankina von Economon taudin vuoksi, ja lääkäristä joka yrittää herättää heidät elämään L-dopa-lääkkeellä.",
+        "google_linkki": "https://www.google.com/search?q=Awakenings+1990+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Awakenings+1990"
+      }
+    ]
+  },
+  {
+    "j_idx": 188,
+    "jakso_id": "tag:soundcloud,2010:tracks/1649789154",
+    "jakso_otsikko": "26.10.2023: Putki vs ankkuri, presidentinvaalit, influensserit politiikassa",
+    "paivamaara": "26.10.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/df11437f-e84a-4e23-a891-843eef1e6855/1649789154-uutisraportti-26102023-putki-vs-ankkuri-presidentinv.mp3",
+    "kesto_sek": 4929,
+    "kesto_str": "01:22:09",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina krp:n selvitykset kaasuputken surullisesta kohtalosta kiinalaisaluksen käsissä, presidentinvaaliasetelmat, HS:n profiili Halla-ahosta, Mika Aaltolan Fuengirola-mutkat, ja kansanedustaja Ville Merisen ehdotus että influensserit voisivat jatkaa influenssoimista myös kansanedustajina.  \nStudiossa Tuomas Peltomäki, Marko Junkkari, Salla Vuorikoski ja Anni Keski-Heikkilä. ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Pölynimurikauppiaat",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "nostalgia",
+          "1990-luku"
+        ],
+        "kuvaus": "Klassikkodokumentti 1990-luvun alusta, joka seuraa HadenGreen-firman pölynimurikauppiaita heidän kulkiessaan ovelta ovelle. Löytyy Yle Areenasta.",
+        "google_linkki": "https://www.google.com/search?q=Pölynimurikauppiaat+dokumentti+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Pölynimurikauppiaat"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sateentekijät – Eräänlaiset päiväkirjat 1992–2001",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "talous",
+          "päiväkirja"
+        ],
+        "kuvaus": "Björn Wahlroosin päiväkirjojen toinen osa, kirjoitettu yhdessä Jarkko Pajusen kanssa. Marko Junkkari suosittelee kirjaa laadukkaana teoksena, mutta huomauttaa ironisesti, että Wahlroosin elämä vaikuttaa yllättävän tylsältä valtavasta vallasta ja rahasta huolimatta.",
+        "google_linkki": "https://www.google.com/search?q=Sateentekijät+päiväkirjat+Björn+Wahlroos+Jarkko+Pajunen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät+Björn+Wahlroos"
+      }
+    ]
+  },
+  {
+    "j_idx": 26,
+    "jakso_id": "6d1db8c7-4504-4efb-bbce-3b955a9fd79a",
+    "jakso_otsikko": "Nuorisotyöttömyysvibes, Palestiina, 90-luku",
+    "paivamaara": "25.9.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/6d1db8c7-4504-4efb-bbce-3b955a9fd79a.mp3",
+    "kesto_sek": 4932,
+    "kesto_str": "01:22:12",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Marko keskustelevat Suomen ajautumisesta taloudellisesti hyvin synkkiin vibesiin, kuten nuorisolaiset asiaa nimittävät, ja heillähän tunnelmat ovat kaikkein synkimmät. Lisäksi aiheena Suomen pyristely Palestiinan-tunnustamiskysymyksessä, ja ysäri.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Clint",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "Hollywood",
+          "western"
+        ],
+        "kuvaus": "Shawn Levyn kirjoittama tuore elämäkerta Clint Eastwoodista. Yksityiskohtainen ja hauska teos, joka kertaa Eastwoodin uran italialaisista spagettiwesterneistä lähtien.",
+        "google_linkki": "https://www.google.com/search?q=Clint+Shawn+Levy+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Clint+Shawn+Levy"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "One Battle After Another",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "Paul Thomas Anderson"
+        ],
+        "kuvaus": "Paul Thomas Andersonin ohjaama elokuva, joka saa ensi-iltansa Suomessa. Podcastissa kehuttiin sitä runsaasti ja suositeltiin lämpimästi.",
+        "google_linkki": "https://www.google.com/search?q=One+Battle+After+Another+Paul+Thomas+Anderson",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Battle+After+Another"
+      }
+    ]
+  },
+  {
+    "j_idx": 341,
+    "jakso_id": "tag:soundcloud,2010:tracks/899397160",
+    "jakso_otsikko": "25.9.2020: Koronavirustilanne, poliittinen väkivalta, USA:n korkein oikeus",
+    "paivamaara": "25.9.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/bf72bd0f-77c1-4bb7-88bf-7ba91198d12b.mp3",
+    "kesto_sek": 4066,
+    "kesto_str": "01:07:46",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Suomen toimista koronvirusepidemian pahentuessa, poliittisesta väkivallasta Suomessa kammottavan ns. Vasaranatsi-tapauksen myötä, ja Ruth Bader Ginsburgin kuolemasta ja sen vaikutuksesta USA:n vaaleihin.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ensilumi",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "monikulttuurisuus",
+          "suomalainen elokuva"
+        ],
+        "kuvaus": "Iranilaissuomalaisen perheen tarina, jossa kuvataan ihmisyyttä hienolla tavalla. Elokuvassa on loistava teinien näkökulma ja hyvät näyttelijät, kuten Laura Birn ja Kristiina Halkola.",
+        "google_linkki": "https://www.google.com/search?q=Ensilumi+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ensilumi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Nosferatu (1922)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "mykkäelokuva",
+          "kauhuelokuva",
+          "live-säestys"
+        ],
+        "kuvaus": "Klassinen mykkäelokuva live-musiikkisäestyksellä Rakkautta ja Anarkiaa -festivaalilla. Upea ja mieletön kokemus, jota kannattaa ehdottomasti hakea.",
+        "google_linkki": "https://www.google.com/search?q=Nosferatu+1922+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Nosferatu+1922"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "What It Takes",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "non-fiction"
+        ],
+        "kuvaus": "Vuoden 1988 Yhdysvaltain presidentinvaaleja käsittelevä teos, jossa kuvataan yksityiskohtaisesti ehdokkaiden elämäntarinat. Sisältää muun muassa huikean kuvauksen nuoresta Joe Bidenista ja hänen matkastaan änkyttävästä pojasta ilmiömäiseksi puhujaksi.",
+        "google_linkki": "https://www.google.com/search?q=What+It+Takes+Richard+Ben+Cramer",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=What+It+Takes"
+      }
+    ]
+  },
+  {
+    "j_idx": 245,
+    "jakso_id": "tag:soundcloud,2010:tracks/1331124493",
+    "jakso_otsikko": "25.8.2022: Sanna Marin I, Sanna Marin II, muovi",
+    "paivamaara": "25.8.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/40b0e80d-b106-4c46-a588-75119989d786.mp3",
+    "kesto_sek": 4260,
+    "kesto_str": "01:11:00",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat häkellyttävän pitkään Sanna Marinin tissi- ja partygatesta – jopa niin että keskimmäinen sähköaihe joudutaan jättämään välistä –, ja muovitutkimuksesta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "This Is Us",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "perhe",
+          "ihmissuhteet"
+        ],
+        "kuvaus": "Ihmissuhdedraama, joka seuraa kolmikkoa sisaruksia 35-vuotiaina ja takautumien kautta heidän lapsuuttaan. Tarina käsittelee rotujen välistä dynamiikkaa ja ihmisyyttä.",
+        "google_linkki": "https://www.google.com/search?q=This+Is+Us+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=This+Is+Us"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tuca & Bertie",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "animaatio",
+          "komedia",
+          "naisystävyys"
+        ],
+        "kuvaus": "Sairaan hauska animaatiosarja kahdesta kolmekymppisestä lintunaisesta, joka käsittelee työtä, parisuhdetta ja ystävyyttä. HBO Maxilla saatavilla useampi kausi.",
+        "google_linkki": "https://www.google.com/search?q=Tuca+%26+Bertie+animaatiosarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tuca+and+Bertie"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "PS Tykitellään",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "musiikki",
+          "popmusiikki",
+          "analyysi"
+        ],
+        "kuvaus": "Analyyttinen ja ajankohtainen popmusiikkipodcast, jota vetävät Oskari Onninen ja Niko Vartiainen. Innostaa kuuntelemaan uutta musiikkia ja irrottautumaan uutisvirrasta.",
+        "google_linkki": "https://www.google.com/search?q=PS+Tykitell%C3%A4%C3%A4n+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/PS%20Tykitell%C3%A4%C3%A4n"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Have You Heard George's Podcast?",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "yhteiskunta",
+          "runous",
+          "rap"
+        ],
+        "kuvaus": "BBC:n podcast, jossa brittiläinen räppäri ja runoilija George the Poet käsittelee yhteiskunnan tasa-arvoa ja mustien brittien elämää poikkeuksellisen taiteellisesti yhdistäen puheen, riimit ja musiikin.",
+        "google_linkki": "https://www.google.com/search?q=Have+You+Heard+George%27s+Podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Have%20You%20Heard%20George%27s%20Podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 401,
+    "jakso_id": "tag:soundcloud,2010:tracks/656145794",
+    "jakso_otsikko": "25.7.2019: Hassuja tukkia, propagandaa ja väärennettyjä profiileja",
+    "paivamaara": "25.7.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/3c306214-5c54-468a-ac54-206a31cb2173.mp3",
+    "kesto_sek": 3501,
+    "kesto_str": "58:21",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "25.7.2019: Hassuja tukkia, propagandaa ja väärennettyjä profiileja by Helsingin Sanomat",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "Kainuun Raja (Twitter-tili)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "some",
+          "eläimet",
+          "rajavartiosto"
+        ],
+        "kuvaus": "Kainuun rajavartioston Twitter-tili, jossa jaetaan kuvia koirista, univormuukkelista ja riistakamerakuvia eläimistä. Suositellaan Twitterin käytön vähentämisen sijaan.",
+        "google_linkki": "https://www.google.com/search?q=Kainuun+Raja+Twitter",
+        "lisatieto_linkki": "https://twitter.com/KainuunRaja"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Blade Runner",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "scifi",
+          "klassikko",
+          "muistolle"
+        ],
+        "kuvaus": "Ridley Scottin klassinen scifi-elokuva vuodelta 1982, jossa Harrison Ford ja Rutger Hauer näyttelevät päärooleja. Suositeltu Rutger Hauerin muistolle, joka kuoli 75-vuotiaana.",
+        "google_linkki": "https://www.google.com/search?q=Blade+Runner+1982",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Blade+Runner+1982"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Jos tämä on ihminen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "holokausti",
+          "muistelmat"
+        ],
+        "kuvaus": "Primo Levin omakohtainen teos Auschwitzin keskitysleirin kauhuista ja ihmisyyden merkityksestä äärimmäisissä olosuhteissa. Suositellaan asioiden mittasuhteiden palauttamiseksi.",
+        "google_linkki": "https://www.google.com/search?q=Jos+t%C3%A4m%C3%A4+on+ihminen+Primo+Levi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jos+t%C3%A4m%C3%A4+on+ihminen"
+      }
+    ]
+  },
+  {
+    "j_idx": 353,
+    "jakso_id": "tag:soundcloud,2010:tracks/846655741",
+    "jakso_otsikko": "25.6.2020: Washington Postin cancel-artikkeli ja Eskimot, translaki, Juha Mäenpään syytesuoja",
+    "paivamaara": "25.6.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/eeed5062-9ad7-4986-9c48-d0b3349991ae.mp3",
+    "kesto_sek": 3567,
+    "kesto_str": "59:27",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat Washington Postin cancel-artikkelista ja Eskimo-jäätelöstä, translaista ja kansanedustaja Mäenpään syytesuojasta.\n\nEpämukavien hiljaisuuksien varalle Onni Niemi suosittelee Panu Hietanevan Koiria ja ihmisiä -podcastia (https://areena.yle.fi/audio/1-50538411), Iida Sofia Hirvonen suosittelee Funeral Parade of Roses",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Koiria ja ihmisiä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "eläimet",
+          "dokumentti"
+        ],
+        "kuvaus": "Panu Hietasen podcast Yle Areenassa, joka käsittelee koirien ja ihmisen yhteen nivoutunutta historiaa tutkimusmatkoilta sotatantereille ja kansainväliseen politiikkaan. Aiheina muun muassa koira tiibetiläisessä buddhalaisuudessa, eläinteologia ja koira kylmän sodan aikana.",
+        "google_linkki": "https://www.google.com/search?q=Koiria+ja+ihmisi%C3%A4+Panu+Hietanen+podcast",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Koiria+ja+ihmisi%C3%A4"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Antti Holman oopperajuhlat",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "ooppera",
+          "kulttuuri",
+          "huumori"
+        ],
+        "kuvaus": "Antti Holman tekemä hauska oopperaaiheinen podcast Yle Areenassa. Kevyttä ja viihdyttävää kuunneltavaa, jossa Holma esittelee oopperaa omalla tyylillään ilman loukkaavuutta.",
+        "google_linkki": "https://www.google.com/search?q=Antti+Holman+oopperajuhlat+Yle",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Antti+Holman+oopperajuhlat"
+      }
+    ]
+  },
+  {
+    "j_idx": 207,
+    "jakso_id": "tag:soundcloud,2010:tracks/1522418779",
+    "jakso_otsikko": "25.5.2023: Ps-ulosmarssi uhkaa, Pride vs. kok, DeSantiksen kampanja-avaus",
+    "paivamaara": "25.5.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/90ef71f7-121e-452b-a8d9-1e76eb7c693c/1522418779-uutisraportti-2552023-ps-ulosmarssi-uhkaa-pride-vs-k.mp3",
+    "kesto_sek": 4099,
+    "kesto_str": "01:08:19",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustellaan hallitusneuvotteluiden ajautumisesta tilanteeseen, jossa perussuomalaisten ulosmarssi vaikutaa mahdolliselta. Se puolestaan voi johtaa paradoksaalisesti perussuomalaishallitukseen. Lisäksi aiheina kokoomuksen ja Helsinki Pride -yhteisön ajautuminen viikon somekuohuksi, ja DeSantiksen vähän surullinen kampanja-avaus Twitterissä.\n\nStudiossa Tuomas Peltomäki, Marko",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "TikTok",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sosiaalinen media",
+          "algoritmi",
+          "musiikki"
+        ],
+        "kuvaus": "TikTokin algoritmi on poikkeuksellisen hyvä löytämään juuri sinulle sopivaa sisältöä – esimerkiksi unohdettuja musiikkihelmiä tai tuntemattomien artistien versioita klassikoista.",
+        "google_linkki": "https://www.google.com/search?q=TikTok",
+        "lisatieto_linkki": "https://www.tiktok.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Logical Song – Lisele Green (kitaraversio)",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "cover",
+          "akustinen",
+          "70-luku"
+        ],
+        "kuvaus": "Tuntematon artisti Lisele Green on tehnyt koskettavan minuutti 30 sekunnin kitaraversion Supertramp-yhtyeen klassikosta The Logical Song, jonka Marko löysi TikTokin kautta.",
+        "google_linkki": "https://www.google.com/search?q=Lisele+Green+The+Logical+Song",
+        "lisatieto_linkki": "https://open.spotify.com/search/Lisele%20Green%20The%20Logical%20Song"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Nervous States",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "filosofia",
+          "politiikka"
+        ],
+        "kuvaus": "William Daviesin teos pyrkii selittämään, miksi nykymaailma on niin jännitteinen ja täynnä patoutunutta aggressiota – kirja käy läpi muun muassa kartesiolaisen mieli–keho-kahtiajaon perintöä ja sen vaikutusta yhteiskuntaluokkien väliseen katkokseen.",
+        "google_linkki": "https://www.google.com/search?q=Nervous+States+William+Davies",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Nervous+States+William+Davies"
+      }
+    ]
+  },
+  {
+    "j_idx": 48,
+    "jakso_id": "9ba40f8c-f05b-4829-afa4-d3b0c728b9fd",
+    "jakso_otsikko": "Veronkevennykset, oikeusvaltio ja Ozempic",
+    "paivamaara": "25.4.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/9ba40f8c-f05b-4829-afa4-d3b0c728b9fd.mp3",
+    "kesto_sek": 5167,
+    "kesto_str": "01:26:07",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa puhutaan Petteri Orpon hallituksen puoliväliriihestä ja sen oudoista haaveista dynaamisista vaikutuksista, kenties jopa trickle down -efektistä. Lisäksi aiheina Suomen oikeusvaltion viimekätiset niitit ja mikä niissä on vikana, ja lihavuuslääke Ozempic, yhdessä muiden lihavuuslääkkeiden kanssa, ja niiden vaikutukset yltäkylläisyydessä elävän länsimaisen ihmisen elämään ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Stenbäck",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "ruotsalainen draama",
+          "bisneshistoria",
+          "sukutarina"
+        ],
+        "kuvaus": "Ruotsalainen tosipohjainen draamasarja Jan Stenbeckistä ja Kinnevik-sukuyhtiöstä. Kertoo Ruotsin muuttumisesta ja mainostelevision synnystä sekä sukutraumasta.",
+        "google_linkki": "https://www.google.com/search?q=Stenb%C3%A4ck+tv-sarja+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Stenb%C3%A4ck"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Lassila",
+        "teos": "Käräjät",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "historiallinen romaani",
+          "kaunokirjallisuus"
+        ],
+        "kuvaus": "Markus Nummen historiallinen romaani, joka kertoo vanhoista ajoista Suomessa ja oikeusvaltion haasteista. Yksi parhaista uusista suomalaisista kaunokirjallisista teoksista.",
+        "google_linkki": "https://www.google.com/search?q=K%C3%A4r%C3%A4j%C3%A4t+Markus+Nummi+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=K%C3%A4r%C3%A4j%C3%A4t+Markus+Nummi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "History 5: The Making of Modern Europe (1453 to the Present)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "yliopistoluento",
+          "Eurooppa"
+        ],
+        "kuvaus": "Berkeleyn yliopiston professori Margaret Andersonin luento-kurssi Euroopan ja länsimaiden historiasta vuodesta 1453 nykypäivään. Löytyy Spotifysta aktivistien tallentamana.",
+        "google_linkki": "https://www.google.com/search?q=History+5+The+Making+of+Modern+Europe+Margaret+Anderson+Berkeley",
+        "lisatieto_linkki": "https://open.spotify.com/search/History%205%20Spring%202008%20The%20Making%20of%20Modern%20Europe"
+      }
+    ]
+  },
+  {
+    "j_idx": 164,
+    "jakso_id": "tag:soundcloud,2010:tracks/1807691826",
+    "jakso_otsikko": "25.4.2024: Juuson säästölausumat, Trumpin oikeudenkäynnit, Ukraina in Tiktok out",
+    "paivamaara": "25.4.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/69bcc205-cdd2-470c-b813-82f423fe81af.mp3",
+    "kesto_sek": 4749,
+    "kesto_str": "01:19:09",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Anni Keski-Heikkilä",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Anni Keski-Heikkilä ja Anna-Sofia Berner keskustelevat sosiaali- ja terveysministeri Kaisa Juuson ympärille kietoutuneesta leikkauskuohunnasta, ja USA:ssa alkaneesta Trumpin Stormy Daniels -oikeudenkäynnistä, sekä kongressin päätöksestä antaa Ukrainalle aseapupaketti ja bännätä Tiktok.\n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uuti",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "David Beckham (dokumenttisarja)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "jalkapallo",
+          "90-luku"
+        ],
+        "kuvaus": "Netflix-dokumenttisarja David Beckhamista, joka tarjoaa nostalgiapaketin 90-luvun jalkapallokulttuurista ja kurkistuksen Beckhamien kotielämään. Sisältää myös draamaa ja luokkanousun tarinan.",
+        "google_linkki": "https://www.google.com/search?q=David+Beckham+dokumentti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Beckham+documentary+Netflix"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Civil War (elokuva)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "toiminta",
+          "politiikka",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Jännittävä elokuva Yhdysvaltain sisällissodasta ja maan kahtiajaosta. Äärimmäisen jännittävä – penkkiä puristetaan koko ajan. Hesarin Pekka Torvinen antoi viisi tähteä.",
+        "google_linkki": "https://www.google.com/search?q=Civil+War+2024+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Civil+War+2024"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kymmenen haavaa Amerikan sydämessä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "Yhdysvallat",
+          "politiikka",
+          "reportaasi"
+        ],
+        "kuvaus": "Erinomainen kirja, joka on sekä kaunokirjallisesti kaunis että lähes tieteellinen katsaus siihen, mitä Yhdysvalloissa on nyt meneillään. Asiatekstin priimaa.",
+        "google_linkki": "https://www.google.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kymmenen+haavaa+Amerikan+syd%C3%A4mess%C3%A4"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Love.Wats (Instagram/TikTok-tili)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sosiaalinen media",
+          "visuaalinen taide",
+          "internet-kulttuuri"
+        ],
+        "kuvaus": "Outo ja mahtava some-tili, jossa julkaistaan visuaalisesti kummallisia ja yllättäviä videoita ja kuvia. Yli kaksi miljoonaa seuraajaa. Joka postaus saa sanomaan ääneen: mikä toi on?",
+        "google_linkki": "https://www.google.com/search?q=love.wats+instagram",
+        "lisatieto_linkki": "https://www.instagram.com/love.wats/"
+      }
+    ]
+  },
+  {
+    "j_idx": 317,
+    "jakso_id": "tag:soundcloud,2010:tracks/1016086960",
+    "jakso_otsikko": "25.3.2021: Liikkumisrajoitukset",
+    "paivamaara": "25.3.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/defcd92e-9980-4531-b0d1-0c9f780805b3.mp3",
+    "kesto_sek": 3618,
+    "kesto_str": "01:00:18",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Annikka Mutanen keskustelevat luonnoksista liikkumisrajoituksiksi koronaepidemian kukistamiseksi. Käsittelyssä ovat rajoitusten epidemiologinen tausta, lakipaketin sisältö ja sen poliittiset motivaatiot.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutis",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Umbrella Academy",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "supersankarit",
+          "seikkailu",
+          "perhe"
+        ],
+        "kuvaus": "Netflix-sarja, joka perustuu sarjakuvaan. Seikkailu- ja supersankaritarina, joka sopii sekä aikuisille että lapsille. Käsittelee lapsuutta, aikuisuutta ja minuuden kysymyksiä samalla kun ratkaistaan aikahyppyihin ja maailmanloppuun liittyviä skenaarioita.",
+        "google_linkki": "https://www.google.com/search?q=The+Umbrella+Academy",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Umbrella+Academy"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tiitinen – vakoilijoita ja veijareita",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "vakoilu",
+          "suomalainen politiikka"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittajan Pekka Ervastin kirjoittama teos eduskunnan ex-pääsihteerin ja Supon ex-johtajan Seppo Tiitisen elämästä. Kuvaa Kekkosen ja Koiviston aikakauden politiikkaa, vakoilupiirejä ja Neuvostoliiton kanssa käytyä diplomatiaa. Saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=Tiitinen+vakoilijoita+ja+veijareita+Pekka+Ervasti",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tiitinen+vakoilijoita+ja+veijareita"
+      }
+    ]
+  },
+  {
+    "j_idx": 321,
+    "jakso_id": "tag:soundcloud,2010:tracks/988871245",
+    "jakso_otsikko": "25.2.2021: Kuulijapalautteita ja -kysymyksiä vol. 2",
+    "paivamaara": "25.2.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/ed1dc39a-53c9-4106-8765-48e0aed2387a.mp3",
+    "kesto_sek": 3073,
+    "kesto_str": "51:13",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Marko ja Maria huilivat ajankohtaisaiheista ja vastailevat kuuntelijoiden postiin.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  a",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Strange Planet (Nathan W. Pyle)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sarjakuva",
+          "huumori",
+          "instagram"
+        ],
+        "kuvaus": "Instagram-sarjakuvatili, jossa alienhahmot kuvaavat täysin tavallisia ihmisten arjen asioita omituisen kirjaimellisella ja vieraannuttavalla tavalla. Hauska ja visuaalisesti toimiva neliruutuinen sarjakuva.",
+        "google_linkki": "https://www.google.com/search?q=Strange+Planet+Nathan+W+Pyle+Instagram",
+        "lisatieto_linkki": "https://www.instagram.com/nathanwpyle/"
+      }
+    ]
+  },
+  {
+    "j_idx": 283,
+    "jakso_id": "tag:soundcloud,2010:tracks/1166616847",
+    "jakso_otsikko": "25.11.2021: Perttuoletettu ja nuorisosäätiön sotkut, Rittenhouse, n-sana",
+    "paivamaara": "25.11.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/9209a312-50aa-48a8-93da-1bbd6d28f5d9/1166616847-uutisraportti-25112021-perttuoletettu-ja-nuorisosaat.mp3",
+    "kesto_sek": 5022,
+    "kesto_str": "01:23:42",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja HS:n Yhdysvaltain-kirjeenvaihtaja Anna-Sofia Berner keskustelevat Junkkarin huikeasta, huimasta Perttuoletettu-jutusta (https://www.hs.fi/sunnuntai/art-2000008411829.html), Kyle Rittenhousen oikeudenkäynnistä ja amerikkalaisten perverssistä suhtautumisesta aseisiin, sekä Sannikka-ohjelman n-sana -gatesta.\n\nUutisraportti podcast on Helsin",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Seinfeld",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "klassikko",
+          "ysäri"
+        ],
+        "kuvaus": "Klassinen yhdysvaltalainen komediasarja 1990-luvulta, joka on nyt saatavilla Netflixissä. Sarja käsittelee new yorkilaisten arkisia tilanteita huumorilla, ja sen hahmot eivät koskaan opi mitään eivätkä kehity.",
+        "google_linkki": "https://www.google.com/search?q=Seinfeld",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Seinfeld"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Honestly with Bari Weiss",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "konservatiivismi",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Entisen New York Times -toimittajan Bari Weissin podcast, joka käsittelee ajankohtaisia aiheita konservatiivisesta ja woke-kriittisestä näkökulmasta. Suosittelija pitää sitä vastenmielisenä mutta kiistattoman fiksuna.",
+        "google_linkki": "https://www.google.com/search?q=Honestly+with+Bari+Weiss",
+        "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20with%20Bari%20Weiss"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Block and Reported",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "kulttuuri",
+          "huumori"
+        ],
+        "kuvaus": "Jesse Singalin ja Katie Herzogerin pitämä podcast, joka käy kriittisesti ja humoristisesti läpi woke-kulttuuria. Suosittelija kehuu sitä erittäin hauskaksi ja ilon lähteeksi.",
+        "google_linkki": "https://www.google.com/search?q=Block+and+Reported+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Block%20and%20Reported"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Politics War Room",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "demokratia"
+        ],
+        "kuvaus": "Demokraattistrategien, muun muassa kuuluisan James Carvillen, pitämä podcast, jossa käydään läpi amerikkalaista politiikkaa ja kritisoidaan woke-kulttuuria. Suosittelija kutsuu sitä kotona 'patupodcastiksi'.",
+        "google_linkki": "https://www.google.com/search?q=Politics+War+Room+podcast+James+Carville",
+        "lisatieto_linkki": "https://open.spotify.com/search/Politics%20War%20Room"
+      }
+    ]
+  },
+  {
+    "j_idx": 176,
+    "jakso_id": "tag:soundcloud,2010:tracks/1727311281",
+    "jakso_otsikko": "25.1.2024: Prez prez prezzz",
+    "paivamaara": "25.1.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/209bf0a7-bd50-4411-a921-033042c472aa/1727311281-uutisraportti-2512024-prez-prez-prezzz.mp3",
+    "kesto_sek": 4780,
+    "kesto_str": "01:19:40",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tällä viikolla kaksiosaisessa podcast-extravaganzassa* käydään läpi tarpeelliset kelailut liittyen sunnuntain presidentinvaaleihin.\n\n\n* Extravaganza. 1800-luvulla hetkellisesti suosioon noussut teatterilaji, jonka yksi leimallinen piirre oli \"\"seksikkyys ilman loukkaavaa julkeutta\"\".\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \nJakson leikkasi Janne Elkki.\n\nPodcastin muut ilmes",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kittilän opetukset – kirja oikeusvaltiosta ja virkavastuusta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "oikeusvaltion",
+          "tietokirja",
+          "suomalainen politiikka"
+        ],
+        "kuvaus": "Pekka Viljasen ja Eeva-Liisa Hynysen kirjoittama teos, joka kertoo Kittilän kuntaskandaalista ja siitä, miten virkarikoksiin liittyvät asiat etenivät oikeusjärjestelmässä. Ilmainen julkaisu Kunnallisalan kehittämissäätiöltä.",
+        "google_linkki": "https://www.google.com/search?q=Kittil%C3%A4n+opetukset+kirja+oikeusvaltiosta+ja+virkavastuusta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kittil%C3%A4n+opetukset"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Erään murhan anatomia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "juridinen",
+          "klassikko"
+        ],
+        "kuvaus": "Robert Traverin 1950-luvulla kirjoittama klassinen oikeussalidekkari, jossa ei ole toimintaa vaan pelkkää juridista taistelua ja kiemuraa. Kirjoittaja toimi itse lakimiehenä ja tuntee aiheen läpikotaisin.",
+        "google_linkki": "https://www.google.com/search?q=Er%C3%A4%C3%A4n+murhan+anatomia+Robert+Traver",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Anatomy+of+a+Murder+Robert+Traver"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Minne katosi Antti Järvi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "Karjala",
+          "sukututkimus"
+        ],
+        "kuvaus": "Tieto-Finlandia-palkittu kirja, jossa kirjailija Antti Järvi etsii isoisänsä isoisän kohtaloa Neuvostoliiton vallattua Karjalan. Hieno kuvaus suomalaisten mielenmaisemasta tuona aikana.",
+        "google_linkki": "https://www.google.com/search?q=Minne+katosi+Antti+J%C3%A4rvi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Minne+katosi+Antti+J%C3%A4rvi"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Jälkisuomettumisen ruumiinavaus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "politiikka",
+          "suomettuminen"
+        ],
+        "kuvaus": "Jukka Virkin kirja, joka käy läpi suomettuneisuutta ja Suomen poliittista kiemurtelua suhteessa Neuvostoliittoon ja Venäjään politiikassa, bisneksessä ja muilla tahoilla.",
+        "google_linkki": "https://www.google.com/search?q=J%C3%A4lkisuomettumisen+ruumiinavaus+Jukka+Virkki",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=J%C3%A4lkisuomettumisen+ruumiinavaus"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Onko Brexit totuus Suomesta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "Brexit",
+          "tietokirja"
+        ],
+        "kuvaus": "Tommi Uschanovin kirja, joka käy läpi Brexitin kehityskulkuja yllättävästä näkökulmasta ja arvioi, missä määrin Suomessa on aineksia vastaavaan populistiseen liikehdintään.",
+        "google_linkki": "https://www.google.com/search?q=Onko+Brexit+totuus+Suomesta+Tommi+Uschanov",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Onko+Brexit+totuus+Suomesta"
+      }
+    ]
+  },
+  {
+    "j_idx": 195,
+    "jakso_id": "tag:soundcloud,2010:tracks/1600138725",
+    "jakso_otsikko": "24.8.2023: Prigožin, Orpo Ukrainassa, Taleban",
+    "paivamaara": "24.8.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/dedf1f84-cfc5-4244-8f05-3e866ccde10d.mp3",
+    "kesto_sek": 3770,
+    "kesto_str": "01:02:50",
+    "rss_osallistujat": [
+      "Joakim Westrén-Doll",
+      "Matilda Jokinen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tässä jaksossa käsitellään Prigožinia, Petteri Orpon vierailua Ukrainassa ja Talebania.\nStudiossa Venla Kuokkanen, Matilda Jokinen ja Joakim Westrén-Doll. \nJakson leikkasi Mikko Peura.\n\nJaksossa mainittuja linkkejä:\nJuttu afganistanilaisnaisista: https://www.hs.fi/ulkomaat/art-2000009787054.html. \n\nLue podcastista lisää tästä jutusta: https://www.hs.fi/nyt/art-2000002918658.html\n\nPodcast toimiteta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Anteeksi lausuminen (Vladei, Pöre tai vastaava hautausmaa-aiheinen teos)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "hautausmaa",
+          "positiivisuus",
+          "arki"
+        ],
+        "kuvaus": "Kirja, jonka päähenkilö hoitaa hautausmaan kukkia antaumuksella. Suosittelijan mukaan yllättävänkin positiivishenkinen teos, jossa kerrotaan haudattujen ihmisten tarinoita elinvuosineen.",
+        "google_linkki": "https://www.google.com/search?q=Anteeksi+lausuminen+hautausmaa+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Anteeksi+lausuminen+hautausmaa"
+      }
+    ]
+  },
+  {
+    "j_idx": 35,
+    "jakso_id": "06a42d54-c4b7-4cfa-82d0-bf398f259399",
+    "jakso_otsikko": "Zelenskyi, Saksa, toimistosutina",
+    "paivamaara": "24.7.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/06a42d54-c4b7-4cfa-82d0-bf398f259399.mp3",
+    "kesto_sek": 3720,
+    "kesto_str": "01:02:00",
+    "rss_osallistujat": [
+      "Hanna Havusto",
+      "John Helin",
+      "Julian Puumalainen",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "<p>Jaksossa aiheina Ukrainan uusi ja mielenosoituksia sytyttänyt korruptionvastainen laki, Saksan kulttuurisotamainen hallituskiista sekä sopiva ja epäsopiva työpaikkapukeutuminen. </p><p>Studiossa Rasmus Helaniemi, Hanna Havusto, John Helin ja Julian Puumalainen.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "The Morning Show",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "televisio",
+          "amerikkalaiset sarjat"
+        ],
+        "kuvaus": "Apple TV+ -sarja, joka kertoo suositun amerikkalaisen aamuohjelman kulissien draamasta ja konflikteista. Pääosissa Jennifer Aniston ja Steve Carell.",
+        "google_linkki": "https://www.google.com/search?q=The+Morning+Show",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Morning+Show"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Naisten EM-jalkapallo 2025 – finaali",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "urheilu",
+          "EM-kisat"
+        ],
+        "kuvaus": "Naisten jalkapallon EM-turnauksen finaali, jota voi katsoa ilmaiseksi. Viihdyttävää jalkapalloa viikonlopuksi.",
+        "google_linkki": "https://www.google.com/search?q=Naisten+EM-jalkapallo+2025+finaali",
+        "lisatieto_linkki": "https://www.google.com/search?q=Naisten+EM-jalkapallo+2025+finaali"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Suomen Kuvalehti",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "aikakauslehti",
+          "pitkät jutut",
+          "suomalainen media"
+        ],
+        "kuvaus": "Viikoittain ilmestyvä suomalainen aikakauslehti, jossa on pitkiä ja laadukkaita artikkeleita. Esimerkiksi jutut kirjastotoimesta ja Trivial Pursuitin historiasta.",
+        "google_linkki": "https://www.google.com/search?q=Suomen+Kuvalehti",
+        "lisatieto_linkki": "https://www.google.com/search?q=Suomen+Kuvalehti+tilaus"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Kusikivi, Etelä-Pohjanmaa",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "historia",
+          "nähtävyydet",
+          "kotimaan matkailu"
+        ],
+        "kuvaus": "Etelä-Pohjanmaalla sijaitseva historiallinen kivi, jonka luona perimätiedon mukaan Ruotsin kuningas on virtsannut 18. heinäkuuta 1752. Kohteessa on museokyltti.",
+        "google_linkki": "https://www.google.com/search?q=Kusikivi+Etel%C3%A4-Pohjanmaa",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kusikivi+Etel%C3%A4-Pohjanmaa+historiallinen+n%C3%A4ht%C3%A4vyys"
+      }
+    ]
+  },
+  {
+    "j_idx": 151,
+    "jakso_id": "tag:soundcloud,2010:tracks/1879770201",
+    "jakso_otsikko": "24.7.2024: Biden & Harris, mustikanpoimijat, ystävyysavioliitto",
+    "paivamaara": "24.7.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/15d11266-72c6-40a9-876f-1457c45388c2/1879770201-uutisraportti-2472024-biden-harris-mustikanpoimijat.mp3",
+    "kesto_sek": 3461,
+    "kesto_str": "57:41",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Heini, Rasmus ja Oskari syväluotaavat Yhdysvaltain presidentinvaalien tuoreimmat käänteet, kun Kamala Harris valmistelee puolue-eliitin ja meemivideoiden tuella astumista Joe Bidenin hylkäämiin ehdokassaappaisiin. Jenkkitykityksen lisäksi pohditaan, kuka poimisi mustikat Suomen metsistä, kun thaimaalaispoimijoille on annettu porttikielto. Puhetta myös japanilaisten seksitt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "True Story",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "true crime",
+          "toimittaja",
+          "äänikirja"
+        ],
+        "kuvaus": "Michael Finkelin kirjoittama true crime -teos, joka kertoo toimittajasta, jonka nimeä perhesurmasta epäilty mies on käyttänyt. Tarina on täynnä yllättäviä käänteitä ja on saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=True+Story+Michael+Finkel",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Story+Michael+Finkel"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Ökyrikkaat aasialaiset -trilogia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "viihdekirjallisuus",
+          "komedia",
+          "seurapiirit"
+        ],
+        "kuvaus": "Kevin Kwanin kolmiosainen viihdekirjallisuuden trilogia (Ökyrikkaat aasialaiset, Ökyrikas tyttöystävä, Ökyrikkaiden ongelmia), joka kertoo käsittämättömän rikkaiden ulkokiinalaisten seurapiirielämästä ja suvun sisäisestä juonittelusta. Erinomaista kesälomakevyttä luettavaa.",
+        "google_linkki": "https://www.google.com/search?q=%C3%96kyrikkaat+aasialaiset+Kevin+Kwan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Crazy+Rich+Asians+Kevin+Kwan"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Kesäkasvispizza",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "pizza",
+          "kesäruoka",
+          "resepti"
+        ],
+        "kuvaus": "Kesäinen kotitekoinen pizza kesäkurpitsalla, kirsikkatomaateilla ja oliiveilla. Loistava resepti kotibileisiin ja sosiaalisiin tilanteisiin – toimii myös peston kanssa.",
+        "google_linkki": "https://www.google.com/search?q=kesäkasvispizza+resepti",
+        "lisatieto_linkki": "https://www.google.com/search?q=kesäkasvispizza+resepti"
+      }
+    ]
+  },
+  {
+    "j_idx": 304,
+    "jakso_id": "tag:soundcloud,2010:tracks/1074845650",
+    "jakso_otsikko": "24.6.2021: Jussi Halla-ahon vetäytyminen, Ruotsin hallituskriisi ja Elokapina",
+    "paivamaara": "24.6.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/42555071-8369-436e-99aa-94966ca864df.mp3",
+    "kesto_sek": 3221,
+    "kesto_str": "53:41",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Elina Kervinen",
+      "Emil Elo",
+      "Jussi Niemeläinen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Elina Kervinen ja Emil Elo keskustelevat Jussi Halla-ahon ilmoituksesta, että hän ei aio jatkaa perussuomalaisten puheenjohtajana. Lisäksi puhutaan Ruotsin hallituskriisistä ja vuokrasääntelystä sekä Elokapinasta ja siitä, miksi se kiivastuttaa ihmisiä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Lumentaju",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "jännitys",
+          "talvi"
+        ],
+        "kuvaus": "Peter Høegin klassikkoromaani, jota suositellaan helteen keskellä luettavaksi – kirja kertoo kylmistä asioista ja auttaa mielikuvien kautta viilentymään.",
+        "google_linkki": "https://www.google.com/search?q=Lumentaju+Peter+H%C3%B8eg",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Lumentaju+Peter+H%C3%B8eg"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Jää",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "talvi"
+        ],
+        "kuvaus": "Ulla-Leena Lundbergin romaani, jota suositellaan helteen keskellä luettavaksi kylmien mielikuvien vuoksi.",
+        "google_linkki": "https://www.google.com/search?q=J%C3%A4%C3%A4+Ulla-Leena+Lundberg",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=J%C3%A4%C3%A4+Ulla-Leena+Lundberg"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Muumit ja taikatalvi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "lastenkirja",
+          "klassikko",
+          "talvi"
+        ],
+        "kuvaus": "Tove Janssonin klassikko, jossa läträtään lumen ja jään kanssa – suositellaan helteen vastapainoksi viilentävänä kesälukemisena.",
+        "google_linkki": "https://www.google.com/search?q=Muumit+ja+taikatalvi+Tove+Jansson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Muumit+ja+taikatalvi+Tove+Jansson"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "UEFA Euro 2020 -jalkapallon EM-kisat",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "EM-kisat",
+          "yhteisöllisyys"
+        ],
+        "kuvaus": "Emil Elo suosittelee jalkapallon EM-kisojen seuraamista juhannuksena – turvallinen ja yhteisöllinen puheenaihe kesäjuhliin.",
+        "google_linkki": "https://www.google.com/search?q=UEFA+Euro+2020+EM-kisat",
+        "lisatieto_linkki": "https://www.google.com/search?q=UEFA+Euro+2020+EM-kisat"
+      }
+    ]
+  },
+  {
+    "j_idx": 267,
+    "jakso_id": "tag:soundcloud,2010:tracks/1237949287",
+    "jakso_otsikko": "24.3.2022: Uusi kylmä sota, EU:n turvatakuut, aamurutiinit",
+    "paivamaara": "24.3.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/868c5742-dfdf-4023-a160-4b313bac59ce.mp3",
+    "kesto_sek": 4692,
+    "kesto_str": "01:18:12",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat lännen ja Venäjän ajautumisesta uuteen kylmään sotaan, Tuomaksen jutusta joka liittyi EU:n turvatakuihin ja niiden historiaan, sekä ei-sotaisana piristyksenä aamurutiineista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaih",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Lähde (koululaisooppera)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "ooppera",
+          "lastenkulttuuri",
+          "teatteri"
+        ],
+        "kuvaus": "Sari Kaasisen (entinen Värttinä) kirjoittama koululaisooppera, jota esitetään kouluissa yhteistyössä Kansallisoopperan kanssa. Noin 45 minuutin mittainen teos, jossa ammattilaulajat ja koululaiset esiintyvät yhdessä.",
+        "google_linkki": "https://www.google.com/search?q=L%C3%A4hde+koululaisooppera+Sari+Kaasinen+Kansallisooppera",
+        "lisatieto_linkki": "https://www.google.com/search?q=L%C3%A4hde+koululaisooppera+Sari+Kaasinen+Kansallisooppera"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "YL-analyysi: Toimittaja hiihti Malmin lentokentällä ja ajatteli suuria ajatuksia",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "satiiri",
+          "media",
+          "journalismi"
+        ],
+        "kuvaus": "Ylioppilaslehdessä julkaistu Tuija Siltamäen satiirinen kolumni, joka räjäyttää auki toimittajien kliseet kansallisista yhteisistä kokemuksista kuten hiihdosta ja saunasta. Taitavasti rakennettu satiiri, joka nauraa toimittajien paatokselliselle kansallisromantiikalle.",
+        "google_linkki": "https://www.google.com/search?q=YL-analyysi+Tuija+Siltam%C3%A4ki+toimittaja+hiihti+Malmin+lentokent%C3%A4ll%C3%A4",
+        "lisatieto_linkki": "https://www.google.com/search?q=YL-analyysi+Tuija+Siltam%C3%A4ki+toimittaja+hiihti+Malmin+lentokent%C3%A4ll%C3%A4"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Helsingin Sanomien Roboääni -kuuntelutoiminto",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sovellus",
+          "teknologia",
+          "lukeminen"
+        ],
+        "kuvaus": "Helsingin Sanomien mobiilisovelluksen tekstistä puheeksi -toiminto, jolla voi kuunnella tallennetut artikkelit putkeen. Suositellaan yhdistettäväksi Pocket-palveluun ja iPhonen VoiceOver-ominaisuuteen kaiken verkkotekstin kuuntelemiseksi.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+Sanomat+Robo%C3%A4%C3%A4ni+kuuntele+sovellus",
+        "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+Sanomat+Robo%C3%A4%C3%A4ni+kuuntele+sovellus"
+      }
+    ]
+  },
+  {
+    "j_idx": 271,
+    "jakso_id": "tag:soundcloud,2010:tracks/1221748702",
+    "jakso_otsikko": "24.2.2022: Venäjän hyökkäys Ukrainaan",
+    "paivamaara": "24.2.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/bffe4d56-e217-4a8b-8c79-e6175bb8f650.mp3",
+    "kesto_sek": 4123,
+    "kesto_str": "01:08:43",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Anna-Sofia Berner",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner ja Alma Onali keskustelevat Venäjän hyökkäyksestä Ukrainaan, Suomen reaktiosta, Suomen Nato-tilanteesta ja tapahtumien aiheuttamista pelon ja vihan tuntemuksista.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Tina Turner -dokumentti",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "elämäkerta"
+        ],
+        "kuvaus": "Dokumentti Tina Turnerin elämästä, väkivaltaisesta parisuhteesta Ike Turnerin kanssa ja hänen nousustaan uransa huipulle viisikymppisenä. Suosittelija itki katsoessaan sen.",
+        "google_linkki": "https://www.google.com/search?q=Tina+Turner+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tina+Turner+documentary"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Schitt's Creek",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "sitcom",
+          "perhe"
+        ],
+        "kuvaus": "Kanadalainen komediasarja ylirikkaasta perheestä, joka menettää omaisuutensa ja joutuu asumaan omistamassaan motellissa pikkukaupungissa. Alkaa hitaasti mutta kasvaa lämpimäksi ja rakastettavaksi sitcomiksi.",
+        "google_linkki": "https://www.google.com/search?q=Schitt%27s+Creek",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Schitt%27s+Creek"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Tytöt 18",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "suomalainen",
+          "nuoret"
+        ],
+        "kuvaus": "Ohjaaja Kati Laukkasen Ylelle tekemä dokumenttisarja, joka seuraa lastensuojelujärjestelmässä kasvaneita tyttöjä heidän täyttäessään 18 vuotta ja astuessaan aikuisten maailmaan. Poikkeuksellisen inhimillinen ja lähelle tuleva käsittelytapa.",
+        "google_linkki": "https://www.google.com/search?q=Tyt%C3%B6t+18+Yle+dokumenttisarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tyt%C3%B6t+18"
+      }
+    ]
+  },
+  {
+    "j_idx": 329,
+    "jakso_id": "tag:soundcloud,2010:tracks/952859740",
+    "jakso_otsikko": "24.12.2020: Al-hol ja joulukooste 2020, baby!",
+    "paivamaara": "24.12.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/5bcf2387-0bc3-4f5f-b010-71d6d520741c.mp3",
+    "kesto_sek": 4194,
+    "kesto_str": "01:09:54",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Studiossa Marko Junkkari ja Tuomas Peltomäki.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sinä osaat, sinä pystyt – Ilkka Suomisen elämäkerta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "politiikka",
+          "historia"
+        ],
+        "kuvaus": "Historiantutkija Riku Keskirauskan kirjoittama elämäkerta kokoomuspoliitikko Ilkka Suomisesta. Marko Junkkari kehuu teosta genrensä parhaaksi ja aikoo aloittaa sen lukemisen jouluna.",
+        "google_linkki": "https://www.google.com/search?q=Sin%C3%A4+osaat+sin%C3%A4+pystyt+Ilkka+Suominen+Riku+Keskirauska",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sin%C3%A4+osaat+sin%C3%A4+pystyt+Ilkka+Suominen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Lighthouse",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "kauhu",
+          "taide-elokuva",
+          "draama"
+        ],
+        "kuvaus": "Robert Eggersin ohjaama mustavalkoinen taide-kauhuelokuva, jossa Willem Dafoe ja Robert Pattinson esittävät kahta majakan vartijaa, jotka alkavat hitaasti seota eristyksessä. Tuomas Peltomäki kehuu sitä uskomattomaksi elokuvakokemukseksi ja parhaaksi näyttelijäntyöksi, mitä on koskaan nähnyt.",
+        "google_linkki": "https://www.google.com/search?q=The+Lighthouse+2019+Robert+Eggers",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Lighthouse+2019"
+      }
+    ]
+  },
+  {
+    "j_idx": 231,
+    "jakso_id": "tag:soundcloud,2010:tracks/1389745555",
+    "jakso_otsikko": "24.11.2022: Qatarin MM-kisat, Mikko Kärnän kollektiivi ja koiran kalleus",
+    "paivamaara": "24.11.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/8ea31b25-75de-412a-979e-a7eb0f0940fd.mp3",
+    "kesto_sek": 3587,
+    "kesto_str": "59:47",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tommi Nieminen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Salla Vuorikoski ja Tommi Nieminen keskustelevat jalkapallon MM-kisoista, kansanedustaja Mikko Kärnän kadoksissa olleen blogin löytymisestä internetin syövereistä sekä siitä, miten kallista on pitää koiraa lemmikkinä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaihee",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Faian vikavalhe",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "dokumentaarinen",
+          "perhe",
+          "historia"
+        ],
+        "kuvaus": "Yle Areenan podcast, jossa Axa Faler kertoo oman sukunsa tarinaa sukupolvien ketjussa. Sivuaa sisällissodan tapahtumia ja isä-poika-suhdetta – kansainvälistä tasoa oleva teos.",
+        "google_linkki": "https://www.google.com/search?q=Faian+vikavalhe+podcast",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Faian+vikavalhe"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Matkoja maalauksiin",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "taide",
+          "maalaukset",
+          "kulttuuri"
+        ],
+        "kuvaus": "Näyttelijä Hannu-Pekka Björkmanin varttitunnin puhejutut Yle Areenassa, joissa hän esittelee yhden klassisen maalauksen kerrallaan perehtyneesti ja retorisesti taitavasti.",
+        "google_linkki": "https://www.google.com/search?q=Matkoja+maalauksiin+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Matkoja+maalauksiin"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The White Lotus – kausi 2",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "draama",
+          "myötähäpeä"
+        ],
+        "kuvaus": "HBO:n satiirinen komediasarja, jonka toisella kaudella amerikkalaisturistit viettävät lomaa italialaisessa hotellissa. Paljastaa ihmismielen synkimmät karmeudet myötähäpeän kera.",
+        "google_linkki": "https://www.google.com/search?q=The+White+Lotus+kausi+2",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+White+Lotus"
+      }
+    ]
+  },
+  {
+    "j_idx": 77,
+    "jakso_id": "2717fa52-d590-4196-9c1c-84a8bbba8b40",
+    "jakso_otsikko": "24.10.2024: USA-vaalitilanne ja Nato-peikko, eduskunnan ilmapiiri, Uutisraportti 10v!!!!!!",
+    "paivamaara": "24.10.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/2717fa52-d590-4196-9c1c-84a8bbba8b40.mp3",
+    "kesto_sek": 5089,
+    "kesto_str": "01:24:49",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tässä 10v-juhlajaksossa Tuomas, Sohvi ja Marko keskustelevat (lyhyesti Viertola-esitutkinnan valmistumisesta), USA:n vaalitilanteesta ja vaalien mahdollisesta vaikutuksesta USA:n Nato-politiikkaan, eduskunnan työilmapiiristä ja Krista Kiuruun kohdistuvista syytöksistä, sekä tästä podcastista ja sitä edeltäneestä poliittisesta satiirisarjasta, joka täyttää TÄNÄÄN 10 vuotta.</p><p>Uutisraportti p",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "And the Band Played On",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "tietokirja",
+          "terveys"
+        ],
+        "kuvaus": "1980-luvun klassikkotietokirja, joka seuraa hetki hetkeltä, miten AIDS saapui maailmaan ja Yhdysvaltoihin. Kertoo myös politiikasta ja siitä, miksi tieteellistä tietoa ei oteta vastaan.",
+        "google_linkki": "https://www.google.com/search?q=And+the+Band+Played+On+Randy+Shilts",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=And+the+Band+Played+On"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Paper of Record: An Oral History of the New York Post 1976–2024",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "journalismi",
+          "historia",
+          "media"
+        ],
+        "kuvaus": "Tuore teos New York Postin historiasta, joka kertoo Rupert Murdochin valtavasta vaikutuksesta lehteen ja amerikkalaisen tabloidikulttuurin muutoksesta. Viihdyttävä ja mukaansatempaava journalismin historia.",
+        "google_linkki": "https://www.google.com/search?q=Paper+of+Record+Oral+History+New+York+Post",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Paper+of+Record+New+York+Post"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Lasse Rantanen – haastattelu Helsingin kirjamessuilla",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "kuvitus",
+          "kirjamessut",
+          "poliittinen satire"
+        ],
+        "kuvaus": "Tuomas Peltomäki haastattelee Helsingin Sanomien huippukuvittajaa Lasse Rantasta Helsingin kirjamessuilla Kruununhaka-lavalla. Rantanen tunnetaan sofistikoituneista poliittisista pilakuvistaan.",
+        "google_linkki": "https://www.google.com/search?q=Lasse+Rantanen+kuvittaja+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.google.com/search?q=Lasse+Rantanen+kuvittaja+Helsingin+Sanomat"
+      }
+    ]
+  },
+  {
+    "j_idx": 388,
+    "jakso_id": "tag:soundcloud,2010:tracks/701035687",
+    "jakso_otsikko": "24.10.2019: USA, Trump, demokraatit ja kaikki muu, Björn Wahlroosin uusi kirja, kurdimielenosoitus",
+    "paivamaara": "24.10.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/24f3b2bc-dcdf-49b2-84bb-4a5405f5db9c.mp3",
+    "kesto_sek": 4016,
+    "kesto_str": "01:06:56",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "HUOM! PODCASTISSA ON INFOA PIKKUJOULUISTA! NE OVAT 4.12! TERVETULOA! Tämän viikon jaksossa Tuomas Peltomäki ja Marko Junkkari saavat studioon podcastin entisen vakijäsenen ja nykyisen HS:n Yhdysvaltain-kirjeenvaihtajan Anna-Sofia Bernerin. Sohvi vastaa podin ystävien lähettämiin kysymyksiin Yhdysvaltojen nykytilasta, politiikasta, demokraattien vaaliasetelmista ja Donald Trumpista. Lisäksi keskust",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Dolly Parton's America",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "dokumentti",
+          "kulttuuri",
+          "Amerikka"
+        ],
+        "kuvaus": "Radiolab-podcastin sarja, joka käsittelee Dolly Partonia ja Amerikkaa. Parton itse on haastateltavana, ja sarja pohtii, miksi hän yhdistää jakautuneita amerikkalaisia poliittisesta kannasta riippumatta.",
+        "google_linkki": "https://www.google.com/search?q=Dolly+Parton%27s+America+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%27s%20America"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Stalinin kuolema",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "komedia",
+          "historia",
+          "poliittinen satiiiri"
+        ],
+        "kuvaus": "Armando Iannuccolin ohjaama poliittinen musta komedia Stalinin kuoleman jälkeisestä valtataistelusta. Marko nauroi ääneen yksin sohvalla – harvinainen saavutus.",
+        "google_linkki": "https://www.google.com/search?q=The+Death+of+Stalin+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Death+of+Stalin"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Watchmen",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "scifi",
+          "supersankarit",
+          "poliittinen"
+        ],
+        "kuvaus": "HBO:n suurtuotanto, joka perustuu Alan Mooren klassikkosarjakuvaan. Ensimmäinen jakso tempasi välittömästi mukaansa – intensiteetti ja draivi täysillä heti alusta.",
+        "google_linkki": "https://www.google.com/search?q=Watchmen+HBO+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Watchmen+HBO"
+      }
+    ]
+  },
+  {
+    "j_idx": 422,
+    "jakso_id": "tag:soundcloud,2010:tracks/563912115",
+    "jakso_otsikko": "24.1.2018: Sdp Sanna Marinin johdolla vaaleihin, poliittinen keskustelu Oulun ympärillä",
+    "paivamaara": "24.1.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/0464e2b8-6178-46f1-9081-606d03c6f481.mp3",
+    "kesto_sek": 3944,
+    "kesto_str": "01:05:44",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Marko Junkkari, Tuomas Peltomäki ja HS:n ulkomaantoimittaja Aino Frilander keskustelevat Sdp:n mutkikkaasti alkaneesta vaalikaudesta, kun puheenjohtajaksi astuu sairastuneen Antti Rinteen tilalle Sanna Marin. Lisäksi puhutaan poliittisesta keskustelusta maahanmuuttokysymysten ympärillä Oulun tapahtumien jälkeen sekä Donald Trumpin shutdownista eli päätöksestä asettaa koko maa",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "Brexit (elokuva)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "politiikka",
+          "draama",
+          "Britannia"
+        ],
+        "kuvaus": "Oikeisiin tapahtumiin perustuva fiktiivinen elokuva Brexitistä, joka kuvaa erityisen tehokkaasti sosiaalisen median käyttöpuolen. Suosittelijan mukaan tosi hieno ja kannattaa katsoa.",
+        "google_linkki": "https://www.google.com/search?q=Brexit+2019+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Brexit+2019"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Blatstein Analysis Convinced a Jury, She Stabbed Her Teenage Son. Now Even Freedom Can't Give Her Back Her Life",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "oikeuslaitos",
+          "tutkiva journalismi",
+          "tiede"
+        ],
+        "kuvaus": "ProPublican ja New York Times Magazinen yhteisartikkeli toimittaja Pamela Colloffilta. Juttu käsittelee veriroiskeanalyysin epätieteellisyyttä ja sen roolia väärissä tuomioissa – silmiä avaava ja tärkeä.",
+        "google_linkki": "https://www.google.com/search?q=ProPublica+NYT+Magazine+Pamela+Colloff+bloodstain+analysis+jury",
+        "lisatieto_linkki": "https://www.google.com/search?q=ProPublica+NYT+Magazine+Pamela+Colloff+bloodstain+analysis+jury"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The End of Economics",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "taloustiede",
+          "yhteiskunta",
+          "analyysi"
+        ],
+        "kuvaus": "Fareed Zakarian artikkeli Foreign Policy -lehdessä siitä, kuinka taloustiede menetti selitysvoimansa globalisaation jälkeen ja kuinka muut yhteiskuntatieteet selittävät nykymaailmaa paremmin.",
+        "google_linkki": "https://www.google.com/search?q=Fareed+Zakaria+The+End+of+Economics+Foreign+Policy",
+        "lisatieto_linkki": "https://www.google.com/search?q=Fareed+Zakaria+The+End+of+Economics+Foreign+Policy"
+      }
+    ]
+  },
+  {
+    "j_idx": 291,
+    "jakso_id": "tag:soundcloud,2010:tracks/1129673461",
+    "jakso_otsikko": "23.9.2021: Evergrande, SSAB ja omistajaohjaus, Ranska vastaan muu maailma",
+    "paivamaara": "23.9.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/5ec99cde-0075-421f-9374-596e1dafb5c0.mp3",
+    "kesto_sek": 2939,
+    "kesto_str": "48:59",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Emil Elo",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Marko Junkkari ja Emil Elo keskustelevat kiinalaisyhtiö Evergranden huojunnasta, terästeollisuusyhtiö SSAB:n omistajaohjaushässäkästä Suomessa sekä Ranskan, Australian, Yhdysvaltojen ja Britannian välisestä selkkauksesta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Rakkautta autismin kirjolla",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "deittisarja",
+          "dokumentti",
+          "autismi"
+        ],
+        "kuvaus": "Australialainen Netflix-deittisarja, jossa autismin kirjolla olevat ihmiset etsivät rakkautta. Sarja tuo esiin länsimaisen kulttuurin harhakäsityksiä rakkaudesta ja antaa autismin kirjolla oleville ihmisille mahdollisuuden representoida itseään omalla äänellään.",
+        "google_linkki": "https://www.google.com/search?q=Rakkautta+autismin+kirjolla",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+on+the+Spectrum"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "HJK vs. HIFK jalkapallo-ottelu",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "fanikulttuuri",
+          "livetapahtuma"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee paikan päällä katsottua HJK–IFK Helsinki -jalkapallo-ottelua ja kehuu erityisesti IFK-fanien energistä ja värikästä fanikulttuuria.",
+        "google_linkki": "https://www.google.com/search?q=HJK+HIFK+jalkapallo",
+        "lisatieto_linkki": "https://www.google.com/search?q=HJK+HIFK+jalkapallo"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "HIFK vs. TPS jääkiekko-ottelu",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jääkiekko",
+          "livetapahtuma",
+          "fanikulttuuri"
+        ],
+        "kuvaus": "Emil Elo suosittelee menemään katsomaan joukkueurheilua paikan päälle nyt kun katsomot ovat auki, ja kehottaa ostamaan kalliimman lipun tukeakseen seuroja taloudellisesti.",
+        "google_linkki": "https://www.google.com/search?q=HIFK+TPS+jääkiekko",
+        "lisatieto_linkki": "https://www.google.com/search?q=HIFK+TPS+jääkiekko"
+      }
+    ]
+  },
+  {
+    "j_idx": 349,
+    "jakso_id": "tag:soundcloud,2010:tracks/863049127",
+    "jakso_otsikko": "23.7.2020: EU-budjettikeskustelua, etätöiden vaikutukset ja mökkibuumi.",
+    "paivamaara": "23.7.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/d61d9e66-ae38-4eb5-959b-7430e599d63d.mp3",
+    "kesto_sek": 3566,
+    "kesto_str": "59:26",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat EU:n rahapolitiikasta ja unionin suunnasta, etätöiden vaikutuksista ja mökkibuumista Suomessa. Pitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Ville Vuorenmaan näyttely Tiketti-galleriassa Kampissa, auki 25.7 asti (https://www.tiketti.fi/galleria), Onni Niemi suosittelee HBO:n kotimaista Eristyk",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Eristyksissä",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "kotimainendraamasarja",
+          "korona",
+          "psykologia"
+        ],
+        "kuvaus": "Ensimmäinen kotimainen HBO-sarja, joka koostuu seitsemästä lyhytelokuvasta. Jokainen jakso käsittelee elämää koronapandemian eristämässä maailmassa ja on kuvattu keväällä 2020 aidosti eristyksissä.",
+        "google_linkki": "https://www.google.com/search?q=Eristyksissä+HBO+Nordic+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Eristyksissä"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Ville Vuorenmaan taidenäyttely – Tikketi-galleria, Kamppi",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "kuvataide",
+          "nostalgia",
+          "kotimainentaide"
+        ],
+        "kuvaus": "Ville Vuorenmaan taidenäyttely Tikketi-galleriassa Kampissa, jossa nostalgisoidaan 80- ja 90-luvun nuoruutta. Teokset käsittelevät työttömyyttä, avokonttoria ja näyttelyn avajaisten stressiä sarjakuvamaisella ja lämpimällä otteella.",
+        "google_linkki": "https://www.google.com/search?q=Ville+Vuorenmaa+taidenäyttely+Tikketi+galleria+Kamppi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ville+Vuorenmaa+taiteilija"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Brysselin kone",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "EU",
+          "politiikka",
+          "talous"
+        ],
+        "kuvaus": "Ylen podcast, jossa toimittaja Meri Elonheimo keskustelee tutkijoiden kanssa EU:sta asiantuntevalla ja kriittisellä otteella. Erinomainen kuunneltava EU-budjetti- ja talouspolitiikkakeskusteluun.",
+        "google_linkki": "https://www.google.com/search?q=Brysselin+kone+Yle+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Brysselin%20kone"
+      }
+    ]
+  },
+  {
+    "j_idx": 254,
+    "jakso_id": "tag:soundcloud,2010:tracks/1293014065",
+    "jakso_otsikko": "23.6.2022: Kokoomus ja Wille Rydman, Nato-jumi, juustovarkaudet",
+    "paivamaara": "23.6.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/d2db81cc-7af5-45ed-adff-9cc0395bf635.mp3",
+    "kesto_sek": 3295,
+    "kesto_str": "54:55",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Ilmo Ilkka",
+      "Joona Aaltonen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Joona Aaltonen ja Ilmo Ilkka keskustelevat häirinnästä politiikassa ja kokoomuksen eduskuntaryhmästä eronneen Wille Rydmanin tapauksesta, Nato-hakemusten tilanteesta Madridin huippukokouksen alla ja Lauttasaaren juustovarkaista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärke",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Nazim Hikmet – runous",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "runous",
+          "turkkilainen kirjallisuus",
+          "poliittinen kirjallisuus"
+        ],
+        "kuvaus": "Turkin kansallisrunoilija Nazim Hikmet oli kommunistinen vastarintarunoilija, joka vastusti autoritääristä hallintoa. Joona Aaltonen suosittelee tutustumaan hänen runoihinsa.",
+        "google_linkki": "https://www.google.com/search?q=Nazim+Hikmet+runous",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Nazim+Hikmet"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Ylen aamu-tv",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "aamu-tv",
+          "uutiset",
+          "televisio"
+        ],
+        "kuvaus": "Anni Keski-Heikki suosittelee Ylen aamu-tv:tä aamuiseksi uutisseurannaksi – se antaa hyvän yleiskuvan päivän tapahtumista ja luo aikaansaavan olon.",
+        "google_linkki": "https://www.google.com/search?q=Ylen+aamu-tv",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ylen+aamu-tv"
+      }
+    ]
+  },
+  {
+    "j_idx": 160,
+    "jakso_id": "tag:soundcloud,2010:tracks/1828476363",
+    "jakso_otsikko": "23.5.2024: Meri- ja maarajatila, meri- ja putinsää euroopassa, hakkerit helsingissä",
+    "paivamaara": "23.5.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/663a6ace-f4fb-49b7-a305-7c209abe6e68/1828476363-uutisraportti-2352024-meri-ja-maarajatila-meri-ja-pu.mp3",
+    "kesto_sek": 4199,
+    "kesto_str": "01:09:59",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Salla ja Sohvi keskustelevat Venäjän pikaisesti alkaneesta ja pikaisesti loppuneesta uhkauksesta siirrellä merirajoja, hallituksen rajalakiesityksestä, Ylen eurovaalipaneeleista ja vasemmistoryhmittymästä Euroopan parlamentissa, sekä Helsingin kaupunkiin kohdistuneesta hakkerihyökkäyksestä, joka oli Suomen suurin.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Kotka",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "trilleri",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Tuomas Niskakankaan kolmas dekkari, jossa Suomen entinen pääministeri Leo Koski joutuu maailmanpolitiikan pyörteisiin Washingtonissa. Jännittävä trilleri, jossa Yhdysvaltojen arvaamaton populistipresidentti uhkaa vetää maan Natosta ja Venäjä odottaa rajan toisella puolella.",
+        "google_linkki": "https://www.google.com/search?q=Kotka+Tuomas+Niskakangas",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kotka+Tuomas+Niskakangas"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Can You Hear the Music – Oppenheimer soundtrack",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "elokuvamusiikki",
+          "soundtrack",
+          "orkesterimusiikki"
+        ],
+        "kuvaus": "Ruotsalaisen säveltäjän Ludwig Göranssonin kappale Oppenheimer-elokuvan soundtrackista. Dramaattinen ja tunnepitoinen sävellys, joka kantaa Hans Zimmerin perinnettä isosta ja tunteikkaasta elokuvamusiikista.",
+        "google_linkki": "https://www.google.com/search?q=Can+You+Hear+the+Music+Ludwig+Goransson+Oppenheimer",
+        "lisatieto_linkki": "https://open.spotify.com/search/Can%20You%20Hear%20the%20Music%20Ludwig%20Goransson%20Oppenheimer"
+      }
+    ]
+  },
+  {
+    "j_idx": 409,
+    "jakso_id": "tag:soundcloud,2010:tracks/625310046",
+    "jakso_otsikko": "23.5.2019: Kissanrääkkäys, Itävallan korruptioskandaali ja hallitusneuvottelut",
+    "paivamaara": "23.5.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/19547c7d-9cc3-46fc-837c-2a80ba8bb891.mp3",
+    "kesto_sek": 2632,
+    "kesto_str": "43:52",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon Uutisraportti-podcastissa puhutaan kissanrääkkäyksestä ja eurovaaliehdokkaiden yleisestä moraalista, Itävallan korruptioskandaalista ja aina vain hallitusneuvotteluista.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Euroopan parlamentti",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "tietokirja",
+          "EU"
+        ],
+        "kuvaus": "Satu Helinin ja Pekka Nurmisen kirja Euroopan parlamentista, jota kuvataan ainoaksi kattavaksi ja hyvin kirjoitetuksi esitykseksi aiheesta. Erityisen ajankohtainen eurovaalien alla.",
+        "google_linkki": "https://www.google.com/search?q=Euroopan+parlamentti+Satu+Helin+Pekka+Nurminen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Euroopan+parlamentti+Satu+Helin+Pekka+Nurminen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Paavo Teittinen",
+        "teos": "Mekanismi",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "korruptio",
+          "Brasilia",
+          "poliittinen draama"
+        ],
+        "kuvaus": "Netflixin brasilialainen sarja, joka kertoo läntisen pallonpuoliskon lähihistorian suurimmasta korruptioskandaalista eli autopesula-keissistä. Dokumentaarinen mutta fiktiivisin hahmoin toteutettu, kiehtova katsaus poliittiseen korruptioon.",
+        "google_linkki": "https://www.google.com/search?q=Mekanismi+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=O+Mecanismo"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Paavo Teittinen",
+        "teos": "The Curse of Genius",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "psykologia",
+          "kasvatus",
+          "lahjakkuus"
+        ],
+        "kuvaus": "1843-aikakauslehden artikkeli lahjakkuuden taakasta – miksi lahjakkaat lapset voivat huonosti ja miten tasapäistävä yhteiskunta ei tue poikkeusyksilöitä riittävästi.",
+        "google_linkki": "https://www.google.com/search?q=The+Curse+of+Genius+1843+magazine",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Curse+of+Genius+1843+magazine"
+      }
+    ]
+  },
+  {
+    "j_idx": 362,
+    "jakso_id": "tag:soundcloud,2010:tracks/805366771",
+    "jakso_otsikko": "23.4.2020: Marinin \"hybridi\"malli, Business Finlandin \"businekset\", Lindbergin hävittäjäkonsultointi",
+    "paivamaara": "23.4.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/2d940f01-aa3a-480c-ada6-02b956f9bf87/805366771-uutisraportti-2342020-marinin-hybridimalli-business-f.mp3",
+    "kesto_sek": 4017,
+    "kesto_str": "01:06:57",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat pääministeri Sanna Marinin hallituksen tällä viikolla esittelemästä \"hybridimallista\", joka yrittää yhtä aikaa vapauttaa yhteiskunnan ja tukahduttaa sen, ja Business Finlandin saapumisesta koronakriisin keskiöön värikkäine hahmoineen, sekä kenraalin ja puolustusvoimien entisen komentajan Jarmo Lindbergin l",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sticky Fingers – Jann Wennerin elämäkerta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "musiikkimedia",
+          "1970-luku"
+        ],
+        "kuvaus": "Rolling Stone -lehden perustajan Jann Wennerin rehellinen elämäkerta, joka ei siloittele päähenkilöä. Kuvaa 1960–70-lukujen vaihteen nuorisokulttuurin muutosta ja mediamaisemaa.",
+        "google_linkki": "https://www.google.com/search?q=Sticky+Fingers+Jann+Wenner+elämäkerta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sticky+Fingers+Jann+Wenner"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Conversation",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "tiedejournalismi",
+          "verkkolehti",
+          "ajankohtainen"
+        ],
+        "kuvaus": "Globaali verkkolehti, jossa tutkijat kirjoittavat ajankohtaisista aiheista ja toimittajat toimittavat tekstit helppolukuisiksi. Tarjolla useita kieliversioita.",
+        "google_linkki": "https://www.google.com/search?q=The+Conversation+media",
+        "lisatieto_linkki": "https://theconversation.com"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Anthill-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tiedejournalismi",
+          "ajankohtainen"
+        ],
+        "kuvaus": "The Conversation -lehden podcast, jossa käsitellään tutkijoiden kirjoittamia ajankohtaisia aiheita helposti lähestyttävässä muodossa.",
+        "google_linkki": "https://www.google.com/search?q=Anthill+podcast+The+Conversation",
+        "lisatieto_linkki": "https://open.spotify.com/search/Anthill%20The%20Conversation"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ologies-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tiede",
+          "kulttuuri",
+          "tietoviihde"
+        ],
+        "kuvaus": "Podcast, jossa jokaisessa jaksossa käsitellään yksi tieteenala tai aihealue perusteellisesti. Muun muassa italialainen futurismi on ollut aiheena.",
+        "google_linkki": "https://www.google.com/search?q=Ologies+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Ologies%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 216,
+    "jakso_id": "tag:soundcloud,2010:tracks/1475743510",
+    "jakso_otsikko": "23.3.2023: Hävittäjä-GATE, vaalitenttipotpuri, Kiira Korven runot",
+    "paivamaara": "23.3.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/183a2445-a94c-4f24-b03a-9c0d5190be10/1475743510-uutisraportti-2332023-havittaja-gate-vaalitenttipotp.mp3",
+    "kesto_sek": 4404,
+    "kesto_str": "01:13:24",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat pm S. Marinin ympärillä yhtäkkisesti kiehuvasta hävittäjä-sopasta, lähes uuvuttavan runsaasta vaalitarjonnasta ja puoluejohtajien pärjäämisestä siellä, sekä Kiira Korven runokirjan ryttäyskritiikistä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Jooga with Adriene (YouTube)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "jooga",
+          "hyvinvointi",
+          "treeni"
+        ],
+        "kuvaus": "YouTube-kanava, jolla on joogavideoita 5 minuutista tuntiin. Sopii aloittelijoille ja kokeneemmille, tarjolla mm. lepojoogaa ja joogaa eri tarkoituksiin.",
+        "google_linkki": "https://www.google.com/search?q=Yoga+with+Adriene+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/@yogawithadriene"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Sun poika kävi täällä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "mielenterveys",
+          "perhe"
+        ],
+        "kuvaus": "Venla Kuoppamäen kirjoittama koskettava ja rehellinen teos hänen poikansa tarinasta, johon liittyy kaksisuuntainen mielialahäiriö, huumeiden käyttö ja elämänhallinnan vaikeudet. Voitti vuoden parhaan äänikirjan tietokirjallisuuden sarjassa.",
+        "google_linkki": "https://www.google.com/search?q=Sun+poika+k%C3%A4vi+t%C3%A4%C3%A4ll%C3%A4+Venla+Kuoppam%C3%A4ki",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sun+poika+k%C3%A4vi+t%C3%A4%C3%A4ll%C3%A4"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Imu: Pokemonvuodet",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "äänikirja",
+          "elämäkerta",
+          "huumeet"
+        ],
+        "kuvaus": "Äänikirja, jonka kirjoittaja lukee itse ääneen. Karski ja hauska teos, jonka takana on entinen huumerikollinen. Yllättävän mukaansatempaava ja hauska lukukokemus.",
+        "google_linkki": "https://www.google.com/search?q=Imu+Pokemonvuodet+%C3%A4%C3%A4nikirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Imu+Pokemonvuodet"
+      }
+    ]
+  },
+  {
+    "j_idx": 220,
+    "jakso_id": "tag:soundcloud,2010:tracks/1453971325",
+    "jakso_otsikko": "23.2.2023: Koulukone, neljän päivän työviikko, Kertun Porsche",
+    "paivamaara": "23.2.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/ebe0deaa-b4f4-4e3c-8e38-b953ae96bf6f/1453971325-uutisraportti-2322023-koulukone-neljan-paivan-tyovii.mp3",
+    "kesto_sek": 3746,
+    "kesto_str": "01:02:26",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Salla Vuorikoski ja Marko Junkkari keskustelevat kohua herättäneestä Ylen julkaisemasta koulukoneesta ja koulujen eriytymisestä, yllättävän tunteikkaasta keskustelusta työajan lyhentämisestä neljään päivään viikossa sekä hiihtäjä Kerttu Niskasen Porsche-mainoksen innoittamana mainostamisesta sosiaalisessa mediassa.\nUutisraportti podcast on Helsingin Sa",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Chief of Staff – Gavin Barwell",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "muistelmat",
+          "Britannia"
+        ],
+        "kuvaus": "Gavin Barwellin muistelmat Teresa Mayn esikuntapäällikkönä toimimisesta, erityisesti Brexit-neuvottelujen ajalta. Kirja avaa kiinnostavasti Britannian politiikan kulisseja.",
+        "google_linkki": "https://www.google.com/search?q=Chief+of+Staff+Gavin+Barwell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Chief+of+Staff+Gavin+Barwell"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Hiihdon MM-kisat 2023",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "MM-kisat",
+          "urheilu"
+        ],
+        "kuvaus": "Salla suosittelee seuraamaan hiihdon MM-kisoja ja erityisesti väliaikalähtöjä, joissa jokainen kilpailija saa oman aikansa. Perinteinen hiihto ja vuorohiihto ovat suomalainen vahvuus.",
+        "google_linkki": "https://www.google.com/search?q=Hiihdon+MM-kisat+2023",
+        "lisatieto_linkki": "https://www.google.com/search?q=Hiihdon+MM-kisat+2023"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Antti ja Vuokko Nurmesniemi -näyttely, Designmuseo Helsinki",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "design",
+          "näyttely",
+          "muotoilu"
+        ],
+        "kuvaus": "Designmuseossa Helsingissä esitellään suunnittelijaparin Antti ja Vuokko Nurmesniemen elämäntyötä. Näyttelyssä on esillä muun muassa Helsingin metron alkuperäinen puinen pienoismalli. Avoinna huhtikuuhun asti.",
+        "google_linkki": "https://www.google.com/search?q=Antti+Vuokko+Nurmesniemi+n%C3%A4yttely+Designmuseo+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Antti+Vuokko+Nurmesniemi+n%C3%A4yttely+Designmuseo+Helsinki"
+      }
+    ]
+  },
+  {
+    "j_idx": 279,
+    "jakso_id": "tag:soundcloud,2010:tracks/1183514755",
+    "jakso_otsikko": "23.12.2021: Hyvää joulua! Hallituksen omikron-strategia, kinkut ja moraali, jouluperinteet",
+    "paivamaara": "23.12.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/df855545-27c0-41cb-a595-a351ecf21e85.mp3",
+    "kesto_sek": 3833,
+    "kesto_str": "01:03:53",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon hyvin löyhästi asiapohjaisessa joulupodcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat hallituksen omikron-strategiasta, tehohoidosta ja sen tarpeellisuudesta – molemmat aiheita, joista jaksoa nauhoitettaessa tiistaina ei tiedetty vielä kaikkea, hox! –, joulukinkkujen hinnasta ja ruoantuotantojärjestelmän rahavirroista suomalaiselta sikatilalta aina Itä-Bazingist",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Shakki",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "lautapeli",
+          "joulu"
+        ],
+        "kuvaus": "Tuomas suosittelee shakin pelaamista jouluna, muistellen edellisvuoden jouluun liittynyttä maanista shakinpeluuta lähipiirin kanssa.",
+        "google_linkki": "https://www.google.com/search?q=shakki+peli",
+        "lisatieto_linkki": "https://www.google.com/search?q=shakki+peli"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kuningattaren gambiitti",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "Netflix",
+          "shakki",
+          "draama"
+        ],
+        "kuvaus": "Netflixin hitti-minisarja shakkiprodigy Beth Harmonesta. Tuomas mainitsi sen innoittaneen viime joulun shakinpeluubuumin.",
+        "google_linkki": "https://www.google.com/search?q=Kuningattaren+gambiitti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Spider-Man: No Way Home",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "Marvel",
+          "toiminta",
+          "supersankari"
+        ],
+        "kuvaus": "Marko suosittelee lämpimästi tätä kolmatta Tom Hollandin Spider-Man-elokuvaa, joka hänen mukaansa ylittää kaksi edellistä osaa ja on tyylikkäällä tavalla kosminen.",
+        "google_linkki": "https://www.google.com/search?q=Spider-Man+No+Way+Home",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Spider-Man+No+Way+Home"
+      }
+    ]
+  },
+  {
+    "j_idx": 184,
+    "jakso_id": "tag:soundcloud,2010:tracks/1672693716",
+    "jakso_otsikko": "23.11.2023: Rajat kiinni vol XVI, mamututkimuksille persustop, presidentinvaalit",
+    "paivamaara": "23.11.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/aa6861a1-eecd-4797-8e08-c0ad5a96288d/1672693716-uutisraportti-23112023-rajat-kiinni-vol-xvi-mamututk.mp3",
+    "kesto_sek": 4539,
+    "kesto_str": "01:15:39",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina rajojen sulkemisen laajennus ja siihen liittyvät mutkat, persujen päätös kiskaista rahoitus maahanmuuttotutkimuksen alta, ja presidentinvaalit joihin ilmaantui kaksi uutta osallistujaa: Jutta Urpilainen ja rajat kiinni -Pekka.\n\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä. \n\nJakson leikkasi Janne Elkki.\n\nPodcastin muut ilmestymiskanavat ja lisätie",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Robin Williams -dokumenttisarja",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "elämäkerta",
+          "viihde"
+        ],
+        "kuvaus": "Netflix-dokumenttisarja Robin Williamsin elämästä ja urasta. Sarja on rakennettu niin, että Williams kommentoi oman uransa koostevideota.",
+        "google_linkki": "https://www.google.com/search?q=Robin+Williams+dokumenttisarja+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Robin+Williams+documentary+Netflix"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Robin Williams – haastattelu Graham Nortonissa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "talk show",
+          "haastattelu",
+          "huumori"
+        ],
+        "kuvaus": "Robin Williamsin haastattelu Graham Norton Show'ssa, jossa hän kertoo hauskan tarinan vuokraamastaan linnasta ja sinne tulleesta siivoojasta.",
+        "google_linkki": "https://www.google.com/search?q=Robin+Williams+Graham+Norton+Show+haastattelu",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Robin+Williams+Graham+Norton"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Politics on the Edge",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "muistelmat",
+          "Britannia"
+        ],
+        "kuvaus": "Rory Stewartin muistelmat brittipolitiikasta. Kirja antaa realistisen ja hauskan kuvan siitä, miten kyvyttömiä poliitikot ovat tekemään päätöksiä ja miten koko brittijärjestelmä on rikki.",
+        "google_linkki": "https://www.google.com/search?q=Politics+on+the+Edge+Rory+Stewart",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Politics+on+the+Edge+Rory+Stewart"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "The Rest Is Politics",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Britannia",
+          "ajankohtainen"
+        ],
+        "kuvaus": "Rory Stewartin ja Alastair Campbellin yhteinen politiikkapodcast, joka nousi suureen suosioon muun muassa Stewartin erinomaisten Israel–Palestiina-analyysien ansiosta.",
+        "google_linkki": "https://www.google.com/search?q=The+Rest+Is+Politics+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20Politics"
+      }
+    ]
+  },
+  {
+    "j_idx": 21,
+    "jakso_id": "287eaad2-580c-47a0-bfcf-a70b85fe3f1a",
+    "jakso_otsikko": "Dataa vai suklaata?, pakotekierros, Niinistön kirja",
+    "paivamaara": "23.10.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/287eaad2-580c-47a0-bfcf-a70b85fe3f1a.mp3",
+    "kesto_sek": 4839,
+    "kesto_str": "01:20:39",
+    "rss_osallistujat": [
+      "Elli Harju"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja vierailemaan tullut politiikan toimittaja Elli Harju keskustelevat hallituksen sisäisistä ristiriidoista, joissa panokset ovat oudot ja epäsuhtaiset: makeiset ja datasalit. </p><p>Lisäksi aiheena viimeisin pakotekierros, johon osallistuivat EU-maat, USA ja Britannia. Erityisesti kiinnostuksen kohteena on ns. Euroclear-kuvio. </p><p>Kolmantena aiheena pr",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Every Day Is Sunday",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "urheilu",
+          "tietokirja",
+          "jenkkifutis"
+        ],
+        "kuvaus": "New York Timesin urheilutoimittajan Ken Belsonin kirja NFL:n joukkueiden omistajista ja liigan johtajista sekä heidän ahneudestaan. Taustoittaa jenkkifutiksen bisnesmaailmaa vuosikymmenien seurannan pohjalta.",
+        "google_linkki": "https://www.google.com/search?q=Every+Day+Is+Sunday+Ken+Belson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Every+Day+Is+Sunday+Ken+Belson"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Elli Harju",
+        "teos": "Luusarit (kausi 4)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "nuorisosarja",
+          "suomalainen"
+        ],
+        "kuvaus": "Suomalainen teinisarja, jonka neljäs kausi on saatavilla Yle Areenassa. Seuraa kolmea nuorta miestä, jotka yrittävät perustaa yrityksen Kruunuhaan kalliiseen vuokrakämppäänsä – kaikki menee pieleen.",
+        "google_linkki": "https://www.google.com/search?q=Luusarit+sarja+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Luusarit"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Code: The Hidden Language of Computer Hardware and Software",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietotekniikka",
+          "tietokirja",
+          "ohjelmointi"
+        ],
+        "kuvaus": "Charles Petzoldin vuonna 1999 kirjoittama yleistajuinen teos, joka selittää tietokoneiden toiminnan perusteet morsekoodista lähtien. Suosittelijan mukaan kirja auttaa ymmärtämään nykymailmaa huomattavasti paremmin.",
+        "google_linkki": "https://www.google.com/search?q=Code+The+Hidden+Language+of+Computer+Hardware+and+Software+Charles+Petzold",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Code+The+Hidden+Language+of+Computer+Hardware+and+Software+Charles+Petzold"
+      }
+    ]
+  },
+  {
+    "j_idx": 63,
+    "jakso_id": "da173973-6014-4dfd-823b-74438f5beea7",
+    "jakso_otsikko": "23.1.2025: Trump, broligarkit, sieg elon",
+    "paivamaara": "23.1.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/da173973-6014-4dfd-823b-74438f5beea7.mp3",
+    "kesto_sek": 5292,
+    "kesto_str": "01:28:12",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Sohvi ja Marko keskustelevat yksinomaan tällä viikolla alkaneesta Trumpin presidentinvaalikaudesta. Siellä sisällä keskustelua käydään esimerkiksi sekä Trumpin että hänen edeltäjänsä Joe Bidenin armahduksista, Trumpin uudesta kuninkaallisesta roolista, korkeimman oikeuden asemasta Trumpin kaudella, hänen presidentillisistä asetuksistaan. Toinen keskustelu liitty",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Presumed Guilty",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "oikeusthrilleri",
+          "amerikkalainenkirjallisuus"
+        ],
+        "kuvaus": "Scott Turow'n uusin kirja, jonka Marko Junkkari luki yöllä loppuun valvoen melkein kolmeen. Turow on arvostettu juristidekkarikirjailija, ja tämä uusi teos sai Junkkarin hehkumaan koko alkuviikon.",
+        "google_linkki": "https://www.google.com/search?q=Scott+Turow+Presumed+Guilty",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Presumed+Guilty+Scott+Turow"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Jerry Springer: Fights, Camera, Action",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "amerikkalainenkulttuuri",
+          "mediahistoria"
+        ],
+        "kuvaus": "Kaksosainen Netflix-dokumentti Jerry Springerin 90-luvun kuohuttavasta päivä-talk showsta. Anna-Sofia Bernerin mukaan dokumentti on kiinnostava aikakuvaus, joka kytkeytyy tosi-tv:n syntyyn, somekeskusteluun ja nykyajan ilmiöihin.",
+        "google_linkki": "https://www.google.com/search?q=Jerry+Springer+Fights+Camera+Action+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Jerry+Springer+Fights+Camera+Action"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Uusi Juttu",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "uusmedia",
+          "journalismi",
+          "audio"
+        ],
+        "kuvaus": "Suomalainen uusi tanskalaislähtöinen media, jolla on audiopainotus. Tuomas Peltomäen mukaan media on löytänyt hyvän otteen ja julkaisee kiinnostavia juttuja mm. pilvipalveluista, X:n vaikutuksesta ja Viron ortodoksisesta kirkosta.",
+        "google_linkki": "https://www.google.com/search?q=Uusi+Juttu+media+Suomi",
+        "lisatieto_linkki": "https://open.spotify.com/search/Uusi%20Juttu"
+      }
+    ]
+  },
+  {
+    "j_idx": 375,
+    "jakso_id": "tag:soundcloud,2010:tracks/748183261",
+    "jakso_otsikko": "23.1.2020: Sisäministeriön poliittiset virkanimitykset, Mika Niikko ja Kiina, taitoluisteluvalmennus",
+    "paivamaara": "23.1.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/5a8e1194-c933-4b4e-afe5-260b5c26d8de.mp3",
+    "kesto_sek": 4169,
+    "kesto_str": "01:09:29",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa sisäministeriön kansliapäällikkönimitys – mikä järki on poliittisessa nimitysprosessissa, vai onko siinä kaikki järki? Lisäksi Suomen kuvalehden uutisointi kansanedustaja Mika Niikon ihmeellisistä yrityskuvioista, joista osa littyy kiinalaisiin, osa liittyy sähkötupakkakauppaan Suomessa; taitoluisteluvalmennus on järkyttävällä tavalla ponkaissut ihmisten mieliin, kun helsi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Hyvinkään Sveitsi laskettelukeskus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "laskettelukeskus",
+          "talviurheilu",
+          "retro"
+        ],
+        "kuvaus": "Hyvinkään Sveitsi on tunnelmallinen laskettelukeskus, jossa voi juoda minttukaakao kivennokassa. Tuomas kuvailee paikkaa sadunhohtoiseksi aikakoneeksi.",
+        "google_linkki": "https://www.google.com/search?q=Hyvink%C3%A4%C3%A4n+Sveitsi+laskettelukeskus",
+        "lisatieto_linkki": "https://www.google.com/search?q=Hyvink%C3%A4%C3%A4n+Sveitsi+laskettelukeskus"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Yle Areena – musiikkidokumentit",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "musiikkidokumentti",
+          "feminismi",
+          "rock"
+        ],
+        "kuvaus": "Yle Areenalla on laaja valikoima musiikkidokumentteja. Marko suosittelee erityisesti dokumenttia Joan Jettistä, joka kertoo hänen uransa vaiheista levy-yhtiöiden sortamana artistina ja feministisenä ikonina.",
+        "google_linkki": "https://www.google.com/search?q=Yle+Areena+musiikkidokumentit",
+        "lisatieto_linkki": "https://areena.yle.fi/"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Fatwa (BBC podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "politiikka",
+          "islam"
+        ],
+        "kuvaus": "Kymmenenosainen BBC:n podcast Salman Rushdien vastaisen fatwán taustoista ja seurauksista. Jokainen jakso on noin 15 minuuttia pitkä, ja sarja valottaa myös sitä, miten muslimien vihasta tehtiin poliittinen ase.",
+        "google_linkki": "https://www.google.com/search?q=Fatwa+BBC+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Fatwa%20BBC%20podcast"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Bon Appétit YouTube-kanava",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "ruoanlaitto",
+          "YouTube",
+          "reseptit"
+        ],
+        "kuvaus": "Ammattitasoinen ruoka-alan YouTube-kanava, jossa kokit valmistavat ruokia isossa new yorkilaisessa keittiössä. Kanava taustoittaa reseptejä, tekniikoita ja ruokakulttuurin historiaa erinomaisesti.",
+        "google_linkki": "https://www.google.com/search?q=Bon+App%C3%A9tit+YouTube-kanava",
+        "lisatieto_linkki": "https://www.youtube.com/@bonappetit"
+      }
+    ]
+  },
+  {
+    "j_idx": 240,
+    "jakso_id": "tag:soundcloud,2010:tracks/1348828480",
+    "jakso_otsikko": "22.9.2022: Liikekannallepano, turistiviisumit, Uniper-tappiot",
+    "paivamaara": "22.9.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/25757ae9-a440-4a88-b86b-79228da4ba71.mp3",
+    "kesto_sek": 3976,
+    "kesto_str": "01:06:16",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat Putinin ilmoittamasta liikekannallepanosta, Suomen kykenemättömyydestä toimia kompastumatta pykäläviidakkoon turistiviisumiasiassa, ja Fortum-johdon upea suoritus, jolla he suorastaan kahmivat 5,5mrd euron tappiot kotimaahan <3\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast,",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Jenna Vehviläisen Italian vaalit -artikkelit (Yle)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "Italia",
+          "vaalit"
+        ],
+        "kuvaus": "Ylen Italia-toimittaja Jenna Vehviläisen kirjoittamat selkeät ja ymmärrettävät jutut Italian poliittisesta tilanteesta ja Italian Veljet -puolueen suosiosta ennen syyskuun 2022 vaaleja.",
+        "google_linkki": "https://www.google.com/search?q=Jenna+Vehviläinen+Yle+Italia+vaalit",
+        "lisatieto_linkki": "https://yle.fi/search/?query=Jenna+Vehviläinen+Italia"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "HS Talousfoorumi -videot (Helsingin Sanomat)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "talous",
+          "tilastotiede",
+          "video"
+        ],
+        "kuvaus": "Helsingin Sanomien talousfoorumin puolustuskurssin videotallenteet, joissa mm. tilastotieteen professori Pauliina Ilmonen Aallosta selittää matemaattisia ennusteita ja analyyseja viihdyttävällä ja ymmärrettävällä tavalla.",
+        "google_linkki": "https://www.google.com/search?q=HS+talousfoorumi+puolustuskurssi+video",
+        "lisatieto_linkki": "https://www.hs.fi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "The Crown",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittiläinen",
+          "kuningashuone",
+          "draama"
+        ],
+        "kuvaus": "Suosittu Netflix-draamasarja Britannian kuningashuoneesta. Erityisen ajankohtainen kuningatar Elisabetin kuoleman ja kuningas Charlesin valtaannousun myötä.",
+        "google_linkki": "https://www.google.com/search?q=The+Crown+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Crown"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "HS Visio -podcast: Fortum-kuviot",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "energia",
+          "Fortum"
+        ],
+        "kuvaus": "Helsingin Sanomien Visio-podcastin jakso, jossa Jarno Hartikainen selittää Fortumin ja Uniperin kauppaan liittyvät tapahtumat ja vastuukysymykset.",
+        "google_linkki": "https://www.google.com/search?q=HS+Visio+podcast+Fortum",
+        "lisatieto_linkki": "https://open.spotify.com/search/HS%20Visio%20Fortum"
+      }
+    ]
+  },
+  {
+    "j_idx": 147,
+    "jakso_id": "tag:soundcloud,2010:tracks/1901910282",
+    "jakso_otsikko": "22.8.2024: Ministerinvaihdos, marjaviulut, sähköpotkulaudat",
+    "paivamaara": "22.8.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/b783f15e-80c8-4b72-ad34-1707669eb4ca.mp3",
+    "kesto_sek": 3868,
+    "kesto_str": "01:04:28",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Joona, Heini, Rasmus ja Oskari käyvät läpi sisäministerin yllättävää vaihtumista, kun Mari Rantasen (ps) tilalle astuu väliaikaisesti puoluetoveri Lulu Ranne.  Tämän jälkeen puhutaan vielä työ- ja elinkeinoministeriön hallitusneuvoksen viulukaupoista sekä sähköpotkulaudoilla hurjastelusta.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Eero Järnefelt -näyttely (Ateneum)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "taide",
+          "maalaus",
+          "näyttely"
+        ],
+        "kuvaus": "Ateneumin Eero Järnefelt -näyttely päättyy sunnuntaina 25. elokuuta 2024. Näyttelyssä on esillä mm. Järnefeltin Koli-maisemat.",
+        "google_linkki": "https://www.google.com/search?q=Eero+J%C3%A4rnefelt+n%C3%A4yttely+Ateneum+2024",
+        "lisatieto_linkki": "https://ateneum.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "The Good Wife",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "oikeussalidraama",
+          "draama",
+          "cozy"
+        ],
+        "kuvaus": "Oikeussalidraama, jossa kotiäiti Lisa Florick joutuu kaivamaan vanhat juristin paperinsa esiin aviomiehensä lahjusskandaalin jälkeen. Seitsemän kautta pitkä sarja, jossa yhdistyvät rikos-, riita- ja ihmissuhdeasiat sekä myöhemmin myös politiikka.",
+        "google_linkki": "https://www.google.com/search?q=The+Good+Wife+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Good+Wife"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Alarmy (herätyskello-sovellus)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sovellus",
+          "tuottavuus",
+          "arki"
+        ],
+        "kuvaus": "Androidille ja iOS:lle saatavilla oleva herätyskello-sovellus, jossa herätyksen saa sammutettua vain suorittamalla haasteen, kuten skannaamalla viivakoodin keittiöstä.",
+        "google_linkki": "https://www.google.com/search?q=Alarmy+her%C3%A4tyskello+sovellus",
+        "lisatieto_linkki": "https://alar.my"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Pasila",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "suomalainen",
+          "klassikko"
+        ],
+        "kuvaus": "Suomalainen klassikkokomediasarja, joka löytyy Yle Areenasta. Pilottijakso ei ole paras, mutta sarja paranee siitä huomattavasti.",
+        "google_linkki": "https://www.google.com/search?q=Pasila+tv-sarja+Yle",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Pasila+tv-sarja"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Väkivallan historia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerrallinen",
+          "ranskalaiskirjallisuus",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Édouard Louisin toinen kirja, joka käsittelee toiseuden tunnetta ja omistajuutta omasta tarinasta. Suosittelijan mukaan huomattavasti parempi kuin Louisin ensiteos 'Ei enää Eddy' – kirjallisesti laadukas ja mielenkiintoisesti kirjoitettu.",
+        "google_linkki": "https://www.google.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=V%C3%A4kivallan+historia+Edouard+Louis"
+      }
+    ]
+  },
+  {
+    "j_idx": 397,
+    "jakso_id": "tag:soundcloud,2010:tracks/669445718",
+    "jakso_otsikko": "22.8.2019: Sanna Marinin utopia, Hongkongin mielenosoitukset ja vastauksia kuulijoiden kysymyksiin.",
+    "paivamaara": "22.8.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/f0435cff-2a88-4d7e-ad41-95cb6febda35.mp3",
+    "kesto_sek": 4112,
+    "kesto_str": "01:08:32",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Milka Valtanen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Kesäkauden viimeisessä Uutisraportissa Alma Onali, Milka Valtanen ja Tuija Siltamäki keskustelevat Sanna Marinin utopiasta ja Hongkongin mielenosoituksista ja vastaavat kuulijoiden esittämiin kysymyksiin. Jaksossa selviää esimerkiksi se, minkä ikäisiä nämä toimittajat oikein ovat.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "The Daily",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "uutiset",
+          "journalismi"
+        ],
+        "kuvaus": "The New York Timesin päivittäinen uutispodcast, jota suositellaan laadukkaana tietolähteenä.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+New+York+Times+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20New%20York%20Times"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "The Economist Podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "politiikka",
+          "journalismi"
+        ],
+        "kuvaus": "Talous- ja politiikkalehti The Economistin podcast, suositeltu laadukkaana tietolähteenä.",
+        "google_linkki": "https://www.google.com/search?q=The+Economist+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Economist%20podcast"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Mikä meitä vaivaa?",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "suomalainen",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Suomalainen podcast, jota suositellaan kotimaisena kuuntelemisen arvoisena ohjelmana.",
+        "google_linkki": "https://www.google.com/search?q=Mikä+meitä+vaivaa+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Mikä%20meitä%20vaivaa"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "Olli Seurin haastattelijapodcast (Yle Areena)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "journalismi",
+          "haastattelu",
+          "suomalainen"
+        ],
+        "kuvaus": "Olli Seurin Yle Areenaan tekemä podcast, jossa hän haastattelee haastattelijoita haastattelemisesta. Kiinnostava journalismin metatasoinen tarkastelu.",
+        "google_linkki": "https://www.google.com/search?q=Olli+Seuri+podcast+Yle+Areena+haastattelijat",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Olli+Seuri"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Once Upon a Time in Hollywood",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "Tarantino",
+          "Hollywood",
+          "draama"
+        ],
+        "kuvaus": "Quentin Tarantinon uusin elokuva, josta käydään paljon keskustelua. Suositellaan katsottavaksi, jotta pysyy mukana ajankohtaisessa kulttuurikeskustelussa.",
+        "google_linkki": "https://www.google.com/search?q=Once+Upon+a+Time+in+Hollywood",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Once+Upon+a+Time+in+Hollywood"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "HS Teema: Saksa",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "Saksa",
+          "yhteiskunta",
+          "lehtiartikkeli"
+        ],
+        "kuvaus": "Helsingin Sanomien juuri ilmestynyt HS-teemaliite, jossa kerrotaan kaikki Saksasta – muun muassa pohditaan, pitäisikö Suomen ottaa mallia Saksasta ja miksei Helsingistä tule Berliiniä.",
+        "google_linkki": "https://www.google.com/search?q=HS+Teema+Saksa+2019+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.google.com/search?q=HS+Teema+Saksa+2019+Helsingin+Sanomat"
+      }
+    ]
+  },
+  {
+    "j_idx": 300,
+    "jakso_id": "tag:soundcloud,2010:tracks/1092117955",
+    "jakso_otsikko": "22.7.2021: Punkstoo, Tokion olympialaiset ja Pegasus-hakkerointivyyhti.",
+    "paivamaara": "22.7.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/54a82252-52c8-4792-8529-5d7428d9c89d.mp3",
+    "kesto_sek": 3861,
+    "kesto_str": "01:04:21",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Emil Elo",
+      "Sara Vainio"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Sara Vainio ja Emil Elo keskustelevat Punkstoo-ilmiöstä ja sen vaikutuksista yhteiskuntaan, Tokion olympialaisista ja siitä tarvitseeko kukaan enää olympialaisia, ja Pegasus-hakkerointivyyhdistä ja sen Unkari-kytköksistä.\n Uutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaihee",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Kiipeily olympialaisissa",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "kiipeily",
+          "olympialaiset"
+        ],
+        "kuvaus": "Olympiakiipeily on yleisöystävällistä katsottavaa värikkäine reitteineen ja näyttävine suorituksineen, vaikka laji ei olisi entuudestaan tuttu.",
+        "google_linkki": "https://www.google.com/search?q=kiipeily+olympialaiset+2021",
+        "lisatieto_linkki": "https://www.google.com/search?q=kiipeily+olympialaiset+2021"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Anne Mattilan Taidekahvila, Karvia",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "maakuntamatkailu",
+          "kahvila",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Maakuntamatkailukohde Karvialla, jossa on hyvä tunnelma ja voi nauttia munkeista – suositeltu hengähdyspaikka kiireisen arjen vastapainoksi.",
+        "google_linkki": "https://www.google.com/search?q=Anne+Mattilan+Taidekahvila+Karvia",
+        "lisatieto_linkki": "https://www.google.com/search?q=Anne+Mattilan+Taidekahvila+Karvia"
+      }
+    ]
+  },
+  {
+    "j_idx": 203,
+    "jakso_id": "tag:soundcloud,2010:tracks/1546984510",
+    "jakso_otsikko": "22.6.2023: Uusi hallitus, Olli Rehn, sukellusvenejahti",
+    "paivamaara": "22.6.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/ff669e7d-9152-45c6-b930-f4315f6cb67f/1546984510-uutisraportti-2262023-uusi-hallitus-olli-rehn-sukell.mp3",
+    "kesto_sek": 4893,
+    "kesto_str": "01:21:33",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheena P. Orpon uusi hallitus työelämäuudistuksineen ja natsi-linkittyneine ministereineen, Halla-ahon nimitys eduskunnan puhemieheksi, Olli Rehnin presidentinvaalikampanjan startti ja Titan-sukellusveneen jahtaaminen pitkin valtameriä.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Venla Kuokkanen. \nJakson leikkasi Janne Elkki.\n\nJaksossa mainittuja linkkejä:\nRehn: https://ww",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Venla Kuokkanen",
+        "teos": "Rusetti",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "kokeellinen proosa",
+          "yhteiskuntakritiikki"
+        ],
+        "kuvaus": "Anu Kaajan teos, jossa päähenkilö haastattelee esineitä kuten kahvia ja servettejä. Teos haastaa lukijan huomaamaan omat ennakkoluulonsa ja lokeroinnin tavat.",
+        "google_linkki": "https://www.google.com/search?q=Anu+Kaaja+Rusetti+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Rusetti+Anu+Kaaja"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Perussuomalaiset – Halla-ahon ja Purran linjalla",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "puoluehistoria",
+          "tietokirja"
+        ],
+        "kuvaus": "Eduskuntatutkimuskeskuksen johtajan Markku Joki-Sipilän kirja perussuomalaisten taustasta ja puolueen kehityksestä Halla-ahon ja Purran aikakaudella. Vetävästi kirjoitettu, mutta herättää ristiriitaisia tunteita puolueen puolustelun sävyn vuoksi.",
+        "google_linkki": "https://www.google.com/search?q=Markku+Joki-Sipil%C3%A4+Perussuomalaiset+Halla-ahon+ja+Purran+linjalla",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Perussuomalaiset+Halla-ahon+ja+Purran+linjalla+Joki-Sipil%C3%A4"
+      }
+    ]
+  },
+  {
+    "j_idx": 44,
+    "jakso_id": "d01deb2c-2887-47fa-be1d-d7830c8630f6",
+    "jakso_otsikko": "Gazan tilanne, nuoriso (taas) pilalla, Anttien bromance",
+    "paivamaara": "22.5.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/d01deb2c-2887-47fa-be1d-d7830c8630f6.mp3",
+    "kesto_sek": 5032,
+    "kesto_str": "01:23:52",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Pekka Mykkänen",
+      "Sohvi Sirkesalo"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa vierailee juuri Israelista palannut ulkomaantoimittaja Pekka Mykkänen. Pekka kertoo haastatteluistaan israelilaisten ja palestiinalaisten kanssa sekä miltä nyt näyttää sillä paikalla, jossa Hamas teki terrori-iskunsa 7. lokakuuta 2023. </p><p>Lisäksi keskustellaan siitä, miten Gazan tilanne ravistelee myös Suomen politiikkaa. Aiheena on myös Anna-Sofia Bernerin torstaina i",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Paisti – Ville Sivilä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "suomalainen kirjallisuus",
+          "sukutarina"
+        ],
+        "kuvaus": "Ville Sivilän esikoisromaani yhdistää suvun historiaa 1800-luvulta nykypäivään sekä kirjailijan omia lapsuusmuistoja 70–90-luvun Uudeltamaalta. Tiivis, novellimainen teos, joka kytkeytyy myös Suomen kohtaloihin.",
+        "google_linkki": "https://www.google.com/search?q=Paisti+Ville+Sivilä",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Paisti+Ville+Sivilä"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Pekka Mykkänen",
+        "teos": "Tennis – kunnalliset kentät pääkaupunkiseudulla",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "tennis",
+          "ulkoliikunta",
+          "ilmainen harrastus"
+        ],
+        "kuvaus": "Pääkaupunkiseudulla on useita kunnallisia tenniskenttiä, joilla voi pelata ilmaiseksi. Osa kentistä on uusittu tekonurmeksi hiekanjyvillä.",
+        "google_linkki": "https://www.google.com/search?q=kunnalliset+tenniskentät+pääkaupunkiseutu",
+        "lisatieto_linkki": "https://www.google.com/search?q=kunnalliset+tenniskentät+pääkaupunkiseutu"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Eraserhead",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "David Lynch",
+          "kulttielo­kuva",
+          "surrealismi"
+        ],
+        "kuvaus": "David Lynchin mustavalkoinen kulttielo­kuva dystooppisessa teollisuusmaisemassa, jossa nuori pari saa mutanttilapsen. Saatavilla maksuttomasti Yle Areenassa.",
+        "google_linkki": "https://www.google.com/search?q=Eraserhead+David+Lynch+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Eraserhead"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Pekka Mykkänen",
+        "teos": "The Spy Factory – New York Times",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "vakoilu",
+          "Venäjä",
+          "tutkiva journalismi"
+        ],
+        "kuvaus": "New York Timesin toimittajien Michael Schwirtz ja Jane Bradley kirjoittama artikkeli paljastaa, kuinka Venäjä on käyttänyt Brasiliaa deep cover -agenttien hautomona – agentit hankkivat aidot brasilialaiset henkilöllisyydet ja sijoitettiin ympäri maailmaa.",
+        "google_linkki": "https://www.google.com/search?q=The+Spy+Factory+New+York+Times+Brazil+Russia",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Spy+Factory+New+York+Times+Brazil+Russia"
+      }
+    ]
+  },
+  {
+    "j_idx": 313,
+    "jakso_id": "tag:soundcloud,2010:tracks/1034579587",
+    "jakso_otsikko": "22.4.2021: Hallituksen mani bisnikset, tuomio G. Floydin tappaneelle poliisille",
+    "paivamaara": "22.4.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/bbfe8fae-7aac-4a39-bb0d-ef53573dc321.mp3",
+    "kesto_sek": 4362,
+    "kesto_str": "01:12:42",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat hallituksen budjettiriihestä, sdp:n ja keskustan ”riitelystä”, turpeesta ja George Floydin taposta annetusta tuomiosta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Shit Town -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "rikostarina",
+          "dokumentaari",
+          "amerikka"
+        ],
+        "kuvaus": "Palkittu dokumentaarinen podcast, jossa toimittaja lähtee selvittämään murhaa pienessä amerikkalaisessa kaupungissa. Kokonaisvaltainen ja upea tarina, joka kertoo murhasta, kaupungista ja sen asukkaista.",
+        "google_linkki": "https://www.google.com/search?q=S-Town+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/S-Town%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "From Hell",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sarjakuva",
+          "rikoshistoria",
+          "Jack the Ripper"
+        ],
+        "kuvaus": "Alan Mooren sarjakuva Jack the Ripperin tarinoista, jossa kirurgi William Gull esitetään murhaajana. Syvällinen ja hyytävä teos, joka kuvaa 1800-luvun lopun englantilaista yhteiskuntaa vapaamuurarimystiikkoineen.",
+        "google_linkki": "https://www.google.com/search?q=From+Hell+Alan+Moore+sarjakuva",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=From+Hell+Alan+Moore"
+      }
+    ]
+  },
+  {
+    "j_idx": 172,
+    "jakso_id": "tag:soundcloud,2010:tracks/1754877570",
+    "jakso_otsikko": "22.2.2024: Sota 2v., RIP Navalnyi, maahanmuuttajien kielivaikeudet, miesten vs. naisten politiikka",
+    "paivamaara": "22.2.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/f69f2efd-b915-4ed6-902d-66586ab1d5f9.mp3",
+    "kesto_sek": 4843,
+    "kesto_str": "01:20:43",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina Venäjän hyökkäyksen kaksivuotispäivä ja ympärillä leijuva surumielisyys ja synkkyys, maahanmuuttajien huonot työllisyysluvut ja kielivaikeudet, ja miesten ja naisten poliittisten asenteiden merkittävä eriytyminen toisistaan nuoressa Z-sukupolvessa.\nStudiossa Tuomas Peltomäki, Anna-Sofia Berner ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nJaksoon liittyviä li",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "One Day (Yksi päivä) -sarja",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "romantiikka",
+          "draama",
+          "brittiläinen"
+        ],
+        "kuvaus": "Romanttinen sarja tytöstä ja pojasta, jotka kohtaavat Edinburgissa 1980-luvun lopulla. Heidän elämäänsä seurataan aikuisuuteen aina saman päivän, 15. heinäkuuta, kautta.",
+        "google_linkki": "https://www.google.com/search?q=One+Day+sarja+2024",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Day+2024"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "One Day (Yksi päivä) -kirja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romantiikka",
+          "brittiläinen kirjallisuus"
+        ],
+        "kuvaus": "David Nichollsin romaani, johon sarja perustuu. Anna-Sofia Bernerin mukaan kirja on erittäin liikuttava ja ihanaa luettavaa.",
+        "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Sky Guide -tähtisovellus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sovellus",
+          "tähtitiede",
+          "luonto"
+        ],
+        "kuvaus": "Puhelinsovellus, jolla voi osoittaa kameraa taivaalle ja nähdä tähtikuviot, tähdet ja planeetat nimettynä reaaliajassa.",
+        "google_linkki": "https://www.google.com/search?q=Sky+Guide+t%C3%A4htisovellus",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sky+Guide+app+download"
+      }
+    ]
+  },
+  {
+    "j_idx": 337,
+    "jakso_id": "tag:soundcloud,2010:tracks/916086428",
+    "jakso_otsikko": "22.10.2020: Lainsäädännön ongelmat, Qanon, Kanava-artikkeli kepusta",
+    "paivamaara": "22.10.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/c26805ab-4707-4c5c-b495-17ea4edb3822/916086428-uutisraportti-22102020-lainsaadannon-ongelmat-qanon-k.mp3",
+    "kesto_sek": 4202,
+    "kesto_str": "01:10:02",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat lainvalmistelun tasosta Suomessa, kun perustuslakiproffat ja hallitus ja sen oikeuskansleri Tuomas Pöysti ovat päätyneet professoriaalisesti väittelemään lainsäädännön tasosta Suomessa., ja QAnonista, sekä keskustan oppityöstä.\n\nPitkien, epämukavien hiljaisuuksien varalle Marko kiittelee yleisöä jigikalastuksen",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Sirkus Finlandia",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sirkus",
+          "esittävä taide",
+          "perhe"
+        ],
+        "kuvaus": "Kiertävä sirkus, joka vieraili Kaivopuistossa lokakuussa 2020. Ohjelmistossa muun muassa venäläinen ilma-akrobaattiryhmä Moskovasta – sopivalla tavalla retro-tunnelmalla ja ilman kituvia villieläimiä.",
+        "google_linkki": "https://www.google.com/search?q=Sirkus+Finlandia",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sirkus+Finlandia+kiertue"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tammisaari",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "matkailu",
+          "kaupunkiloma",
+          "urheilu"
+        ],
+        "kuvaus": "Pieni ja viihtyisä rannikkokaupunki, jossa voi kävellä kaikkialle keskustasta käsin. Marko suosittelee erityisesti paikallisen futisseura Ekenäs IF:n otteluiden katsomista läheltä kentän laidalta.",
+        "google_linkki": "https://www.google.com/search?q=Tammisaari+matkailu",
+        "lisatieto_linkki": "https://www.google.com/search?q=Tammisaari+matkakohde+Suomi"
+      }
+    ]
+  },
+  {
+    "j_idx": 191,
+    "jakso_id": "tag:soundcloud,2010:tracks/1621730748",
+    "jakso_otsikko": "21.9.2023: Miljardeja ziljardeja jee, Puola vs. Ukraina, työelämän mittaaminen",
+    "paivamaara": "21.9.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/fc8af037-21b8-4d0b-9389-e0e0e4c3b947/1621730748-uutisraportti-2192023-miljardeja-ziljardeja-jee-puol.mp3",
+    "kesto_sek": 4450,
+    "kesto_str": "01:14:10",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Matilda Jokinen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina hallituksen budjettiriihi ja siellä esitellyt miljoonat ja muut tärkeät numerot, jotka merkitsevät erittäin paljon ihmisille; sekä Puolan yllättävä päätös lopettaa aseiden antaminen Ukrainalle, ja muuttuva työelämä ja työntekijöiden mittailu by kapitalistipossut.\nStudiossa Tuomas Peltomäki, Marko Junkkari, Anni Keski-Heikkilä ja Matilda Jokinen. \nJakson leikkasi Vi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Virkkaaminen käsityöharrastuksena",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "käsityöt",
+          "rentoutuminen",
+          "harrastus"
+        ],
+        "kuvaus": "Anni Keski-Heikki suosittelee virkkaamista rentoutumiskeinona. Yhdellä koukulla ja langoilla voi tehdä esimerkiksi viinipullopussukan – helppo ja konkreettinen tulos.",
+        "google_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle",
+        "lisatieto_linkki": "https://www.google.com/search?q=virkkaaminen+aloittelijalle"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Rise and Fall of the Third Reich",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "toinen maailmansota",
+          "tietokirja"
+        ],
+        "kuvaus": "William L. Shirerin klassikko natsi-Saksan historiasta. Kirjoittaja oli itse paikan päällä Berliinissä ja tapasi Hitlerin useasti – teos on yksityiskohtainen, humaani ja sarkastinen.",
+        "google_linkki": "https://www.google.com/search?q=The+Rise+and+Fall+of+the+Third+Reich",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Rise+and+Fall+of+the+Third+Reich"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Menneisyyden jäljillä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "symbolit",
+          "suomalainen podcast"
+        ],
+        "kuvaus": "Lotta Vuorion historiapodcast, josta Tuomas suosittelee erityisesti tuoretta jaksoa salaisten symbolien ja symbolien historian aiheesta.",
+        "google_linkki": "https://www.google.com/search?q=Lotta+Vuorio+Menneisyyden+j%C3%A4ljill%C3%A4+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Revisionist History",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "journalismi",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Malcolm Gladwellin podcast, jossa tarkastellaan historiallisia totuuksia uusin silmin. Uusi kausi käsittelee USA:n asekulttuuria ja aselainsäädäntöä – mukana hätkähdyttäviä löydöksiä 1400-luvun brittiläisistä oikeustapauksista.",
+        "google_linkki": "https://www.google.com/search?q=Malcolm+Gladwell+Revisionist+History+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Revisionist%20History"
+      }
+    ]
+  },
+  {
+    "j_idx": 31,
+    "jakso_id": "d55782ea-b780-4eda-826f-7bd94646f634",
+    "jakso_otsikko": "Stump... Trubb?, kalliit asunnot,  Halla-aho-kirja",
+    "paivamaara": "21.8.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/d55782ea-b780-4eda-826f-7bd94646f634.mp3",
+    "kesto_sek": 4816,
+    "kesto_str": "01:20:16",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Jussi Niemeläinen",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat aiheinaan Trumpin ja Stubbin kohtaaminen Washingtonissa, turvatakuut ja niiden toimintalogiikka ja todennäköisyys; asuntojen kalleus ja rakentamisen julkiset tuet, joita hallitus on niistämässä; sekä Jussi Halla-ahon elämäkerta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Barbarian Days: A Surfing Life",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "matkakirja",
+          "surffaus",
+          "omaelämäkerta"
+        ],
+        "kuvaus": "William Finnegan kirjoittaa New Yorker -toimittajan tarkkuudella elämästään surffaajana – Kaliforniasta Havaijille ja ympäri Tyyntä valtamerta täydellistä aaltoa metsästäen. Marko Junkkarin mukaan kirja on niin taitavasti kirjoitettu, että surffauksesta täysin kiinnostumaton lukija tempautuu mukaan.",
+        "google_linkki": "https://www.google.com/search?q=Barbarian+Days+A+Surfing+Life+William+Finnegan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Barbarian+Days+A+Surfing+Life"
+      }
+    ]
+  },
+  {
+    "j_idx": 250,
+    "jakso_id": "tag:soundcloud,2010:tracks/1309248889",
+    "jakso_otsikko": "21.7.2022: Tappohelteet, Ukraina ja mursu",
+    "paivamaara": "21.7.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/90d9f7f0-8922-4d4d-a780-e7c22c45b22b.mp3",
+    "kesto_sek": 3908,
+    "kesto_str": "01:05:08",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Ilmo Ilkka",
+      "Inkeri Harju",
+      "Joona Aaltonen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Inkeri Harju, Ilmo Ilkka ja Joona Aaltonen keskustelevat Euroopan kuolettavista helteistä, Ukrainan sodan tilanteesta ja Haminan mursusta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ih",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "DIY Or DIE (DJ Orkidea)",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "konemusiikki",
+          "tanssimusiikki",
+          "konsertti"
+        ],
+        "kuvaus": "Suomalainen konemusiikki-ikoni, joka juhlistaa 30-vuotista uraansa elokuussa Helsingissä 30 tunnin konemusiikkitapahtumalla. Yksi Suomen merkittävimmistä tanssimusiikin edustajista.",
+        "google_linkki": "https://www.google.com/search?q=DJ+Orkidea",
+        "lisatieto_linkki": "https://open.spotify.com/search/DJ%20Orkidea"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Inkeri Harju",
+        "teos": "Pähkinänkuori",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "filosofia",
+          "brittikirjallisuus"
+        ],
+        "kuvaus": "Ian McEwanin romaani, jossa kertojana toimii kohdussa oleva sikiö. Filosofinen ja hämmentävä kesälukeminen, jota voi peilata myös ajankohtaiseen aborttikeskusteluun.",
+        "google_linkki": "https://www.google.com/search?q=P%C3%A4hkin%C3%A4nkuori+Ian+McEwan",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Nutshell+Ian+McEwan"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Get Sorted (kuvanhallinatasovellus)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sovellus",
+          "tuottavuus",
+          "valokuvaus"
+        ],
+        "kuvaus": "iPhone-sovellus puhelimen kuvien kategorisointiin ja poistamiseen Tinder-tyylisellä swaippausmekanismilla. Androidille vastaava sovellus nimeltä Slidebox.",
+        "google_linkki": "https://www.google.com/search?q=Get+Sorted+app+iPhone+photo+organizer",
+        "lisatieto_linkki": "https://www.google.com/search?q=Get+Sorted+iPhone+app"
+      }
+    ]
+  },
+  {
+    "j_idx": 309,
+    "jakso_id": "tag:soundcloud,2010:tracks/1052924116",
+    "jakso_otsikko": "21.5.2021: Kuntavaalit, vaalikoneet ja Vapaavuori",
+    "paivamaara": "21.5.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/3e34aec4-3876-4609-851f-436cf4340a60/1052924116-uutisraportti-2152021-kuntavaalit-vaalikoneet-ja-vap.mp3",
+    "kesto_sek": 4104,
+    "kesto_str": "01:08:24",
+    "rss_osallistujat": [
+      "Jaakko Lyytinen",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tällä viikolla studiossa Maria Manner ja Jaakko Lyytinen. Etänä jostakin Pohjanmaan perukoilta mukana Marko Junkkari. Poissa edelleen Tuomas Peltomäki, joka rakentaa taloa idolinsa Matti Vanhasen innoittamana.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jaakko Lyytinen",
+        "teos": "Sinéad O'Connor muistelmahaastattelu – New York Times",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "haastattelu",
+          "musiikki",
+          "muistelmat"
+        ],
+        "kuvaus": "New York Timesin haastattelu Sinéad O'Connorista, otsikoitu 'Sinéad O'Connor Remembers Things Differently'. Haastattelu käsittelee hänen elämäänsä, islamin uskoon kääntymistään ja muistelmiaan.",
+        "google_linkki": "https://www.google.com/search?q=Sinead+O%27Connor+New+York+Times+interview+remembers+things+differently",
+        "lisatieto_linkki": "https://www.nytimes.com/search?query=Sinead+O%27Connor+remembers+things+differently"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Jaakko Lyytinen",
+        "teos": "Line of Duty",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliisisarja",
+          "brittiläinen",
+          "korruptio"
+        ],
+        "kuvaus": "Brittiläinen poliisisarja, joka kertoo poliisin sisäisen valvonnan korruptioyksiköstä ja sen tutkinnoista. Uusin kausi löytyy Yle Areenasta, vanhemmat kaudet maksullisista suoratoistopalveluista.",
+        "google_linkki": "https://www.google.com/search?q=Line+of+Duty+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Line+of+Duty"
+      }
+    ]
+  },
+  {
+    "j_idx": 263,
+    "jakso_id": "tag:soundcloud,2010:tracks/1254233749",
+    "jakso_otsikko": "Miniraportti: Nato-keskustelu",
+    "paivamaara": "21.4.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/98683549-28b6-4159-b171-5b25a0b5ef4d.mp3",
+    "kesto_sek": 485,
+    "kesto_str": "08:05",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Suomi aloitti Nato-keskustelun toden teolla, Tuomas kommentoi asiaa peiton alta kotoaan.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Machines of Loving Grace",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "tietokirja"
+        ],
+        "kuvaus": "New York Timesin teknologiatoimittajan kirjoittama teos, joka käy seikkaperäisesti läpi tekoälyn historian eri vaiheineen ja arvioi, onko kehitys kulkenut suuntaan, jossa koneet korvaavat vai täydentävät ihmistä.",
+        "google_linkki": "https://www.google.com/search?q=Machines+of+Loving+Grace+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Machines+of+Loving+Grace"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Belgialainen trappistiolut",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "olut",
+          "belgia",
+          "juoma"
+        ],
+        "kuvaus": "Brysselissä pantuja belgialaisten trappistimunkkien valmistamia oluita, joita Tuomas suosittelee nautittavaksi viileänä kevätauringossa ulkona.",
+        "google_linkki": "https://www.google.com/search?q=belgialainen+trappistiolut+Bryssel",
+        "lisatieto_linkki": "https://www.google.com/search?q=belgialainen+trappistiolut+Bryssel"
+      }
+    ]
+  },
+  {
+    "j_idx": 169,
+    "jakso_id": "tag:soundcloud,2010:tracks/1780796121",
+    "jakso_otsikko": "Erittäin pitkä rajalakikeskustelu, vaihto-opiskelu",
+    "paivamaara": "21.3.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/bf317294-fb7c-4dce-bca3-7810469ce7da.mp3",
+    "kesto_sek": 5381,
+    "kesto_str": "01:29:41",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Paavo Teittinen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa käytiin poikkeuksellisen pitkä ja kiihkeä keskustelu hallituksen uudesta lakiluonnoksesta, jonka tarkoituksena on antaa hallitukselle keinot vastata Venäjän hybridivaikuttamiseen itärajalla. Alussa lupailtiin vielä miesaihetta, mutta se tippui aikataulusyistä pois. Lopussa vähän boomerihenkinen muistelu vaihto-opiskelun ihanuuksista.\nStudiossa Tuomas Peltomäki, Paavo Teitt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "New York Times Games -sovellus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "pelit",
+          "sanapeli",
+          "mobiilisovellus"
+        ],
+        "kuvaus": "New York Timesin pelisovellus, joka sisältää mm. Wordle- ja Connections-pelit. Connections-pelissä etsitään neljän sanan ryhmiä, jotka kuuluvat yhteen.",
+        "google_linkki": "https://www.google.com/search?q=New+York+Times+Games+sovellus",
+        "lisatieto_linkki": "https://www.nytimes.com/games"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "New York Times Cooking -sovellus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "ruokasovellus",
+          "reseptit",
+          "mobiilisovellus"
+        ],
+        "kuvaus": "New York Timesin ruokasovellus, jossa on laaja valikoima laadukkaita reseptejä. Loistava inspiraation lähde ruoanlaittoon.",
+        "google_linkki": "https://www.google.com/search?q=New+York+Times+Cooking+sovellus",
+        "lisatieto_linkki": "https://cooking.nytimes.com"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Havumetsän lapset",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "ympäristö",
+          "aktivismi"
+        ],
+        "kuvaus": "Virpi Suutarin dokumenttielokuva nuoresta metsiä suojelevasta aktivistiporukasta. Käsittelee monia tasoja moralisoimatta – sopii kaikille, ei vain aktivisteille.",
+        "google_linkki": "https://www.google.com/search?q=Havumets%C3%A4n+lapset+Virpi+Suutari",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Havumets%C3%A4n+lapset"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Arto Mellerin runot",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "runous",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Arto Mellerin kootut runot, mukaan lukien runo 'Tämä kylä katoaa'. Koskettavaa suomalaista runoutta, jota suositellaan myös nuorille lukijoille.",
+        "google_linkki": "https://www.google.com/search?q=Arto+Melleri+runot",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Arto+Melleri"
+      }
+    ]
+  },
+  {
+    "j_idx": 417,
+    "jakso_id": "tag:soundcloud,2010:tracks/593546820",
+    "jakso_otsikko": "21.3.2019: Junes Lokan ja Johanna Vehkoon oikeudenkäynti, ilmastolakko ja vaaligallupit",
+    "paivamaara": "21.3.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/2f8feb19-3a6a-4266-872d-46f7396190b3.mp3",
+    "kesto_sek": 3371,
+    "kesto_str": "56:11",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Aino Frilander keskustelevat sananvapauteen liittyvästä Junes Lokan ja toimittaja Johanna Vehkoon oikeudenkäynnistä, ruotsalaisen Greta Turnbergin aloittamasta maailmanlaajuisesta ilmastoliikkeestä ja äärimmäisen pikaisesti vaalien alla julkaistavista gallupeista.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "Call Your Girlfriend – Business Special",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "podcast",
+          "bisnes",
+          "media"
+        ],
+        "kuvaus": "Jakso käsittelee sitä, miten podcasteilla tehdään rahaa ja miten ihmisistä tulee podcast-miljonäärejä.",
+        "google_linkki": "https://www.google.com/search?q=Call+Your+Girlfriend+Business+Special+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Call%20Your%20Girlfriend"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "Letter from London: Bad Boy – New Yorker",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "Brexit",
+          "pitkä juttu"
+        ],
+        "kuvaus": "New Yorker -lehden pitkä artikkeli Brexit-kampanjan rahoittajista ja taustavaikuttajista – silmiä avaava katsaus siihen, mistä rahat tulivat ja ketkä vetivät lankoja.",
+        "google_linkki": "https://www.google.com/search?q=New+Yorker+Letter+from+London+Bad+Boy+Brexit",
+        "lisatieto_linkki": "https://www.newyorker.com"
+      }
+    ]
+  },
+  {
+    "j_idx": 384,
+    "jakso_id": "tag:soundcloud,2010:tracks/716362501",
+    "jakso_otsikko": "21.11.2019: Suomelle tuomio EIT:ltä, työmarkkinatilanne, Pirkka-Pekka Peteliuksen anteeksipyyntö",
+    "paivamaara": "21.11.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/bb72e6e6-ee37-4683-8bee-e97bfd5fe0cc.mp3",
+    "kesto_sek": 4117,
+    "kesto_str": "01:08:37",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Euroopan ihmisoikeustuomioistuimen rapsuista Suomelle tapauksessa, jossa Suomesta turvapaikkaa hakenut irakilaismies käännytettiin ja hän kuoli palattuaan Irakiin. Lisäksi aiheina poikkeuksellisen kireäksi pingottunut työmarkkinatilanne ja Pirkka-Pekka Peteliuksen anteeksipyyntö saamelaisilta sen jälkeen kun valta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Deep State",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "non-fiction",
+          "USA"
+        ],
+        "kuvaus": "Kirja käy yksityiskohtaisesti läpi FBI:n entisen johtajan James Comeyn toimintaa Hillary Clintonin sähköpostikohun ja Trumpin presidenttikauden aikana. Kirjoittanut toimittajakirjailija James B. Stewart.",
+        "google_linkki": "https://www.google.com/search?q=Deep+State+James+Comey",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Deep+State+James+Comey"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Brahen kentän tekojää",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "luistelu",
+          "Helsinki",
+          "talvi"
+        ],
+        "kuvaus": "Helsingin Brahenkentän tekojää on auki ja höyryää kauniisti pimeässä syysillassa. Hieno talvinen elämys kaupungin keskustassa.",
+        "google_linkki": "https://www.google.com/search?q=Brahen+kentt%C3%A4+tekoj%C3%A4%C3%A4+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Brahen+kentt%C3%A4+tekoj%C3%A4%C3%A4+Helsinki"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Professor and the Madman",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "non-fiction",
+          "kieli"
+        ],
+        "kuvaus": "Simon Winchesterin teos kertoo Oxfordin englanninkielisen sanakirjan synnystä ja sen päätoimittajan sekä mielisairaalassa asuvan avustajan kiehtovasta suhteesta 1800-luvun lopussa. Kirja on myös saanut elokuvasovituksen.",
+        "google_linkki": "https://www.google.com/search?q=The+Professor+and+the+Madman+Simon+Winchester",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Professor+and+the+Madman+Simon+Winchester"
+      }
+    ]
+  },
+  {
+    "j_idx": 287,
+    "jakso_id": "tag:soundcloud,2010:tracks/1145455789",
+    "jakso_otsikko": "21.10.2021: Toimitusketjut naps, Facebookin uusi metaversumi, typerä Afrikan tähti -kohu",
+    "paivamaara": "21.10.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/adfe75aa-f8cf-43c2-a7b3-12143002b7f3.mp3",
+    "kesto_sek": 4445,
+    "kesto_str": "01:14:05",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Alma Onali ja taloustoimittaja Niclas Storås keskustelevat koronapandemian katkomista toimitusketjuista ja siitä mitä niiden toiminta kertoo maailmasta, Facebookin uudesta metaversumista ja Afrikan tähti -kohusta, joka ei ole oikein kunniaksi kenellekään.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analys",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Helvetin soikoon – norjalaisen black metallin historia",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "musiikkihistoria",
+          "black metal"
+        ],
+        "kuvaus": "Neliosainen norjalainen dokumenttisarja norjalaisen black metallin historiasta, saatavilla Yle Areenassa. Sarjassa haastatellaan skenen keskeisiä henkilöitä 1990-luvun alun tapahtumista.",
+        "google_linkki": "https://www.google.com/search?q=Helvetin+soikoon+norjalaisen+black+metallin+historia+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Helvetin+soikoon+norjalaisen+black+metallin+historia"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Niklas Storås",
+        "teos": "Helsingin kirjamessut",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "kirjamessut",
+          "tapahtuma",
+          "Helsinki"
+        ],
+        "kuvaus": "Vuosittaiset Helsingin kirjamessut, joilla pääsee selailemaan ja haistelemaan kirjoja sekä tapaamaan ihmisiä. Tapahtuma järjestetään ensi viikolla.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+kirjamessut+2021",
+        "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+kirjamessut+2021"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The New Atlantis",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "teknologia",
+          "keinoäly",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Neljä kertaa vuodessa ilmestyvä yhdysvaltalainen lehti, joka julkaisee pitkiä esseitä teknologiasta ja yhteiskunnasta kriittisestä näkökulmasta. Erityisesti suositellaan artikkelia 'Can Machines Have Common Sense?' kirjoittajana William Haselberg.",
+        "google_linkki": "https://www.google.com/search?q=The+New+Atlantis+journal+technology+society",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+New+Atlantis+journal+technology+society"
+      }
+    ]
+  },
+  {
+    "j_idx": 326,
+    "jakso_id": "tag:soundcloud,2010:tracks/969912847",
+    "jakso_otsikko": "21.1.2021: Saksan uusi Merkel, Suomen absurdit terrorilait, Navalnyi",
+    "paivamaara": "21.1.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/99e0e48a-a338-4518-bf61-e4bb6fe9575f.mp3",
+    "kesto_sek": 4692,
+    "kesto_str": "01:18:12",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner yhdessä HS:n Berliinin-kirjeenvaihtajan Hanna Mahlamäen kanssa keskustelevat Saksan mahtipuolue CDU:n uudesta puheenjohtajasta Armin Laschetista, joka todennäköisesti on seuraava liittokansleri ja sitä kautta Euroopan kunkku, ja Marian kirjoittamasta jutusta joka paljasti Suomen terrorilakien tulkinnan käsittämättömyyksiä, s",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "This One Summer",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sarjakuva",
+          "nuorisokirjallisuus",
+          "kasvutarina"
+        ],
+        "kuvaus": "Jillian ja Mariko Tamakin aikuisten sarjakuvaromaani, joka kuvaa kahden tytön kesää mökkipaikkakunnalla ja kasvamista nuoreksi naiseksi. Suosittelijan mukaan erityisen koskettava tyttöjen vanhemmille.",
+        "google_linkki": "https://www.google.com/search?q=This+One+Summer+Jillian+Tamaki+Mariko+Tamaki",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=This+One+Summer"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tappolista: Kremlin murhat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "Venäjä",
+          "politiikka"
+        ],
+        "kuvaus": "Heidi Blaken kirjoittama tietokirja Kremlin tilaamista murhista. Suosittelija mainitsi sen liittyvän jakson Venäjä-teemaan ja lupasi kertoa lisää luettuaan kirjan loppuun.",
+        "google_linkki": "https://www.google.com/search?q=Tappolista+Kremlin+murhat+Heidi+Blake",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tappolista+Kremlin+murhat"
+      }
+    ]
+  },
+  {
+    "j_idx": 345,
+    "jakso_id": "tag:soundcloud,2010:tracks/879031654",
+    "jakso_otsikko": "20.8.2020: Unohdettu ilmastonmuutos, Jenkkien vaalit ja Valko-Venäjä vielä kerran",
+    "paivamaara": "20.8.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/d49727d7-9b5a-46d4-b61d-eeccbc8a4f5f.mp3",
+    "kesto_sek": 4148,
+    "kesto_str": "01:09:08",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Maria Pettersson",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat unohdetusta ilmastokriisistä ja sen kytköksistä koronakriisiin, Yhdysvaltain lähestyvistä presidentinvaaleista ja vielä kerran Valko-Venäjästä.\n\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Politiikasta.fi-sivuston Sosiaalinen media ja politiikka -juttusarjaa (https://politiikasta.fi/tag/sosi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Sosiaalinen media ja politiikka -juttusarja",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "sosiaalinen media",
+          "demokratia"
+        ],
+        "kuvaus": "Politiikka.fi-sivustolla julkaistu juttusarja, johon tutkijat ovat kirjoittaneet mediasta, demokratiasta ja somealustojen vaikutuksesta julkiseen keskusteluun ja poliittiseen tilanteeseen.",
+        "google_linkki": "https://www.google.com/search?q=Sosiaalinen+media+ja+politiikka+juttusarja+politiikka.fi",
+        "lisatieto_linkki": "https://politiikka.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Keijo Vilhunen -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "rikos",
+          "dokumentti",
+          "suomalainen"
+        ],
+        "kuvaus": "Ylen podcast, joka kertoo entisen jengipomon Keijo Vilhusen elämäntarinan. Sarjaa on tutkinut ja juontaa rikos- ja oikeustoimittaja Merja Miettinen.",
+        "google_linkki": "https://www.google.com/search?q=Keijo+Vilhunen+podcast+Yle",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Keijo+Vilhunen"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Historian jännät naiset",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "naistutkimus",
+          "elämäkerrat"
+        ],
+        "kuvaus": "Maria Petterssonin kirja merkillisiä, hurjia ja jännittäviä asioita tehneistä naisista historian saatossa – mukana niin urateot kuin inhimilliset epäonnistumisetkin.",
+        "google_linkki": "https://www.google.com/search?q=Historian+j%C3%A4nn%C3%A4t+naiset+Maria+Pettersson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Historian+j%C3%A4nn%C3%A4t+naiset"
+      }
+    ]
+  },
+  {
+    "j_idx": 199,
+    "jakso_id": "tag:soundcloud,2010:tracks/1570211452",
+    "jakso_otsikko": "20.7.2023 Kuumuus, superrikkaat, Barbieheimer",
+    "paivamaara": "20.7.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/1a74e3bc-1fb7-46ad-92ad-f2afa6b40781/1570211452-uutisraportti-2072023-kuumuus-superrikkaat-barbiehei.mp3",
+    "kesto_sek": 3642,
+    "kesto_str": "01:00:42",
+    "rss_osallistujat": [
+      "Joakim Westrén-Doll",
+      "Joona Aaltonen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tässä jaksossa käsitellään Etelä-Eurooppaa paahtavaa kuumuutta, superrikkaita sekä kahta ajankohtaista elokuvaa eli Oppenheimeria ja Barbieta.\nStudiossa Venla Kuokkanen, Joona Aaltonen ja Joakim Westrén-Doll.\nJakson leikkasi Ville-Veikko Niemelä.\n\nJaksossa mainittuja linkkejä: \nHS:n juttu superrikkaista: https://www.hs.fi/talous/art-2000009296711.html\n STT:n juttu kuumuudesta: https://www.hs.fi/ul",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Hurrikaanien aika – Fernanda Melchor",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "latinalainen amerikka",
+          "nykykirjallisuus",
+          "meksiko"
+        ],
+        "kuvaus": "Meksikolaisen nykykirjailijan Fernanda Melchorin romaani, joka tarjoaa kiinnostavan katsauksen meksikolaisen nykymaailman ongelmiin. Suositellaan osana strategiaa laajentaa kirjallisuuden lukemista eri alueilta.",
+        "google_linkki": "https://www.google.com/search?q=Hurrikaanien+aika+Fernanda+Melchor",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Hurrikaanien+aika+Fernanda+Melchor"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Venla Kuokkanen",
+        "teos": "Lavarunous – Juho Kuusi",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "runous",
+          "spoken word",
+          "youtube"
+        ],
+        "kuvaus": "Spoken word -lavarunoutta, jota voi nauttia esimerkiksi YouTubesta. Lavarunoudessa yhdistyvät omakohtaisuus, huumori ja yhteiskunnallinen kantaaottavuus – helposti lähestyttävä tapa tutustua runouteen.",
+        "google_linkki": "https://www.google.com/search?q=Juho+Kuusi+lavarunous",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Juho+Kuusi+lavarunous"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Kylmät suihkut",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "hyvinvointi",
+          "terveys",
+          "arkirutiini"
+        ],
+        "kuvaus": "Kylmät suihkut aloittaen lämpimästä vedestä ja viilentäen asteittain täysin kylmäksi. Suosittelijan mukaan tekee hyvää ja antaa läsnäolevan ja seikkailullisen olon.",
+        "google_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset",
+        "lisatieto_linkki": "https://www.google.com/search?q=kylm%C3%A4t+suihkut+hyv%C3%A4t+vaikutukset"
+      }
+    ]
+  },
+  {
+    "j_idx": 156,
+    "jakso_id": "tag:soundcloud,2010:tracks/1852589244",
+    "jakso_otsikko": "20.6.2024: Käännytyslaki, kanki ja kreiviherra, pahanhajuinen Helsingin valtuusto",
+    "paivamaara": "20.6.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/eb4173ef-f556-4f36-94f0-388fae6d12c7/1852589244-uutisraportti-2062024-kaannytyslaki-kanki-ja-kreivih.mp3",
+    "kesto_sek": 4204,
+    "kesto_str": "01:10:04",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Joona Aaltonen",
+      "Milla Palkoaho"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Joona Aaltonen ja Milla Palkoaho perkaavat käännytyslain, josta eduskunnan perustuslakivaliokunta julkaisi kauan odotetun lausuntonsa. Oikeustieteilijät tyrmistyivät, vedettiinkö perustuslakivaliokunta vessanpöntöstä alas? \n\nLisäksi Anni, Joona ja Milla puivat keskustan ja Rkp:n uudet puheenjohtajat sekä keskustelevat ilmapiiristä Helsingin valtuustoss",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Milla Palkoaho",
+        "teos": "Haraldin äiti",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "huumori",
+          "kevyt lukeminen",
+          "kesäkirja"
+        ],
+        "kuvaus": "Johan Friedin kirja, jota suositellaan kesälomaksi. Täynnä pientä passiivista naliailua – tosi viihdyttävä lukukokemus.",
+        "google_linkki": "https://www.google.com/search?q=Johan+Fried+Haraldin+äiti",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Haraldin+äiti+Johan+Fried"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Kadonnutta aikaa etsimässä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "ranskalainen kirjallisuus",
+          "pitkä projekti"
+        ],
+        "kuvaus": "Marcel Proustin monumentaalinen kirjasarja, jota Anni on vihdoin aloittanut. Suosittelee erityisesti 'passiivisen lukemisen' taktiikkaa – nautiskele pikkuhiljaa ilman paineita.",
+        "google_linkki": "https://www.google.com/search?q=Marcel+Proust+Kadonnutta+aikaa+etsimässä",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=In+Search+of+Lost+Time+Proust"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Milla Palkoaho",
+        "teos": "Blue",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "livemusiikki",
+          "festivaali"
+        ],
+        "kuvaus": "Brittiläinen 2000-luvun poikabändi, jonka Milla näki Helsinki City -festivaalilla. Veti ysäripaikan tanssiliikkeitä täydellä pokalla – esiintyminen oli hänen mukaansa aidosti cool.",
+        "google_linkki": "https://www.google.com/search?q=Blue+yhtye",
+        "lisatieto_linkki": "https://open.spotify.com/search/Blue%20band"
+      }
+    ]
+  },
+  {
+    "j_idx": 406,
+    "jakso_id": "tag:soundcloud,2010:tracks/639488409",
+    "jakso_otsikko": "20.6.2019: Saako mitään enää sanoa? Voiko poliisiin luottaa? Missä on Boris?",
+    "paivamaara": "20.6.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/f91dcf91-9281-4128-ad5a-bc9b20ee4cc8.mp3",
+    "kesto_sek": 2846,
+    "kesto_str": "47:26",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Milka Valtanen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Tuija Siltamäki ja Milka Valtanen keskustelevat sananvapauskeskustelusta, poliisin korruptiosta ja Helsingin Kalliota kuohuttaneesta sosiaalisen median kissajahdista. Jaksossa selviää, miksi Eppu Normaali on väärässä, onko poliiseilla liian pienet palkat ja mitä tapahtuu, kun sosiaalisen median logiikka siirtyy ketjuista kaduille.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "The Curious Case of the Man Who Wouldn't Die",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "pitkä juttu",
+          "rikostarina",
+          "HIV"
+        ],
+        "kuvaus": "Amerikkalaisen GQ-lehden artikkeli miehestä, joka 1980-luvulla sairastuttuaan HIViin lavasti kuolemansa useita kertoja ja teki vakuutuspetoksia – kunnes selvisi, ettei hän ollutkaan kuolemassa. Mukaansatempaava tarina.",
+        "google_linkki": "https://www.google.com/search?q=The+Curious+Case+of+the+Man+Who+Wouldn%27t+Die+GQ",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Curious+Case+of+the+Man+Who+Wouldn%27t+Die+GQ+magazine"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Brooklyn Nine-Nine",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "poliisisarja",
+          "Netflix"
+        ],
+        "kuvaus": "Komediasarja Brooklynin poliiseista, joka on absurdi mutta kevyt – tekee pilaa ihmisten persoonista ilman vihamielisyyttä tai vähemmistöjen kustannuksella. Katsottavissa Netflixistä.",
+        "google_linkki": "https://www.google.com/search?q=Brooklyn+Nine-Nine",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Brooklyn+Nine-Nine"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Suuri kaalihuijaus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "psykologia",
+          "tietokirja"
+        ],
+        "kuvaus": "Tommi Uschanovin kirja, jossa hän perkaa yhteiskunnallisia huijauksia ja uskomuksia, joilla ei ole todellisuuspohjaa – sekä niiden psykologiaa. Käsittelee muun muassa pessimismiä ja sitä, miksi ihmiset uskovat maailman menevän huonompaan suuntaan.",
+        "google_linkki": "https://www.google.com/search?q=Suuri+kaalihuijaus+Tommi+Uschanov",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Suuri+kaalihuijaus"
+      }
+    ]
+  },
+  {
+    "j_idx": 358,
+    "jakso_id": "tag:soundcloud,2010:tracks/824431384",
+    "jakso_otsikko": "20.5.2020: Ravintolat auki, Sdp:n supersuosio",
+    "paivamaara": "20.5.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/031f4c81-ec9d-4e93-961f-aee448f49194/824431384-uutisraportti-2052020-ravintolat-auki-sdpn-supersuosio.mp3",
+    "kesto_sek": 3587,
+    "kesto_str": "59:47",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat hallituksen paljastamista suunnitelmista ravintoloiden aukeamiseksi, ja SDP:n tai tarkemmin Sanna Marinin supersuosiosta.\nPitkien, epämukavien hiljaisuuksien varalle Tuomas suosittelee lukemaan Markon mainion kolumnin historiasta ja sattumasta (https://www.hs.fi/sunnuntai/art-2000006508644.html), ja mainio",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Marko Junkkarin kolumni sattumasta (Helsingin Sanomat)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "kolumni",
+          "historia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Marko Junkkarin Helsingin Sanomien kolumni, jossa käsitellään sattuman roolia historiassa ja suurissa yhteiskunnallisissa prosesseissa kuten koronassa ja sodissa.",
+        "google_linkki": "https://www.google.com/search?q=Marko+Junkkari+kolumni+sattuma+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.hs.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Mikael Hakim",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "klassikko",
+          "Waltari"
+        ],
+        "kuvaus": "Mika Waltarin historiallinen romaani, jossa sivutaan oikun ja sattuman teemoja päähenkilön elämässä.",
+        "google_linkki": "https://www.google.com/search?q=Mika+Waltari+Mikael+Hakim",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Hakim+Waltari"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kuilun partaalla – Suomen pankkikriisi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "taloushistoria",
+          "Suomi",
+          "lama"
+        ],
+        "kuvaus": "Entisen Helsingin Sanomien päätoimittajan Keijo K. Kulhan teos, joka käsittelee Suomen 1990-luvun pankkikriisiä ja lamaa.",
+        "google_linkki": "https://www.google.com/search?q=Keijo+K.+Kulha+Kuilun+partaalla+Suomen+pankkikriisi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuilun+partaalla+Kulha"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Suuri lama",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "taloushistoria",
+          "Suomi",
+          "lama"
+        ],
+        "kuvaus": "Jaakko Kianderin ja Pentti Vartian kirja Suomen 1990-luvun lamasta, sen syistä ja seurauksista.",
+        "google_linkki": "https://www.google.com/search?q=Jaakko+Kiander+Pentti+Vartia+Suuri+lama",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Suuri+lama+Kiander+Vartia"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Constitutional Constraints Meet Political Pressure: Finland's Precarious Participation in the COVID-19 Solidarity Measures (Verfassungsblog)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "EU-oikeus",
+          "perustuslaki",
+          "talouspolitiikka"
+        ],
+        "kuvaus": "Helsingin yliopiston professori Päivi Leino-Sandbergin englanninkielinen analyysi saksalaisessa perustuslakiblogissa siitä, miten Suomen suuri valiokunta on ohittanut perustuslakivaliokunnan EU:n talousvakausmekanismeja koskevissa päätöksissä.",
+        "google_linkki": "https://www.google.com/search?q=Paivi+Leino-Sandberg+Constitutional+Constraints+Political+Pressure+Finland+COVID+Verfassungsblog",
+        "lisatieto_linkki": "https://verfassungsblog.de/?s=Leino-Sandberg"
+      }
+    ]
+  },
+  {
+    "j_idx": 212,
+    "jakso_id": "tag:soundcloud,2010:tracks/1496843131",
+    "jakso_otsikko": "20.4.2023: She-devil Ann-Maja H., v**un Fo**um, Fox News",
+    "paivamaara": "20.4.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/b2264c68-525f-4c81-9652-1aeee1abdb93/1496843131-uutisraportti-2042023-she-devil-ann-maja-h-vun-foum.mp3",
+    "kesto_sek": 4154,
+    "kesto_str": "01:09:14",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa keskustellaan P. Orpon vetämistä hallitusneuvotteluista, jotka ilman akuuttia maahanmuuton kriisiäkin ovat kärjistyneet Rkp:n ja perussuomalaisten kiistaksi maahanmuutosta, ja veret keittävällä tavalla hirveästä mulkkuudesta joka on pesiytynyt valtionyhtiö Fortumin johtoon, sekä Fox Newsin häviämästä oikeudenkäynnistä vaalikoneyhtiö Dominionia vastaan.\nStudiossa Tuomas Pel",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Hesari Musta Laatikko -esitys",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "live-journalismi",
+          "teatteri",
+          "tapahtuma"
+        ],
+        "kuvaus": "Helsingin Sanomien live-journalismi-esitys, joka kiertää myös maakunnissa. Marko Junkkarin mukaan aina päräyttävä kokemus.",
+        "google_linkki": "https://www.google.com/search?q=Hesari+Musta+Laatikko+live-journalismi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Hesari+Musta+Laatikko+live-journalismi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Data Delusion",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "data",
+          "historia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Harvardin historian professori Jill Leporen artikkeli The New Yorker -lehdessä, joka käsittelee datan ylivaltaa ja sitä, miten data on vain yksi tapa jäsentää maailmaa. Tuomaksen mukaan käsittämättömän hieno ja ajatuksia herättävä.",
+        "google_linkki": "https://www.google.com/search?q=The+Data+Delusion+New+Yorker+Jill+Lepore",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Data+Delusion+New+Yorker+Jill+Lepore"
+      }
+    ]
+  },
+  {
+    "j_idx": 53,
+    "jakso_id": "b5ab2750-f5b5-4280-83e9-fa380e856c67",
+    "jakso_otsikko": "Zelenskyi <3 FIN, tullit <3 osta EU:sta, kansalaisuus <3",
+    "paivamaara": "20.3.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/b5ab2750-f5b5-4280-83e9-fa380e856c67.mp3",
+    "kesto_sek": 5485,
+    "kesto_str": "01:31:25",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko ja Salla keskustelevat Ukrainan presidentti Volodymyr Zelenskyin Suomen-vierailusta ja siihen liittyvistä tunnelmista, Trumpin käynnistämästä kauppasodasta ja sen syistä ja seurauksista ja motiiveista, ja persujen maahanmuuttopolitiikan pikkuhiljaa kiristyvästä otteesta, jonka myötä Suomen kansalaisuudesta on tullut jotain joka on \"ansaittava\".</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sinuhe egyptiläinen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "äänikirja",
+          "klassikko"
+        ],
+        "kuvaus": "Mika Waltarin klassinen historiallinen romaani muinaisesta Egyptistä, jonka Marko Junkkari on kuunnellut äänikirjana. Teos on hänen mukaansa fasisnoiva ja lukija Lars tekee siitä erityisen elämyksellisen.",
+        "google_linkki": "https://www.google.com/search?q=Sinuhe+egyptiläinen+Mika+Waltari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinuhe+egyptiläinen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Murhat ja mindfulness",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "musta komedia",
+          "rikos",
+          "saksalainen kirjallisuus"
+        ],
+        "kuvaus": "Saksalaisen Karsten Dussen musta komedia, jossa keski-ikäinen juristi ajautuu mindfulnessin kautta murhaamaan ihmisiä. Kirjasta on tehty myös Netflix-sarja.",
+        "google_linkki": "https://www.google.com/search?q=Murhat+ja+mindfulness+Karsten+Dusse",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Murhat+ja+mindfulness+Karsten+Dusse"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Origin Story -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "yhteiskunta",
+          "historia",
+          "brittiläinen"
+        ],
+        "kuvaus": "Kahden brittiläisen toimittajan pitämä podcast, jossa selitetään nykyajan ilmiöiden – kuten wokismin tai fasististen liikkeiden – historialliset juuret. Syvällinen, hauska ja sivistynyt.",
+        "google_linkki": "https://www.google.com/search?q=Origin+Story+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Origin%20Story%20podcast"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Rugby ja 6 Nations Aussibarissa",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "rugby",
+          "baari",
+          "live-urheilu"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee menemään Helsingin Aussibariin katsomaan 6 Nations -rugbyturnauksen otteluita. Baari on täynnä irlantilaisia, ranskalaisia ja englantilaisia, ja tunnelma on kuin ulkomailla.",
+        "google_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar",
+        "lisatieto_linkki": "https://www.google.com/search?q=Six+Nations+rugby+Helsinki+Aussibar"
+      }
+    ]
+  },
+  {
+    "j_idx": 58,
+    "jakso_id": "4da7b622-263c-48aa-8125-8bde0b167643",
+    "jakso_otsikko": "20.2.2025: Saksan vaalit, Euroopan kaaos, influenssereiden verot",
+    "paivamaara": "20.2.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/4da7b622-263c-48aa-8125-8bde0b167643.mp3",
+    "kesto_sek": 5502,
+    "kesto_str": "01:31:42",
+    "rss_osallistujat": [
+      "Elina Kervinen",
+      "Suvi Turtiainen"
+    ],
+    "rss_kuvaus": "<p>Taas tuli liian pitkä jakso! Anteeksi! Mutta on niin intensiivinen tämä nykyinen aika. Tämän viikon podcastissa Tuomas, Salla, HS:n turvallisuupolitiikkaa seuraava toimittaja Elina Kervinen ja Berliinin-kirjeenvaihtaja Suvi Turtiainen keskustelevat rönsyillen ja vuolaasti ja 1h30min verran siitä kaaosmaisesti kieppuvasta poliittisesta myrskystä joka pyörii ympäri Eurooppaa. Keskustelu alkaa Sak",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Elämäni miehet",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "miehet",
+          "terapia"
+        ],
+        "kuvaus": "Samuli Putron omaelämäkerrallinen teos, joka käsittelee kirjoittajan suhteita elämänsä miehiin – isästä levy-yhtiön pomoon – terapiakeskustelujen lomassa. Salla Vuorikoski kuvailee kirjoitustyyliä yksinkertaisen kauniiksi ja korutoman syvälliseksi.",
+        "google_linkki": "https://www.google.com/search?q=Samuli+Putro+El%C3%A4m%C3%A4ni+miehet",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4ni+miehet+Samuli+Putro"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Elina Kervinen",
+        "teos": "Intermezzo",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "ihmissuhteet",
+          "irtiotto"
+        ],
+        "kuvaus": "Sally Roonyn uusin romaani, joka käsittelee ihmissuhteita, parisuhdetta ja deittailua. Elina Kervinen suosittelee sitä vastapainoksi raskaalle uutisvirralle – kirja imaisee mukaansa kuin parhaat romanit.",
+        "google_linkki": "https://www.google.com/search?q=Sally+Rooney+Intermezzo",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Intermezzo+Sally+Rooney"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Keskiyön kaninkolo",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "narratiivinen",
+          "tietoviihde",
+          "suomalainen"
+        ],
+        "kuvaus": "Helsingin Sanomien uusi narratiivinen podcast, jota juontavat Inkeri ja Julia. Jokainen jakso syventyy johonkin arjen yllättävään kysymykseen amerikkalaistyylisellä kerronnalla.",
+        "google_linkki": "https://www.google.com/search?q=Keskiy%C3%B6n+kaninkolo+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://open.spotify.com/search/Keskiy%C3%B6n%20kaninkolo"
+      }
+    ]
+  },
+  {
+    "j_idx": 371,
+    "jakso_id": "tag:soundcloud,2010:tracks/763752994",
+    "jakso_otsikko": "20.2.2020: Haavisto ja al-Hol valtakunnansyyttäjälle, turvapaikanhakijoiden työluvat ja koronavirus",
+    "paivamaara": "20.2.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/f8e4ce7f-a77b-4b72-aede-1aa67268e120.mp3",
+    "kesto_sek": 4534,
+    "kesto_str": "01:15:34",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Pekka Mykkänen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Maria Manner ja Marko Junkkarin hiihtolomaillessa HS:n politiikantoimituksen esimies Jussi Pullinen keskustelevat ulkoministeri Pekka Haaviston asioiden siirtymisestä valtakunnansyyttäjän selvitettäväksi, turvapaikanhakijoiden työlupien järjestämisestä sisäministeriössä, ja koronaviruksen hoitamisesta Suomessa ja globaalisti.\nPitkien epämukavien hiljaisuu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Kansallismuseon inkerinsuomalaisten näyttely",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "näyttely",
+          "historia",
+          "inkerinsuomalaiset"
+        ],
+        "kuvaus": "Kansallismuseon uusi näyttely inkerinsuomalaisten vaiheista. Näyttely oli avajaisistaan lähtien suuri menestys ja kosketti monia kävijöitä syvästi.",
+        "google_linkki": "https://www.google.com/search?q=Kansallismuseo+inkerinsuomalaiset+n%C3%A4yttely",
+        "lisatieto_linkki": "https://www.kansallismuseo.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Weather (Sää)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "ilmastonmuutos",
+          "ahdistus"
+        ],
+        "kuvaus": "Jenny Ofillin kansainvälisesti ylistetty romaani, joka kertoo rakkaudesta, ilmastonmuutosahdistuksesta ja politiikan äärilaitallistumisesta kirjastonhoitajan näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=Jenny+Offill+Weather",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Weather+Jenny+Offill"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "iFixit.com",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tee-se-itse",
+          "teknologia",
+          "säästäminen"
+        ],
+        "kuvaus": "Verkkosivusto, joka tarjoaa vaiheittaiset ohjeet elektroniikan, kuten älypuhelinten, itse korjaamiseen. Särkyneen puhelinnäytön voi vaihtaa itse noin 30 euron osalla liikkeen 200 euron sijaan.",
+        "google_linkki": "https://www.google.com/search?q=iFixit+puhelinkorjaus",
+        "lisatieto_linkki": "https://www.ifixit.com"
+      }
+    ]
+  },
+  {
+    "j_idx": 181,
+    "jakso_id": "tag:soundcloud,2010:tracks/1695141360",
+    "jakso_otsikko": "20.12.2023: Kreikka 1–Suomi 35, fasisti vs. koomikko, joulu",
+    "paivamaara": "20.12.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/90378793-61b9-45ed-8d89-300dd7070662/1695141360-uutisraportti-2022023-kreikka-1suomi-35-fasisti-vs-k.mp3",
+    "kesto_sek": 4417,
+    "kesto_str": "01:13:37",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheena talouskurimus, johon Suomi lipsui näin vuoden loppuun, ja eduskunnan puhemies Jussi Halla-ahon päätös viedä fasistiksi X:ssä nimittely poliisille kunnianloukkausasiana, sekä joulunviettotavat.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \nJakson leikkasi Mikko Peura.\n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraport",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Politiikan puskaraatio",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "suomalainen podcast"
+        ],
+        "kuvaus": "Iltalehden poliittinen podcast, jossa vaihteleva kokoonpano käsittelee politiikan kulisseja. Marko Junkkari suosittelee kuunneltavaksi Uutisraportin rinnalla.",
+        "google_linkki": "https://www.google.com/search?q=Politiikan+puskaraatio+podcast+Iltalehti",
+        "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaraatio"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Fall: The End of Fox News",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "media",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Michael Wolffin kirja Fox Newsin ja Murdoch-perheen kulissien takaisista tapahtumista. Viihdyttävä mutta faktantarkistukseltaan kyseenalainen teos.",
+        "google_linkki": "https://www.google.com/search?q=The+Fall+The+End+of+Fox+News+Michael+Wolff",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fall+The+End+of+Fox+News"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Confidence Man",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "elämäkerta"
+        ],
+        "kuvaus": "New York Timesin Trump-toimittaja Maggie Habermanin laaja teos, joka selittää miksi Trump on sellainen kuin on – ei pelkästään presidenttikautta vaan koko elämää käsitellen.",
+        "google_linkki": "https://www.google.com/search?q=Confidence+Man+Maggie+Haberman",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Confidence+Man+Maggie+Haberman"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Uncensored Models",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "sensuuri"
+        ],
+        "kuvaus": "Koodaaja Erik Hoelin blogikirjoitus tekoälymallien sensuroinnista ja siitä, miten länsimainen, erityisesti amerikkalainen arvomaailma leivotaan kaikkiin käyttämiimme tekoälyihin.",
+        "google_linkki": "https://www.google.com/search?q=Uncensored+Models+Erik+Hoel+blog",
+        "lisatieto_linkki": "https://www.google.com/search?q=Uncensored+Models+Erik+Hoel+blog+post"
+      }
+    ]
+  },
+  {
+    "j_idx": 17,
+    "jakso_id": "8ce0c841-8e4c-4da0-b760-30c2ea1f5f2d",
+    "jakso_otsikko": "VTV vs. Marin, Sudan, kirjailijat maniproblems",
+    "paivamaara": "20.11.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/8ce0c841-8e4c-4da0-b760-30c2ea1f5f2d.mp3",
+    "kesto_sek": 5468,
+    "kesto_str": "01:31:08",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Salla ja Sohvi, ja vierailun tekee valtiontaloustietäjä Teemu Muhonen.</p><p>Tämän viikon jaksossa Tuomas Peltomäki, Anna-Sofia Berner ja Salla Vuorikoski keskustelevat Suomen korona-ajan lainanotosta ja rahojen käytöstä, ja varsinkin valtiontalouden tarkastusviraston raportista jossa tätä asiaa käydään läpi. Taloustietämystään tulee lainaamaan politiikan toimittaj",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Sauli Niinistön muistelmakirja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "muistelmat",
+          "historia"
+        ],
+        "kuvaus": "Sauli Niinistön muistelmakirja, jossa käydään läpi mm. Suomen Nato-tietä ja tapaamisia maailmanjohtajien kuten Putinin, Trumpin ja Xin kanssa. Sisältää humoristisia päiväkirjamerkintöjä, kuten kuvauksen Trumpin yöstä ilman ilmastointia Helsingissä 2018.",
+        "google_linkki": "https://www.google.com/search?q=Sauli+Niinistö+muistelmat+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sauli+Niinistö"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Postwar: A History of Europe Since 1945",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "Eurooppa",
+          "toinen maailmansota"
+        ],
+        "kuvaus": "Historioitsija Tony Judtin laaja klassikkoteos Euroopan historiasta toisen maailmansodan päättymisestä 2000-luvun alkuun. Kirja avaa lakonisesti ja järkyttävän tarkasti Euroopan tilan vuonna 1945 ja sen jälkeisen nousun.",
+        "google_linkki": "https://www.google.com/search?q=Postwar+A+History+of+Europe+Since+1945+Tony+Judt",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Postwar+A+History+of+Europe+Since+1945+Tony+Judt"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Apple in China: The Capture of the World's Greatest Company",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "teknologia",
+          "yrityshistoria",
+          "Kiina"
+        ],
+        "kuvaus": "Patrick McGeen kirjoittama yrityshistoria siitä, miten Apple siirsi tuotantonsa Kiinaan ja miten Kiina samalla imi Applelta teknistä osaamista – selittäen osaltaan Kiinan nykypäivän teknologista valta-asemaa. Saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=Apple+in+China+The+Capture+of+the+World%27s+Greatest+Company+Patrick+McGee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Apple+in+China+Patrick+McGee"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Harri Sulavuori",
+        "teos": "The Ukulele Orchestra of Great Britain",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "ukulele",
+          "huumori",
+          "joulu"
+        ],
+        "kuvaus": "Brittiläinen ukulele-orkesteri, joka esittää tunnettuja kappaleita kuten 'Thriller' ja 'The Good, the Bad and the Ugly' humoristisella otteella. Kuuntelija Harri suosittelee YouTubesta löytyviä esityksiä jouluajan viihdykkeeksi.",
+        "google_linkki": "https://www.google.com/search?q=The+Ukulele+Orchestra+of+Great+Britain",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Ukulele%20Orchestra%20of%20Great%20Britain"
+      }
+    ]
+  },
+  {
+    "j_idx": 236,
+    "jakso_id": "tag:soundcloud,2010:tracks/1366768798",
+    "jakso_otsikko": "20.10.2020: Miniraportti p'odkääst",
+    "paivamaara": "20.10.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/d38e4678-02b3-4925-859c-dd193d72bc43.mp3",
+    "kesto_sek": 2533,
+    "kesto_str": "42:13",
+    "rss_osallistujat": [
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki vastailee kuuntelijapalautteisiin ja kertoo infoa lähestyvistä pikkujouluista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki v",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Bunga Bunga",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Italia",
+          "historia"
+        ],
+        "kuvaus": "Podcast Italian pitkäaikaisen pääministerin Silvio Berlusconin tarinasta ja Italian politiikasta. Auttaa ymmärtämään Italian poliittista historiaa ja nykytilannetta.",
+        "google_linkki": "https://www.google.com/search?q=Bunga+Bunga+podcast+Berlusconi",
+        "lisatieto_linkki": "https://open.spotify.com/search/Bunga%20Bunga%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Prince – Xi Jinping",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Kiina",
+          "historia"
+        ],
+        "kuvaus": "The Economistin podcast Xi Jinpingistä, Kiinan johtajan noususta, taustoista ja ajatuksista. Perehdyttää samalla Kiinan historiaan ja politiikkaan.",
+        "google_linkki": "https://www.google.com/search?q=The+Economist+podcast+Xi+Jinping+The+Prince",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Economist%20Xi%20Jinping%20The%20Prince"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Meduza English Podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Venäjä",
+          "journalismi"
+        ],
+        "kuvaus": "Venäläisen oppositiomedia Meduzan englanninkielinen podcast, joka seuraa Venäjän tapahtumia Latviasta käsin. Tarjoaa sisäpiirin näkökulman Venäjän tilanteeseen.",
+        "google_linkki": "https://www.google.com/search?q=Meduza+English+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Meduza%20English%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 276,
+    "jakso_id": "tag:soundcloud,2010:tracks/1200029908",
+    "jakso_otsikko": "20.1.2022: Aluevaalit TRUTH, opiskelijoiden hätä, Boris Johnsonin hätä",
+    "paivamaara": "20.1.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/c35a0469-160e-47d4-9919-ab43a12d4762.mp3",
+    "kesto_sek": 4081,
+    "kesto_str": "01:08:01",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat sunnuntaina käytävistä aluevaaleista, kolmen opiskelijan kirjoittamasta tekstistä, joka valaisee miten paljon pandemia on riistänyt nuorten elämästä, sekä lyhyesti Boris Johnsonin bileistä, joiden hän ei tiennyt olevan bileet.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa pure",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Black Rhino (Radio Lab -podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "luonto",
+          "eläimet",
+          "dokumentti"
+        ],
+        "kuvaus": "Radio Labin podcast-jakso mustasta sarvikuonosta, jossa amerikkalainen metsästäjä voitti huutokaupassa luvan ampua superharvinaisen mustan sarvikuonon. Tarina kääntyy yllättävästi päälaelleen, kun selviää, että tappaminen palvelee lajin suojelua.",
+        "google_linkki": "https://www.google.com/search?q=Radiolab+Black+Rhino+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Radiolab%20Black%20Rhino"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Drive",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "toiminta",
+          "neo-noir",
+          "Netflix"
+        ],
+        "kuvaus": "Ryan Goslingin tähdittämä tyylikäs toimintaelokuva, jossa tunnelmana Los Angeles, synth wave -musiikki ja autolla ajelu. Tällä hetkellä katsottavissa Netflixissä.",
+        "google_linkki": "https://www.google.com/search?q=Drive+2011+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Drive+2011"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Puheenaihe-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "yhteiskunta",
+          "keskustelu",
+          "suomalainen"
+        ],
+        "kuvaus": "Rami Kurivan vetämä kunnianhimoinen suomalainen podcast, jossa käy laaja kirjo suomalaisia vieraita puhumassa asioista seikkaperäisesti ja pitkään. Tuomas Peltomäki on ollut jaksossa mukana keskustelemassa mm. rokotteista ja mediasta räppäri Slim Millin kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Puheenaihe+podcast+Rami+Kuriva",
+        "lisatieto_linkki": "https://open.spotify.com/search/Puheenaihe%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 294,
+    "jakso_id": "tag:soundcloud,2010:tracks/1117474018",
+    "jakso_otsikko": "2.9.2021: Veikkaus, vihreiden tilanne, Kimi",
+    "paivamaara": "2.9.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/89ff4ceb-6cbc-43d8-8be5-16a59d42a836.mp3",
+    "kesto_sek": 3371,
+    "kesto_str": "56:11",
+    "rss_osallistujat": [
+      "Emil Elo",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Emil Elo keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Dancing in the Mosque (Tanssija moskeijassa)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "Afganistan",
+          "naisten oikeudet"
+        ],
+        "kuvaus": "Afganistanilaisen kirjailijan Homeira Qaderin kirjoittama kirje pojalleen, jossa hän kertoo avioerosta, lapsen menettämisestä ja elämästä sodan repimässä Afganistanissa talebanin vallan aikana. Rohkea ja koskettava teos.",
+        "google_linkki": "https://www.google.com/search?q=Dancing+in+the+Mosque+Homeira+Qaderi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Dancing+in+the+Mosque+Homeira+Qaderi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Hintsan viimeinen vuosi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "hyvinvointi",
+          "urheilu"
+        ],
+        "kuvaus": "Oskari Saaren kirja hyvinvointigurun Aki Hintsan elämästä ja kuolemasta. Paljastaa, kuinka hyvinvoinnin suurguru eli itse epäterveellisesti ja tajusi oikean elämäntavan vasta kuolinvuoteellaan.",
+        "google_linkki": "https://www.google.com/search?q=Hintsan+viimeinen+vuosi+Oskari+Saari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Hintsan+viimeinen+vuosi+Oskari+Saari"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The White Lotus",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "HBO",
+          "yhteiskuntakritiikki"
+        ],
+        "kuvaus": "HBO:n sarja, joka kertoo luksushotellin henkilökunnasta ja asiakkaista. Paljastaa ihmisluonnon raadollisuuden ja pikkumaisuuden – loistava dialogi ja myötähäpeää herättävä kuvaus ihmissuhteista.",
+        "google_linkki": "https://www.google.com/search?q=The+White+Lotus+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+White+Lotus"
+      }
+    ]
+  },
+  {
+    "j_idx": 352,
+    "jakso_id": "tag:soundcloud,2010:tracks/850825633",
+    "jakso_otsikko": "2.7.2020: Demokratian musta keskiviikko, marjanpoiminta ja intersektionaalinen feminismi",
+    "paivamaara": "2.7.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/c17839c7-55e5-487a-885e-afc87d0db91d.mp3",
+    "kesto_sek": 3853,
+    "kesto_str": "01:04:13",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat demokratian mustasta keskiviikosta, marjanpoiminnasta ja intersektionaalisesta feminismistä. Pitkien, epämukavien hiljaisuuksien varalle Alma suosittelee I am not your negro (2016) -dokumenttia (https://areena.yle.fi/1-4232383), Onni suosittelee Normaaleja ihmisiä -sarjaa (https://areena.yle.fi/1-50495302) ja Iida",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "I Am Not Your Negro",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "rasismi",
+          "historia"
+        ],
+        "kuvaus": "Vuoden 2016 dokumentti, joka perustuu James Baldwinin käsikirjoitukseen 'Remember This House'. Samuel L. Jackson toimii kertojana ja dokumentti käsittelee rodullista epätasa-arvoa Yhdysvalloissa – aihe, joka on edelleen ajankohtainen Black Lives Matter -liikkeen myötä.",
+        "google_linkki": "https://www.google.com/search?q=I+Am+Not+Your+Negro+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=I+Am+Not+Your+Negro"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Tommi Liimatan suuri serkkuteoria",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "monologi",
+          "musiikki",
+          "komedia"
+        ],
+        "kuvaus": "Tommi Liimatan monologisarja Yle Areenassa, jossa hän käsittelee muun muassa ääniteollisuutta, musiikkia ja henkilökohtaisia obsessioitaan terävällä ja hauskalla kielellä.",
+        "google_linkki": "https://www.google.com/search?q=Tommi+Liimatan+suuri+serkkuteoria+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Tommi+Liimatan+suuri+serkkuteoria"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Normaaleja ihmisiä",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "romanssi",
+          "draama",
+          "nuoret aikuiset"
+        ],
+        "kuvaus": "Sally Roonyn romaaniin perustuva sarja, joka kertoo suositun urheilijapojan ja syrjäänvetäytyvän älykkötytön romanssista. Sarja on hidastempoinen ja täynnä pitkiä hiljaisia kohtauksia, jotka heijastavat tosielämän tunnelmia.",
+        "google_linkki": "https://www.google.com/search?q=Normaaleja+ihmisiä+Sally+Rooney+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Normal+People+Sally+Rooney"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Kinuskikissan mokkapalat",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "leivonta",
+          "resepti",
+          "jälkiruoka"
+        ],
+        "kuvaus": "Kinuskikissan reseptillä tehdyt mokkapalat, joihin lisätään suolaa ja enemmän voita. Vinkki: jätä keskeltä hieman raa'aksi parempaa makua varten.",
+        "google_linkki": "https://www.google.com/search?q=kinuskikissa+mokkapalat+resepti",
+        "lisatieto_linkki": "https://www.google.com/search?q=kinuskikissa+mokkapalat+resepti"
+      }
+    ]
+  },
+  {
+    "j_idx": 257,
+    "jakso_id": "tag:soundcloud,2010:tracks/1279761181",
+    "jakso_otsikko": "2.6.2022: Turkki-kysymys, tulevat hallituskokoonpanot, Depp-Heard",
+    "paivamaara": "2.6.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/febdc56b-7885-408f-a95a-ba5981da9063.mp3",
+    "kesto_sek": 5264,
+    "kesto_str": "01:27:44",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Sara Vainio",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat Turkista rapotoineen toimittaja Sara Vainion kanssa Turkin toiminnasta Suomen ja Ruotsin Nato-kysymyksessä, ja siitä mitä tuoreet kannatuskyselyt kertovat mahdollisista tulevista hallituskokoonpanoista, sekä skandaalinkäryisestä oikeudenkäynnistä Depp vs. Heard.\n\nUutisraportti podcast on Helsingin Sanomien julkai",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Top Gun (1986)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "toiminta",
+          "klassikko",
+          "lentäjät"
+        ],
+        "kuvaus": "Klassinen toimintaelokuva vuodelta 1986. Suosittelija kehuu erityisesti elokuvan musiikkia, visuaalisuutta ja Kelly McGillisin hahmoa vahvana naisena.",
+        "google_linkki": "https://www.google.com/search?q=Top+Gun+1986",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Top+Gun+1986"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Everything Everywhere All at Once",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "scifi",
+          "toiminta",
+          "rinnakkaistodellisuus"
+        ],
+        "kuvaus": "Daniel Kwanin ja Daniel Scheinerin ohjaama rinnakkaistodellisuusseikkailu, jossa kiinalaisnainen pelastaa maailman rinnakkaistodellisuuden avulla. Elokuva on monella tasolla iskevä ja tunteita herättävä kokemus.",
+        "google_linkki": "https://www.google.com/search?q=Everything+Everywhere+All+at+Once",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Everything+Everywhere+All+at+Once"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Love Death + Robots",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "animaatio",
+          "scifi",
+          "antologia"
+        ],
+        "kuvaus": "Netflixin animaatiosarja, jonka kolmas kausi ilmestyi. Erityisesti jakso 'The Very Pulse of the Machine' sai suosittelijan täysin valloitetuksi – jakso kertoo astronautista Jupiterin kuussa iossa ja on suosittelijan mukaan vaikuttavin televisiokokemus vuosikymmeniin.",
+        "google_linkki": "https://www.google.com/search?q=Love+Death+Robots+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Death+Robots"
+      }
+    ]
+  },
+  {
+    "j_idx": 163,
+    "jakso_id": "tag:soundcloud,2010:tracks/1812591534",
+    "jakso_otsikko": "Vornanen OUT, oikeusvaltiopaniikki, Gaza-miekkarit",
+    "paivamaara": "2.5.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/a2dc9737-94d4-4d0a-8bd4-fec242ec6e34.mp3",
+    "kesto_sek": 4830,
+    "kesto_str": "01:20:30",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Salla ja Anna-Sofia keskustelevat perussuomalaiskansanedustaja Timo Vornasen ammuskelutapauksesta, huolista Suomen oikeusvaltiokehityksen suhteen, ja tulehtuneista Gaza-mielenosoituksista Yhdysvalloissa.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Keisari Aarnio",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "rikos",
+          "poliisi"
+        ],
+        "kuvaus": "Susanna Reinboothin ja Minna Passin kirjoittama tietokirja huumepoliisi Jari Aarniosta, joka paljastui huumekauppiaaksi. Tuomas kuvaa kirjaa dekkarimaiseksi ja leuka-alas-kokemukseksi.",
+        "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Vieraana omassa talossa – Taavi Törissaaren tarina",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "reportaasi",
+          "siirtolaisuus",
+          "Viro"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittaja Kaija Kunnaksen kirjoittama henkilöjuttu virolaisesta rakennusmiehestä Taavi Törissaaresta, joka lähti töihin Suomeen rakentaakseen perheelleen talon – ja etääntyi samalla perheestään.",
+        "google_linkki": "https://www.google.com/search?q=Kaija+Kunnas+Taavi+Törissaari+virolainen+rakennusmies+HS",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kaija+Kunnas+Taavi+Törissaari+virolainen+rakennusmies+HS"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Groubble Abdi TikTok",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "some",
+          "huumori",
+          "Helsinki"
+        ],
+        "kuvaus": "Afrikkalaistaustaisen helsinkiläisen Groubble Abdin TikTok-tili, jolla hän raportoi iloisesti ja mutkattomasti arjesta ympäri Helsinkiä tunnuslauseenaan 'Tilanne on vittu!'.",
+        "google_linkki": "https://www.google.com/search?q=Groubble+Abdi+TikTok",
+        "lisatieto_linkki": "https://www.tiktok.com/search?q=Groubble+Abdi"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Fallout",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "scifi",
+          "postapokalyptinen",
+          "peliadaptaatio"
+        ],
+        "kuvaus": "Suositun Fallout-pelisarjan pohjalta tehty Amazon Prime Video -sarja, jonka ensimmäinen kausi on julkaistu. Tuomas kehuu sarjaa vauhdikkaaksi, jännittäväksi ja hauskaksi – ja kertoo sen olevan Amazonin kautta aikojen katsotuin sarja.",
+        "google_linkki": "https://www.google.com/search?q=Fallout+TV+sarja+Amazon+Prime",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Fallout+TV+series"
+      }
+    ]
+  },
+  {
+    "j_idx": 412,
+    "jakso_id": "tag:soundcloud,2010:tracks/614609454",
+    "jakso_otsikko": "2.5.2019: Hussein Al-Taeen kirjoitukset, hallitusneuvottelut, lukiolaisten vakava stressi",
+    "paivamaara": "2.5.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/c7ce640d-eb06-42e1-a760-5523fe4ae985.mp3",
+    "kesto_sek": 3338,
+    "kesto_str": "55:38",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Aino Frilander keskustelevat Hussein Al-Taeen kiirastulesta, joka syntyi kun hänen vanhat somekirjoituksensa pulpahtivat julkisuuteen. Lisäksi Marko valittaa esi-hallitusneuvotteluiden etenemistä ja merkityksiä. Lopuksi puhutaan lukiolaisten lisääntyneestä stressistä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Knock Down the House",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "USA"
+        ],
+        "kuvaus": "Netflix-dokumentti vuoden 2018 Yhdysvaltain kongressivaaleista, jossa seurataan neljää demokraattiehdokasta – mukaan lukien Alexandria Ocasio-Cortez – heidän kampanjoissaan haastaa pitkään istuneita kongressiedustajia.",
+        "google_linkki": "https://www.google.com/search?q=Knock+Down+the+House+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Knock+Down+the+House"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
+        "teos": "If You Want to Kill Someone, We Are the Right Guys (Wired)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "rikos",
+          "murha",
+          "tutkiva journalismi"
+        ],
+        "kuvaus": "Wired-lehden pitkä artikkeli, jonka on kirjoittanut Mara Hvistendahl. Se kertoo vuonna 2016 tapahtuneesta murhajuonesta, jossa tietotekniikka-alan mies yritti palkata palkkamurhaajan Tor-verkon kautta ja jäi kiinni.",
+        "google_linkki": "https://www.google.com/search?q=If+You+Want+to+Kill+Someone+We+Are+the+Right+Guys+Wired+Mara+Hvistendahl",
+        "lisatieto_linkki": "https://www.wired.com/"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Rom-Coms Were Corny and Retrograde. Why Do I Miss Them So Much? (New York Times Magazine)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "elokuva",
+          "romanttinen komedia",
+          "kulttuurianalyysi"
+        ],
+        "kuvaus": "New York Times Magazinen pitkä artikkeli, jonka on kirjoittanut Wesley Morris. Hän analysoi romanttisen komedian elokuvagenren alennustilaa ja sitä, miksi genre on tärkeä populaarikulttuurille.",
+        "google_linkki": "https://www.google.com/search?q=Rom-Coms+Were+Corny+and+Retrograde+Why+Do+I+Miss+Them+So+Much+Wesley+Morris",
+        "lisatieto_linkki": "https://www.nytimes.com/"
+      }
+    ]
+  },
+  {
+    "j_idx": 365,
+    "jakso_id": "tag:soundcloud,2010:tracks/789207976",
+    "jakso_otsikko": "2.4.2020: Ovatko koronatoimet tehonneet? Korona vs. talous. \"Nyrkki\"",
+    "paivamaara": "2.4.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/5fa867f7-75b6-477e-9021-4e5fa5015d07/789207976-uutisraportti-242020-ovatko-koronatoimet-tehonneet-ko.mp3",
+    "kesto_sek": 4370,
+    "kesto_str": "01:12:50",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Suomen toimista koronaepidemian hoitamiseksi, ja siitä ovatko toimet olleet tehokkaita. Ovatko kaikki narratiivit käytössä, myös sellaiset joissa koronan eteen ei pitäisi tehdä niin paljon, ja sellaiset joiden mukaan pitäisi tehdä enemmän? Korona joka tapauksessa tuhoaa talouden, Marko selittää miksi. Tasavalla",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Mauno Koiviston muistelmat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "muistelmat"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee Mauno Koiviston muistelmia, joita hän itse alkoi uudelleen lukea karanteenin aikana. Hän toteaa, että politiikassa samat asiat toistuvat kerta toisensa jälkeen, joten historiallisten hahmojen muistelmien lukeminen on hyödyllistä.",
+        "google_linkki": "https://www.google.com/search?q=Mauno+Koiviston+muistelmat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mauno+Koiviston+muistelmat"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Sinuhe egyptiläinen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fiktio",
+          "historiallinen romaani",
+          "äänikirja"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee Mika Waltarin klassikkoteosta äänikirjana, joka on saatavilla esimerkiksi Storytelissä ja BookBeatissa. Hän kertoo olevansa valtava Waltari-fani ja lukeneensa Sinuhen useita kertoja.",
+        "google_linkki": "https://www.google.com/search?q=Sinuhe+egyptiläinen+Mika+Waltari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinuhe+egyptiläinen"
+      }
+    ]
+  },
+  {
+    "j_idx": 219,
+    "jakso_id": "tag:soundcloud,2010:tracks/1459655491",
+    "jakso_otsikko": "2.3.2023: Kolme suurta tasoissa, Unkari-probleema, tekoäly",
+    "paivamaara": "2.3.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/e14f1543-6654-4fd2-a0e2-a33252916981.mp3",
+    "kesto_sek": 4308,
+    "kesto_str": "01:11:48",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat Ylen tuoreesta kannatusmittauksesta, Unkarin aikeista Suomen pään menoksi, sekä tekoälystä ja tästä Tuomaksen jutusta: https://www.hs.fi/visio/art-2000009390029.html.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaihee",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sisu",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "toiminta",
+          "sota",
+          "suomalainen elokuva"
+        ],
+        "kuvaus": "Jalmari Helanderin ohjaama suomalainen toimintaelokuva, jossa kullankaivaja kohtaa natsijoukkoja Lapin sodassa. Äärimmäisen väkivaltainen ja absurdi, Tarantino-henkinen teos pääosassa Jorma Tommila.",
+        "google_linkki": "https://www.google.com/search?q=Sisu+elokuva+2022+Jalmari+Helander",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Sisu+2022"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Jutteleminen vieraiden ihmisten kanssa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "hyvinvointi",
+          "sosiaalisuus",
+          "arki"
+        ],
+        "kuvaus": "Suositus rohkaistua juttelemaan tuntemattomien kanssa esimerkiksi junassa. Avaa uusia maailmoja ja saa aivot erilaisille raiteille.",
+        "google_linkki": "https://www.google.com/search?q=jutteleminen+vieraiden+ihmisten+kanssa+hyvinvointi",
+        "lisatieto_linkki": ""
+      }
+    ]
+  },
+  {
+    "j_idx": 230,
+    "jakso_id": "tag:soundcloud,2010:tracks/1394800534",
+    "jakso_otsikko": "2.12.2022: Luonnonsuojelulaki, Halla-aho ja Ukraina, Ylen massit",
+    "paivamaara": "2.12.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/50bceb16-05cf-48c3-a75a-dc519956260f.mp3",
+    "kesto_sek": 3970,
+    "kesto_str": "01:06:10",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat luonnonsuojelulaista kadonneista pykälistä, Halla-ahon ryhtiliikkeestä ulkoasiainvaliokunnan pj:nä ja Ylen rahoituksesta, jota taas halutaan suitsia.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Selviytyjät (Survivor)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "reality",
+          "kilpailu",
+          "perheohjelma"
+        ],
+        "kuvaus": "Yhdysvaltalainen realityohjelma, joka on saanut alkunsa ruotsalaisesta Robinson-formaatista. Ohjelma yhdistää kilpailut, urheilulliset tehtävät ja strategisen juonittelun – sopii katsottavaksi koko perheen kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Selviytyjät+Survivor+TV-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Survivor"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "We Might Have Long Covid All Wrong – artikkeli (The New Republic)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "terveys",
+          "lääketiede",
+          "long covid"
+        ],
+        "kuvaus": "Natalie Shuren kirjoittama artikkeli The New Republic -lehdessä käsittelee pitkän koronan, väsymysoireyhtymän ja funktionaalisten neurologisten häiriöiden historiaa antiikin hysteria-käsitteestä nykypäivään. Juttu argumentoi, että kyse on todellisista neurologisista sairauksista, ei kuvitelluista oireista.",
+        "google_linkki": "https://www.google.com/search?q=We+Might+Have+Long+Covid+All+Wrong+New+Republic+Natalie+Shure",
+        "lisatieto_linkki": "https://www.google.com/search?q=We+Might+Have+Long+Covid+All+Wrong+New+Republic+Natalie+Shure"
+      }
+    ]
+  },
+  {
+    "j_idx": 282,
+    "jakso_id": "tag:soundcloud,2010:tracks/1170494980",
+    "jakso_otsikko": "2.12.2021: Unohdettu Afganistan, omikron ja kimppakämppäkato",
+    "paivamaara": "2.12.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/483e5368-0bad-4886-afdb-ad79705d3857.mp3",
+    "kesto_sek": 3914,
+    "kesto_str": "01:05:14",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Maria Manner",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Marko Junkkari ja Maria Manner keskustelevat Afganistanista, jossa Maria on käynyt juttukeikalla, uudesta koronavariantista omikronista ja Suomen koronatilanteesta sekä soluasumisen vähentymisestä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puh",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Succession",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "perhedraama",
+          "yhdysvaltalainen"
+        ],
+        "kuvaus": "Suosittelija kehuu sarjaa maailman parhaaksi tv-sarjaksi. Sarjan henkilöt ovat lastenmielisiä ja inhottavia, mutta se tekee siitä koukuttavan.",
+        "google_linkki": "https://www.google.com/search?q=Succession+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Sinun Margot",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romaani",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Meri Valkaman romaani, jonka kirjoittamiseen kului kymmenen vuotta. Teos voitti Helsingin Sanomien erikoiskirjapalkinnon ja loppui kaupoista heti ilmestymisensä jälkeen.",
+        "google_linkki": "https://www.google.com/search?q=Sinun+Margot+Meri+Valkama",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sinun+Margot+Meri+Valkama"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Lämpenevä maa – Ilmastolukutaidon käsikirja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "ilmastonmuutos",
+          "ympäristö"
+        ],
+        "kuvaus": "Tiedetoimittaja Mikko Pelttarin tietokirja, joka käy tiiviisti läpi ilmastotietoa ja auttaa kehittämään omaa ajattelua ilmastonmuutoksesta. Ei ota kantaa vaan ruokkii lukijan omaa pohdintaa.",
+        "google_linkki": "https://www.google.com/search?q=L%C3%A4mpene%C3%A4+maa+Ilmastolukutaidon+k%C3%A4sikirja+Mikko+Pelttari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4mpene%C3%A4+maa+Mikko+Pelttari"
+      }
+    ]
+  },
+  {
+    "j_idx": 187,
+    "jakso_id": "tag:soundcloud,2010:tracks/1654994466",
+    "jakso_otsikko": "2.11.2023: Suomen Gaza-äänestys, Israel-asekaupat, DCA, Törhönen ja kakkatutkimukset",
+    "paivamaara": "2.11.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/fb286b4b-729a-4635-ae5e-5ec75a44b3f1/1654994466-uutisraportti-2112023-suomen-gaza-aanestys-israel-as.mp3",
+    "kesto_sek": 5174,
+    "kesto_str": "01:26:14",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Timo R. Stewart",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina Suomen äänestämättä jättäminen YK:n humanitaarista tulitaukoa Gazaan vaatineessa lauselmassa, Suomen ja Israelin kytkyt asekaupoissa ja hihhuliuskovaisissa; amerikkalaissotilaiden Suomeen tuloa helpottava DCA-sopimus, Lauri Törhösen ihmeellinen väitösfarssi ja Suomen Akatemian kuohuttaneet tutkimushankkeet.\nStudiossa Tuomas Peltomäki, Timo R. Stewart ja Anni Keski-Hei",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Timo R. Stewart",
+        "teos": "Jaakob Boks (The Books of Jacob)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "uskonto",
+          "eurooppalainen kirjallisuus"
+        ],
+        "kuvaus": "Olga Tokarczukin romaani, joka kertoo 1700-luvun eurooppalaisesta messiaanisesta kultista juutalaisuuden piirissä. Teos on laajasti tutkittu ja täynnä mielenkiintoisia hahmoja ja ajankuvia.",
+        "google_linkki": "https://www.google.com/search?q=Olga+Tokarczuk+The+Books+of+Jacob",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Books+of+Jacob+Tokarczuk"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Timo R. Stewart",
+        "teos": "Fauda",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "israelilainen",
+          "poliittinen draama",
+          "Netflix"
+        ],
+        "kuvaus": "Israelilainen Netflix-sarja, joka muistuttaa genreltään klassikkoa The Wire. Sarjassa on moniulotteisia henkilöhahmoja sekä israelilaisista että palestiinalaisista, ja se tarjoaa monipuolisen näkökulman konfliktiin.",
+        "google_linkki": "https://www.google.com/search?q=Fauda+israelilainen+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Fauda"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Search Engine",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "yhdysvaltalainen",
+          "ADHD",
+          "yhteiskunta"
+        ],
+        "kuvaus": "PJ Vogtin podcast, joka on noussut yhdeksi parhaista podcasteista. Meneillään olevassa sarjassa Vogt käy läpi omakohtaisesti ja yleisesti ADHD-lääkityksen ja amfetamiinin historian Yhdysvalloissa.",
+        "google_linkki": "https://www.google.com/search?q=Search+Engine+podcast+PJ+Vogt",
+        "lisatieto_linkki": "https://open.spotify.com/search/Search%20Engine%20PJ%20Vogt"
+      }
+    ]
+  },
+  {
+    "j_idx": 25,
+    "jakso_id": "e4cee621-b96c-4d3d-b7cf-ecb1acfb2f84",
+    "jakso_otsikko": "Peukku, Gaza, taksit",
+    "paivamaara": "2.10.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/e4cee621-b96c-4d3d-b7cf-ecb1acfb2f84.mp3",
+    "kesto_sek": 5019,
+    "kesto_str": "01:23:39",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Sohvi keskustelevat peukusta eli tuttavallisemmin alfa-pvp:stä, joka on noussut kokoaan suuremmaksi mediailmiöksi. Lisäksi keskustellaan Gazan edustalle viime yönä saapuneista avustuslaivoista ja kuullaan pieni raportti paikan päältä, ja viimeisenä keskustellaan taksiuudistuksen uudistuksesta ali app-ekonomian tuhoisuudesta Suomessa.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Competition is for Losers – How to Start a Startup -luento (Peter Thiel)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "yrittäjyys",
+          "luento"
+        ],
+        "kuvaus": "Peter Thielin luento Sam Altmanin vetämältä How to Start a Startup -kurssilta, jossa käsitellään monopoleja ja kilpailua. Luento on kuunneltavissa Spotifyssa ja luettavissa esseenä Wall Street Journalissa.",
+        "google_linkki": "https://www.google.com/search?q=Peter+Thiel+Competition+is+for+Losers+How+to+Start+a+Startup",
+        "lisatieto_linkki": "https://open.spotify.com/search/How%20to%20Start%20a%20Startup%20Peter%20Thiel"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Murenevan maa (Ida Tikka)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "dokumentti"
+        ],
+        "kuvaus": "Ida Tikan podcast-sarja Yle Areenassa Yhdysvaltain poliittisesta tilanteesta ja sen taustalla vaikuttavista voimista. Nyt ilmestynyt toinen kausi käsittelee Trumpin paluuta valtaan.",
+        "google_linkki": "https://www.google.com/search?q=Murenevan+maa+Ida+Tikka+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Murenevan+maa"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "vakoilu",
+          "brittiläinen",
+          "thrilleri"
+        ],
+        "kuvaus": "Brittiläinen vakoilusarja Apple TV+:ssa, jossa MI5:n hylkäämät agentit toimivat omassa yksikössään ja päätyvät tutkimaan merkittäviä tapauksia. Viides kausi on parhaillaan käynnissä.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses+Apple+TV",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses"
+      }
+    ]
+  },
+  {
+    "j_idx": 378,
+    "jakso_id": "tag:soundcloud,2010:tracks/737178817",
+    "jakso_otsikko": "2.1.2020: Presidentin puhe, Suomi 2020-luvulla, Saksan tuleva vaalivuosi",
+    "paivamaara": "2.1.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/4e001a2b-61f0-4391-9911-0e6587d34344.mp3",
+    "kesto_sek": 4026,
+    "kesto_str": "01:07:06",
+    "rss_osallistujat": [
+      "Hanna Mahlamäki",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Marian vielä lomaillessa vieraaksi saapuva HS:n tuleva Berliinin-kirjeenvaihtaja Hanna Mahlamäki keskustelevat tasavallan presidentti Sauli Niinistön uuden vuoden -puheesta, Suomen politiikan tilanteesta vuonna 2020 ja Saksassa käynnistyvästä käänteentekevästä vaalivuodesta, jossa ei voi enää äänestää Angela Merkeliä.\nPitkien epämukavien",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Boyhood (Poikavuodet)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "kasvutarina",
+          "perhe"
+        ],
+        "kuvaus": "Richard Linklaterin ohjaama elokuva, joka kuvattiin 12 vuoden aikana ja seuraa pojan kasvutarinaa lapsuudesta aikuisuuteen. Marko Junkkari kuvaili sitä koskettavaksi ja tunteelliseksi.",
+        "google_linkki": "https://www.google.com/search?q=Boyhood+2014+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Boyhood+2014"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Mindhunter",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "psykologia",
+          "1970-luku"
+        ],
+        "kuvaus": "Netflixin jännityssarja, joka sijoittuu 1970-luvulle ja seuraa FBI:n rikostutkijoita sarjamurhaajien profiloinnin alkuaikoina. Hanna Mahlamäki mainitsi sen ahdistavuuden ja kiinnostavan poliisitutkintaelementin.",
+        "google_linkki": "https://www.google.com/search?q=Mindhunter+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mindhunter"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Krakatau: The Day the World Exploded",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "tietokirja",
+          "luonnonkatastrofi"
+        ],
+        "kuvaus": "Simon Winchesterin kirja Krakatau-tulivuoren purkauksesta vuonna 1883. Kirja selittää purkaustarinan ohella laajasti maustekauppaa, geologian tieteen syntyä ja Indonesian historiaa 1800-luvun lopulla.",
+        "google_linkki": "https://www.google.com/search?q=Krakatoa+The+Day+the+World+Exploded+Simon+Winchester",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Krakatoa+The+Day+the+World+Exploded+Simon+Winchester"
+      }
+    ]
+  },
+  {
+    "j_idx": 143,
+    "jakso_id": "tag:soundcloud,2010:tracks/1919351471",
+    "jakso_otsikko": "19.9.2024: Hakulaitehyökkäys Libanonissa, brassinuorten ahdinko, perussuomalaisten ärhentely",
+    "paivamaara": "19.9.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/69adc199-bb80-4173-b6d7-0ffcd91f2f1a.mp3",
+    "kesto_sek": 4950,
+    "kesto_str": "01:22:30",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Marko ja Salla keskustelevat Israelin (todennäköisesti) tekemästä elektroniikkalaittein toteutetusta iskusta Hizbollah-poliitikoihin, brasilialaisia jalkapallonuoria koskevasta HS-selvityksestä, ja perussuomalaisvyörytyksestä joka selvästi on omille viestimistä sen jälkeen, kun puoluetta riepoteltiin hallituksen rasismiohjelman myötä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Cook Political Report – Demographic Swing-o-Meter",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "politiikka",
+          "data-analytiikka",
+          "USA:n vaalit"
+        ],
+        "kuvaus": "Yhdysvaltain presidentinvaalien tulosanalytiikkasivusto, jossa voi säätää eri ikä- ja etnisten ryhmien äänestysprosentteja ja nähdä, miten ne vaikuttavat vaalitulokseen.",
+        "google_linkki": "https://www.google.com/search?q=The+Cook+Political+Report+Demographic+Swing-o-Meter",
+        "lisatieto_linkki": "https://www.cookpolitical.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Balanssın anatomia",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "hyvinvointi",
+          "alkoholi",
+          "elämäntavat"
+        ],
+        "kuvaus": "Tamperelaisen Karoliina Pentikäisen podcast-sarja, jossa käsitellään muun muassa alkoholinkäyttöä, siitä pidättäytymistä ja elämän tasapainoa. Jakso on kuunneltavissa äänikirjapalveluissa.",
+        "google_linkki": "https://www.google.com/search?q=Balanssın+anatomia+podcast+Karoliina+Pentikäinen",
+        "lisatieto_linkki": "https://open.spotify.com/search/Balanssin%20anatomia"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Rest Is Politics: US",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "USA",
+          "historia"
+        ],
+        "kuvaus": "Kiehtova minisarja siitä, miten Trump valittiin ensimmäisen kerran presidentiksi – republikaanien esivaalit, käänteet ja kuuluisat hetket kuten 'small hands' -kohu.",
+        "google_linkki": "https://www.google.com/search?q=Rest+Is+Politics+US+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Rest%20Is%20Politics%20US"
+      }
+    ]
+  },
+  {
+    "j_idx": 393,
+    "jakso_id": "tag:soundcloud,2010:tracks/683312069",
+    "jakso_otsikko": "19.9.2019: Budjettiriihi, FT ja uusi kapitalismi, humala & raiskaus korkeimmassa oikeudessa",
+    "paivamaara": "19.9.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/78aeb946-1da8-4731-9e4e-9e00356af198.mp3",
+    "kesto_sek": 4433,
+    "kesto_str": "01:13:53",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuija Siltamäki",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Tuija Siltamäki ja Marko Junkkari keskustelevat pääministeri Antti Rinteen hallituksen ensimmäisestä budjettiriihessä, jossa paljastettiin miljardeja alijäämäinen budjetti ja rahaa sijoitettiin vähän joka paikkaan, sekä Financial Timesin yllättävästä kampanjasta, jonka mukaan kapitlaismin täytyy uusiutua huomioimaan myös muut tahot kuin osakkeenomistajat, el",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Book of Prince",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "musiikki",
+          "elämäkerta",
+          "henkilöjuttu"
+        ],
+        "kuvaus": "Dan Piepenbringin kirjoittama tarina siitä, kuinka hän valittiin kirjoittamaan Prince-muusikon elämäkertaa vain kuukausia ennen tämän kuolemaa. Kuvaa ainutlaatuisen ja omituisen yhteistyöprosessin Princen kanssa Minnesotassa.",
+        "google_linkki": "https://www.google.com/search?q=The+Book+of+Prince+Dan+Piepenbring",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Book+of+Prince+Dan+Piepenbring+article"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Frendit",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "nostalgia",
+          "Netflix"
+        ],
+        "kuvaus": "Klassinen amerikkalainen sitcom, jota suositellaan erityisesti ruuhkavuosien vastapainoksi – sarja edustaa huolettomuutta ja hyvää fiilistä, kun kaikilla hahmoilla on aikaa hengailla ilman murheita.",
+        "google_linkki": "https://www.google.com/search?q=Frendit+tv-sarja+Friends",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Friends+TV+series"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Kaksikymmentäkaksi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "syömishäiriö",
+          "esikoisromaani"
+        ],
+        "kuvaus": "Antti Hurskaisen esikoisromaani Siltala-kustantamolta. Monologimuotoinen teos, jossa syömishäiriöinen mies tilittää pakkomielteisiä ajatuksiaan ruoasta ja syömisestä – omaperäinen kuvaus nykyajan itsekontrollikulttuurista.",
+        "google_linkki": "https://www.google.com/search?q=Kaksikymmentäkaksi+Antti+Hurskainen+romaani",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaksikymmentäkaksi+Antti+Hurskainen"
+      }
+    ]
+  },
+  {
+    "j_idx": 296,
+    "jakso_id": "tag:soundcloud,2010:tracks/1108767634",
+    "jakso_otsikko": "19.8.2021: Afganistan, perussuomalaisten puoluekokous",
+    "paivamaara": "19.8.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/05ae6408-c358-4ca2-b5f0-3e696ebe4535.mp3",
+    "kesto_sek": 3249,
+    "kesto_str": "54:09",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Heikki Aittokoski keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuva",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Veikkauskratia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "tutkiva journalismi",
+          "rahapelit"
+        ],
+        "kuvaus": "Senja Larsenin joukkorahoituksella kustannettu kirja, joka käsittelee Suomen rahapelijärjestelmää kriittisesti. Kirja kokoaa kahden vuoden Twitter-keskustelut ja tutkivan journalismin keinoin kaivettua tietoa Veikkauksen toiminnasta ja peliongelmaisiin suhtautumisesta.",
+        "google_linkki": "https://www.google.com/search?q=Veikkauskratia+Senja+Larsen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Veikkauskratia"
+      }
+    ]
+  },
+  {
+    "j_idx": 40,
+    "jakso_id": "aa65119d-ebb8-4c1c-8ba6-e844baa7638f",
+    "jakso_otsikko": "Israel vs. Iran, laki vs. Supo, ruokakaupat vs. suomalaiset",
+    "paivamaara": "19.6.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/aa65119d-ebb8-4c1c-8ba6-e844baa7638f.mp3",
+    "kesto_sek": 5231,
+    "kesto_str": "01:27:11",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Jaksossa aiheina Iranin ja Israelin konflikti, jota ei sanota jostain syystä sodaksi; eduskunnan pääsihteerin Antti Pelttarin viraltapidätys ja S-ryhmän epäterve ylivalta K-ryhmään ja suomalaiseen ruokamarkkinaan nähden.</p><p>Hyvää juhannusta kaikille Uutisraportin tekijöiltä!</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Nuorten ristikkokirjat",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "älypelit",
+          "ristikot",
+          "ajanviete"
+        ],
+        "kuvaus": "Ristikkotehtäviä sisältävä kirjasarja nuorille. Suosittelija kehuu pelanneensa näitä pari iltaa ja pitää niitä hauskana älypelinä.",
+        "google_linkki": "https://www.google.com/search?q=nuorten+ristikkokirjat",
+        "lisatieto_linkki": "https://www.google.com/search?q=nuorten+ristikkokirjat+osta"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Rottien pyhimys (musikaali)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "musikaali",
+          "historia",
+          "teatteri"
+        ],
+        "kuvaus": "Musikaali, joka pohjautuu Rottien pyhimys -kirjaan ja kuvaa Hattulan kivikirkon maalaamista 1500-luvun Suomessa. Suosittelija kehuu suurta draamaa ja paatosta.",
+        "google_linkki": "https://www.google.com/search?q=Rottien+pyhim%C3%BDs+musikaali",
+        "lisatieto_linkki": "https://www.google.com/search?q=Rottien+pyhim%C3%BDs+musikaali+lippu"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Hattulan Pyhän Ristin kirkko",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "historia",
+          "kirkko",
+          "matkailu"
+        ],
+        "kuvaus": "Hattulassa sijaitseva keskiaikainen kivikirkko, jossa on nähtävillä 1500-luvun erikoiset seinämaalaukset. Suosittelija kehottaa käymään kirkossa kesällä, kun se on auki.",
+        "google_linkki": "https://www.google.com/search?q=Hattulan+Pyh%C3%A4n+Ristin+kirkko+maalaukset",
+        "lisatieto_linkki": "https://www.google.com/search?q=Hattulan+kirkko+vist+aukioloajat"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Laila Pullisen veisto- ja kotimuseo",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "kuvataide",
+          "museo",
+          "puisto"
+        ],
+        "kuvaus": "Vantaan Sotungissa sijaitseva suomalaistaiteilija Laila Pullisen kotimuseo ja veistospuisto. Pullinen teki metalliräjäytyksillä vaikuttavaa taidetta, ja museon vihreä piha-alue sopii myös piknikille.",
+        "google_linkki": "https://www.google.com/search?q=Laila+Pullinen+kotimuseo+Vantaa",
+        "lisatieto_linkki": "https://www.google.com/search?q=Laila+Pullinen+museo+Sotunki+Vantaa"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Politics Theory Other (podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "yhteiskunta",
+          "vasemmisto"
+        ],
+        "kuvaus": "Sivistynyt poliittinen keskustelupodcast, jossa haastatellaan ajattelijoita ja tutkijoita maailman asioista vasemmistolaisesta perspektiivistä. Suosittelija pitää sitä älykkäänä ja virkistävänä kuuntelukokemuksena.",
+        "google_linkki": "https://www.google.com/search?q=Politics+Theory+Other+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Politics%20Theory%20Other"
+      }
+    ]
+  },
+  {
+    "j_idx": 259,
+    "jakso_id": "tag:soundcloud,2010:tracks/1271386186",
+    "jakso_otsikko": "19.5.2022: Turkki, Niinistön kierros, lautamiesten poistaminen",
+    "paivamaara": "19.5.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/f9057b92-7c2d-41b5-8ad7-0e48ad1f43ac.mp3",
+    "kesto_sek": 3776,
+    "kesto_str": "01:02:56",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina Turkin heittämät kapulat Ruotsin ja Suomen tielle, Niinistön vastaanotto Ruotsissa, selvitys lautamiesten roolista oikeudenkäynneissä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Lincoln Lawyer",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "oikeusdraaama",
+          "thriller",
+          "Netflix"
+        ],
+        "kuvaus": "Netflixin uusi sarja Michael Connellin kirjaan perustuen. Kertoo juristista, joka hoitaa tapauksiaan Lincolnin takapenkiltä käsin. Markon mukaan kirja on tiivis, mutta sarja on venytetty turhan pitkäksi.",
+        "google_linkki": "https://www.google.com/search?q=Lincoln+Lawyer+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Lincoln+Lawyer"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Decoupling",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "podcast",
+          "talous",
+          "geopolitiikka"
+        ],
+        "kuvaus": "Marko Junkkarin aiemmin suosittelema podcast, jonka hän mainitsee jälleen miellyttävänä kuunneltavana. Monet muutkin ovat löytäneet sen.",
+        "google_linkki": "https://www.google.com/search?q=Decoupling+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Decoupling%20podcast"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Swedish Grace -näyttely, Tukholma",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "muotoilu",
+          "näyttely",
+          "1920-luku"
+        ],
+        "kuvaus": "Tukholman Nationalmuseumissa esillä oleva näyttely, joka esittelee 1920-luvun ruotsalaista muotoilua – modernismin ja traditionaalisen virtauksen puristuksessa syntynyttä muotokieltä.",
+        "google_linkki": "https://www.google.com/search?q=Swedish+Grace+n%C3%A4yttely+Nationalmuseum+Tukholma",
+        "lisatieto_linkki": "https://www.google.com/search?q=Swedish+Grace+n%C3%A4yttely+Nationalmuseum+Tukholma"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Niemi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "historia",
+          "identiteetti"
+        ],
+        "kuvaus": "Juha Hurmeen kirja, jonka Marko suosittelee luettavaksi ymmärtääkseen, kuinka tiukasti Suomi ja Ruotsi kuuluvat yhteen.",
+        "google_linkki": "https://www.google.com/search?q=Juha+Hurme+Niemi+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Juha+Hurme+Niemi"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Love, Death & Robots",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "animaatio",
+          "scifi",
+          "antologia"
+        ],
+        "kuvaus": "Netflixin animaatioantologiasarja, jossa jokainen jakso on itsenäinen scifi-henkinen tarina. Jaksot kestävät 11–20 minuuttia. Tuomaksen mukaan täydellinen internet-ajan sarja – kuin Black Mirror, mutta ilman masennusta.",
+        "google_linkki": "https://www.google.com/search?q=Love+Death+and+Robots+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Death+%26+Robots"
+      }
+    ]
+  },
+  {
+    "j_idx": 165,
+    "jakso_id": "tag:soundcloud,2010:tracks/1803599328",
+    "jakso_otsikko": "19.4.2024: Kehysriihi",
+    "paivamaara": "19.4.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/38fae98f-2314-45b2-89ea-3a43f72753e5/1803599328-uutisraportti-1942024-kehysriihi.mp3",
+    "kesto_sek": 3484,
+    "kesto_str": "58:04",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheena Orpon hallituksen kehysriihi, josta seurasi kaikenlaisia heikennyksiä.\nStudiossa Tuomas Peltomäki, Salla Vuorikoski ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nJaksoon liittyviä linkkejä:\nIlmoittaudu tästä Tuomaksen henkilökohtaiselle postilistalle: https://forms.gle/i85gtgB6qrqBRLHG7. \n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "The Tortured Poets Department",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "uusi julkaisu"
+        ],
+        "kuvaus": "Taylor Swiftin uusi levy, jonka teemana on suuri tunteiden kokeminen ja rakkaus. Anni Keski-Heikki kehui levyä kuunneltuaan sen puoleen väliin aamulla.",
+        "google_linkki": "https://www.google.com/search?q=Taylor+Swift+The+Tortured+Poets+Department",
+        "lisatieto_linkki": "https://open.spotify.com/search/Taylor%20Swift%20The%20Tortured%20Poets%20Department"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "One Day",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "romantiikka",
+          "draama",
+          "Netflix"
+        ],
+        "kuvaus": "Netflixin sarja, joka perustuu samannimiseen kirjaan. Tuomas Peltomäki kehui sarjaa aivan uskomattoman hienoksi – se käsittelee rakkautta, ihmisten merkitystä elämässä ja elämän muuttuvuutta koskettavalla tavalla.",
+        "google_linkki": "https://www.google.com/search?q=One+Day+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=One+Day+Netflix"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "One Day",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "romantiikka",
+          "draama"
+        ],
+        "kuvaus": "Kirja, johon Netflix-sarja One Day perustuu. Tuomas Peltomäki mainitsi kirjan suosituksen yhteydessä sarjan kanssa.",
+        "google_linkki": "https://www.google.com/search?q=One+Day+David+Nicholls+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=One+Day+David+Nicholls"
+      }
+    ]
+  },
+  {
+    "j_idx": 0,
+    "jakso_id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
+    "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
+    "paivamaara": "19.3.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece.mp3",
+    "kesto_sek": 4094,
+    "kesto_str": "01:08:14",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Teemu Muhonen"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Salla Vuorikoski, Anna-Sofia \"Sohvi\" Berner ja Jussi Niemeläinen pohtivat, onko Euroopan Trump-mielistely tullut tiensä päähän. Politiikan toimittaja Teemu Muhonen saapuu paljastamaan, miten yksi lehtijuttu pilasi elinkeinoelämän lempihankkeen, perintöveron poistamisen. Lisäksi puhutaan matematiikan ylivallan poistumisesta korkeakoulujen opiskelijavalinnoissa. Sohvi kertoo",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Love Story (sarja JFK Juniorista)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "romanttinen draama",
+          "historiallinen",
+          "1990-luku"
+        ],
+        "kuvaus": "Disney Plus -sarja John F. Kennedy Juniorin ja hänen vaimonsa Carolyn Bessetin rakkaustarinasta 1990-luvun New Yorkissa. Anna-Sofia Berner suosittelee lämpimästi ja kertoo itkeneensä sarjan parissa.",
+        "google_linkki": "https://www.google.com/search?q=Love+Story+JFK+Junior+Disney+Plus+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Story+JFK+Junior"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Yksin Putinia vastaan (Mr. Nobody Against Putin)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "Venäjä",
+          "sota"
+        ],
+        "kuvaus": "Dokumentti venäläisestä videokuvaajasta Pavel Talankinista, joka suhtautuu kriittisesti Putiniin ja kuvaa propagandatunteja pienessä venäläisessä kaupungissa. Saatavilla Yle Areenassa.",
+        "google_linkki": "https://www.google.com/search?q=Mr+Nobody+Against+Putin+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mr+Nobody+Against+Putin"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Moraalinen kunnianhimo",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "filosofia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Hollantilaisen historioitsija Rutger Bregmanin teos, joka käsittelee sitä, mihin lahjakkaat ja kunnianhimoiset ihmiset käyttävät aikansa. Kirja korostaa toiminnan tärkeyttä pelkän tiedostamisen sijaan.",
+        "google_linkki": "https://www.google.com/search?q=Rutger+Bregman+Moraalinen+kunnianhimo",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Bregman"
+      }
+    ]
+  },
+  {
+    "j_idx": 367,
+    "jakso_id": "tag:soundcloud,2010:tracks/779003464",
+    "jakso_otsikko": "19.3.2020: Suuri LOCKDOWN Suomessa!",
+    "paivamaara": "19.3.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/68353654-adf3-44d8-9018-78811d3a5080.mp3",
+    "kesto_sek": 2733,
+    "kesto_str": "45:33",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Maria Manner, Tuomas Peltomäki ja Marko Junkkari keskustelevat vähän kaikesta koronaepidemiaan liittyvästä. Arvioidaan hallituksen toimia, niiden mittakaavaa, muiden Euroopan maiden toimia, hallituksen toimien vaikutusta eri yhteiskuntaluokkiin, ja niin edelleen.\nNauhoitus on tehty karanteeniolosuhteissa, joten äänen laatu ei ole normaalia priimaa – siitä suuret pahoittelu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Fleabag",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittisarja",
+          "komedia",
+          "draama"
+        ],
+        "kuvaus": "Brittisarja, jota on kehuttu paljon ja joka on Marja Mannerin mukaan hillittömän hauska. Hän suosittelee sitä erityisesti Tuomas Peltomäelle.",
+        "google_linkki": "https://www.google.com/search?q=Fleabag+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Fleabag"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "HS Päivä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "uutiset",
+          "ajankohtainen",
+          "koronavirus"
+        ],
+        "kuvaus": "Helsingin Sanomien päivittäinen podcast, jossa käydään läpi viimeisimmät käänteet muun muassa koronavirusepidemiasta. Vieraana muun muassa Paavo Teikari ja Jussi Sippola.",
+        "google_linkki": "https://www.google.com/search?q=HS+P%C3%A4iv%C3%A4+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/HS%20P%C3%A4iv%C3%A4"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Syllabus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "uutiskirje",
+          "tieteen popularisointi",
+          "koronavirus"
+        ],
+        "kuvaus": "Uutiskirje, joka kuratoi lukijalle parhaat tutkimukset ja artikkelit esimerkiksi koronaviruksesta. Erityisen hyödyllinen aikoina, jolloin tietoa on tarjolla loputon määrä.",
+        "google_linkki": "https://www.google.com/search?q=The+Syllabus+uutiskirje",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Syllabus+newsletter+subscribe"
+      }
+    ]
+  },
+  {
+    "j_idx": 4,
+    "jakso_id": "4a221d1e-33a5-48ad-bf85-0022480d5fb0",
+    "jakso_otsikko": "Risusavotta vol. III, homona Venäjällä, Wolt ja ravintolahinnat",
+    "paivamaara": "19.2.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4a221d1e-33a5-48ad-bf85-0022480d5fb0.mp3",
+    "kesto_sek": 5008,
+    "kesto_str": "01:23:28",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Jussi Niemeläinen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner ja Jussi Niemeläinen keskustelevat valtiovarainministeri Riikka Purran ehdotuksesta, että maahanmuuttajien tulisi siivota tai lähteä risusavottaan – mikä aukaisi erinomaisen tärkeältä tuntuvan keskustelun toimeentulotuen luonteesta ja käyttötarkoituksesta; ja Ylen toimittaja Erkka Mikkosen kirjasta joka käsittelee homona elämistä Puti",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Kyllä, herra ministeri / Kyllä, herra pääministeri",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittiläinen",
+          "politiikka",
+          "komedia"
+        ],
+        "kuvaus": "Brittiläinen poliittinen komediasarja 1980-luvulta, joka on edelleen nopea ja ajankohtainen. Paras oppitunti Britannian politiikasta ja politiikasta yleensä.",
+        "google_linkki": "https://www.google.com/search?q=Kyll%C3%A4+herra+ministeri+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Yes+Minister+Yes+Prime+Minister"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Wirecutter",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "kuluttajatestit",
+          "ostosopas",
+          "teknologia"
+        ],
+        "kuvaus": "New York Timesin omistama kuluttajatestisivusto, joka testaa tuotteet ja suosittelee parhaita vaihtoehtoja. Erityisen hyödyllinen, kun tuotevaihtoehtoja on loputon määrä.",
+        "google_linkki": "https://www.google.com/search?q=Wirecutter+kuluttajatestit",
+        "lisatieto_linkki": "https://www.nytimes.com/wirecutter/"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "J-Mail (Epstein-sähköpostit Gmail-käyttöliittymässä)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "rikosuutiset",
+          "data-journalismi",
+          "verkkotyökalu"
+        ],
+        "kuvaus": "Verkkopalvelu, joka esittää Jeffrey Epsteinin sähköpostit Gmail-käyttöliittymän tapaisessa muodossa, tehden laajan aineiston helposti selattavaksi ja ymmärrettäväksi.",
+        "google_linkki": "https://www.google.com/search?q=J-Mail+Epstein+emails+Gmail",
+        "lisatieto_linkki": "https://www.google.com/search?q=J-Mail+Epstein+emails"
+      }
+    ]
+  },
+  {
+    "j_idx": 68,
+    "jakso_id": "2924d436-d464-4a55-bb43-31670aabdd67",
+    "jakso_otsikko": "19.12.2024: SDP:n buumi, USA:n buumi, puhemiestä arvostellaan",
+    "paivamaara": "19.12.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/2924d436-d464-4a55-bb43-31670aabdd67.mp3",
+    "kesto_sek": 4857,
+    "kesto_str": "01:20:57",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Salla ja Sohvi keskustelevat SDP:n kuumana hehkuvasta kannatuskäyrästä, USA:N kuumana hehkuvista pörssikäyristä ja Suomessa kuumana käytävästä keskustelusta Fatim Diarran, Krista Kiurun ja Jussi Halla-ahon ja heidän kannattajiensa kesken.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Somebody Somewhere (kausi 3)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komediadraamasarja",
+          "queer",
+          "pikkukaupunki"
+        ],
+        "kuvaus": "Lämmin amerikkalainen komediadraamasarja, joka sijoittuu pikkukaupunkiin Kansasissa. Pääosassa Bridget Everett, ja sarja käsittelee queer-ihmisten elämää ja ihmissuhteita lämminhenkisesti.",
+        "google_linkki": "https://www.google.com/search?q=Somebody+Somewhere+HBO+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Somebody+Somewhere"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Regime",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliittinen draama",
+          "absurdi",
+          "diktatuuri"
+        ],
+        "kuvaus": "HBO:n sarja, jossa Kate Winslet esittää fiktiivisen eurooppalaisen pikkuvaltion kanslerina toimivaa diktaattoria. Sarja käsittelee vallankäyttöä ja diktatuurin absurdia dynamiikkaa synkän huumorin keinoin.",
+        "google_linkki": "https://www.google.com/search?q=Regime+HBO+sarja+Kate+Winslet",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Regime+HBO"
+      }
+    ]
+  },
+  {
+    "j_idx": 380,
+    "jakso_id": "tag:soundcloud,2010:tracks/730866847",
+    "jakso_otsikko": "19.12.2019: Al-Holin kriisi, Isis-lasten kotiuttaminen, Boris Johnson",
+    "paivamaara": "19.12.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/7f63c98e-617c-43d2-8176-26f586137579.mp3",
+    "kesto_sek": 4102,
+    "kesto_str": "01:08:22",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "ÄÄNESTYS! Käy äänestämässä Uutisraportti podcastia Suomen parhaaksi podcastiksi 2019: https://jakso.fi/yleinen/aanesta-suomen-paras-podcast-2019\nTämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Suomessa lähes ennennäkemättömän jännitteisen poliittisen tilanteen synnyttäneestä al-Holin lasten kohtalosta. Lisäksi keskustellaan seuraavista askelista, eli kotiutuspr",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "His Dark Materials",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "perheviihde",
+          "brittiläinen"
+        ],
+        "kuvaus": "HBO:n fantasiasarja, joka perustuu Philip Pullmanin kirjasarjaan. Kertoo erityislaatuisesta tytöstä ja rinnakkaisista todellisuuksista – suositellaan erityisesti katsottavaksi yhdessä lasten kanssa (noin 8–10 vuotta täyttäneille).",
+        "google_linkki": "https://www.google.com/search?q=His+Dark+Materials+HBO+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=His+Dark+Materials"
+      }
+    ]
+  },
+  {
+    "j_idx": 334,
+    "jakso_id": "tag:soundcloud,2010:tracks/932206942",
+    "jakso_otsikko": "19.11.2020: Ranska vs. muslimit vs. media, koronatilanne pahenee, kuntavaalien asetelmat",
+    "paivamaara": "19.11.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/375b80df-aa75-40cc-8833-3112f3f3917b.mp3",
+    "kesto_sek": 4237,
+    "kesto_str": "01:10:37",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat epäviralliseksi Euroopan johtajaksi hakeutuneen Ranskan presidentti Emmanuel Macronin ongelmista muslimimaiden kiihkoilijoiden kanssa, samoin kuin hänen yllättäen alkaneesta ristiretkestään amerikkalaista mediaa ja sen \"monikulturismia\" vastaan; sekä koronatilanteesta, jota pääministeri Sanna Marin on käynyt ko",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Murha Amsterdamissa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "islam",
+          "Eurooppa"
+        ],
+        "kuvaus": "Ian Buruman kirja Theo van Goghin murhasta Amsterdamissa ja maallistuneen liberaalin Euroopan yhteentörmäyksestä poliittisen islamin kanssa. Hyvin kirjoitettu teos, joka pohtii tapahtumiin johtaneita syitä.",
+        "google_linkki": "https://www.google.com/search?q=Murha+Amsterdamissa+Ian+Buruma",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Murder+in+Amsterdam+Ian+Buruma"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Science of Mindfulness: A Research-Based Path to Well-Being",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "mindfulness",
+          "hyvinvointi",
+          "psykologia"
+        ],
+        "kuvaus": "Luentosarja mindfulnessista tieteellisestä näkökulmasta. Suositellaan erityisesti skeptikoille ja miehille, jotka eivät ole aiemmin tutustuneet aiheeseen.",
+        "google_linkki": "https://www.google.com/search?q=The+Science+of+Mindfulness+Research-Based+Path+to+Well-Being+luentosarja",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Science+of+Mindfulness+Research-Based+Path+to+Well-Being+luentosarja"
+      }
+    ]
+  },
+  {
+    "j_idx": 224,
+    "jakso_id": "tag:soundcloud,2010:tracks/1427829517",
+    "jakso_otsikko": "19.1.2023: Translaki, apteekit, Turkin metkut",
+    "paivamaara": "19.1.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/1242e307-c77b-4cd7-9cd6-5e314984328d.mp3",
+    "kesto_sek": 4322,
+    "kesto_str": "01:12:02",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa studiossa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  aikana julkaistut jak",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Venäjän vallankumous ja sisällissota",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "sotahistoria",
+          "Venäjä"
+        ],
+        "kuvaus": "Anthony Beevorin kirja Venäjän vallankumouksesta ja sisällissodasta vuosilta 1917–1918. Äärimmäisen yksityiskohtainen ja hyvin luettava populaarihistorian teos yhdeltä maineikkaimmista sotahistorioitsijoista.",
+        "google_linkki": "https://www.google.com/search?q=Anthony+Beevor+Ven%C3%A4j%C3%A4n+vallankumous+ja+sis%C3%A4llissota",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Russia+Revolution+Civil+War+Anthony+Beevor"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Pukumiehet (Suits)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "lakisarja",
+          "yhdysvaltalainen televisio"
+        ],
+        "kuvaus": "Yhdysvaltalainen lakimiehiä seuraava draamasarja, jossa myös Meghan Markle näytteli. Tuomas suosittelee sarjaa lämpimästi.",
+        "google_linkki": "https://www.google.com/search?q=Suits+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Suits"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Survival of the Sickest",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "lääketiede",
+          "evoluutiobiologia",
+          "tietokirja"
+        ],
+        "kuvaus": "Sharon Moalemin kirja käsittelee sitä, miten monet ihmisten sairaudet ovat itse asiassa seurausta evoluution kannalta hyödyllisistä mekanismeista. Esimerkiksi korkea kolesteroli tietyissä väestöissä selittyy D-vitamiinin varastoinnilla.",
+        "google_linkki": "https://www.google.com/search?q=Survival+of+the+Sickest+Sharon+Moalem",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Survival+of+the+Sickest+Sharon+Moalem"
+      }
+    ]
+  },
+  {
+    "j_idx": 27,
+    "jakso_id": "0e9b050a-8e2d-41c1-85db-8fbe5f37ca41",
+    "jakso_otsikko": "Kimmel vs. Kirk, yliopisto vs. kirjat, Orpo vs. viestintä",
+    "paivamaara": "18.9.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/0e9b050a-8e2d-41c1-85db-8fbe5f37ca41.mp3",
+    "kesto_sek": 5022,
+    "kesto_str": "01:23:42",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko, Salla ja Sohvi keskustelevat niistä erilaisista siivuista ja lonkeroista, jotka Charlie Kirkin salamurhasta ovat seuranneet; pitkästä ja surullisesta saagasta Helsingin yliopiston, ruotsalaisen halpiskrääsäketju Rustan ja kirjauppa Sivullisen välillä; ja pääministerin kanslian suunnitelmista ottaa valtioneuvoston viestintä kokonaisuudessaan alleen.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Goliath",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dekkari",
+          "lakidraama",
+          "amerikkalaiset sarjat"
+        ],
+        "kuvaus": "Lakimiesdekkari-tv-sarja, jossa entinen huippulakimies on retkahtanut juopottelemaan, mutta nousee baaritiskin takaa sankaritekoihin. Tuomas Peltomäki löysi sarjan sattumalta Viaplayta selaillessaan.",
+        "google_linkki": "https://www.google.com/search?q=Goliath+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Goliath+tv+series"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Natsin mieli: kaksitoista varoitusta historiasta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "psykologia",
+          "natsismi"
+        ],
+        "kuvaus": "Historioitsija Laurence Reesin tietokirja, joka tutkii psykologian keinoin, miten ihmisestä tulee natsismin kannattaja ja miten aiemmin poissuljettuja ajatuksia aletaan pitää järkevinä. Marko Junkkari suosittelee osana 'natsikesäänsä'.",
+        "google_linkki": "https://www.google.com/search?q=Natsin+mieli+kaksitoista+varoitusta+historiasta+Laurence+Rees",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Natsin+mieli+kaksitoista+varoitusta+historiasta"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Aleksanteri Kivimäen oikeusjutut (Helsingin Sanomat)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "oikeus",
+          "rikosuutiset",
+          "tietoturva"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee seuraamaan Aleksanteri Kivimäen Vastaamo-tietomurtoon liittyviä oikeusjuttuja, jotka paljastavat Suomen oikeuskäytännön outoja piirteitä ensikertalaisuuden ja ehdollisten tuomioiden suhteen.",
+        "google_linkki": "https://www.google.com/search?q=Aleksanteri+Kivim%C3%A4ki+Vastaamo+oikeusjuttu+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.google.com/search?q=Aleksanteri+Kivim%C3%A4ki+Vastaamo+hovioikeus"
+      }
+    ]
+  },
+  {
+    "j_idx": 246,
+    "jakso_id": "tag:soundcloud,2010:tracks/1326470023",
+    "jakso_otsikko": "18.8.2022: Marinin juhlintavideot, globaali etelä, yleisurheilu",
+    "paivamaara": "18.8.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/b6536f6f-64fc-4574-9bf4-d84dd3cc31cb.mp3",
+    "kesto_sek": 3800,
+    "kesto_str": "01:03:20",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Joona Aaltonen",
+      "Matilda Jokinen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Joona Aaltonen, Matilda Jokinen ja Alma Onali keskustelevat pääministeri Sanna Marinin juhlintavideoista, globaalin etelän suhtautumisesta Ukrainan sotaan ja Venäjään sekä seiväshyppääjä Wilma Murron kansaa liikuttaneesta urheilusuorituksesta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Tšernobylista nousee rukous",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dokumentaarinen",
+          "historia",
+          "ydinkatastrofi"
+        ],
+        "kuvaus": "Svetlana Aleksijevitšin Nobel-palkittu teos vuodelta 2015 kertoo Tšernobylin ydinkatastrofin inhimillisistä kokemuksista haastattelujen kautta – ei siitä, mitä tapahtui teknisesti, vaan siitä, miten ihmiset elivät ja kärsivät sen keskellä.",
+        "google_linkki": "https://www.google.com/search?q=Tšernobylista+nousee+rukous+Svetlana+Aleksijevitš",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tšernobylista+nousee+rukous"
+      }
+    ]
+  },
+  {
+    "j_idx": 152,
+    "jakso_id": "tag:soundcloud,2010:tracks/1874792400",
+    "jakso_otsikko": "18.7.2024: Donald Trump, Timo Vornanen, liian halpa pizza",
+    "paivamaara": "18.7.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/5aa64fc5-1297-4e33-b41d-d5b8bf192930.mp3",
+    "kesto_sek": 4100,
+    "kesto_str": "01:08:20",
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Oskari Eronen",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Heini Pitkänen, Rasmus Helaniemi ja Oskari Eronen käyvät läpi maailmaa ja etenkin Yhdysvaltoja järkyttäneen salamurhayrityksen: Donald Trumpia ammuttiin kesken kampanjatilaisuuden, ja seurauksena oli ainakin soraääniä äärivasemmiston retoriikasta, ikoninen sankarikuva ja presidenttikisan käänne. Lisäksi ase ja poliitikko -teeman ympärillä perataan kansanedustaja Timo Vorna",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Elden Ring",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "videopeli",
+          "toimintaroolipeli",
+          "fantasia"
+        ],
+        "kuvaus": "George R.R. Martinin ja Hidetaka Miyazakin kehittämä toimintaroolipeli, joka on saanut viisi tähteä Helsingin Sanomilta. Haastava mutta visuaalisesti ja tarinallisesti upea keskiaikainen fantasiaseikkailu.",
+        "google_linkki": "https://www.google.com/search?q=Elden+Ring+videopeli",
+        "lisatieto_linkki": "https://www.igdb.com/games/elden-ring"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Elden Ring: Shadow of the Erdtree",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "videopeli",
+          "toimintaroolipeli",
+          "fantasia"
+        ],
+        "kuvaus": "Kesäkuussa 2024 julkaistu laaja lisäosa Elden Ringiin, jota on tituleerattu Elden Ring kakkoseksi. Myös tämä on saanut viisi tähteä Helsingin Sanomilta.",
+        "google_linkki": "https://www.google.com/search?q=Elden+Ring+Shadow+of+the+Erdtree",
+        "lisatieto_linkki": "https://www.igdb.com/games/elden-ring-shadow-of-the-erdtree"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Elden Ring: The Super Cut – SlimeSicle",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "youtube",
+          "videopeli",
+          "fantasia"
+        ],
+        "kuvaus": "YouTubevideoija SlimeSiclen tekemä kymmenen tunnin tiivistetty läpipeluuvideo Elden Ringistä. Hyvä vaihtoehto niille, joita kiinnostaa Martinin fantasiamaailma mutta ei itse pelaaminen.",
+        "google_linkki": "https://www.google.com/search?q=SlimeSicle+Elden+Ring+Super+Cut+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=SlimeSicle+Elden+Ring+Super+Cut"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Suomenlinna",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "nähtävyys",
+          "Helsinki",
+          "kesä"
+        ],
+        "kuvaus": "Helsingin edustalla sijaitseva merilinnoitus, jossa on useita kahviloita ja jonne pääsee lautalla. Suositellaan erityisesti kesäiltoina käytäväksi, vaikka olisi viimeksi käynyt lapsena.",
+        "google_linkki": "https://www.google.com/search?q=Suomenlinna+Helsinki",
+        "lisatieto_linkki": "https://www.suomenlinna.fi"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Idon Games: Myrsky-lautapeli",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lautapeli",
+          "pakohuonepeli",
+          "rikostutkinta"
+        ],
+        "kuvaus": "Rikostutkintateemainen lautapeli, jossa ratkaistaan henkirikos erilaisten fyysisten ja digitaalisten johtolankoja avulla. Sopii kaveriporukoille ja deitti-iltoihin, kestää noin 2–4 tuntia.",
+        "google_linkki": "https://www.google.com/search?q=Idon+Games+Myrsky+lautapeli",
+        "lisatieto_linkki": "https://www.google.com/search?q=Idon+Games+Myrsky+lautapeli+osta"
+      }
+    ]
+  },
+  {
+    "j_idx": 402,
+    "jakso_id": "tag:soundcloud,2010:tracks/652905347",
+    "jakso_otsikko": "18.7.2019: Mätäkuun uutiskatsaus",
+    "paivamaara": "18.7.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/545106b0-55b0-480d-be3c-fb47611cb9c9.mp3",
+    "kesto_sek": 3419,
+    "kesto_str": "56:59",
+    "rss_osallistujat": [
+      "Milka Valtanen",
+      "Teemu Muhonen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Teemu Muhonen,  Tuija Siltamäki ja Milka Valtanen keskustelevat sotesta, Antti Rinteen komiteoista ja suomalaisen median Trump-fiksaatiosta. Lisäksi luodaan katsaus mätäkuun uutisiin, kuten James Bond -uutisankkaan ja Tekirin kyselyyn vihatuimmista suomalaisista.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "Mother Is Not Going to Like This – artikkeli Politico-lehdessä (Tim Alberta)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "Trump",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Toimittaja Tim Albertan tulevasta kirjasta julkaistu ote, joka käy läpi 48 tuntia Access Hollywood -nauhan julkaisun jälkeen. Jutussa paljastetaan muun muassa, että varapresidentti Mike Pence kutsuu vaimoaan äidiksi.",
+        "google_linkki": "https://www.google.com/search?q=Tim+Alberta+Mother+is+not+going+to+like+this+Politico",
+        "lisatieto_linkki": "https://www.politico.com/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Roger Federer – uran kohokohdat (YouTube)",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "tennis",
+          "Wimbledon",
+          "YouTube"
+        ],
+        "kuvaus": "Roger Federerin uran huippuhetkiä kokoava YouTube-koostevideo, jonka suosittelija löysi Wimbledonin finaalin jälkeen. Tunnelmallista katsottavaa tennisfaneille.",
+        "google_linkki": "https://www.google.com/search?q=Roger+Federer+highlights+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Roger+Federer+highlights"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Pietarilaisia novelleja (Nikolai Gogol)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "venäläinen kirjallisuus",
+          "novellit",
+          "klassikko"
+        ],
+        "kuvaus": "Gogolin hauskat ja oudot Pietarin-novellit, joista tunnetuin on Nenä – tarina kollegiasessori Kovaljovista, joka herää eräänä aamuna ilman nenäänsä. Suosittelija kehuu kokoelmaa yllättävän viihdyttäväksi.",
+        "google_linkki": "https://www.google.com/search?q=Gogol+Pietarilaisia+novelleja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Gogol+Petersburg+Tales"
+      }
+    ]
+  },
+  {
+    "j_idx": 305,
+    "jakso_id": "tag:soundcloud,2010:tracks/1071252418",
+    "jakso_otsikko": "18.6.2021: Kuntavaalit vielä kerran, Tytti Yli-Viikari, Joe Biden Euroopassa",
+    "paivamaara": "18.6.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/c789307b-0b56-4804-a5cb-b58ea778100b/1071252418-uutisraportti-1862021-kuntavaalit-viela-kerran-tytti.mp3",
+    "kesto_sek": 3423,
+    "kesto_str": "57:03",
+    "rss_osallistujat": [
+      "Emil Elo",
+      "Maria Manner"
+    ],
+    "rss_kuvaus": "Studiossa Maria Manner, Iida Sofia Hirvonen ja Emil Elo.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "The Athletic",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "urheilujournalismi",
+          "jalkapallo",
+          "tilausmedia"
+        ],
+        "kuvaus": "Maailman parhaana pidetty urheilujournalismia tekevä mediatalo, jolla on satoja toimittajia ympäri maailmaa. Erityisen mielenkiintoinen EM-kisojen aikana – käsittelee myös isompia teemoja kuten ihmisoikeuskysymyksiä urheilujournalismin keinoin.",
+        "google_linkki": "https://www.google.com/search?q=The+Athletic+urheilujournalismi",
+        "lisatieto_linkki": "https://theathletic.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Cruelty Squad",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "videopeli",
+          "indie",
+          "cyberpunk"
+        ],
+        "kuvaus": "Suomalaisen peliyrittäjän Ville Kallion tekemä indie-peli, joka sijoittuu kovaan yritysmaailmaan. Fanit ovat kuvailleet sitä paremmaksi kyberpunk-peliksi kuin varsinaista Cyberpunk 2077 -peliä. Värikäs, painajaismainen ja vinksahtanut maailma, joka jäljittelee nykytyöelämän julmuutta.",
+        "google_linkki": "https://www.google.com/search?q=Cruelty+Squad+peli+Ville+Kallio",
+        "lisatieto_linkki": "https://store.steampowered.com/search/?term=Cruelty+Squad"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Liesjärven kansallispuisto",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "kansallispuisto",
+          "retkeily"
+        ],
+        "kuvaus": "Lähellä Uuttamaata sijaitseva kaunis kumpuileva kansallispuisto, jossa on muun muassa Korteniemen perinnetila lampasineen. Suositellaan erityisesti helsinkiläisille helposti saavutettavana luontokohteena.",
+        "google_linkki": "https://www.google.com/search?q=Liesjärven+kansallispuisto",
+        "lisatieto_linkki": "https://www.luontoon.fi/liesjärvi"
+      }
+    ]
+  },
+  {
+    "j_idx": 354,
+    "jakso_id": "tag:soundcloud,2010:tracks/842321587",
+    "jakso_otsikko": "18.6.2020: Valmiuslaki, Ylen asema, vastauksia kuuntelijoiden kysymyksiin",
+    "paivamaara": "18.6.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/c522745e-118b-4f07-b641-47437f710734.mp3",
+    "kesto_sek": 4014,
+    "kesto_str": "01:06:54",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Aiheina valmiuslaki ja Ylen asema. Lopuksi vastauksia kuuntelijoiden lähettämiin kysymyksiin. Studiossa Marko Junkkari, Anna-Sofia Berner ja Tuomas Peltomäki.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Hillary (dokumentti)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Neliosainen dokumenttisarja Hillary Clintonin elämästä ja vuoden 2016 vaalikampanjasta. Yhdistää kulissientakaista kuvamateriaalia ja pitkiä haastatteluja, käsitellen myös Yhdysvaltain poliittista lähihistoriaa ja naisasialiikettä.",
+        "google_linkki": "https://www.google.com/search?q=Hillary+2020+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hillary+2020+documentary"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ajankohtaisen kakkosen vihailta 2013 -video",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "video"
+        ],
+        "kuvaus": "Vuoden 2013 Ajankohtaisen kakkosen vihaillasta peräisin oleva videopätkä, jossa nykyiset poliittiset johtajat esiintyvät nuorina. Huvittava historiallinen dokumentti suomalaisesta politiikasta.",
+        "google_linkki": "https://www.google.com/search?q=Ajankohtainen+kakkonen+vihailta+2013+Sanna+Marin",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ajankohtainen+kakkonen+vihailta+2013+Sanna+Marin"
+      }
+    ]
+  },
+  {
+    "j_idx": 208,
+    "jakso_id": "tag:soundcloud,2010:tracks/1516127749",
+    "jakso_otsikko": "18.5.2023: USA-jakolinjat fentanyylikriisissä, onko perussuomalaiset äärioikeistoa?,Elon Musk – nero",
+    "paivamaara": "18.5.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/b9dbe493-0dd6-4931-8a50-e458287e7c46.mp3",
+    "kesto_sek": 3695,
+    "kesto_str": "01:01:35",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina New Yorkin metrossa tapahtuneesta surmasta seurannut yhteiskunnalinen keskustelu ja fentanyyli- ja opiaattikriisien vaikutus ihmisiin Yhdysvalloissa, Markon juttu perussuomalaisista: sen somereaktio ja sisältö, David Nasaw'n artikkeli jonka mukaan Elon Musk ei olekaan sekoboltsi vaan ihan vaan pelkkä nero.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Susanne Salmi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ystäväkirja",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "uusi podcast",
+          "HS"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittajan Inkeri Harjun tekemä uusi podcast. Suositellaan kuunneltavaksi.",
+        "google_linkki": "https://www.google.com/search?q=Ystäväkirja+podcast+Inkeri+Harju",
+        "lisatieto_linkki": "https://open.spotify.com/search/Ystäväkirja%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Rocky (Virus-teatteri)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "politiikka",
+          "populismi"
+        ],
+        "kuvaus": "Virus-teatterin näytelmä, joka käsittelee populistisia liikkeitä ja perussuomalaisia. Teatterin johtaja suositteli katsomaan.",
+        "google_linkki": "https://www.google.com/search?q=Rocky+näytelmä+Virus-teatteri",
+        "lisatieto_linkki": "https://www.google.com/search?q=Rocky+näytelmä+Virus-teatteri"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Susanna Salmi",
+        "teos": "Mehiläisten historia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dystopia",
+          "romaani",
+          "ympäristö"
+        ],
+        "kuvaus": "Norjalaisen Maja Lunden dystopiaromaani vuodelta 2015, jossa seikkaillaan kolmessa aikatasossa ekokatastrofin uhatessa. Kouriintuntuva ja mukaansatempaava, vaikka ei yleensä olisikaan dystopiakirjallisuuden ystävä.",
+        "google_linkki": "https://www.google.com/search?q=Mehiläisten+historia+Maja+Lunde",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mehiläisten+historia+Maja+Lunde"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tuomas Peltomäki -podcast (äärioikeisto-jakso)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "äärioikeisto",
+          "perussuomalaiset"
+        ],
+        "kuvaus": "Tuomas Peltomäen oma podcast, jossa hän keskustelee Oula Silvennoisen kanssa äärioikeistosta ja perussuomalaisajattelusta kahden ja puolen tunnin haastattelussa.",
+        "google_linkki": "https://www.google.com/search?q=Tuomas+Peltomäki+podcast+Oula+Silvennoinen",
+        "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tuomas Peltomäki -podcast (tekoäly-sarja)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "tiede"
+        ],
+        "kuvaus": "Kolmiosainen podcast-sarja, jossa Tuomas Peltomäki keskustelee Helsingin yliopiston tekoälyprofessori Teemu Roosin kanssa tekoälyvallankumouksesta, tekoälyn toimintaperiaatteista ja sen regulaatiosta.",
+        "google_linkki": "https://www.google.com/search?q=Tuomas+Peltomäki+podcast+tekoäly+Teemu+Roos",
+        "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20podcast"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Nervous States: How Feeling Took Over the World",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "politiikka",
+          "psykologia"
+        ],
+        "kuvaus": "Brittiläisen William Daviesin kirja siitä, miten maailma on siirtynyt faktojen ja tieteen arvostamisesta tunnepohjaisen ajattelun aikakauteen. Älyttömän hyvä kirjoittaja ja todella kiinnostava teos.",
+        "google_linkki": "https://www.google.com/search?q=Nervous+States+How+Feeling+Took+Over+the+World+William+Davies",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Nervous+States+William+Davies"
+      }
+    ]
+  },
+  {
+    "j_idx": 413,
+    "jakso_id": "tag:soundcloud,2010:tracks/607788249",
+    "jakso_otsikko": "18.4.2019: Eduskuntavaalien tulos, tuloksen merkitys ja seuraavat vaalit",
+    "paivamaara": "18.4.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/fa6eb89a-b905-4cd3-a847-a96a3a0e6907.mp3",
+    "kesto_sek": 3184,
+    "kesto_str": "53:04",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Aino Frilander käsittelevät vaalit, niiden tuloksen ja merkityksen.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Edu Kettunen – livekeikka 2015",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "suomipop",
+          "laulunsanoittaja",
+          "live"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee Edu Kettusen livekeikkaa vuodelta 2015 YouTubessa. Erityisesti Kettusen ihmisbiisit muistoista ja parisuhteista ovat Tuomaksen mielestä todella kauniita ja lyyrisesti mahtavia.",
+        "google_linkki": "https://www.google.com/search?q=Edu+Kettunen+livekeikka+2015",
+        "lisatieto_linkki": "https://open.spotify.com/search/Edu%20Kettunen"
+      }
+    ]
+  },
+  {
+    "j_idx": 318,
+    "jakso_id": "tag:soundcloud,2010:tracks/1010448784",
+    "jakso_otsikko": "18.3.2021: Astra Zeneca -paussi, rokotejärjestys ja PS-gallup",
+    "paivamaara": "18.3.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/05da878d-66b0-4eb2-9572-22f7907dbf92.mp3",
+    "kesto_sek": 4400,
+    "kesto_str": "01:13:20",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Astra Zenecan rokotteesta ja lukuisten Euroopan maiden päätöksestä lopettaa rokotteen käyttö, Suomen rokotejärjestyksestä, jossa on alettu keskustella mamutaustaisten ihmisten rokottamisesta ensin, sekä HS-gallupista, jonka mukaan perussuomalaisten kannatus vain kasvaa.Uutisraportti podcast on Helsingin Sanomie",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Einari",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Antti Heikkisen kirjoittama kirja, jonka äänikirjaversion lukee kirjailija itse. Tuomas Peltomäki kuvailee sitä todella kiehtovaksi ja suosittelee lämpimästi.",
+        "google_linkki": "https://www.google.com/search?q=Einari+Antti+Heikkinen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Einari+Antti+Heikkinen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Why We Sleep",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "terveys",
+          "uni"
+        ],
+        "kuvaus": "Matthew Walkerin tietokirja unen fysiologiasta, mekanismeista ja evoluutiosta. Marko Junkkari lukee teosta ja pitää sitä todella hyvänä ja mielenkiintoisena.",
+        "google_linkki": "https://www.google.com/search?q=Why+We+Sleep+Matthew+Walker",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Why+We+Sleep+Matthew+Walker"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Naarasleijona",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "historia",
+          "siirtomaapolitiikka"
+        ],
+        "kuvaus": "Tanskalaista kirjailija Karen Blixeniä käsittelevä elämäkerta, joka kuvaa siirtomaapolitiikkaa Itä-Afrikassa 1900-luvun alussa. Maria Manner pitää sitä loistavana ja hyvin kirjoitettuna.",
+        "google_linkki": "https://www.google.com/search?q=Naarasleijona+Karen+Blixen+elämäkerta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Naarasleijona+Blixen"
+      }
+    ]
+  },
+  {
+    "j_idx": 322,
+    "jakso_id": "tag:soundcloud,2010:tracks/988040050",
+    "jakso_otsikko": "18.2.2021: Kuulijapalautteita ja -kysymyksiä vol. 1",
+    "paivamaara": "18.2.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/9f297d1a-356a-4f8e-84ed-979e2aa11a65.mp3",
+    "kesto_sek": 3304,
+    "kesto_str": "55:04",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Marko ja Maria hulivat ajankohtaisaiheista ja vastailevat kuuntelijoiden postiin.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  a",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ticking Clock – Ira Rosen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "journalismi",
+          "muistelmat",
+          "media"
+        ],
+        "kuvaus": "Yhdysvaltalaisen 60 Minutes -ohjelman tuottajan Ira Rosenin muistelmat tutkivan journalismin kultakaudelta 1980-luvulta eteenpäin. Kirja kertoo rajattomista budjeteista, lentokonebingosta ja siitä, miten huolellisesti jokainen juttu valmisteltiin.",
+        "google_linkki": "https://www.google.com/search?q=Ticking+Clock+Ira+Rosen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ticking+Clock+Ira+Rosen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Koneruhtinas – Pekka Herlinin elämä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "suomalaiset",
+          "liike-elämä"
+        ],
+        "kuvaus": "John Simenin kirjoittama elämäkerta Kone-yhtiön patruunasta Pekka Herlinistä. Teos käsittelee rehellisesti Herlinin alkoholismia, sen vaikutusta perheeseen sekä Koneen yritystarinan – saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=Koneruhtinas+Pekka+Herlin+John+Simen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Koneruhtinas+Pekka+Herlin"
+      }
+    ]
+  },
+  {
+    "j_idx": 13,
+    "jakso_id": "c26ffc71-35cc-4a07-8275-bb4741d1aa15",
+    "jakso_otsikko": "Silmien”venyttely”kohu",
+    "paivamaara": "18.12.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/c26ffc71-35cc-4a07-8275-bb4741d1aa15.mp3",
+    "kesto_sek": 3392,
+    "kesto_str": "56:32",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat missi Sarah Dzafcesta lähteneestä mutta perussuomalaispoliitikkojen kätilöimänä jo Japaniin asti edenneestä, Suomen kansainvälisiä suhteita ravisuttavasta silmien”venyttely”kohusta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Helsingin Sanomien Amerikka-podcast: Kulissien takana Mar-a-Lagossa",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "ulkopolitiikka"
+        ],
+        "kuvaus": "Suvi Turtiainen kertoo hauskasti kulisseissa tapahtuneesta loistohotellin aulabaarissa kokouksessa, jossa Stubb oli paikalla Kushnerin ja Witkoffin kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+Sanomien+Amerikka-podcast+Stubb+Kushner+Witkoff",
+        "lisatieto_linkki": "https://open.spotify.com/search/Helsingin%20Sanomien%20Amerikka-podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Mississippi Blue 61",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "amerikkalainen jalkapallo",
+          "urheilu"
+        ],
+        "kuvaus": "Dekkari, joka sijoittuu amerikkalaisen jalkapallon yliopistosarjoihin. Todella hienosti kirjoitettu – suositellaan jenkkifutis- ja dekkariystäville.",
+        "google_linkki": "https://www.google.com/search?q=Mississippi+Blue+61+Eli+Greiner",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mississippi+Blue+61"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Piparijauhokastike kinkunliemestä",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "jouluruoka",
+          "kastike",
+          "kotikokkaus"
+        ],
+        "kuvaus": "Jouluinen kinkunkastike, jossa perinteinen jauhopohjainen roux tehdään piparijauheesta ja voista, johon lisätään kylmä kinkunliemi, kerma ja sinappi. Sopii perunoiden ja kinkunsiivujen kanssa.",
+        "google_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka",
+        "lisatieto_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka+ohje"
+      }
+    ]
+  },
+  {
+    "j_idx": 232,
+    "jakso_id": "tag:soundcloud,2010:tracks/1385826109",
+    "jakso_otsikko": "18.11.2022: Saamelaiskäräjälaki, koronatuet, isänpäiväkortit",
+    "paivamaara": "18.11.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/092eb30c-a5e9-4d88-9483-a67ae44ad0d6.mp3",
+    "kesto_sek": 4741,
+    "kesto_str": "01:19:01",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Petja Pelli",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Petja Pelli, Anni Keski-Heikkilä ja Salla Vuorikoski keskustelevat saamelaisasioista, koronatuista ja Anu Silfverbergin kolumnista joka käsitteli isänpäiväkortteja.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kaija Koo: elämäkerta (Jouni K. Kemppäinen)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "musiikki",
+          "ajankuva"
+        ],
+        "kuvaus": "Jouni K. Kemppäisen kirjoittama elämäkerta laulaja Kaija Koosta. Kirja tarjoaa rankasta elämästä kertovan tarinan sekä ajankuvaa 1980- ja 1990-luvuilta.",
+        "google_linkki": "https://www.google.com/search?q=Kaija+Koo+elämäkerta+Jouni+K+Kemppäinen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaija+Koo+elämäkerta+Jouni+K+Kemppäinen"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Macron, Eurooppa ja sota",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "sota"
+        ],
+        "kuvaus": "Yle Areenasta löytyvä dokumentti, joka seuraa Ranskan presidentti Macronin toimintaa ennen Ukrainan sotaa ja sen aikana. Sisältää harvinaisia otteita puhelinkeskusteluista Putinin kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Macron+Eurooppa+ja+sota+dokumentti+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Macron+Eurooppa+ja+sota"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Munkkivuori",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "kotimainen draama",
+          "1980-luku",
+          "jännitys"
+        ],
+        "kuvaus": "Jani Vuolasen ohjaama suomalainen draamasarja, joka sijoittuu 1980-luvun alun Munkkivuoreen. Sarjassa lapsi katoaa ja tapahtumat kerrotaan lasten näkökulmasta. Saatavilla Elisa Viihteeltä.",
+        "google_linkki": "https://www.google.com/search?q=Munkkivuori+sarja+Jani+Vuolanen+Elisa+Viihde",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Munkkivuori"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Project Hail Mary",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "science fiction",
+          "seikkailu",
+          "avaruus"
+        ],
+        "kuvaus": "Andy Weirin vuoden 2021 parhaaksi kehuttu science fiction -romaani, jossa päähenkilö ammutaan yksin syvälle avaruuteen ja hänen on selvittävä omin voimin. Kirja tunnetaan kekseliäästä ongelmanratkaisustaan.",
+        "google_linkki": "https://www.google.com/search?q=Project+Hail+Mary+Andy+Weir",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Project+Hail+Mary+Andy+Weir"
+      }
+    ]
+  },
+  {
+    "j_idx": 342,
+    "jakso_id": "tag:soundcloud,2010:tracks/894814300",
+    "jakso_otsikko": "17.9.2020: Valtion koronabudjetti, Kansallisteatteri ja cancel-kulttuuri",
+    "paivamaara": "17.9.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/f78a999c-0e6e-4a03-b5be-25f79d14f629.mp3",
+    "kesto_sek": 3715,
+    "kesto_str": "01:01:55",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat pääministeri Sanna Marinin uudesta budjetista, jonka myötä Suomi ottaa 10,8 miljardia euroa lisävelkaa sekä Kansallisteatterin taistosta cancel-kulttuurin kanssa.\nPitkien, epämukavien hiljaisuuksien varalle Marko suosittelee Bob Woodwardin kohukirjaa Rage (https://www.goodreads.com/book/show/53317913-rage),\nTuo",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Rage",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "politiikka",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Bob Woodwardin tietokirja Trumpista, jossa presidentti antoi toimittajalle 17–19 haastattelua. Paljastaa muun muassa Trumpin tietoisuuden COVID-19:n vakavuudesta jo varhain.",
+        "google_linkki": "https://www.google.com/search?q=Rage+Bob+Woodward",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Rage+Bob+Woodward"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Antti Holma – elämäkerta (äänikirja)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "äänikirja",
+          "elämäkerta",
+          "suomalaisuus"
+        ],
+        "kuvaus": "Antti Holman omaelämäkerrallinen äänikirja lapsuudesta ja nuoruudesta Sonkajärvellä. Rehellinen, humaani ja tarkkasilmäinen kuvaus suomalaisuudesta.",
+        "google_linkki": "https://www.google.com/search?q=Antti+Holma+elämäkerta+äänikirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Antti+Holma"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "I'm Thinking of Ending Things",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "taidepelokuva",
+          "psykologinen",
+          "Netflix"
+        ],
+        "kuvaus": "Charlie Kaufmanin ohjaama psykedeelinen taide-elokuva Netflixissä. Kertoo pariskunnasta, joka ajaa lumimyrskyssä tapaamaan miehen vanhempia – tunnelmallinen, karmiva ja syvällinen kokemus.",
+        "google_linkki": "https://www.google.com/search?q=I%27m+Thinking+of+Ending+Things+2020+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=I%27m+Thinking+of+Ending+Things"
+      }
+    ]
+  },
+  {
+    "j_idx": 196,
+    "jakso_id": "tag:soundcloud,2010:tracks/1595275437",
+    "jakso_otsikko": "17.8.2023: Lintuinfluenssa, lentoliikenteen tuet, pojat koulussa",
+    "paivamaara": "17.8.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/94eebb50-deaf-428a-9cb7-505f45600dd2/1595275437-uutisraportti-1782023-lintuinfluenssa-lentoliikentee.mp3",
+    "kesto_sek": 3905,
+    "kesto_str": "01:05:05",
+    "rss_osallistujat": [
+      "Alli Hallonblad",
+      "Matilda Jokinen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustellaan lintuinfluenssasta, valtion tukemasta juna- ja lentoliikenteestä sekä pojista koulussa.\nStudiossa Venla Kuokkanen, Alli Hallonblad ja Matilda Jokinen. \nJakson leikkasi Janne Elkki.\n\nJaksossa mainittuja linkkejä:\nJuttu lintuinfluenssasta: https://www.hs.fi/tiede/art-2000009777643.html\nJuttu turkistarhauksesta: https://www.hs.fi/kotimaa/art-2000009572447.html\nLent",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alli Hallonblad",
+        "teos": "Marjastus ja äänikirjat luonnossa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "marjastus",
+          "rentoutuminen"
+        ],
+        "kuvaus": "Marjametsässä käynti äänikirja korvissa on meditatiivista ja rentouttavaa. Monotoninen käsillä tekeminen auttaa keskittymään äänikirjaan poikkeuksellisen hyvin.",
+        "google_linkki": "https://www.google.com/search?q=marjastus+äänikirja+luonnossa",
+        "lisatieto_linkki": ""
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Matilda Jokinen",
+        "teos": "Huono tyttö",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "yhteiskunta",
+          "ihmisoikeudet"
+        ],
+        "kuvaus": "Sara Al Husainin omaelämäkerrallinen romaani pakkoavioliitosta. Kertoo Suomessa asuneen naisen pakottamisesta naimisiin irakilaisen serkkunsa kanssa ja ottaa kantaa naisten asemaan muslimiyhteisössä.",
+        "google_linkki": "https://www.google.com/search?q=Huono+tyttö+Sara+Al+Husain",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Huono+tyttö+Sara+Al+Husain"
+      }
+    ]
+  },
+  {
+    "j_idx": 36,
+    "jakso_id": "6aac3b69-2cf9-4376-a755-53ee36496071",
+    "jakso_otsikko": "Palkkasotilas­loikkari, pika­synnytykset, superstriimaaja",
+    "paivamaara": "17.7.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/6aac3b69-2cf9-4376-a755-53ee36496071.mp3",
+    "kesto_sek": 4033,
+    "kesto_str": "01:07:13",
+    "rss_osallistujat": [
+      "Hanna Havusto",
+      "Helmi Sundström",
+      "John Helin",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "<p>Jaksossa aiheina Venäjältä Suomeen loikannut epäilty Wagner-sotilas, sairaalan ulkopuolella tapahtuvat suunnittelemattomat synnytykset sekä Helsingissä nuorisoa villinnyt livestriimaaja Ishowspeed. </p><p>Studiossa Rasmus Helaniemi, Helmi Sundström, Hanna Havusto ja John Helin.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Helmi Sundström",
+        "teos": "Elämisen taito -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "hyvinvointi",
+          "arki",
+          "mindfulness"
+        ],
+        "kuvaus": "Eeva Kolun ja Kiia Arpian podcast, jossa puhutaan pienistä arjen asioista, joilla elämästä voi tehdä mukavampaa ja kauniimpaa. Kuunneltavissa Podimosta.",
+        "google_linkki": "https://www.google.com/search?q=Elämisen+taito+podcast+Eeva+Kolu+Kiia+Arpia",
+        "lisatieto_linkki": "https://open.spotify.com/search/Elämisen%20taito%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Hanna Havunen",
+        "teos": "Murdle",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "mobiilipeli",
+          "logiikkapeli",
+          "arvoitus"
+        ],
+        "kuvaus": "Päivittäin vaihtuva logiikkapähkinäpeli, jossa annettujen vihjeiden pohjalta pitää selvittää murhaaja. Tehtävät vaikeutuvat viikon mittaan maanantaista sunnuntaihin.",
+        "google_linkki": "https://www.google.com/search?q=Murdle+peli",
+        "lisatieto_linkki": "https://murdle.com"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Mikko Hyppösen Internet",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "kyberturvallisuus",
+          "teknologia"
+        ],
+        "kuvaus": "Kyberturvallisuudesta ja hakkeroinnista kertova tietokirja, joka on kirjoitettu yleiskielisesti kaikkien luettavaksi. Käsittelee mm. Maerskin hakkerointitapausta. Saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=Mikko+Hyppönen+Internet+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikko+Hyppönen+Internet"
+      }
+    ]
+  },
+  {
+    "j_idx": 268,
+    "jakso_id": "tag:soundcloud,2010:tracks/1233915394",
+    "jakso_otsikko": "17.3.2022: Putinin kylmäävä puhe, vasemmistoliitto, tuleva ruokakriisi",
+    "paivamaara": "17.3.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/396a6f26-f5e1-4a2e-9f0e-6b43509af992.mp3",
+    "kesto_sek": 4733,
+    "kesto_str": "01:18:53",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat Venäjän presidentti Vladimir Putinin varsin stalinistiselta kuulostaneesta puheesta, hot takeista liittyen Natoon, ja Suomea uhkaavasta ruokakriisistä.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis p",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Case That Killed #MeToo in Sweden",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "journalismi",
+          "MeToo",
+          "oikeustapaus"
+        ],
+        "kuvaus": "New York Timesin artikkeli, jonka on kirjoittanut ruotsalais-amerikkalainen toimittaja Jenni Nordberg. Se käsittelee ruotsalaisen toimittajan Cissi Wallinin tapausta, jossa hän paljasti raiskaajansa nimen Facebookissa, hävisi oikeudenkäynnin ja jonka kirja jäi julkaisematta – sekä sitä, miten tapaus tuhosi Ruotsin #MeToo-liikkeen.",
+        "google_linkki": "https://www.google.com/search?q=The+Case+That+Killed+MeToo+in+Sweden+New+York+Times+Jenni+Nordberg",
+        "lisatieto_linkki": "https://www.nytimes.com/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Teatteri (yleinen suositus)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "esittävä taide",
+          "live-kokemus"
+        ],
+        "kuvaus": "Alma Unali suosittelee lämpimästi menemään teatteriin, erityisesti koronarajoitusten jälkeen. Hän korostaa teatterin kehollisuutta ja läsnäolon kokemusta, jota ei voi pausettaa.",
+        "google_linkki": "https://www.google.com/search?q=teatteri+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=teatteri+Helsinki+liput"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Pitkä kuuma kesä",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "suomalainen elokuva",
+          "nuorisoelokuva",
+          "klassikko"
+        ],
+        "kuvaus": "Legendaarinen suomalainen nuorisoelokuva, joka on katsottavissa Yle Areenassa. Alma Unali kertoo elokuvan määrittäneen hänen nuoruuttaan ja syyttää sitä monista huonoista päätöksistä sekä ihastumisesta rokkiin ja renttuihin.",
+        "google_linkki": "https://www.google.com/search?q=Pitk%C3%A4+kuuma+kes%C3%A4+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Pitk%C3%A4+kuuma+kes%C3%A4"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "My Father the Fool",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "journalismi",
+          "henkilökohtainen essee",
+          "amerikkalaiset"
+        ],
+        "kuvaus": "Richard Russon kirjoittama artikkeli The Atlantic -lehdessä. Kirjailija käsittelee humaanisti ja viisaasti koronaepäilijöitä, isäsuhdettaan ja miehenä olemista – sekä sitä, miten ymmärrys kanssaihmisiä kohtaan löytyy yllättävistä paikoista. Saatavilla myös ääniartikkelina.",
+        "google_linkki": "https://www.google.com/search?q=My+Father+the+Fool+Richard+Russo+The+Atlantic",
+        "lisatieto_linkki": "https://www.theatlantic.com/"
+      }
+    ]
+  },
+  {
+    "j_idx": 272,
+    "jakso_id": "tag:soundcloud,2010:tracks/1217555593",
+    "jakso_otsikko": "17.2.2022: Niinistö NY Timesissa, korkojen nousu, olympiafiilis",
+    "paivamaara": "17.2.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/2485aa27-09e0-4847-bfcc-258a6b25b118.mp3",
+    "kesto_sek": 3961,
+    "kesto_str": "01:06:01",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Anna-Sofia Berner",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner ja Alma Onali keskustelevat Ukrainan tilanteesta ja tasavallan presidentin aktivoitumisesta kansainvälisessä lehdistössä, korkojen noususta ja siihen liittyvistä peloista Suomessa mutta ei Ruotsissa, ja ihanan nostalgisesta olympiafiiliksestä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Hehku (podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "seksuaalisuus",
+          "suomalainen podcast",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Ylen podcast, jossa Janne ja Maleena keskustelevat seksistä, suostumuksesta ja seksuaalisuudesta avoimesti ja kunnioittavasti. Löytyy Yle Areenasta.",
+        "google_linkki": "https://www.google.com/search?q=Hehku+podcast+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/podcastit/haku?q=Hehku"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ali Wong: Baby Cobra",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "stand-up",
+          "komedia",
+          "Netflix"
+        ],
+        "kuvaus": "Amerikkalaisen stand-up-koomikon Ali Wongin ensimmäinen Netflix-spesiaali, jossa hän esiintyy pitkälle raskaana. Huumori käsittelee eritteitä, seksiä ja sukupuolia terävällä otteella.",
+        "google_linkki": "https://www.google.com/search?q=Ali+Wong+Baby+Cobra+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ali+Wong+Baby+Cobra"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Night Of",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "HBO"
+        ],
+        "kuvaus": "HBO:n kahdeksanosainen minisarja vuodelta 2016. Tiivistunnelmainen poliisiproseduraali, jossa nuori muslimimies joutuu epäillyksi raakamurhasta. Syvällinen ja synkkä, mutta inhimillinen teos.",
+        "google_linkki": "https://www.google.com/search?q=The+Night+Of+HBO+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Night+Of"
+      }
+    ]
+  },
+  {
+    "j_idx": 330,
+    "jakso_id": "tag:soundcloud,2010:tracks/949407838",
+    "jakso_otsikko": "17.12.2020: Haaviston jälkikuohut, Shakespeare väkivaltana",
+    "paivamaara": "17.12.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/220fe2c2-fb09-436f-b3b2-a15c3396bb84/949407838-uutisraportti-17122020-haaviston-jalkikuohut-shakespe.mp3",
+    "kesto_sek": 4498,
+    "kesto_str": "01:14:58",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Paavo Teittinen",
+      "Pekka Mykkänen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Paavo Teittinen keskustelevat ulkoministeri Pekka Haaviston Al-Hol -operaation esitutkinnasta joka tuli julkiseksi ja kertoo paljon ulkoministeriön voimasuhteista, ja Suomen kuvalehden jutusta, joka kertoi teatterikorkeakoulun opiskelijoiden kaheleista woke-meiningeistä, jotka eivät välttämättä olleetkaan niin kaheleita.\nUutisraportti po",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Boys",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "toiminta",
+          "supersankarit",
+          "Amazon Prime"
+        ],
+        "kuvaus": "Marko Junkkari kertoo tilanneensa Amazon Prime -tilauksen juuri tämän sarjan takia Tuomaksen suosittelupuheen jälkeen ja katsoneensa sen aamulla loppuun.",
+        "google_linkki": "https://www.google.com/search?q=The+Boys+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Boys"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Paavo Teittinen",
+        "teos": "Kuningattaren gambiitti",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "shakki",
+          "draama",
+          "Netflix"
+        ],
+        "kuvaus": "Netflix-sarja lahjakkaasta mutta ongelmallisen taustan omaavasta naispuolisesta shakkipelaajasta. Sarja kirvoitti myös nettishakkiharrastuksen uudelleen käyntiin.",
+        "google_linkki": "https://www.google.com/search?q=Kuningattaren+gambiitti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Queen%27s+Gambit"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Aleksei Navalnyin video FSB-paljastuksesta",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "Venäjä"
+        ],
+        "kuvaus": "YouTube-video, jossa Aleksei Navalnyi ja Bellingcat-tutkijat paljastavat FSB:n roolin Navalnyin murhayrityksessä. Murhakohteena ollut mies itse juontaa videon.",
+        "google_linkki": "https://www.google.com/search?q=Navalny+Bellingcat+FSB+video+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Navalny+Bellingcat+FSB"
+      }
+    ]
+  },
+  {
+    "j_idx": 78,
+    "jakso_id": "7359fe0e-9979-4306-8487-966767bfaad5",
+    "jakso_otsikko": "17.10.2024: Rosmariini- ja puunuuskagate, jääkiekkoilijan surmauutisointi, P. Diddy",
+    "paivamaara": "17.10.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/7359fe0e-9979-4306-8487-966767bfaad5.mp3",
+    "kesto_sek": 5363,
+    "kesto_str": "01:29:23",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Salla, Tuomas ja Marko keskustelevat nuuskamauista ja niiden ympärillä käytävästä lobbauskesksutelusta, e-jääkiekkoilija Janne Puhakan surmasta ja P. Diddyn oikeustapauksesta, joka syöksee kokonaisen tiktok-sukupolven folioon.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Syytös – Muuan akateeminen komitragedia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "akateeminen maailma",
+          "omaelämäkerta"
+        ],
+        "kuvaus": "Tampereen yliopiston tutkija Hanna Kuuselan omakohtainen teos yliopiston hallinnon uudistuksesta ja siitä, millaista on taistella yksin valtarakenteita vastaan. Lyhyt mutta vaikuttava teos, joka jättää lukijan suu auki.",
+        "google_linkki": "https://www.google.com/search?q=Syyt%C3%B6s+Muuan+akateeminen+komitragedia+Hanna+Kuusela",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Syyt%C3%B6s+Hanna+Kuusela"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Aikalisä-podcast (Roope Salminen)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "keskustelu",
+          "julkisuus",
+          "kulttuuri"
+        ],
+        "kuvaus": "Roope Salmisen juontama podcast, jossa käsitellään analyyttisesti ja oivaltavasti muun muassa julkisuutta ja kulttuuria. Terävä ja laaja-alainen keskusteluohjelma.",
+        "google_linkki": "https://www.google.com/search?q=Aikalis%C3%A4+podcast+Roope+Salminen",
+        "lisatieto_linkki": "https://open.spotify.com/search/Aikalis%C3%A4%20Roope%20Salminen"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Stratechery",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "teknologia",
+          "bisnesanalyysi",
+          "geopolitiikka"
+        ],
+        "kuvaus": "Taiwanissa asuvan amerikkalaisen analyytikon Ben Thompsonin uutiskirje ja podcast, joka tarjoaa syvällisiä analyyseja teknologiajättien toiminnasta ja Euroopan teknologisesta jälkeenjääneisyydestä. Viimeisin jakso käsitteli SpaceX:n menestystä suhteessa eurooppalaiseen Ariane-rakettiohjelmaan.",
+        "google_linkki": "https://www.google.com/search?q=Stratechery+podcast+newsletter",
+        "lisatieto_linkki": "https://open.spotify.com/search/Stratechery"
+      }
+    ]
+  },
+  {
+    "j_idx": 389,
+    "jakso_id": "tag:soundcloud,2010:tracks/697664386",
+    "jakso_otsikko": "17.10.2019: Lihakielto, Elina Lepomäki & nuorten asuntosijoittaminen",
+    "paivamaara": "17.10.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/ac6b1d6d-8522-42f7-a90f-439506ee3cd6.mp3",
+    "kesto_sek": 4300,
+    "kesto_str": "01:11:40",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "17.10.2019: Lihakielto, Elina Lepomäki & nuorten asuntosijoittaminen by Helsingin Sanomat",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Succession (kausi 2)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "perhedynamiikka",
+          "mediamoguli"
+        ],
+        "kuvaus": "HBO:n dramasarja, joka kertoo mediamogulperheestä ja valtataisteluista. Toinen kausi sai erityistä kiitosta – vertautuu Kummisedän tunnelmaan.",
+        "google_linkki": "https://www.google.com/search?q=Succession+HBO+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Succession"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Is Amazon Unstoppable? (New Yorker -artikkeli)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "bisnes",
+          "teknologia",
+          "työelämä"
+        ],
+        "kuvaus": "Charles Duhiggin pitkä artikkeli New Yorkerissa Amazonin toimintakulttuurista ja sen kahdestatoista laminoidulle kortille tiivistetystä prosessiperiaatteesta sekä niiden inhimillisistä seurauksista.",
+        "google_linkki": "https://www.google.com/search?q=Is+Amazon+Unstoppable+New+Yorker+Charles+Duhigg",
+        "lisatieto_linkki": "https://www.newyorker.com/search?q=Is+Amazon+Unstoppable"
+      }
+    ]
+  },
+  {
+    "j_idx": 177,
+    "jakso_id": "tag:soundcloud,2010:tracks/1719959541",
+    "jakso_otsikko": "17.1.2024: Iowa <3 trump, Amanda Palon näpistys, ennakkoäänestys",
+    "paivamaara": "17.1.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/5691184c-ed95-429a-b593-f7f06c8ee5b3.mp3",
+    "kesto_sek": 4574,
+    "kesto_str": "01:16:14",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheena Iowan republikaanicaucus ja Trumpin musertava ylivoima, ennakkoäänestyksen alkaminen presidentinvaaleissa ja Amanda Palon hot taket näpistelyköyhyydestä.\nStudiossa Tuomas Peltomäki, Marko Junkkari, Anna-Sofia Berner ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraporttipod.\n\nLue podca",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Tarina rakkaudesta ja pimeydestä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "historia",
+          "Israel"
+        ],
+        "kuvaus": "Israelilaisen suurkirjailijan Amos Ozin muistelmateos lapsuudesta, joka osuu samaan aikaan kuin Israelin valtion perustaminen. Kirja käy läpi kirjailijan perheen tietä Israeliin ja valtion syntyä lapsen näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=Tarina+rakkaudesta+ja+pimeydestä+Amos+Oz",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Tale+of+Love+and+Darkness+Amos+Oz"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Eläinten vallankumous",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "poliittinen allegoria",
+          "dystopia"
+        ],
+        "kuvaus": "George Orwellin klassinen eläinsatu, jossa maatilan eläimet syrjäyttävät ihmisomistajansa, mutta uusi systeemi ajautuu fasismiin ja totalitarismiin. Edelleen häkellyttävän ajankohtainen teos.",
+        "google_linkki": "https://www.google.com/search?q=Eläinten+vallankumous+George+Orwell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Animal+Farm+George+Orwell"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Hävitys",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "koulukiusaaminen",
+          "Turku"
+        ],
+        "kuvaus": "Iida Rauman Finlandia-palkittu romaani, joka kuvaa koulukiusaamista tajunnanvirtaisella tyylillä Turun seudulla. Erityisen vaikuttavia ovat kirjan Turun historialliset kuvaukset.",
+        "google_linkki": "https://www.google.com/search?q=Hävitys+Iida+Rauma",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Hävitys+Iida+Rauma"
+      }
+    ]
+  },
+  {
+    "j_idx": 241,
+    "jakso_id": "tag:soundcloud,2010:tracks/1345094548",
+    "jakso_otsikko": "16.9.2022: Terveydenhuolto-kabuum, Ruotsin vaalit, nuorten mielenterveys",
+    "paivamaara": "16.9.2022",
+    "audio_url": "https://podcasts.captivate.fm/media/2fffc0f2-5a64-4711-bb40-bfde19209904/1345094548-uutisraportti-1692022-terveydenhuolto-kabuum-ruotsin.mp3",
+    "kesto_sek": 4945,
+    "kesto_str": "01:22:25",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat Hollywoodia muistuttavista käänteistä hoitajien ja terveydenhuoltosysteemin pyörittäjien välillä, Ruotsin vaalien tuloksesta ja nuorten mielenterveysongelmista, jotka ovat edelleen pahenemaan päin.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaa",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Waste Lands: The True Story of Farm Country on Trial",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "ympäristö",
+          "oikeudenkäynti",
+          "tositarina"
+        ],
+        "kuvaus": "Tositarina oikeudenkäynnistä, jossa pieni lakiasiaintoimisto haastoi jättimäisen sikateollisuusyhtiön köyhien mustien asukkaiden puolesta Pohjois-Carolinassa. Kirja kertoo sikateollisuuden ympäristöongelmista ja oikeustaistelusta ylivoimaista suuryritystä vastaan.",
+        "google_linkki": "https://www.google.com/search?q=Waste+Lands+Corban+Addison",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Waste+Lands+Corban+Addison"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Radionova 2004",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "2000-luku",
+          "nostalgia",
+          "soittolista"
+        ],
+        "kuvaus": "Spotify-soittolista nimimerkiltä DJ Lassi, joka kokoaa 2000-luvun alun radiosoittolistojen suosikkeja. Sisältää mm. Céline Dionin, Bossoa ja Laura Pausinia.",
+        "google_linkki": "https://www.google.com/search?q=Radionova+2004+Spotify+playlist",
+        "lisatieto_linkki": "https://open.spotify.com/search/Radionova%202004"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "HBO"
+        ],
+        "kuvaus": "Game of Thronesiin perustuva fantasiasarja, jonka neljäs jakso saa erityismaininnan: se seuraa nuoren naisen eroottista heräämistä jännitteikkäällä ja taidokkaalla tavalla. Erittäin suositeltava.",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "HOTD – House of the Dragon Podcast (Bald Move)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tv-sarja",
+          "seurantapodcast",
+          "fantasia"
+        ],
+        "kuvaus": "Bald Move -podcasttiimin tekemä seurantapodcast House of the Dragon -sarjalle. Käy läpi jokaisen jakson yksityiskohtaisesti ja lisää sarjan katsomisen nautintoa merkittävästi.",
+        "google_linkki": "https://www.google.com/search?q=Bald+Move+House+of+the+Dragon+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Bald%20Move%20House%20of%20the%20Dragon"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Energy: A Human History",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "energia",
+          "tietokirja"
+        ],
+        "kuvaus": "Richard Rhodesin kirja kertoo energian ja ihmisen suhteen historiasta eri aikakausina. Erityisen ajankohtainen energiakriisin aikana – käsittelee mm. valaistuksen historiaa ja eri energiamuotojen löytämistä.",
+        "google_linkki": "https://www.google.com/search?q=Energy+A+Human+History+Richard+Rhodes",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Energy+A+Human+History+Richard+Rhodes"
+      }
+    ]
+  },
+  {
+    "j_idx": 292,
+    "jakso_id": "tag:soundcloud,2010:tracks/1125642721",
+    "jakso_otsikko": "16.9.2021: Taleban, huumeet, pörssi",
+    "paivamaara": "16.9.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/ff2b7c00-8851-474a-916a-e31e4f723a9d.mp3",
+    "kesto_sek": 3586,
+    "kesto_str": "59:46",
+    "rss_osallistujat": [
+      "Emil Elo",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Emil Elo keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Anand Gobinin juttu afganistanilaisista naisista (New Yorker)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "ulkopolitiikka",
+          "Afganistan",
+          "reportaasi"
+        ],
+        "kuvaus": "New Yorkerissa julkaistu pitkä reportaasi afganistanilaisista naisista erityisesti Kabulin ulkopuolella. Juttu käsittelee elämän muutosta Talebanin vallan aikana sekä amerikkalaisen sodan siviiliuhreja.",
+        "google_linkki": "https://www.google.com/search?q=Anand+Gopal+New+Yorker+Afghanistan+women",
+        "lisatieto_linkki": "https://www.newyorker.com/search?q=Anand+Gopal+Afghanistan"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Kind of Blue – Miles Davis",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "jazz",
+          "klassikko",
+          "syksy"
+        ],
+        "kuvaus": "Miles Davisin legendaarinen jazzlevy, jonka Emil Elo kertoo sopivan erinomaisesti syksyiseen Helsinkiin juoksulenkin taustamusiikiksi.",
+        "google_linkki": "https://www.google.com/search?q=Miles+Davis+Kind+of+Blue",
+        "lisatieto_linkki": "https://open.spotify.com/search/Miles%20Davis%20Kind%20of%20Blue"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Emil Elo",
+        "teos": "Juokseminen",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "juoksu",
+          "hyvinvointi",
+          "Helsinki City Run"
+        ],
+        "kuvaus": "Emil Elo suosittelee juoksemista liikuntamuotona erityisesti etätyövuoden jälkeen. Hän itse harjoittelee Helsinki City Runia varten ja kehuu liikunnan kansantaloudellisia hyötyjä.",
+        "google_linkki": "https://www.google.com/search?q=juokseminen+aloittaminen",
+        "lisatieto_linkki": "https://www.google.com/search?q=Helsinki+City+Run+juoksu"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Scott Turow'n kirjat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "legal thriller",
+          "oikeussali"
+        ],
+        "kuvaus": "Marko Junkkari kertoo lukeneensa kaikki Scott Turow'n oikeussalidekkari-kirjat ja etsii nyt lisää samankaltaisia legal thriller -suosituksia.",
+        "google_linkki": "https://www.google.com/search?q=Scott+Turow+kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Scott+Turow"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Michael Connellyn kirjat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "legal thriller",
+          "rikos"
+        ],
+        "kuvaus": "Kuulijan suosittelema kirjailija Marko Junkkarin legal thriller -lukuintoon. Junkkari on lukenut joitain Connellyn kirjoja ja pitää niitä hyvinä.",
+        "google_linkki": "https://www.google.com/search?q=Michael+Connelly+kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Michael+Connelly"
+      }
+    ]
+  },
+  {
+    "j_idx": 350,
+    "jakso_id": "tag:soundcloud,2010:tracks/858955084",
+    "jakso_otsikko": "16.7.2020: Oskari Onnisen porsaanreikä, presidentin valtaoikeudet ja Valko-Venäjän muutoksen kesä.",
+    "paivamaara": "16.7.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/0254af29-f94e-4f58-ad86-d11b4f5af39d.mp3",
+    "kesto_sek": 3602,
+    "kesto_str": "01:00:02",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat Oskari Onnisen kohua herättäneestä opiskeluesseestä, presidentti Sauli Niinistön\nvaltaoikeuksista ja Valko-Venäjän protestikesästä.\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Visulahden vahakabinettia (https://www.visulahti.fi/hinnat-ja-aukioloajat/), Onni Niemi suosittelee kulttuuritoimitt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Visulahden Vahakabinetit",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "kotimaan matkailu",
+          "nostalgia"
+        ],
+        "kuvaus": "Mikkelin Visulahdessa sijaitseva vahanukkemuseo, jossa on esillä Suomen presidenttejä, viihdetähtiä ja urheilijoita. Hauska ja nostalginen aikamatka 1980-luvulle.",
+        "google_linkki": "https://www.google.com/search?q=Visulahden+Vahakabinetit",
+        "lisatieto_linkki": "https://www.google.com/search?q=Visulahden+Vahakabinetit"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Verlan tehdasmuseo",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "kotimaan matkailu",
+          "teollisuushistoria"
+        ],
+        "kuvaus": "Kymenlaaksossa sijaitseva Unescon maailmanperintökohde, entinen pahvitehdas. Opastettu kierros kertoo tehdastyöläisten elämästä, ja ympäristö on kaunis järvineen.",
+        "google_linkki": "https://www.google.com/search?q=Verlan+tehdasmuseo",
+        "lisatieto_linkki": "https://www.google.com/search?q=Verlan+tehdasmuseo+Kymenlaakso"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
+        "teos": "Hohto-elokuva – HS:n erikoisartikkeli",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "elokuva-analyysi",
+          "kauhuelokuva",
+          "rasismi"
+        ],
+        "kuvaus": "Helsingin Sanomien kulttuuritoimittaja Pekka Torvisen artikkeli Stanley Kubrickin Hohto-elokuvan 40-vuotisjuhlan kunniaksi. Artikkeli tarjoaa uuden tulokulan elokuvaan rotujännitteiden kautta.",
+        "google_linkki": "https://www.google.com/search?q=Hohto+elokuva+40+vuotta+Helsingin+Sanomat+Pekka+Torvinen",
+        "lisatieto_linkki": "https://www.hs.fi/kulttuuri/"
+      }
+    ]
+  },
+  {
+    "j_idx": 255,
+    "jakso_id": "tag:soundcloud,2010:tracks/1288637074",
+    "jakso_otsikko": "16.6.2022: Puoluekokousviikonloppu, taloussyöksy, eläimet",
+    "paivamaara": "16.6.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/5046ab24-62cf-401c-b97f-1a5d24057efb.mp3",
+    "kesto_sek": 3648,
+    "kesto_str": "01:00:48",
+    "rss_osallistujat": [
+      "Inkeri Harju",
+      "Joona Aaltonen",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari, Inkeri Harju ja Joona Aaltonen.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. \n\nKaikki vuosien  aikana julkaistut ja",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Obi-Wan Kenobi",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "sci-fi",
+          "Tähtien sota",
+          "Disney+"
+        ],
+        "kuvaus": "Marko kertoo katsovansa poikansa kanssa uutta Tähtien sota -sarjaa Obi-Wan Kenobista ja pitää sitä ihastuttavana, vaikka myöntää juonen olevan epälooginen – aivan kuten alkuperäisissäkin elokuvissa.",
+        "google_linkki": "https://www.google.com/search?q=Obi-Wan+Kenobi+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Obi-Wan+Kenobi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Stranger Things (kausi 4)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "kauhu",
+          "Netflix",
+          "nostalgia"
+        ],
+        "kuvaus": "Inkeri suosittelee uusinta Stranger Things -kautta, joka on hänen mukaansa ottanut ryhtiliikkeen ja on pelottavampi kuin aiemmat kaudet. Erityisesti ensimmäinen jakso kuvaa Dungeons & Dragons -pelaamista autenttisesti.",
+        "google_linkki": "https://www.google.com/search?q=Stranger+Things+kausi+4",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "High Life",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "kosminen kauhu",
+          "sci-fi",
+          "art house"
+        ],
+        "kuvaus": "Ranskalaisen ohjaajan Claire Denisin vuoden 2018 kosmisen kauhun elokuva, jossa elinkautisvangit tekevät tutkimuksia mustan aukon lähettyvillä. Robert Pattinsonin ja Juliette Binoche'n tähdittämä masentava mutta vaikuttava teos, joka jää vaivaamaan päiväkausiksi.",
+        "google_linkki": "https://www.google.com/search?q=High+Life+2018+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=High+Life+2018"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Color Out of Space",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "kosminen kauhu",
+          "Lovecraft",
+          "Nicolas Cage"
+        ],
+        "kuvaus": "H.P. Lovecraftin tarinaan perustuva kosmisen kauhun elokuva, jossa Nicolas Cage kohtaa selittämättömän violetti-värisen uhan. Mainitaan kosmisen kauhun genren keskeisenä teoksena.",
+        "google_linkki": "https://www.google.com/search?q=Color+Out+of+Space+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Color+Out+of+Space"
+      }
+    ]
+  },
+  {
+    "j_idx": 161,
+    "jakso_id": "tag:soundcloud,2010:tracks/1823242773",
+    "jakso_otsikko": "16.5.2023: Slovakialainen salamurha(yritys), Ukrainan Nato-jäsenyys, GPT 4o",
+    "paivamaara": "16.5.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/88416559-885a-4c5d-b408-38744395ca8e/1823242773-uutisraportti-1652023-slovakialainen-salamurhayritys.mp3",
+    "kesto_sek": 4476,
+    "kesto_str": "01:14:36",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas, AKH ja Salla keskustelevat Slovakian pääministeri Robert Ficon salamurhayrityksestä, ajallisesti (henkisesti) samaan aikaan sijoittuneesta poliittisen väkivallan tapauksesta Oulussa, Kööpenhaminassa järjestetystä tilaisuudesta, jossa maailman loordit ja loordittaret päätyivät siihen että Ukrainalle on tarjottava Nato-jäsenyyttä; ja vielä viimeiseksi OpenAI:n viimeisim",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tuomas Peltomäen tekoälypodcast (kolmiosainen sarja professori Teemu Roosin kanssa)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "tiede",
+          "teknologia"
+        ],
+        "kuvaus": "Kolmiosainen podcast-sarja, jossa Tuomas Peltomäki keskustelee tekoälystä professori Teemu Roosin kanssa. Löytyy YouTubesta ja kaikista podcast-kanavista.",
+        "google_linkki": "https://www.google.com/search?q=Tuomas+Peltom%C3%A4ki+tekoäly+podcast+Teemu+Roos",
+        "lisatieto_linkki": "https://open.spotify.com/search/Tuomas%20Peltom%C3%A4ki%20teko%C3%A4ly%20Teemu%20Roos"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kuningas Charlesin virallinen muotokuva (Jonathan Yeo, 2024)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "taide",
+          "kuninkaallinen perhe",
+          "muotokuva"
+        ],
+        "kuvaus": "Kuningas Charlesin ensimmäinen virallinen maalattu muotokuva, jossa punaisella taustalla oleva kuningas ja hänen olkapäälleen laskeutuva perhonen. Suositellaan katsomaan analyysivideoita YouTubesta tai TikTokista.",
+        "google_linkki": "https://www.google.com/search?q=Kuningas+Charles+virallinen+muotokuva+Jonathan+Yeo+2024",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=King+Charles+portrait+analysis"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Piilotettu kamera Putinin palatsissa (Navalny-tiimin video)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "politiikka",
+          "tutkiva journalismi",
+          "Venäjä"
+        ],
+        "kuvaus": "Aleksei Navalny-tiimin tuore noin tunnin mittainen video, jossa piilokameran avulla esitellään Putinin palatsin tilat Gelendžikissä Venäjällä, mukaan lukien maanalainen jääkiekkokaukalo. Julkaistu 6. toukokuuta.",
+        "google_linkki": "https://www.google.com/search?q=Hidden+camera+Putin+palace+Navalny",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Hidden+Camera+Putin+Palace+Navalny"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Lääkärilehti-podcast: Virtahepo lääkärin talossa – Onko sote-uudistuksesta tullut säästöprojekti?",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "sote",
+          "terveydenhuolto"
+        ],
+        "kuvaus": "Suomen Lääkärilehden podcast-jakso, jossa toimittaja Lauri Korkeaoja haastattelee väistyvää keskustan puheenjohtajaa Annika Saarikkoa sote-uudistuksesta. Poikkeuksellisen avoin haastattelu, jossa Saarikko myös kritisoi itse tekemäänsä uudistusta.",
+        "google_linkki": "https://www.google.com/search?q=Lääkärilehti+podcast+Annika+Saarikko+sote+virtahepo",
+        "lisatieto_linkki": "https://open.spotify.com/search/L%C3%A4%C3%A4k%C3%A4rilehti%20podcast%20Annika%20Saarikko"
+      }
+    ]
+  },
+  {
+    "j_idx": 410,
+    "jakso_id": "tag:soundcloud,2010:tracks/621516915",
+    "jakso_otsikko": "16.5.2019: Hallitusneuvottelut, USA vs. Kiina kauppasodassa, naisten vartaloiden politiikka",
+    "paivamaara": "16.5.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/e85faea5-c6c8-467c-abc6-7a347ad96991.mp3",
+    "kesto_sek": 3516,
+    "kesto_str": "58:36",
+    "rss_osallistujat": [
+      "Aino Frilander",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Aino Frilander ja Marko Junkkari keskustelevat hallitusneuvotteluista, joista mitään virallista ei ole tullut ulos mutta pieniä tietoja neuvotteluiden sujumistesta, USA:n ja Kiinan kiristyvästä kauppasodasta, sen syistä ja mahdollisista vaikutuksista, ja Alabaman aborttilainsäädänöstä, Suomen synnytysväkivaltakampanjasta ja muista kysymyksistä joiden kesk",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Leftovers",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "scifi",
+          "mysteeri"
+        ],
+        "kuvaus": "Ylistetty dramasarja, jossa kaksi prosenttia maapallon väestöstä katoaa sattumanvaraisesti. Sarja tutkii, mitä tämä ilmiö tekee ihmisille, yhteiskunnalle ja uskolle korkeampaan voimaan.",
+        "google_linkki": "https://www.google.com/search?q=The+Leftovers+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Leftovers"
+      }
+    ]
+  },
+  {
+    "j_idx": 49,
+    "jakso_id": "4e5d8448-2363-49fc-856c-05931759c383",
+    "jakso_otsikko": "Persujen katastrofi, hylätyt äänet ja ADHD",
+    "paivamaara": "16.4.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/4e5d8448-2363-49fc-856c-05931759c383.mp3",
+    "kesto_sek": 3639,
+    "kesto_str": "01:00:39",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podissa Salla, Sohvi ja Marko pohtivat, onko perussuomalaisten katastrofaalinen vaalitulos sen yhden valokuvan syytä. Lisäksi keskustellaan hallituksen avioliiton rapautumisesta, demareiden ruusuisista lupauksista ja siitä, oliko tuplavaalit virhe. Lopuksi ruoditaan NYT:n superkiinnostavaa artikkelia ADHD-diagnoosien suuresta kasvusta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sata litraa sahtia",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "suomalainen elokuva",
+          "draama"
+        ],
+        "kuvaus": "Suomalainen elokuva, jossa pääosissa Elina Knihtilä ja Pirjo Lonka. Kuulemma parasta suomalaista elokuvaa Tuntemattoman sotilaan jälkeen.",
+        "google_linkki": "https://www.google.com/search?q=Sata+litraa+sahtia+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Sata+litraa+sahtia"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Suunnistus Keskuspuistossa ja Nuuksiossa",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "suunnistus",
+          "luonto",
+          "ulkoilu"
+        ],
+        "kuvaus": "Helsingin Pirkkalassa sijaitsevan uimahallin kahviolta saa suunnistuskarttoja edullisesti. Rasteja löytyy Keskuspuistosta, Nuuksiosta ja muualta – voi mennä omalla ajalla ilman paineita.",
+        "google_linkki": "https://www.google.com/search?q=suunnistus+Keskuspuisto+Nuuksio+Helsinki+kartta",
+        "lisatieto_linkki": "https://www.google.com/search?q=Pirkkalan+uimahallin+kahvio+suunnistuskartat+Helsinki"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "James",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "amerikkalainen kirjallisuus",
+          "historiallinen fiktio",
+          "klassikko"
+        ],
+        "kuvaus": "Percival Everettin romaani kertoo Huckleberry Finn -klassikon tutun tarinan orja Jimin näkökulmasta. Ahdistava ja ajatuksia herättävä teos orjuuden Amerikasta – Stephen Spielberg tekee siitä jo elokuvaa.",
+        "google_linkki": "https://www.google.com/search?q=James+Percival+Everett+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=James+Percival+Everett"
+      }
+    ]
+  },
+  {
+    "j_idx": 363,
+    "jakso_id": "tag:soundcloud,2010:tracks/800018479",
+    "jakso_otsikko": "16.4.2020: Uudenmaan vapautus, Trump vs WHO, taloussukellus",
+    "paivamaara": "16.4.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/e537efc5-6bb8-46be-bd58-50ee3ebf4d97.mp3",
+    "kesto_sek": 4224,
+    "kesto_str": "01:10:24",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat hallituksen pitkin hampain tekemästä päätöksestä vapauttaa Uusimaa sulusta, Yhdysvaltain presidentti Donald Trumpin yllättävästä päätöksestä lakata rahoittamasta WHO:ta maailman pahimman pandemian keskellä, ja koronareaktion aiheuttamasta taloussyöksystä – onko kyse pidemmästä matamisesta vai kertarysäykse",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "The Atlantic -lehti",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "media",
+          "journalismi",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Amerikkalainen laatuaikakauslehti, joka lähestyy aiheita suurten kysymysten ja ajatusten kautta. Hyvä lähde, kun haluaa syvällisen näkökulman johonkin aiheeseen.",
+        "google_linkki": "https://www.google.com/search?q=The+Atlantic+lehti",
+        "lisatieto_linkki": "https://www.theatlantic.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Anxious Child and the Crisis of Modern Parenting",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "vanhemmuus",
+          "lastenpsykologia",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Kate Julianin kirjoittama pitkä artikkeli The Atlantic -lehdessä lasten ahdistuneisuushäiriöiden kasvusta Yhdysvalloissa ja modernin vanhemmuuden haasteista. Yli tunnin kuunneltava, valaiseva ja fiksu katsaus aihepiiriin.",
+        "google_linkki": "https://www.google.com/search?q=The+Anxious+Child+and+the+Crisis+of+Modern+Parenting+The+Atlantic+Kate+Julian",
+        "lisatieto_linkki": "https://www.theatlantic.com/search/#q=The+Anxious+Child+and+the+Crisis+of+Modern+Parenting"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tiger King",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "true crime",
+          "netflix"
+        ],
+        "kuvaus": "Netflixin dokumenttisarja tiikeritarhojen maailmasta, joka alkaa mielenkiintoisena luontodokumenttina mutta muuttuu nopeasti koukuttavaksi murhamysteeriksi täynnä uskomattomia käänteitä.",
+        "google_linkki": "https://www.google.com/search?q=Tiger+King+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tiger+King"
+      }
+    ]
+  },
+  {
+    "j_idx": 217,
+    "jakso_id": "tag:soundcloud,2010:tracks/1470207121",
+    "jakso_otsikko": "16.3.2023: NATO BABY YEAH!, MTV:n eka puheenjohtajatentti, Hornet-sotku",
+    "paivamaara": "16.3.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/1a1a5909-b67f-4ada-b8ac-f54a8b246b6b.mp3",
+    "kesto_sek": 4460,
+    "kesto_str": "01:14:20",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat siitä miten Nato nyt viimeinkin, ilmeisesti, totta sen on pakko olla, on muuttumassa todellisuudeksi. Lisäksi aiheina Maikkarin puheenjohtajatentti ja Hornet-sotku.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaihee",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "GPT-4 Launch Demo (OpenAI)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "demo"
+        ],
+        "kuvaus": "OpenAI:n julkaisema demo GPT-4-tekoälystä, jossa esitellään mallin hämmästyttävä päättelykyky ja kyky muun muassa muuttaa käsinpiirretty nettisivuluonnos toimivaksi koodiksi.",
+        "google_linkki": "https://www.google.com/search?q=GPT-4+Launch+Demo+OpenAI+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/@OpenAI"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Your Undivided Attention",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tekoäly",
+          "teknologia",
+          "tulevaisuus"
+        ],
+        "kuvaus": "Podcast, joka käsittelee teknologian ja tekoälyn tulevaisuuteen liittyviä kysymyksiä ja niiden vaikutuksia yhteiskuntaan.",
+        "google_linkki": "https://www.google.com/search?q=Your+Undivided+Attention+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Your%20Undivided%20Attention"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Kadoneiden kaupunkien jäljillä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "arkeologia",
+          "yleissivistys"
+        ],
+        "kuvaus": "Ylen podcast Yle Areenassa, jossa tutkijat kertovat historiallisista kadonneista kaupungeista kuten Babyloniasta ja muinaisesta Egyptistä – kevyttä mutta yleissivistävää kuunneltavaa.",
+        "google_linkki": "https://www.google.com/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4+Yle+Areena",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=Kadoneiden+kaupunkien+j%C3%A4ljill%C3%A4"
+      }
+    ]
+  },
+  {
+    "j_idx": 221,
+    "jakso_id": "tag:soundcloud,2010:tracks/1448332225",
+    "jakso_otsikko": "16.2.2023: Lintilän meemi, ilmastopaneeli, venäläiset kalapuikot",
+    "paivamaara": "16.2.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/c290c3dd-4633-40d2-808e-66cb6e56efc6/1448332225-uutisraportti-1622023-lintilan-meemi-ilmastopaneeli.mp3",
+    "kesto_sek": 4075,
+    "kesto_str": "01:07:55",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Anni Keski-Heikkilä ja Salla Vuorikoski keskustelevat elinkeinoministeri Mika Lintilän afrikkalaisesta seikkailusta meemimaailmassa, puheenjohtajien suoriutumisesta HS:n ilmastopaneelissa, sekä venäläisten kalapuikkojen matkasta pakotteiden ohi Suomeen.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analyso",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Sota vai rauha – kirjoituksia Venäjästä ja lännestä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "Venäjä",
+          "geopolitiikka",
+          "esseet"
+        ],
+        "kuvaus": "Mihail Shishkinin tammikuussa 2023 WSOY:lta julkaistu teos Venäjästä ja lännestä. Suosittelijan mukaan 'tykitystä alusta loppuun' – erityisesti Putinin valheiden ja lännen avuttomuuden analysoinnissa.",
+        "google_linkki": "https://www.google.com/search?q=Sota+vai+rauha+Mihail+Shishkin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sota+vai+rauha+Mihail+Shishkin"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Seaspiracy",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "ympäristö",
+          "kalateollisuus"
+        ],
+        "kuvaus": "Vuonna 2021 Netflixissä julkaistu dokumentti kalateollisuuden kestävyydestä ja sertifiointien kyseenalaisuudesta. Mainitaan yhteydessä venäläisen kalan alkuperän hämärtämiseen liittyvään keskusteluun.",
+        "google_linkki": "https://www.google.com/search?q=Seaspiracy+Netflix+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Seaspiracy"
+      }
+    ]
+  },
+  {
+    "j_idx": 280,
+    "jakso_id": "tag:soundcloud,2010:tracks/1178927626",
+    "jakso_otsikko": "16.12.2021: Omikronin pysäyttäminen, F-35, aluevaalit",
+    "paivamaara": "16.12.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/bf05098b-e186-4ea6-be19-b2231a85786c.mp3",
+    "kesto_sek": 4179,
+    "kesto_str": "01:09:39",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat omikronin pysäyttämisestä rajoille a lá Krista Kiuru, ja tunnustavat F-35:n seksikkyyden ja aluevaalien olemassaolon.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta si",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Salamurhaajan oppipoika",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "kirjasarja"
+        ],
+        "kuvaus": "Robin Hobbin klassinen fantasiaromaani, joka aloittaa Farseer-trilogian. Suositellaan erityisesti niille, jotka haluavat tutustua fantasiakirjallisuuteen.",
+        "google_linkki": "https://www.google.com/search?q=Salamurhaajan+oppipoika+Robin+Hobb",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Assassin%27s+Apprentice+Robin+Hobb"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "The Name of the Wind",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "kirjasarja"
+        ],
+        "kuvaus": "Patrick Rothfussin Kingkiller Chronicle -sarjan ensimmäinen osa. Erittäin suosittu fantasiakirja, jonka sarjan kolmas osa on ollut tekeillä jo vuosia.",
+        "google_linkki": "https://www.google.com/search?q=The+Name+of+the+Wind+Patrick+Rothfuss",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Name+of+the+Wind+Patrick+Rothfuss"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Nevermoor",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "lastenkirja",
+          "nuortenkirja"
+        ],
+        "kuvaus": "Jessica Townsendin kirjoittama nuortenkirjasarja, jota verrataan Harry Potteriin. Päähenkilönä 11-vuotias tyttö, joka päätyy kouluun ja vanhenee kirja kirjalta.",
+        "google_linkki": "https://www.google.com/search?q=Nevermoor+Jessica+Townsend",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Nevermoor+Jessica+Townsend"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "An Elegant Defense: The Extraordinary New Science of the Immune System",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "lääketiede",
+          "äänikirja"
+        ],
+        "kuvaus": "New York Timesin toimittajan Matt Richtelin tietokirja ihmisen immuunijärjestelmästä. Tuomas Peltomäen mukaan kirja auttaa ymmärtämään esimerkiksi COVID-tieteellisiä artikkeleita.",
+        "google_linkki": "https://www.google.com/search?q=An+Elegant+Defense+Matt+Richtel",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=An+Elegant+Defense+Matt+Richtel"
+      }
+    ]
+  },
+  {
+    "j_idx": 185,
+    "jakso_id": "tag:soundcloud,2010:tracks/1666582452",
+    "jakso_otsikko": "16.11.2023: (Itä-)Rajat KIINNI!, Belsebuubinatsit, Mika Aaltola",
+    "paivamaara": "16.11.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/2ba0406f-29f2-4335-8826-231cc14b594b/1666582452-uutisraportti-16112023-ita-rajat-kiinni-belsebuubina.mp3",
+    "kesto_sek": 4619,
+    "kesto_str": "01:16:59",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina juuri tullut hallituksen päätös pistää itäraja suurilta osin kiinni, onko kyseessä perussuomalaisten riemuvoitto, sekä ihmeellinen kuutamossa rituaalimurhia larppaava uusnatsi ja muut breivikiläiset, ja Mika Aaltola, presidenttiehdokas ja mullet-man.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \n\nJaksoon liittyviä linkkejä:\nRajalaki 16: https://www.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Vuosi 1984",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dystopia",
+          "klassikko",
+          "politiikka"
+        ],
+        "kuvaus": "George Orwellin klassikkoromaani fasistisesta hallinnosta ja isoveljestä. Suosittelijan mukaan kirja toimii hämmästyttävän hyvin myös nykypäivänä, vaikka se on kirjoitettu vuonna 1949.",
+        "google_linkki": "https://www.google.com/search?q=Vuosi+1984+George+Orwell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=1984+George+Orwell"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Past Present Future",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "filosofia",
+          "ideat"
+        ],
+        "kuvaus": "Oxfordin professorin juoksema podcast, joka käsittelee korkealentoisia ideoita, esseitä ja teorioita. Erityisesti suositellaan jaksoa 'History of Ideas: George Orwell', jossa käsitellään Orwellin esseetä The Lion and the Unicorn.",
+        "google_linkki": "https://www.google.com/search?q=Past+Present+Future+podcast+Oxford",
+        "lisatieto_linkki": "https://open.spotify.com/search/Past%20Present%20Future%20podcast"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Times: How the Newspaper of Record Survived Scandal, Scorn, and the Transformation of Journalism",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "journalismi",
+          "media",
+          "historia"
+        ],
+        "kuvaus": "Adam Nagourneyn kirjoittama teos New York Timesin kahden viime vuosikymmenen historiasta. Kirja kuvaa lehden digitaalisen murroksen tuskia ja lopulta hämmästyttävää menestystä yli kymmenellä miljoonalla nettitilaajalla.",
+        "google_linkki": "https://www.google.com/search?q=The+Times+Adam+Nagourney+New+York+Times+history",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Times+Adam+Nagourney"
+      }
+    ]
+  },
+  {
+    "j_idx": 64,
+    "jakso_id": "a8dde683-146a-4e3d-bb13-693922d21281",
+    "jakso_otsikko": "16.1.2025: Tulitauko Gazaan, Eagle S–Nat O–Stub B, poliittiset huumeet ml alkoholi",
+    "paivamaara": "16.1.2025",
+    "audio_url": "https://podcasts.captivate.fm/media/83bb82a1-d14d-4e4e-978e-a3083ace77d3/URPOD-25-01-16.mp3",
+    "kesto_sek": 4772,
+    "kesto_str": "01:19:32",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Sohvi ja Marko keskustelevat kehittyvästä ja huojentavasta tilanteesta Gazassa, ja arvailevat kumpikohan presidenteistä sen takana on: väistyvä Biden vain muutaman päivän päästä aloittava Trump. Lisäksi aiheina Suomen Nato-kokous ja sen niveltyminen joulupäivänä alkaneeseen Eagle S -saagaan, ja eduskuntaan tehty huumeratsia ja sen suhtautuminen kansanedustajien ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Wolves of K Street",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "tietokirja",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Tietokirja lobbauksen historiasta Yhdysvalloissa – kuinka lobbarit oppivat vaikuttamaan poliitikkojen äänestäjiin suoraan ja miten raha on ohjannut amerikkalaista politiikkaa vuosikymmeniä.",
+        "google_linkki": "https://www.google.com/search?q=The+Wolves+of+K+Street",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wolves+of+K+Street"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Unequal Democracy",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "tietokirja",
+          "demokratia"
+        ],
+        "kuvaus": "Larry Bartelsin klassikkotutkimus siitä, miten raha tuottaa valtaa amerikkalaisessa demokratiassa. Mainitaan The Wolves of K Street -kirjan yhteydessä.",
+        "google_linkki": "https://www.google.com/search?q=Unequal+Democracy+Larry+Bartels",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Unequal+Democracy+Larry+Bartels"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Poikani tappoi ihmisen",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "huumeet",
+          "perhe",
+          "reportaasi"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittaja Katariina Malmbergin kirjoittama pysäyttävä juttu äidistä, jonka täysin tavallisesta perheestä kotoisin oleva poika ajautui huumeisiin ja tappoi ihmisen.",
+        "google_linkki": "https://www.google.com/search?q=Poikani+tappoi+ihmisen+Katariina+Malmberg+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.google.com/search?q=Poikani+tappoi+ihmisen+Katariina+Malmberg+Helsingin+Sanomat"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Lion Challenge TikTok-kanava",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "tiktok",
+          "viihde",
+          "visailu"
+        ],
+        "kuvaus": "Walesilaiseen hotelli Lioniin liittyvä TikTok-kanava, jossa hotellivieraat kilpailevat tietovisan kysymyksistä. Hauska ja aito – osallistujat ovat täysin tavallisia walesilaisisia.",
+        "google_linkki": "https://www.google.com/search?q=The+Lion+Challenge+TikTok+hotel+Lion+Wales",
+        "lisatieto_linkki": "https://www.tiktok.com/search?q=The+Lion+Challenge"
+      }
+    ]
+  },
+  {
+    "j_idx": 376,
+    "jakso_id": "tag:soundcloud,2010:tracks/744410899",
+    "jakso_otsikko": "16.1.2020: Hallituksen työllisyys/ilmastotoimet, Kontulan Gazan-valloitus, Megxit",
+    "paivamaara": "16.1.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/d178e672-0453-426c-a02f-9219074b5434/744410899-uutisraportti-1612020-hallituksen-tyollisyysilmastoto.mp3",
+    "kesto_sek": 4329,
+    "kesto_str": "01:12:09",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Maria Manner ja Marko Junkkari keskustelevat pääministeri Sanna Marinin hallituksen työllistämistoimista ja \"ilmasto-kikystä\", kansanedustaja Anna Kontulan Gazan-matkasta ja sitä seuranneesta mediakuohunnasta, sekä megxitistä eli prinssi Harryn ja tämän puolison Meghan Marklen päätöksestä vetäytyä Britannian kuningasperheen edustustehtävistä.\n\nPitkien epä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sinisilmäisesti (Talking to Strangers: What We Should Know About the People We Don't Know)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sosiologia",
+          "psykologia",
+          "tietokirja"
+        ],
+        "kuvaus": "Malcolm Gladwellin kirja siitä, miksi me ymmärrämme vieraita ihmisiä niin huonosti ja miksi totuusolettama on meille sekä hyödyllinen että haitallinen. Marko Junkkari suosittelee erityisesti äänikirjaversiota, joka on tehty podcast-maisesti.",
+        "google_linkki": "https://www.google.com/search?q=Talking+to+Strangers+Malcolm+Gladwell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Talking+to+Strangers+Malcolm+Gladwell"
+      }
+    ]
+  },
+  {
+    "j_idx": 148,
+    "jakso_id": "tag:soundcloud,2010:tracks/1897673451",
+    "jakso_otsikko": "15.8.2024: Sote-pomot, Ukraina Kurskissa, hämärät vaalirahat",
+    "paivamaara": "15.8.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/688b2db6-2528-4088-b9b0-93f4edef82e2/1897673451-uutisraportti-1582024-sote-pomot-ukraina-kurskissa-h.mp3",
+    "kesto_sek": 3786,
+    "kesto_str": "01:03:06",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Heini, Rasmus ja Oskari käyvät läpi hyvinvointialueiden pomojen edesottamuksia.\n\nViimeisimmässä käänteessä Kainuun hyvinvointialueen johtajan kesäkuinen ero johti poliittiseen kriisiin, jonka jälkimainingeissa laineita ovat lyöneet muun muassa perusteetta salattu muistio sekä erimielisyydet eroprosessin syistä ja kulusta.\n\nLisäksi paneudutaan Ukrainan historialliseen hyökk",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Heini Pitkänen",
+        "teos": "Aurinkokaupunki",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "ikääntyminen",
+          "klassikko"
+        ],
+        "kuvaus": "Tove Janssonin romaani, joka sijoittuu ikäihmisten vierastaloon Floridan Saint Petersburgissa. Kirja käsittelee vanhentumista mielenkiintoisin hahmoin ja tunnelmallisesti, vaikka juoni on vähäeleinen.",
+        "google_linkki": "https://www.google.com/search?q=Tove+Jansson+Aurinkokaupunki",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Aurinkokaupunki+Tove+Jansson"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Skamanda",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tosi-tarina",
+          "huijaus",
+          "suomalainen podcast"
+        ],
+        "kuvaus": "Lime Scene Productionsin podcast vuosikymmeniä kestäneestä uskomattomasta huijaustarinasta. Kahdeksan noin tunnin mittaista jaksoa, joita kuuntelee suu auki.",
+        "google_linkki": "https://www.google.com/search?q=Skamanda+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Skamanda"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Herrasmies-hakkerit",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "teknologia",
+          "kyberturvallisuus",
+          "tietoturva"
+        ],
+        "kuvaus": "Mikko Hyppösen ja Tomi Tuomisen vetämä teknologia-podcast, jossa puhutaan hakkeroinnista ja kyberturvallisuudesta. Vanhat jaksot eivät vanhene nopeasti.",
+        "google_linkki": "https://www.google.com/search?q=Herrasmies-hakkerit+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Herrasmies-hakkerit"
+      }
+    ]
+  },
+  {
+    "j_idx": 398,
+    "jakso_id": "tag:soundcloud,2010:tracks/666149366",
+    "jakso_otsikko": "15.8.2019: IPCC:n uusi raportti, Epsteinin salainen elämä ja Woodstockin perintö",
+    "paivamaara": "15.8.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/b5074027-4809-4024-ab6f-7d96a378de33.mp3",
+    "kesto_sek": 4222,
+    "kesto_str": "01:10:22",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Paavo Teittinen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Alma Onali, Paavo Teittinen ja Tuija Siltamäki keskustelevat ilmastopaneeli IPCC:n uudesta raportista, miljonääri Jeffrey Epsteinin salaperäisestä kuolemasta ja pohtivat legendaarisen hippifestivaalin Woodstockin perintöä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Robyn – livevideoita (esim. Primavera Sound -festivaalilta, toukokuu 2019)",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "livemusiikki",
+          "ruotsalainen"
+        ],
+        "kuvaus": "Ruotsalaisen pop-ikonin Robynin liveesiintymiset ovat Alman mukaan uskomattomia – yhdistelmä androgyynisyyttä, aerobicia ja diskoheruttelua. Erityisesti suositellaan Primavera Sound -festivaalin livevideoita.",
+        "google_linkki": "https://www.google.com/search?q=Robyn+live+Primavera+2019",
+        "lisatieto_linkki": "https://open.spotify.com/search/Robyn"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Seinabo Sey – I Owe You Nothing",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "musiikkivideo",
+          "ruotsalainen"
+        ],
+        "kuvaus": "Ruotsalais-gambialaisen Seinabo Seyn musiikkivideo, jonka Alma koki voimakkaana kokemuksena. Videossa on ylpeyttä ja periksiantamattomuutta, mikä tuntuu raikkailta pohjoismaisessa kontekstissa.",
+        "google_linkki": "https://www.google.com/search?q=Seinabo+Sey+I+Owe+You+Nothing",
+        "lisatieto_linkki": "https://open.spotify.com/search/Seinabo%20Sey%20I%20Owe%20You%20Nothing"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Paavo Teittinen",
+        "teos": "True Detective – kausi 1",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "amerikkalaiset sarjat"
+        ],
+        "kuvaus": "Paavon suosittelema rikossarja, jonka ensimmäinen kausi sijoittuu Yhdysvaltain etelään ja käsittelee pedofiilirinkiä. Yksi parhaista tv-sarjakausista ikinä, pääosissa Matthew McConaughey ja Woody Harrelson.",
+        "google_linkki": "https://www.google.com/search?q=True+Detective+kausi+1",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=True+Detective"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Lolita",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "venäläinen kirjallisuus",
+          "romaani"
+        ],
+        "kuvaus": "Vladimir Nabokovin klassikkoromaani, jonka Tuija suosittelee lukemaan erityisesti podcastin Epstein-aiheisen jakson yhteydessä.",
+        "google_linkki": "https://www.google.com/search?q=Nabokov+Lolita",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Lolita+Nabokov"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Nauru pimeässä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "venäläinen kirjallisuus",
+          "romaani"
+        ],
+        "kuvaus": "Vladimir Nabokovin romaani, jonka Tuija suosittelee luettavaksi heti Lolitan jälkeen – hänen mukaansa jopa parempi kuin Lolita. Henkilöhahmot ovat hirveän kusipäitä ja kirja on ihana.",
+        "google_linkki": "https://www.google.com/search?q=Nabokov+Nauru+pimeässä",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Laughter+in+the+Dark+Nabokov"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "World Press Photo -näyttely (Salotatalo, Helsinki 2019)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "valokuvaus",
+          "näyttely",
+          "Helsinki"
+        ],
+        "kuvaus": "Tuija suosittelee World Press Photo -valokuvanäyttelyä Helsingissä. Näyttelyssä on mukana mm. Meeri Koutaniemi ja turpeen kuvaamisesta tunnettu Miikka Pirinen.",
+        "google_linkki": "https://www.google.com/search?q=World+Press+Photo+näyttely+Helsinki+2019",
+        "lisatieto_linkki": "https://www.google.com/search?q=World+Press+Photo+näyttely+Helsinki+2019"
+      }
+    ]
+  },
+  {
+    "j_idx": 301,
+    "jakso_id": "tag:soundcloud,2010:tracks/1087927099",
+    "jakso_otsikko": "15.07.2021: Kuuba, ilmastopaketti ja marjanpoimijat",
+    "paivamaara": "15.7.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/82df2f5c-e9c2-495f-959e-98bd6f38e3f4.mp3",
+    "kesto_sek": 2920,
+    "kesto_str": "48:40",
+    "rss_osallistujat": [
+      "Sara Vainio"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Emil, Sara Vainio ja Niclas\nStorås keskustelevat Kuubasta, EU:n ilmastopaketista ja marjanpoimijoista sekä\nulkomaisen työvoiman työoloista Suomessa. Uutisraportti podcast on Helsingin Sanomien\njulkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon\ntärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä\ntavoin kuten ihmiset niistä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Sara Vainio",
+        "teos": "Sompasauna",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sauna",
+          "Helsinki",
+          "yhteisö"
+        ],
+        "kuvaus": "Uusi Sompasauna Helsingissä – rauhallinen ja yhteisöllinen kesäsaunameininki. Suositellaan epäkaupallisena, viihtyisänä ulkotilana.",
+        "google_linkki": "https://www.google.com/search?q=Sompasauna+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sompasauna+Helsinki"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Niklas Storaas",
+        "teos": "Elämän lyhyydestä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "filosofia",
+          "antiikin klassikot",
+          "elämänviisaus"
+        ],
+        "kuvaus": "Senecan klassinen filosofinen essee ajankäytöstä ja oman ajan arvostamisesta, suomennettu Juhana Torkin toimesta. Kevyttä ja ajatuksia herättävää kesälukemista.",
+        "google_linkki": "https://www.google.com/search?q=Seneca+El%C3%A4m%C3%A4n+lyhyydest%C3%A4",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4n+lyhyydest%C3%A4+Seneca"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Emil Elo",
+        "teos": "Rolling Stones: Hackney Diamonds (livealbumi)",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "rock",
+          "livealbumi",
+          "klassikkoartisti"
+        ],
+        "kuvaus": "Rolling Stonesin tuore livealbumi, joka esittelee bändin vuosikymmenten hiomaa soittotaitoa ja yhteissoittoa parhaimmillaan. Vaikuttava kuunneltava virtuositeetin näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=Rolling+Stones+Hackney+Diamonds+live+album",
+        "lisatieto_linkki": "https://open.spotify.com/search/Rolling%20Stones%20Hackney%20Diamonds"
+      }
+    ]
+  },
+  {
+    "j_idx": 204,
+    "jakso_id": "tag:soundcloud,2010:tracks/1540850749",
+    "jakso_otsikko": "15.6.2023: Lukuopas hallitusohjelmaan, tekoäly vs EU, Venäjä-kirja",
+    "paivamaara": "15.6.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/c69a000f-ff85-4d25-9bac-3bcb893a8ed9/1540850749-uutisraportti-1562023-lukuopas-hallitusohjelmaan-tek.mp3",
+    "kesto_sek": 4270,
+    "kesto_str": "01:11:10",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina hetkenä minä hyvänsä ilmestyvä hallitusohjelma ja lukuopas sen käsiinsä saaneille, ja EU-parlamentin äänestys ja siten ensimmäiset merkittävät linjaukset tekoälyn sääntelyyn, ja kirjallisuuskriittisen pikkutyrskäyksen vesilasissa nostanut Venäjä-kirjan kritiikki.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \nJakson leikkasi Janne Elkki.\n\nLue podcast",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Geiger",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "jännitys",
+          "ruotsalainen kirjallisuus",
+          "thriller"
+        ],
+        "kuvaus": "Gustav Skördemanin jännitysromaani, jossa Agneta Broman saa vuosikymmeniä odottamansa puhelun ja ampuu aviomiehensä. Tuomas aikoo aloittaa kirjan junalomallaan Euroopassa.",
+        "google_linkki": "https://www.google.com/search?q=Geiger+Gustav+Sk%C3%B6rdeman",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Geiger+Gustav+Skordeman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Stranger in the Woods",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tositapahtumat",
+          "journalismi",
+          "rikosjournalismi"
+        ],
+        "kuvaus": "Michael Finkelin kirja, jossa New York Timesin toimittaja keksii artikkelin ja häpäisee itsensä, minkä jälkeen hänen nimeään käyttää perheensä murhannut pakolainen Meksikossa. Marko suosittelee tätä kesäloman kirjaksi.",
+        "google_linkki": "https://www.google.com/search?q=The+Stranger+in+the+Woods+Michael+Finkel",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Stranger+in+the+Woods+Michael+Finkel"
+      }
+    ]
+  },
+  {
+    "j_idx": 45,
+    "jakso_id": "0d03b5ac-caa9-4ef9-ad8c-3ea32e4a6087",
+    "jakso_otsikko": "Gaza, ministeri Rydman pelkää Tiktokia ja Euroviisut",
+    "paivamaara": "15.5.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/0d03b5ac-caa9-4ef9-ad8c-3ea32e4a6087.mp3",
+    "kesto_sek": 4160,
+    "kesto_str": "01:09:20",
+    "rss_osallistujat": [
+      "Anni Huttunen",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Sohvi Sirkesalo"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa keskustellaan Gazan epätoivoisesta humanitaarisesta tilanteesta, sodan jatkosta ja siitä, mitä ulkomaailma voi tehdä siviilien hädän helpottamiseksi. Miksi sota Gazassa on medialle vaikeampi aihe kuin sota Ukrainassa?</p><p>Lisäksi aiheena on Suomen datakeskusbuumi ja se, miksi perussuomalaiset ministerit epäilevät Tiktokin datakeskushanketta. Mikä oikeastaan on datakeskus",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Severance (kausi 2)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "sci-fi",
+          "filosofia",
+          "työelämä"
+        ],
+        "kuvaus": "Filosofinen sci-fi-sarja, jossa työntekijöiden aivot on sirutettu erottamaan työ- ja yksityisminä täysin toisistaan. Toinen kausi syventää kysymyksiä identiteetistä, rakkaudesta ja siitä, missä ihminen alkaa ja päättyy.",
+        "google_linkki": "https://www.google.com/search?q=Severance+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Severance"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Next of Kin",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "oikeussali",
+          "perhe"
+        ],
+        "kuvaus": "Brittiläisen Kia Abdullahin oikeussalidekkari, jossa isosisko unohtaa sisarensa kolmevuotiaan pojan kuumaan autoon ja joutuu syytteeseen kuolemantuottamuksesta. Teos kuvaa sisarusten välistä tragediaa yllättävällä käänteellä.",
+        "google_linkki": "https://www.google.com/search?q=Kia+Abdullah+Next+of+Kin",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Next+of+Kin+Kia+Abdullah"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Chef's Table: Nuudelit",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "ruokadokumentti",
+          "nuudelit",
+          "elämäntarinat"
+        ],
+        "kuvaus": "Netflixin kauniisti kuvattu dokumenttisarja, joka seuraa maailman huippunuudelintekijöitä ja heidän elämäntarinoitaan. Erityisesti jakso kiinalaisesta kokista Kuiro Weistä, joka on rakentanut menestyvän nuudeliravintolan Lontooseen köyhästä maaseutukotoa lähtien, on pysäyttävä.",
+        "google_linkki": "https://www.google.com/search?q=Chef%27s+Table+Noodles+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Chef%27s+Table+Noodles"
+      }
+    ]
+  },
+  {
+    "j_idx": 314,
+    "jakso_id": "tag:soundcloud,2010:tracks/1030015483",
+    "jakso_otsikko": "15.4.2021: Ukrainan tilanne, humanismi-pääkirjoitus",
+    "paivamaara": "15.4.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/3ec006e0-1fb7-4904-9429-7924c5b85153.mp3",
+    "kesto_sek": 3606,
+    "kesto_str": "01:00:06",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon kieltämättä vähän sekoilupainotteisessa ja informaatioköyhässä podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Ukrainan tilanteesta ja humanisti-twitterin ja HS:n pääkirjoituksen ympärillä pyörineestä kohusta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Empire of Pain",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "journalismi",
+          "true crime",
+          "yhdysvallat"
+        ],
+        "kuvaus": "Patrick Radden Keffen kirja Sackler-suvun tarinasta ja heidän roolistaan Yhdysvaltain opioidikriisissä. Keffe on saanut käsiinsä ainutlaatuista sähköpostimateriaalia perheen sisältä.",
+        "google_linkki": "https://www.google.com/search?q=Empire+of+Pain+Patrick+Radden+Keefe",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Empire+of+Pain"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Toista maata – Kansallismuseon perusnäyttely",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "historia",
+          "suomi"
+        ],
+        "kuvaus": "Juha Hurmeen käsikirjoittama näyttely Kansallismuseossa, joka esittelee ideoiden ja vaikutteiden virtauksia Suomen alueella vuosien 1100–1917 välisenä aikana ja kyseenalaistaa tuttuja kansallisia tarinoita.",
+        "google_linkki": "https://www.google.com/search?q=Toista+maata+Kansallismuseo+n%C3%A4yttely",
+        "lisatieto_linkki": "https://www.google.com/search?q=Toista+maata+Kansallismuseo+n%C3%A4yttely"
+      }
+    ]
+  },
+  {
+    "j_idx": 173,
+    "jakso_id": "tag:soundcloud,2010:tracks/1747983588",
+    "jakso_otsikko": "15.2.2024: Saarikko out, Kaja Kallas, Windows95man IN",
+    "paivamaara": "15.2.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/b06b399e-b0ca-494b-8c09-75644fb15f65/1747983588-uutisraportti-1522024-saarikko-out-kaja-kallas-windo.mp3",
+    "kesto_sek": 4568,
+    "kesto_str": "01:16:08",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina Annika Saarikon exit keskustan puheenjohtajapaikalta ja seuraajaspekulaatiot, Kaja Kallaksen päätyminen Venäjän sisäministeriön pidätettävien listalle, Windows95manin sijoittuminen paikalle numero uno. \nStudiossa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä. \nJakson leikkasi Tuukka Lindholm.\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.f",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Greatest Night in Pop",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "1980-luku"
+        ],
+        "kuvaus": "Netflix-dokumentti We Are the World -hyväntekeväisyysbiisin nauhoittamisesta yhden yön aikana American Music Awardsin jälkeen kasarilla. Mukana mm. Michael Jackson ja Bono.",
+        "google_linkki": "https://www.google.com/search?q=The+Greatest+Night+in+Pop+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Greatest+Night+in+Pop"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Viikinki",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "urheilu",
+          "politiikka"
+        ],
+        "kuvaus": "Yle Areenassa saatavilla oleva dokumentti Toni Halmeen elämästä: matkasta pikkupojasta showpainijaksi, poliitikoksi ja surkeaan loppuun. Ohjaus Lauri Anssi Moilanen ja Olli Vuokko.",
+        "google_linkki": "https://www.google.com/search?q=Viikinki+Toni+Halme+dokumentti+Yle+Areena",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Viikinki+Toni+Halme"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Daily Show with John Stewart",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "satiiri",
+          "komedia",
+          "politiikka"
+        ],
+        "kuvaus": "Jon Stewart on palannut juontamaan The Daily Show'ta yhden jakson viikossa. Jaksot ovat katsottavissa kokonaan YouTube-kanavalla Comedy Central.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+Show+John+Stewart+2024",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Daily+Show"
+      }
+    ]
+  },
+  {
+    "j_idx": 228,
+    "jakso_id": "tag:soundcloud,2010:tracks/1403332597",
+    "jakso_otsikko": "15.12.2022: PIKKUJOULUPODCAST: Mongolialaishoitajan tarina, uupumusyhteiskunta, aivopähkinät",
+    "paivamaara": "15.12.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/b56d24f9-13f6-4957-8c2a-9ef0e7fc6e3e.mp3",
+    "kesto_sek": 3152,
+    "kesto_str": "52:32",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski ovat paikan päällä ravintola Siltasessa, jossa podcast nauhoitetaan. Jouluisina aiheina ovat mongolialaisen ja Suomessa kafkamaiseen labyrinttiin eksyneen hoitajan tilanne, kolumni vanhenpien uupumuksesta, sekä Markon keksimiä pulmapähkinöitä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Pennun kasvatusopas",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "koirat",
+          "kasvatus",
+          "opaskirja"
+        ],
+        "kuvaus": "Tuire Kaimion opas koiranpennun kasvattamiseen. Suosittelija kertoo aloittaneensa kirjan lukemisen uuden koiranpennun myötä.",
+        "google_linkki": "https://www.google.com/search?q=Tuire+Kaimio+pennun+kasvatusopas",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tuire+Kaimio+pennun+kasvatusopas"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Why Is She Like This? – artikkeli Margery Taylor Greenistä",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "QAnon"
+        ],
+        "kuvaus": "Elena Plott Calabron artikkeli The Atlantic -lehdessä, joka kuvaa laskelmoidusti, kuinka Marjorie Taylor Greene rakensi poliittisen uransa hyödyntämällä QAnon-kannattajia. Antaa raadollisemman ja tarkemman kuvan Yhdysvaltain poliittisesta todellisuudesta kuin suomalaiset uutiset.",
+        "google_linkki": "https://www.google.com/search?q=Why+is+she+like+this+Elena+Plott+Calabro+The+Atlantic+Marjorie+Taylor+Greene",
+        "lisatieto_linkki": "https://www.theatlantic.com/search/#q=Why+is+she+like+this+Marjorie+Taylor+Greene"
+      }
+    ]
+  },
+  {
+    "j_idx": 22,
+    "jakso_id": "afa347c5-fe0e-4658-80f1-da167a00b3ea",
+    "jakso_otsikko": "Velkajarru–laaja oppimäärä, Gazaan aselepo, porvari-Suomi",
+    "paivamaara": "15.10.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/afa347c5-fe0e-4658-80f1-da167a00b3ea.mp3",
+    "kesto_sek": 5425,
+    "kesto_str": "01:30:25",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat kokoomuksen läpi ajamasta velkajarrusta ja muiden puolueiden (paitsi vasemmistoliiton) riemuisasta rientämisestä austerity-aikaan; Trumpin hämmästyttävästi läpi ajamastas Gazan-rauhasta, ja toimittajan ja työtoverin Teemu Luukan kirjoittamasta Suomen oikeistolaistumista käsittelevästä kirjasta.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Teemu Luukan kirja (hallituksen tapahtumahistoria 2024)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "ajankohtainen"
+        ],
+        "kuvaus": "Yksityiskohtainen tapahtumahistoria nykyisen hallituksen tekemisistä, erityisesti maaliskuun 2024 tapahtumista. Suositellaan kaikille politiikasta ja ajankohtaisista tapahtumista kiinnostuneille.",
+        "google_linkki": "https://www.google.com/search?q=Teemu+Luukka+kirja+hallitus+2024",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Teemu+Luukka"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Vaino",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "Suomi",
+          "isonviha"
+        ],
+        "kuvaus": "Jenni Räinän romaani, joka kuvaa isonvihan aikaa 1700-luvulla Pohjanmaalla pakenevien lasten näkökulmasta. Painostava mutta vetävä, lähes elokuvakäsikirjoituksen tasoinen teos.",
+        "google_linkki": "https://www.google.com/search?q=Jenni+Räinä+Vaino+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jenni+Räinä+Vaino"
+      }
+    ]
+  },
+  {
+    "j_idx": 79,
+    "jakso_id": "354b62ab-c998-4e9f-a667-06c686421f3c",
+    "jakso_otsikko": "(ARGH! Uusinnan uusinta, selitys alussa) 10.10.2024: Sanna Marin IS BACK!, Suomen vedet saudeille/Kiinaan part II, perustuslakiproffat sotajalalla",
+    "paivamaara": "15.10.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/354b62ab-c998-4e9f-a667-06c686421f3c.mp3",
+    "kesto_sek": 5020,
+    "kesto_str": "01:23:40",
+    "rss_osallistujat": [
+      "Petja Pelli"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Petja Pelli saavat nauttia Suomen keskeisimmän Sanna Marin -asiantuntijan eli Salla Vuorikosken freudilaishenkisistä syväanalyyseista, kun ex-pm on jälleen ponkaissut otsikoihin Suomessa; ja lisäksi puhutaan kuohunnasta Suomen vesivarantojen ympärillä, ollaanko niitä kauppaamassa kiinaan vai ei HÄH KOKOOMUS???; ja lopuksi perustuslakioppineiden ilmiselv",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ohuella langalla (kausi 3)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliisisarja",
+          "ruotsalainen draama",
+          "Yle Areena"
+        ],
+        "kuvaus": "Ruotsalainen poliisisarja, joka sijoittuu Malmöön. Sarjassa ei niinkään rikokset ole pääosassa, vaan poliisien keskinäinen dynamiikka ja paine jengirikollisuuden ja huumekaupan hallitsemiseksi.",
+        "google_linkki": "https://www.google.com/search?q=Ohuella+langalla+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ohuella+langalla"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Room Next Door",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "Almodovar",
+          "ystävyys"
+        ],
+        "kuvaus": "Pedro Almodóvarin elokuva, joka käsittelee eutanasiaa, armokuolemaa ja ystävyyttä. Pääosissa Tilda Swinton ja Julianne Moore. Voitti palkintoja Venetsian filmifestivaaleilla.",
+        "google_linkki": "https://www.google.com/search?q=The+Room+Next+Door+Almodovar",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Room+Next+Door"
+      }
+    ]
+  },
+  {
+    "j_idx": 338,
+    "jakso_id": "tag:soundcloud,2010:tracks/910937410",
+    "jakso_otsikko": "15.10.2020: Maskikalapaliikki, sote-uudistus, kalifaatti",
+    "paivamaara": "15.10.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/0bb3f2a9-3c06-43b7-8f79-a2ceecf2352b.mp3",
+    "kesto_sek": 4502,
+    "kesto_str": "01:15:02",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat käsittämättömät kierrokset saaneesta maskiasiasta, käsittämättömän pienet kierrokset saaneesta sote-uudistuksesta ja New York Timesin Caliphate-podcastsarjasta, joka paljastui heppoisaksi.\nPitkien, epämukavien hiljaisuuksien varalle Marko pyytää kuuntelijoita avaamaan jigikalastuksen saloja,\nTuomas suosittelee ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Marianne & Leonard: Sanoja rakkaudesta",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "rakkaus"
+        ],
+        "kuvaus": "Dokumenttielokuva Leonard Cohenin ja Marianne Ihlénin rakkaustarinaasta, 1960-luvun vapaasta rakkaudesta Kreikan Hidrassa sekä heidän elämänsä traagisista käänteitä. Marko Junkkari katsoi sen kahdesti peräkkäin.",
+        "google_linkki": "https://www.google.com/search?q=Marianne+%26+Leonard+Words+of+Love+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Marianne+%26+Leonard+Words+of+Love"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Chaos: Making a New Science",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "luonnontiede",
+          "matematiikka",
+          "tietokirja"
+        ],
+        "kuvaus": "James Gleickin klassikkoteos kaaostieteen synnystä ja kehityksestä. Kirja selittää, miten todellisuus on pohjimmiltaan kaaosta, josta matematiikka valaisee vain pienen siivun.",
+        "google_linkki": "https://www.google.com/search?q=Chaos+Making+a+New+Science+James+Gleick",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Chaos+Making+a+New+Science+James+Gleick"
+      }
+    ]
+  },
+  {
+    "j_idx": 9,
+    "jakso_id": "d3fc6922-8831-473c-b339-60b0f367521f",
+    "jakso_otsikko": "Miten Iran liittyy kansain­välisiin kulttuuri­sotiin?",
+    "paivamaara": "15.1.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/d3fc6922-8831-473c-b339-60b0f367521f.mp3",
+    "kesto_sek": 5309,
+    "kesto_str": "01:28:29",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki",
+      "Ville Similä"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski ja Anna-Sofia Berner puhuvat studiossa vierailevan ulkomaantoimittaja Ville Similän kanssa Iranin tilanteesta ja sen oudoista kytkyistä kansainvälisen oikeiston syvään päätyyn. Mukana myös eduskunnassa jälleen kupliva häirintäkeskustelu ja Lapin matkailun kasvu ja sen mukanaan tuoma kansallinen hätätila – sekä soutaminen, merihädät ja ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "The Bear",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "ravintola",
+          "amerikkalainen"
+        ],
+        "kuvaus": "Sairaalasarjamainen draamasarja, joka seuraa yhtä työvuoroa ravintolan keittiössä. Anna-Sofia Berner kertoo olleensa aluksi skeptinen mutta myöhemmin täysin koukussa sarjaan.",
+        "google_linkki": "https://www.google.com/search?q=The+Bear+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Bear"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "House (Hause lääkärisarja)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "lääkärisarja",
+          "klassikko",
+          "perheviihde"
+        ],
+        "kuvaus": "Klassinen lääkärisarja, jota Tuomas Peltomäki katsoo lastensa kanssa vaihtoehtona TikTok-lyhytvideoille. Toimii hyvänä esimerkkinä siitä, miksi lääkärisarjat toimivat.",
+        "google_linkki": "https://www.google.com/search?q=House+MD+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+MD"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kuura Kaltio -savusauna, Kiilopää",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sauna",
+          "avanto",
+          "Lappi"
+        ],
+        "kuvaus": "Saariselän Kiilopäällä sijaitseva savusauna ja avanto purossa. Salla Vuorikoski suosittelee lämpimästi – jopa ensikertalaiselle avannossa kävijälle.",
+        "google_linkki": "https://www.google.com/search?q=Kuura+Kaltio+Kiilopää+savusauna",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kuura+Kaltio+Kiilopää+savusauna"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Artikkeli kaksivuotisesta esiopetuskokeilusta (HS, Nona Backgram)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "koulutuspolitiikka",
+          "tutkimus",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittaja Nona Backgramin artikkeli kaksivuotisen esiopetuskokeilun tutkimustuloksista. Tuomas Peltomäki kehuu artikkelia erinomaiseksi ja ihailee sitä, että päätöksenteko perustui tutkittuun tietoon.",
+        "google_linkki": "https://www.google.com/search?q=kaksivuotinen+esiopetus+kokeilu+tutkimus+Sarvimäki+HS",
+        "lisatieto_linkki": "https://www.hs.fi"
+      }
+    ]
+  },
+  {
+    "j_idx": 192,
+    "jakso_id": "tag:soundcloud,2010:tracks/1616332467",
+    "jakso_otsikko": "14.9.2023: Presidentinvaalien asetelmat, Turun koulukiusaamiset, Sanna Blair",
+    "paivamaara": "14.9.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/1b091657-54f4-4564-be55-f5c631fca290/1616332467-uutisraportti-presidentinvaalien-asetelmat-turun-kou.mp3",
+    "kesto_sek": 4246,
+    "kesto_str": "01:10:46",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina presidentinvaalien asetelmat nyt kun käytännössä viimeisetkin ehdokkaat tiedetään varmasti. Lisäksi keskustellaan Turun kuohuttaneesta tapauksesta, jossa 24 perhettä veti lapsensa pois koulusta yhden häirikköoppilaan vuoksi, sekä Sanna Marinin tulevaisuudesta Tony Blairin käsinukkena. \nStudiossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski. \nJakson leikkasi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Matkalla kadonneessa maailmassa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "matkakirja",
+          "historia",
+          "geopolitiikka"
+        ],
+        "kuvaus": "Outi Salovaaran matkakertomuksia entisen Neuvostoliiton alueelta – Venäjältä, Turkmenistanista, Kazakstanista, Georgian Abhasiasta ja Krimilta. Kirja yhdistää ruohonjuuritason kohtaamisia historiaan, politiikkaan ja Venäjän valtapyrkimyksiin, ja se on päivitetty Ukrainan sodan jälkeisellä tilanteella.",
+        "google_linkki": "https://www.google.com/search?q=Matkalla+kadonneessa+maailmassa+Outi+Salovaara",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Matkalla+kadonneessa+maailmassa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Blindboy Podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "monologi",
+          "kulttuuri",
+          "muoti"
+        ],
+        "kuvaus": "Pohjois-irlantilainen monologi-podcast, jossa naamioitu Blindboy käsittelee laajoja aiheita omalaatuisella tyylillään. Erityisesti jakso 'The Secret History of Bootcut Jeans' on suositeltava – tunnin monologi siitä, miksi 2000-luvun alussa bootcut-farkut ja teräväkärkiset nahkakengät olivat hetken aikaa valtamuotia.",
+        "google_linkki": "https://www.google.com/search?q=Blindboy+Podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Blindboy%20Podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 32,
+    "jakso_id": "b1c3954a-1cd7-4d2c-895f-6ab5904f8bbb",
+    "jakso_otsikko": "Purran viestintäoperaatio, Gaza omin silmin, Trump–Putin",
+    "paivamaara": "14.8.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/b1c3954a-1cd7-4d2c-895f-6ab5904f8bbb.mp3",
+    "kesto_sek": 4514,
+    "kesto_str": "01:15:14",
+    "rss_osallistujat": [
+      "Karoliina Knuuti"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa käsitellään se monikärkinen viestintäoperaatio, jonka valtiovarainministeri Riikka Purra käynnisti johtamansa ministeriön budjettiehdotuksella, jota seurasi pian täky burkhakiellosta ja kiihkeä keskustelu Mikkelin vastaanottokeskushäädöistä. </p><p>Lisäksi aiheina Gazan tilanne omin silmin nähtynä, kun HS:n toimittaja Karoliina Knuuti osallistui Jordanian ilmavoimien av",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kaikki rakastaa ysäriä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "musiikki",
+          "nostalgia",
+          "haastattelu"
+        ],
+        "kuvaus": "Henry Lehdon ysärimusiikkipodcast, jossa vierailevana Tuomas Peltomäki kertoo lapsuudestaan ja nuoruudestaan Oulussa sekä tärkeästä U2-bändistä. Podcastissa puhutaan musiikista, mutta myös elämästä laajemmin.",
+        "google_linkki": "https://www.google.com/search?q=Kaikki+rakastaa+ysäriä+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Kaikki%20rakastaa%20ysäriä"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Middlesex",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "amerikkalainen kirjallisuus",
+          "perhehistoria",
+          "identiteetti"
+        ],
+        "kuvaus": "Jeffrey Eugenidesin romaani, joka seuraa kreikkalais-amerikkalaisen suvun historiaa Detroitissa. Kertojana on intersukupuolinen henkilö, ja kirja on klassinen suuri amerikkalainen romaani, joka imee mukaansa kuin elokuva.",
+        "google_linkki": "https://www.google.com/search?q=Middlesex+Jeffrey+Eugenides",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Middlesex+Jeffrey+Eugenides"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Doorman",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskuntaromaani",
+          "amerikkalainen kirjallisuus",
+          "luokkakuvaus"
+        ],
+        "kuvaus": "Chris Pavonen romaani new yorkilaisesta luksusasuintalosta, jossa asuu pelkästään miljardöörejä. Raadollinen ja hauska yhteiskuntakuvaus rikkaiden ja köyhien suhteesta, luokkakysymyksistä sekä rotusyrjinnästä – Tom Wolfen hengessä.",
+        "google_linkki": "https://www.google.com/search?q=The+Doorman+Chris+Pavone",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Doorman+Chris+Pavone"
+      }
+    ]
+  },
+  {
+    "j_idx": 200,
+    "jakso_id": "tag:soundcloud,2010:tracks/1564959784",
+    "jakso_otsikko": "14.7.2023 Biden Suomessa, \"riikan\" kirjoitukset, Vilna",
+    "paivamaara": "14.7.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/dac962df-b46b-40d2-bf77-66893a65c9ac.mp3",
+    "kesto_sek": 3619,
+    "kesto_str": "01:00:19",
+    "rss_osallistujat": [
+      "Alli Hallonblad",
+      "Matilda Jokinen",
+      "Venla Kuokkanen"
+    ],
+    "rss_kuvaus": "Tässä jaksossa käsitellään Bidenin vierailua Suomessa, nimimerkki \"riikan\" nettikirjoituksia ja Vilnan Nato-huippukokousta. \n\nStudiossa Venla Kuokkanen, Alli Hallonblad ja Matilda Jokinen.\nJakson leikkasi Tuukka Lindholm. \n\nJaksossa mainittuja linkkejä: HS vieraili Rkp:n ja perussuomalaisten kannatusalueilla:https://www.hs.fi/politiikka/art-2000009701636.html Purran blogikirjoitus vuodelta 2019: h",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alli Hallonblad",
+        "teos": "Kaksisataakuusi pientä osaa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "romaani"
+        ],
+        "kuvaus": "Wilhelmiina Palosen romaani, jossa on rikasta kieltä ja vaikeita, näkymättömiin painettuja tunteita. Yhtenä kertojana toimii luuranko.",
+        "google_linkki": "https://www.google.com/search?q=Kaksisataakuusi+pient%C3%A4+osaa+Wilhelmiina+Palonen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kaksisataakuusi+pient%C3%A4+osaa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Venla Kuokkanen",
+        "teos": "Rakastitko Vesku? – Tarina Vesa-Matti Loirin elämästä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "audiodraama",
+          "elämäkerta",
+          "suomalainen kulttuuri"
+        ],
+        "kuvaus": "Yle Areenan audiodraama tai kuunnelma Vesa-Matti Loirin elämästä. Pyry Kähkönen esittää Veskua ilmiömäisesti.",
+        "google_linkki": "https://www.google.com/search?q=Rakastitko+Vesku+Yle+Areena+audiodraama",
+        "lisatieto_linkki": "https://areena.yle.fi/haku?q=Rakastitko+Vesku"
+      }
+    ]
+  },
+  {
+    "j_idx": 251,
+    "jakso_id": "tag:soundcloud,2010:tracks/1305070354",
+    "jakso_otsikko": "14.7.2022: Uniper, Japani, avaruuskuvat",
+    "paivamaara": "14.7.2022",
+    "audio_url": "https://podcasts.captivate.fm/media/6ee8fc7d-e189-4b15-99ce-8335641388d7/1305070354-uutisraportti-1472022-uniper-japani-avaruuskuvat.mp3",
+    "kesto_sek": 4063,
+    "kesto_str": "01:07:43",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Joona Aaltonen"
+    ],
+    "rss_kuvaus": "14.7.2022: Uniper, Japani ja avaruus. Tämän viikon podcastissa Anni Keski-Heikkilä, Irina Hasala ja Joona Aaltonen keskustelevat Fortumin tytäryhtiö Uniperin kaasukriisistä, Japanin entisen pääministeri Shinzō Aben surmasta epäillyn taustoista sekä uudesta Webb-teleskoopista ja avaruuden äärettömyydestä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan j",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Irina Hala",
+        "teos": "Lintujen tarkkailu",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "hyvinvointi",
+          "harrastus"
+        ],
+        "kuvaus": "Lintujen rauhallinen tarkkailu arjessa ja luonnossa – ei kilpailullista bongailua, vaan matalan kynnyksen rauhoittavaa luontosuhdetta. Sopii kaikille, koska kaikki ovat nähneet lintuja.",
+        "google_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi",
+        "lisatieto_linkki": "https://www.google.com/search?q=lintujen+tarkkailu+harrastus+Suomi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Financial Times Weekend Edition – How to Spend It -liite",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "media",
+          "elämäntyyli",
+          "huumori"
+        ],
+        "kuvaus": "Financial Timesin viikonloppulehden välissä tuleva How to Spend It -liite, joka esittelee äärimmäisen varakkaiden elämäntyyliä – kuten yksityiskoneiden vuokrauksen haasteita. Hulvaton kokemus toisenlaiseen mielenmaisemaan.",
+        "google_linkki": "https://www.google.com/search?q=Financial+Times+Weekend+Edition+How+to+Spend+It",
+        "lisatieto_linkki": "https://www.google.com/search?q=Financial+Times+Weekend+Edition+How+to+Spend+It"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Crash Landing on You",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "k-draama",
+          "romanssi",
+          "Korea"
+        ],
+        "kuvaus": "Korealainen draama, jossa eteläkorealainen rikas nainen päätyy vahingossa Pohjois-Koreaan ja kohtaa siellä sotilaan. Suositellaan ensimmäiseksi K-draamaksi – koukuttava ja villi matka.",
+        "google_linkki": "https://www.google.com/search?q=Crash+Landing+on+You",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Crash+Landing+on+You"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Forecasting Love and Weather",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "k-draama",
+          "romanssi",
+          "työelämä"
+        ],
+        "kuvaus": "Korealainen draama, joka sijoittuu Korean ilmatieteen laitokselle. Seuraa laitoksen työntekijöiden ja säätoimittajien ihmissuhteita – sisältää myös aidosti mielenkiintoista säätieteellistä sisältöä.",
+        "google_linkki": "https://www.google.com/search?q=Forecasting+Love+and+Weather",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Forecasting+Love+and+Weather"
+      }
+    ]
+  },
+  {
+    "j_idx": 310,
+    "jakso_id": "tag:soundcloud,2010:tracks/1048732801",
+    "jakso_otsikko": "14.5.2021: Omituinen jarrutuskeskustelu, hallitus ei piittaa taitelijoista, Israelissa kuohuu",
+    "paivamaara": "14.5.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/8cf9a6df-4fd7-4db5-a622-de973258f7b9.mp3",
+    "kesto_sek": 3769,
+    "kesto_str": "01:02:49",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tommi Nieminen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manner ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat:",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Herkkusuun kasvatus – Sinistä forellia ja mustia tryffeleitä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "ruoka",
+          "muistelmat"
+        ],
+        "kuvaus": "Joosef Wahbergin vuonna 1953 ilmestynyt teos, joka käy läpi Euroopan historiaa ja sota-aikoja ruokamuistojen kautta. Kuulijasuosittelija Eveliina Paljärven mukaan sekä historian- että kulinaristin mestariteos – suositellaan luettavaksi vain juuri syöneenä.",
+        "google_linkki": "https://www.google.com/search?q=Herkkusuun+kasvatus+Joosef+Wahberg",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Herkkusuun+kasvatus+Wahberg"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Harry Hole -sarja",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "thrilleri",
+          "norjalainen kirjallisuus"
+        ],
+        "kuvaus": "Jo Nesbøn kirjoittama norjalainen dekkarisarja, jonka osat 10 ja 11 Marko luki viikossa – niin koukuttavia, ettei kirjaa saanut laskettua käsistä puoleen kolmeen yöllä. Varoituksena: väkivaltaisuus kasvaa kirja kirjalta.",
+        "google_linkki": "https://www.google.com/search?q=Harry+Hole+sarja+Jo+Nesb%C3%B8",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Harry+Hole+Jo+Nesbo"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Merimelonta",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "melonta",
+          "luonto",
+          "vesiliikunta"
+        ],
+        "kuvaus": "Tommi Nieminen suosittelee merimelontaa Suomenlahdella – hänen mukaansa sekä hauskaa että koronaturvallista. Helsingissä on useita melontaseuroja, joilta voi vuokrata kajakkeja kohtuuhintaan.",
+        "google_linkki": "https://www.google.com/search?q=merimelonta+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=melontaseurat+Helsinki+kajakki+vuokraus"
+      }
+    ]
+  },
+  {
+    "j_idx": 359,
+    "jakso_id": "tag:soundcloud,2010:tracks/820363429",
+    "jakso_otsikko": "14.5.2020: #Obamagate, hallituksen vastaamattomuus, matkailu kesällä",
+    "paivamaara": "14.5.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/36f4aef6-f19e-47d6-a3d4-7a5b296d9e6f.mp3",
+    "kesto_sek": 4772,
+    "kesto_str": "01:19:32",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat #Obamagatesta, jonka Yhdysvaltain presidentti Donald Trump polkaisi pystyyn tyhjästä, joka liittyy ei-mihinkää, ja kaikkeen, varsinkin kilpailija Joe Bideniin. Lisäksi keskustellaan useista olennaisista kysymyksistä, joihin hallitus ei ole suostunut vastaamaan, muun muassa liittyen tukahduttamiseen, ja mat",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Last Dance",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "koripallo",
+          "urheilu"
+        ],
+        "kuvaus": "Dokumenttisarja Michael Jordanin urasta ja Chicago Bullsin viimeisestä mestaruuskaudesta 1990-luvulla. Sisältää runsaasti aiemmin julkaisematonta kulissien takaista kuvamateriaalia.",
+        "google_linkki": "https://www.google.com/search?q=The+Last+Dance+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Last+Dance"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Mikael Hakim",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "klassikko",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Mika Waltarin historiallinen romaani, jota Tuomas Peltomäki kehuu uskomattoman väriккääksi, hauskaksi ja syvälliseksi. Löytyy äänikirjana Storytelistä ja Bookbeatista.",
+        "google_linkki": "https://www.google.com/search?q=Mikael+Hakim+Mika+Waltari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Mikael+Hakim+Waltari"
+      }
+    ]
+  },
+  {
+    "j_idx": 264,
+    "jakso_id": "tag:soundcloud,2010:tracks/1250146321",
+    "jakso_otsikko": "14.4.2022: Nato-selvitys, hoitajalakko",
+    "paivamaara": "14.4.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/b8b3ef14-0482-43e0-b930-e0209a2c5f56.mp3",
+    "kesto_sek": 4471,
+    "kesto_str": "01:14:31",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat Nato-selonteosta ja myös nato-vastustuksesta, sekä hoitajalakosta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat:",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ennustivatko realistit Ukrainan sodan? (Veera Luoma-aho, HS)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "geopolitiikka",
+          "kansainvälinen politiikka",
+          "Ukraina"
+        ],
+        "kuvaus": "Helsingin Sanomien Veera Luoma-ahon artikkeli, joka käy läpi kansainvälisen politiikan kahta pääsuuntausta – realismia ja liberalismia – Ukrainan sodan kontekstissa. Selkeyttää makrotason geopoliittisia kysymyksiä.",
+        "google_linkki": "https://www.google.com/search?q=Ennustivatko+realistit+Ukrainan+sodan+Veera+Luoma-aho+HS",
+        "lisatieto_linkki": "https://www.hs.fi/visio/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ville Rannan sarjakuvablogi",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sarjakuva",
+          "blogi",
+          "suomalainen kulttuuri"
+        ],
+        "kuvaus": "Sarjakuvataiteilija Ville Rannan blogi, jossa hän kirjoittaa ja piirtää rehellisesti omasta elämästään, ortodoksisesta pääsiäisestä ja oululaisena taiteilijana Helsingissä olemisesta.",
+        "google_linkki": "https://www.google.com/search?q=Ville+Ranta+sarjakuvablogi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ville+Ranta+blogi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Yhdessä paikassa -sarjakuva-albumit (Ville Pirinen)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "sarjakuva",
+          "huumori",
+          "suomalainen kulttuuri"
+        ],
+        "kuvaus": "Sarjakuvataiteilija Ville Pirisen albumisarja, jossa urbaanilegendoja on piirretty eläviksi sarjakuvasketseiksi. Erittäin hauska ja eläväinen piirrostyyli – suositellaan erityisesti henkisen palautumisen tueksi.",
+        "google_linkki": "https://www.google.com/search?q=Ville+Pirinen+Yhdessä+paikassa+sarjakuva",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ville+Pirinen+Yhdessä+paikassa+sarjakuva+albumi"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Fiona Hill -haastattelu (New York Times Magazine)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "geopolitiikka",
+          "Ukraina",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "New York Times Magazinen pitkä haastattelu Venäjä- ja Ukraina-asiantuntija Fiona Hillistä, joka käy läpi Trumpin Ukraina-veivausta ja sen taustoja. Informatiivinen ja hyvin kirjoitettu.",
+        "google_linkki": "https://www.google.com/search?q=Fiona+Hill+interview+New+York+Times+Magazine+Trump+Ukraine",
+        "lisatieto_linkki": "https://www.nytimes.com/section/magazine"
+      }
+    ]
+  },
+  {
+    "j_idx": 418,
+    "jakso_id": "tag:soundcloud,2010:tracks/589960536",
+    "jakso_otsikko": "14.3.2019: Brexit, hallituksen kaatumisen vaikutukset, Venezuela",
+    "paivamaara": "14.3.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/63224b4b-62cb-490d-b799-137b9125878d.mp3",
+    "kesto_sek": 3652,
+    "kesto_str": "01:00:52",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Brexit-äänestyksistä, kaikista niistä lukuisista eri vaikutuksista, joita Sipilän päätöksellä kaataa hallitus on vaalikentillä ja Venezuelan luisusta kohti inhimillistä katastrofia.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Trumpin valinnan ja Brexitin ratkaisi osin somessa tehtävä mikrotargetointi – ja Suomessa kaksi puoluetta tekee samaa",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "some",
+          "vaalit"
+        ],
+        "kuvaus": "Helsingin Sanomien toimittaja Ossi Mansikan laaja selvitys siitä, miten mikrotargetointi vaikutti Trumpin vaaliin ja Brexitiin, ja miten suomalaiset puolueet hyödyntävät samaa tekniikkaa eduskuntavaaleissa.",
+        "google_linkki": "https://www.google.com/search?q=Trumpin+valinnan+ja+Brexitin+ratkaisi+osin+somessa+tehtava+mikrotargetointi+Suomessa+kaksi+puoluetta+tekee+samaa",
+        "lisatieto_linkki": "https://www.hs.fi/"
+      }
+    ]
+  },
+  {
+    "j_idx": 59,
+    "jakso_id": "bc9d023c-9ee8-4897-b82e-615da55da05b",
+    "jakso_otsikko": "14.2.2025: Munchenin turpo-miitti, rauhansopimus, RareEarthElements, ICH KOMME",
+    "paivamaara": "14.2.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/bc9d023c-9ee8-4897-b82e-615da55da05b.mp3",
+    "kesto_sek": 4790,
+    "kesto_str": "01:19:50",
+    "rss_osallistujat": [
+      "Suvi Turtiainen",
+      "Tommi Nieminen"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko, featuretoimituksesta podcastiin piipahtanut Tommi Nieminen ja puhelimella suoraan Munchenista studioon saapunut Berliinin-kirjeenvaihtaja Suvi Turtiainen keskustelevat vauhdilla etenevästä tilanteesta Ukrainan ympärillä, ja siihen liittyen yllättävästä puhelusta Trumpin ja Putinin välillä, rauhansopimuksen eri elementeistä, Munchenin turvallisuuskonferenssis",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Suvi Turtiainen",
+        "teos": "Emme ole täällä pitämässä hauskaa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "huumori",
+          "kirjallisuuspiirit",
+          "skandinaavinen kirjallisuus"
+        ],
+        "kuvaus": "Norjalaisen Niina Lycken hauska romaani keski-ikäisestä mieskirjailijasta, joka joutuu kirjallisuusfestivaaleilla paneeliin naisen kanssa, joka on omassa kirjassaan syyttänyt häntä seksuaalisesta häirinnästä. Kirja pilkkaa kirjallisuuspiirejä, woke-kulttuuria ja mieskirjailijoita.",
+        "google_linkki": "https://www.google.com/search?q=Emme+ole+t%C3%A4%C3%A4ll%C3%A4+pit%C3%A4m%C3%A4ss%C3%A4+hauskaa+Niina+Lycke",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Emme+ole+t%C3%A4%C3%A4ll%C3%A4+pit%C3%A4m%C3%A4ss%C3%A4+hauskaa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Synkin hetki",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historia",
+          "toinen maailmansota",
+          "brittiläinen"
+        ],
+        "kuvaus": "Vuoden 2017 historiallinen elokuva, jossa Gary Oldman esittää Winston Churchilliä. Teos kuvaa 1940-luvun alun kriittisiä hetkiä, kun Churchill nimitettiin pääministeriksi ja joutui vakuuttamaan britit taistelun jatkamisesta Hitleriä vastaan.",
+        "google_linkki": "https://www.google.com/search?q=Synkin+hetki+2017+Churchill+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Darkest+Hour+2017"
+      }
+    ]
+  },
+  {
+    "j_idx": 421,
+    "jakso_id": "tag:soundcloud,2010:tracks/575299158",
+    "jakso_otsikko": "14.2.2019: Tiedustelulakien paniikkijarrutus, ihmeellinen Irak-suhmurointi, poliittiset kuplat",
+    "paivamaara": "14.2.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/80ea5f7d-f4ea-48a9-88f7-77792b1ef414.mp3",
+    "kesto_sek": 4461,
+    "kesto_str": "01:14:21",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "14.2.2019: Tiedustelulakien paniikkijarrutus, ihmeellinen Irak-suhmurointi, poliittiset kuplat by Helsingin Sanomat",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Camtown (Come Town) -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "komedia",
+          "stand-up",
+          "viihde"
+        ],
+        "kuvaus": "Räävitön komediapodcast, jossa stand up -koomikot käyvät viikon uutisia läpi kaoottisesti ja heittävät taukoamatta rohkeaa läppää. Sopii niille, jotka kaipaavat vastapainoa nykyajan hysterialle ja teennäisyydelle.",
+        "google_linkki": "https://www.google.com/search?q=Camtown+podcast+comedy",
+        "lisatieto_linkki": "https://open.spotify.com/search/Camtown%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 182,
+    "jakso_id": "tag:soundcloud,2010:tracks/1690346988",
+    "jakso_otsikko": "14.12.2023: Suuri lakkopäivä, opiskelijoiden Gaza-miekkarit, venäläisterroristi vs KKO",
+    "paivamaara": "14.12.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/e950ec70-da8c-4a41-880a-05e60aa5aa37/1690346988-uutisraportti-14122023-suuri-lakkopaiva-opiskelijoid.mp3",
+    "kesto_sek": 4864,
+    "kesto_str": "01:21:04",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa aiheina Suomen osittain pysäyttänyt ja yrittäjät kokonaan raivostuttanut lakkopäivä, sekä suomalaisten että yhdysvaltalaisten opiskelijoiden tulehtuneiksi äityneet Gaza-mielenosoitukset, ja KKO:n shokkipäätös estää venäläisterroristi Jan Petrovskin luovutus Ukrainaan.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nJaksoon lii",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Viru-hotelli KGB-museo, Tallinna",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "museo",
+          "historia",
+          "Neuvostoliitto"
+        ],
+        "kuvaus": "Legendaarisen Viru-hotellin ylimmässä kerroksessa sijaitseva KGB-museo Tallinnassa, jossa opastetulla kierroksella pääsee tutustumaan neuvostoaikaiseen vakoilutoimintaan. Opas kertoo omakohtaisista kokemuksistaan Neuvostoliiton ajalta.",
+        "google_linkki": "https://www.google.com/search?q=Viru+hotelli+KGB+museo+Tallinna",
+        "lisatieto_linkki": "https://www.google.com/search?q=Viru+hotelli+KGB+museo+Tallinna"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Makten",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "Norja"
+        ],
+        "kuvaus": "Norjalainen fiktiosarja Gro Harlem Brundtlandin valtaannoususta Norjan pääministeriksi. Teos rikkoo kolmatta seinää ja naureskellaan 70-luvun politiikkatouhulle, saatavilla Yle Areenassa.",
+        "google_linkki": "https://www.google.com/search?q=Makten+norjalainen+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Makten"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "History of the International System – James Sheehan, Stanford",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "luento",
+          "kansainvälinen politiikka",
+          "historia"
+        ],
+        "kuvaus": "Stanfordin yliopiston historioitsija James Sheehanin luentosarja kansainvälisen järjestelmän synnystä imperiumien murenemisesta nykypäivään. Saatavilla Apple Podcasteissa, julkaistu vuonna 2008.",
+        "google_linkki": "https://www.google.com/search?q=History+of+the+International+System+James+Sheehan+Stanford",
+        "lisatieto_linkki": "https://podcasts.apple.com/search?term=History+of+the+International+System+Stanford"
+      }
+    ]
+  },
+  {
+    "j_idx": 74,
+    "jakso_id": "e2cb5198-2c86-4042-8f4b-91b605767d41",
+    "jakso_otsikko": "14.11.2024: Lisää liksaa, Pekka Haaviston yöyllätys ja Trumpin touhut",
+    "paivamaara": "14.11.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/e0a64a81-e219-423a-a9a6-387b2f04ec6a/URPOD-24-11-14.mp3",
+    "kesto_sek": 4033,
+    "kesto_str": "01:07:13",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa puhutaan työntekijöiden järkytystä aiheuttaneista palkkavaatimuksista ja Pekka Haaviston öisestä mielenmuutoksesta Helsingin pormestarikisassa. Lisäksi pähkäillään Donald Trumpin jokseenkin mielenkiintoisia nimityksiä hallintoonsa sekä kysytään, kuinka pitkään Elon Musk ja Trump jatkavat auvoista perhe-elämäänsä. </p><p>Studiossa Salla Vuorikoski, Marko Junkkari ja Anna-So",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Tony Halme – Urho, tuho ja perintö",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "urheilu",
+          "politiikka"
+        ],
+        "kuvaus": "Ilta-Sanomien toimittajan Mikko Marttisen kirja edesmenneen kansanedustajan, nyrkkeilijän ja showpainiajan Tony Halmeen elämästä. Sujuvasti kirjoitettu teos, joka kuvaa miehisen uhon, väkivallan ja ulkopuolisuuden kokemuksia.",
+        "google_linkki": "https://www.google.com/search?q=Tony+Halme+Urho+tuho+ja+perint%C3%B6",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tony+Halme+Urho+tuho+ja+perint%C3%B6"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Kuin veljet – Totuus Suomen katujengeistä",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "rikollisuus",
+          "yhteiskunta",
+          "reportaasi"
+        ],
+        "kuvaus": "Anne Kantolan, Jekaterina Mantsisen ja Omos Ocoihin kirjoittama teos Suomen katujengeistä, johon on haastateltu katujengeihin kytkettyjä rikollisia. Sujuvasti kirjoitettu ja vauhdikkaasti luettava.",
+        "google_linkki": "https://www.google.com/search?q=Kuin+veljet+totuus+Suomen+katujengeist%C3%A4",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuin+veljet+totuus+Suomen+katujengeist%C3%A4"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Karla's Choice",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "vakoilu",
+          "jännitys",
+          "brittikirjallisuus"
+        ],
+        "kuvaus": "Nick Harkawayn kirjoittama jatko-osa John le Carrén George Smiley -sarjaan. Kirjoittaja on le Carrén poika, ja teos sijoittuu kahden alkuperäisen romaanin väliin samoilla henkilöhahmoilla – yllättävän onnistunut jatko-osa.",
+        "google_linkki": "https://www.google.com/search?q=Karla%27s+Choice+Nick+Harkaway",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Karla%27s+Choice+Nick+Harkaway"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Rikosasianajaja Kaarle Gummerus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "oikeussali",
+          "sotarikokset",
+          "tietokirja"
+        ],
+        "kuvaus": "Veli-Pekka Lehtosen kirja rikosasianajaja Kaarle Gummeruksesta, joka puolusti Liberian sisällissotaan liittyvistä sotarikoksista syytettyä henkilöä. Kirja nostaa kriittisen kulman koko oikeusprosessiin ja tutkinnanjohtajan toimintaan.",
+        "google_linkki": "https://www.google.com/search?q=Rikosasianajaja+Kaarle+Gummerus+Veli-Pekka+Lehtonen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Rikosasianajaja+Kaarle+Gummerus"
+      }
+    ]
+  },
+  {
+    "j_idx": 385,
+    "jakso_id": "tag:soundcloud,2010:tracks/712712776",
+    "jakso_otsikko": "14.11.2019: Joulukirkot, Husun taksitarinat, Huuhkajat",
+    "paivamaara": "14.11.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/8d37faa6-8ea6-4414-a21c-dc8e4ccb88b0.mp3",
+    "kesto_sek": 3802,
+    "kesto_str": "01:03:22",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Maria Manner ja Marko Junkkari keskustelevat eduskunnan apulaisoikeusasiamiehen päätöksestä, jonka mukaan kirkko ei ole sopiva tila koulun joulujuhlan järjestämiselle, ja poliitkoiden raivoisasta väärinymmärryksestä ja populismista ratkaisuun liittyen. Lisäksi aiheina Abdirahim \"Husu\" Husseinin keksitty rasismitarina, sen merkitys demareille ja somalivähe",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Silicon Valley (viimeinen kausi)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "teknologia",
+          "yhdysvaltalainen"
+        ],
+        "kuvaus": "Yhdysvaltalainen komediasarja teknologiamaailmasta. Sarjan kuudes ja viimeinen kausi oli juuri alkanut, ja suosittelijan mukaan kolme ensimmäistä jaksoa ovat koko sarjan parhaita.",
+        "google_linkki": "https://www.google.com/search?q=Silicon+Valley+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Silicon+Valley"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Outliers",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "psykologia",
+          "menestys"
+        ],
+        "kuvaus": "Malcolm Gladwellin vuonna 2008 julkaistu tietokirja, joka tutkii menestystä, poikkeusyksilöitä ja taidokkuutta. Täynnä ajattelua avaavia tarinoita, kuten kuuluisa Korean Airlinesin lento-onnettomuuden kuvaus kulttuurieroista.",
+        "google_linkki": "https://www.google.com/search?q=Outliers+Malcolm+Gladwell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Outliers+Malcolm+Gladwell"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Minä jaksan – tämän päivän tarinoita lastensuojelusta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "lastensuojelu",
+          "yhteiskunta",
+          "omaelämäkerralliset"
+        ],
+        "kuvaus": "Elina Hirvosen toimittama kirja, johon nuoret ovat kirjoittaneet omakohtaisia kokemuksiaan lastensuojelusta. Tärkeä teos ajankohtaisesta aiheesta.",
+        "google_linkki": "https://www.google.com/search?q=Min%C3%A4+jaksan+t%C3%A4m%C3%A4n+p%C3%A4iv%C3%A4n+tarinoita+lastensuojelusta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Min%C3%A4+jaksan+tarinoita+lastensuojelusta"
+      }
+    ]
+  },
+  {
+    "j_idx": 288,
+    "jakso_id": "tag:soundcloud,2010:tracks/1141645975",
+    "jakso_otsikko": "14.10.2021: Pääministeri hilluu ja leikkaa, ilmasto-energia-ydinvoima-kysymys, vihreiden johtajat",
+    "paivamaara": "14.10.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/612c3797-b6e1-4884-819d-9300f5f2b82a.mp3",
+    "kesto_sek": 4444,
+    "kesto_str": "01:14:04",
+    "rss_osallistujat": [
+      "Jarno Hartikainen",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja taloustoimittaja Jarno Hartikainen keskustelevat pääministeri Sanna Marinin hillumisesta instagram-valovoimaisten muusikoiden kanssa vain päiviä ennen kuin hallitus leikkasi kulttuurista miljoonia ja taas miljoonia; Suomen ilmastotoimista ja ydinenergiasta, ja niistä kutkuttavista sokkeloista diplomatian korkeilla käytävillä, joilla tule",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jarno Hartikainen",
+        "teos": "Little Simz",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "räp",
+          "soul",
+          "feminismi"
+        ],
+        "kuvaus": "Parikymppinen lontoolainen räppäri, jonka uusi levy on Jarnon mukaan vuoden parasta. Biisi 'Human' sisältää Aretha Franklin -tyylistä soul-samplea ja vahvoja feministisiä lyriikoita.",
+        "google_linkki": "https://www.google.com/search?q=Little+Simz",
+        "lisatieto_linkki": "https://open.spotify.com/search/Little%20Simz"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Sokea piste",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "näytelmä",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Susanna Kuparisen ohjaama näytelmä Vallilan Kansallisteatterissa. Tuomaksen mukaan erinomainen ja vaikuttava esitys, jossa on muun muassa kohtaus Helsingin kaupunginvaltuutetuista.",
+        "google_linkki": "https://www.google.com/search?q=Sokea+piste+Susanna+Kuparinen+Kansallisteatteri",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sokea+piste+Susanna+Kuparinen+Kansallisteatteri"
+      }
+    ]
+  },
+  {
+    "j_idx": 327,
+    "jakso_id": "tag:soundcloud,2010:tracks/965465314",
+    "jakso_otsikko": "14.1.2021: Virkarikossyyte part 2, kokoomus <3 persut",
+    "paivamaara": "14.1.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/ae922e72-d0b5-4c5e-a162-0eb995862672.mp3",
+    "kesto_sek": 4047,
+    "kesto_str": "01:07:27",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner yhdessä Anna-Sofia Bernerin kanssa keskustelevat Yhdysvaltain presidentti Donald Trumpin uusista virkarikossyytteistä, teknomiljardöörien hillittömästä vaikutusvallasta ja kokoomuksen sinivihreyden illusorisesta luonteesta.Uutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Doc Point -dokumenttielokuvafestivaali",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "dokumenttielokuva",
+          "festivaali",
+          "verkkokatselumahdollisuus"
+        ],
+        "kuvaus": "Helsingin kansainvälinen dokumenttielokuvafestivaali, joka järjestettiin vuonna 2021 verkossa. Marko Junkkari kehui edellisvuoden ohjelmistoa erinomaiseksi.",
+        "google_linkki": "https://www.google.com/search?q=Doc+Point+dokumenttielokuvafestivaali",
+        "lisatieto_linkki": "https://www.docpoint.info"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Vakoilijan perintö",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "vakoilu",
+          "jännitys",
+          "kylmä sota"
+        ],
+        "kuvaus": "John le Carrén myöhäistuotantoa, jossa käsitellään klassisen Kylmä sota -aikakauden tapahtumia nykyajan näkökulmasta. Kuolleen agentin poika haluaa selvittää, miksi hänen isänsä ammuttiin Berliinin muurilla.",
+        "google_linkki": "https://www.google.com/search?q=Vakoilijan+perint%C3%B6+John+le+Carr%C3%A9",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Legacy+of+Spies+John+le+Carr%C3%A9"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Hiomattomat timantit",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "rikoselokuva",
+          "Netflix"
+        ],
+        "kuvaus": "Safdie-veljesten ohjaama intensiivinen draama juutalaisesta timanttikauppiaasta New Yorkissa, jolla on uhkapeliongelmia. Adam Sandler loistaa vakavassa pääosassa.",
+        "google_linkki": "https://www.google.com/search?q=Hiomattomat+timantit+Uncut+Gems+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Uncut+Gems"
+      }
+    ]
+  },
+  {
+    "j_idx": 394,
+    "jakso_id": "tag:soundcloud,2010:tracks/680552795",
+    "jakso_otsikko": "13.9.2019: Postin työntekijöiden palkat, Mama Africa, nationalistihistorioitsija Teemu Keskisarja",
+    "paivamaara": "13.9.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/ec3d21a7-1a7c-4a38-a455-502e80eb1e8f.mp3",
+    "kesto_sek": 3859,
+    "kesto_str": "01:04:19",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuija Siltamäki",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Tuija Siltamäki keskustelevat Postin yhä pahenevasta kriisistä ja suunnitelmista että sen 8000 työntekijän palkkoja alennetaan, sekä pääministeri Antti Rinteen sotkeutumisesta asiaan. Tuomaksella lyhyt kommunistiparahdus. \"Mama Africa\" eli EU:n uusi kansainvälinen yhteistyökomissaari Jutta Urpilainen oli pettymys, vai oliko? HS:n pitkässä a",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Matti Klingen päiväkirjat",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "päiväkirja",
+          "historia",
+          "elämäkerta"
+        ],
+        "kuvaus": "Helsingin yliopiston historian emeritusprofessori Matti Klingen päiväkirjat kuusiosaisena sarjana. Päiväkirjamerkinnät käsittelevät muun muassa 1700-luvun ranskalaista kirjallisuutta ja Venäjän historiaa.",
+        "google_linkki": "https://www.google.com/search?q=Matti+Klingen+p%C3%A4iv%C3%A4kirjat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Matti+Klingen+p%C3%A4iv%C3%A4kirjat"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Eräitä huomioita Suomen poliittisesta järjestelmästä – Sakari Piipon valokuvanäyttely",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "valokuvanäyttely",
+          "politiikka",
+          "dokumentaari"
+        ],
+        "kuvaus": "Sakari Piipon kolmiosaisen dokumentaarisen valokuvaustyön päättävä näyttely valokuvataiteen museossa Kaapelitehtaalla. Piippo on kuvannut ministereiden kravatteja, umpisolmussa olevia kengännauhoja ja tuskaisia ilmeitä sekä kunnanvaltuustoja ja äänestämistä.",
+        "google_linkki": "https://www.google.com/search?q=Sakari+Piippo+Er%C3%A4it%C3%A4+huomioita+Suomen+poliittisesta+j%C3%A4rjestelm%C3%A4st%C3%A4+valokuvataiteen+museo",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sakari+Piippo+valokuvataiteen+museo+Kaapelitehdas"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Do Elephants Have Souls?",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "tiede",
+          "eläimet",
+          "filosofia"
+        ],
+        "kuvaus": "The New Atlantis -lehdessä julkaistu pitkä artikkeli, joka pureutuu kysymykseen eläinten minuudentajusta ja tietoisuudesta. Artikkeli kuvaa muun muassa norsujen hämmästyttävää sosiaalista käyttäytymistä ja kyseenalaistaa yleisen käsityksen siitä, etteivät eläimet ajattele itseään yksilöinä.",
+        "google_linkki": "https://www.google.com/search?q=Do+Elephants+Have+Souls+The+New+Atlantis+Kathryn+Coe",
+        "lisatieto_linkki": "https://www.google.com/search?q=Do+Elephants+Have+Souls+The+New+Atlantis"
+      }
+    ]
+  },
+  {
+    "j_idx": 346,
+    "jakso_id": "tag:soundcloud,2010:tracks/875111908",
+    "jakso_otsikko": "13.8.2020: Hallituksen koronapolitiikka, Valko-Venäjän crackdown ja kuuntelijoiden kysymyksiä",
+    "paivamaara": "13.8.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/097cd6d4-b3a0-42f4-9772-13dee272e24b.mp3",
+    "kesto_sek": 4641,
+    "kesto_str": "01:17:21",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Onni Niemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat hallituksen koronapolitiikasta ja uusista suosituksista, Valko-Venäjän vaalituloksesta ja sen jälkeisestä poliisiväkivallasta sekä vastailevat kuuntelijoiden lähettämiin kysymyksiin.\n\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Akira-elokuvaa (https://cinemaorion.fi/elokuvat/akira/), Onni Ni",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Iida Sofia Hirvonen",
+        "teos": "Akira",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "anime",
+          "sci-fi",
+          "japanilainen elokuva"
+        ],
+        "kuvaus": "Japanilainen animaatioelokuva vuodelta 1988, joka sijoittuu kaoottiseen Tokioon vuonna 2019. Elokuvassa on maailmanlopun meininki ja uuden synty kaaoksen keskellä – esitetään 4K-versiona Orionissa ja Finnkinon IMAX-salissa.",
+        "google_linkki": "https://www.google.com/search?q=Akira+1988+anime+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Akira+1988"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "After Life",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "draama",
+          "Netflix"
+        ],
+        "kuvaus": "Ricky Gervaisin luoma ja tähdittämä Netflix-sarja, jonka toinen tuotantokausi on suosituksen kohteena. Sarja kertoo paikallislehden toimittajasta, joka kyynistyy vaimonsa kuoltua syöpään ja päättää alkaa sanoa ääneen kaiken rehellisesti välittämättä muiden tunteista.",
+        "google_linkki": "https://www.google.com/search?q=After+Life+Ricky+Gervais+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=After+Life+Ricky+Gervais"
+      }
+    ]
+  },
+  {
+    "j_idx": 157,
+    "jakso_id": "tag:soundcloud,2010:tracks/1846505895",
+    "jakso_otsikko": "13.6.2024: Vaalien jälkihöyryt, kaikki osoittaa mieltään, mitä kuuluu Trumpille",
+    "paivamaara": "13.6.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/ae1b5da3-9777-4f70-9e2e-ecb62c313751/1846505895-uutisraportti-1362024-vaalien-jalkihoyryt-kaikki-oso.mp3",
+    "kesto_sek": 4541,
+    "kesto_str": "01:15:41",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni, Salla ja Sohvi käyvät läpi vaalien jälkeiset tunnelmat niin pettyneissä perussuomalaisissa ja Sdp:ssä kuin iloitsevissa kokoomuksessa ja vasemmistoliitossa. Lisäksi he käyvät läpi tällä viikolla puhuttaneet mielenosoitukset eli Elokapinan ja Helsingin yliopiston Palestiina-mielenosoituksen sekä puhuvat Donald Trumpista, joka on jatkanut tuomionsa jälkeen presidentinv",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Politiikan pinnan vangit",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "media"
+        ],
+        "kuvaus": "Matti Mörttisen ja Janni Klahdin kirja politiikan pinnallisuudesta ja mediaoperaatioista. Käy läpi suomalaisen politiikan historiaa julkisuushakuisuuden näkökulmasta, mm. Kelpo Gröndahlin ja Sanna Marinin tarinoiden kautta.",
+        "google_linkki": "https://www.google.com/search?q=Politiikan+pinnan+vangit+Matti+M%C3%B6rttinen+Janni+Klahti",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Politiikan+pinnan+vangit"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "FC Gnistan",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "Veikkausliiga",
+          "Helsinki"
+        ],
+        "kuvaus": "Oulunkylän paikallinen jalkapalloseura, joka on noussut Veikkausliigaan. Tunnelmallinen katsomokokemus erityisesti juniorikannatuskatsomon ansiosta.",
+        "google_linkki": "https://www.google.com/search?q=FC+Gnistan+Veikkausliiga",
+        "lisatieto_linkki": "https://www.google.com/search?q=FC+Gnistan+Veikkausliiga"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Robin Packalen – varhaistuotanto",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "suomimusiikki",
+          "nostalgia"
+        ],
+        "kuvaus": "Robin Pakkalenin varhaiset levyt toimivat loistavana työmotivaattorina. Teini-iän suosikkimusiikki saa ajatukset virtaamaan, erityisesti kesäloman kynnyksellä.",
+        "google_linkki": "https://www.google.com/search?q=Robin+Packalen+diskografia",
+        "lisatieto_linkki": "https://open.spotify.com/search/Robin%20Packalen"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "High School Musical 2 – soundtrack",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "soundtrack",
+          "nostalgia",
+          "pop"
+        ],
+        "kuvaus": "High School Musical 2:n soundtrack nostaa mielialan ja sopii erinomaisesti töiden taustamusiikiksi, kun kesäloma alkaa houkutella.",
+        "google_linkki": "https://www.google.com/search?q=High+School+Musical+2+soundtrack",
+        "lisatieto_linkki": "https://open.spotify.com/search/High%20School%20Musical%202%20soundtrack"
+      }
+    ]
+  },
+  {
+    "j_idx": 260,
+    "jakso_id": "tag:soundcloud,2010:tracks/1267671271",
+    "jakso_otsikko": "13.5.2022: Nato, nato, nato jee jee jee",
+    "paivamaara": "13.5.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/c8ca60c0-c31a-49b4-bc1f-3726e0d0b87f.mp3",
+    "kesto_sek": 3795,
+    "kesto_str": "01:03:15",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat natosta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. \n\nKaikki vuosien  aikana julkaistu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Decoder Ring",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kulttuuri-ilmiöt",
+          "yhteiskunta",
+          "historia"
+        ],
+        "kuvaus": "Podcast, jossa jokaisessa jaksossa puretaan yksi kulttuurinen ilmiö – mistä se on syntynyt, miten se on kehittynyt ja mitä kaikkea siihen liittyy. Jaksoja ilmestyy harvakseltaan, noin kerran kuussa.",
+        "google_linkki": "https://www.google.com/search?q=Decoder+Ring+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Decoder%20Ring%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Musta Laatikko",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "livejournalismi",
+          "teatteri",
+          "tapahtuma"
+        ],
+        "kuvaus": "Livejournalismitapahtuma, jossa journalistisia suorituksia esitetään teatterilavalla. Kauden viimeinen esitys näytetään myös suorana verkossa.",
+        "google_linkki": "https://www.google.com/search?q=Musta+Laatikko+livejournalismi",
+        "lisatieto_linkki": "https://www.google.com/search?q=Musta+Laatikko+livejournalismi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Scorpions",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "rock",
+          "festivaali",
+          "konsertti"
+        ],
+        "kuvaus": "Saksalainen rock-yhtye, josta on tullut yksi suosittelijan lempibändeistä. Bändi esiintyy Hyvinkään Rockfest-festivaalilla kesällä 2022.",
+        "google_linkki": "https://www.google.com/search?q=The+Scorpions+bändi",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Scorpions"
+      }
+    ]
+  },
+  {
+    "j_idx": 213,
+    "jakso_id": "tag:soundcloud,2010:tracks/1491442675",
+    "jakso_otsikko": "13.4.2023: Vihreät, hallitusspekulaatiot, Pentagon-paperit",
+    "paivamaara": "13.4.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/ca5809d4-1852-4781-a631-651cb82cd4da/1491442675-uutisraportti-1342023-vihreat-hallitusneuvottelut-pe.mp3",
+    "kesto_sek": 4003,
+    "kesto_str": "01:06:43",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tommi Nieminen"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Marko Junkkari ja Tommi Nieminen keskustelevat Maria Ohisalon ilmoituksesta jättää vihreiden puheenjohtajuus ja vihreiden kriisistä, hallitusneuvotteluiden alkamisesta ja Yhdysvaltain Pentagonista vuotaneesta Ukraina-asiakirjoista.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Karppoolaan asia – Christian Smeds / Kansallisteatteri",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "journalismi",
+          "dokumentaarinen"
+        ],
+        "kuvaus": "Teatteriohjaaja Christian Smedsin teos Kansallisteatterissa, joka käsittelee suomalaisen journalismin ikonin Hannu Karpon perintöä. Suosittelija kuvailee sitä mahdollisesti elämää muuttavaksi kokemukseksi.",
+        "google_linkki": "https://www.google.com/search?q=Karppoolaan+asia+Christian+Smeds+Kansallisteatteri",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Kirjolla",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "autismi",
+          "suomalainen"
+        ],
+        "kuvaus": "Yle Areenan sarja, joka kertoo autismin kirjolla elävien ihmisten arjesta. Suosittelija kehuu sarjaa erinomaiseksi ja kertoo olevansa puolivälissä.",
+        "google_linkki": "https://www.google.com/search?q=Kirjolla+Yle+Areena+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kirjolla"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "City on Fire",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "rikos",
+          "mafiatarina",
+          "amerikkalainen kirjallisuus"
+        ],
+        "kuvaus": "Don Winslown mafiatarina, joka sijoittuu New Yorkiin ja muihin kaupunkeihin. Sukudraama ja rikollistarina, jonka jatko-osa City of Dreams ilmestyy kuun lopussa.",
+        "google_linkki": "https://www.google.com/search?q=City+on+Fire+Don+Winslow",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=City+on+Fire+Don+Winslow"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "The Power of the Dog",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "rikos",
+          "huumesota",
+          "amerikkalainen kirjallisuus"
+        ],
+        "kuvaus": "Don Winslown neliosaisen kirjasarjan ensimmäinen osa, joka kertoo Amerikan huumesodasta meksikolaisten huumekartellien ja yhdysvaltalaisten viranomaisten näkökulmasta. Sarja sisältää myös osat The Cartel, The Force ja The Border.",
+        "google_linkki": "https://www.google.com/search?q=The+Power+of+the+Dog+Don+Winslow",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog+Don+Winslow"
+      }
+    ]
+  },
+  {
+    "j_idx": 54,
+    "jakso_id": "3bb7d25e-e779-459f-8bb1-5dfc5a04c811",
+    "jakso_otsikko": "Aluevaalitilanne, koronapandemia 5v., Sallan KAJ-hiihtojuttu",
+    "paivamaara": "13.3.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/3bb7d25e-e779-459f-8bb1-5dfc5a04c811.mp3",
+    "kesto_sek": 5565,
+    "kesto_str": "01:32:45",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon aiheena alue- ja kuntavaalien outo tilanne poliittisesti, kun puolueet eivät oikein pyri hakemaan eroja toisiinsa, ja toisaalta lupaukset eivät välttämättä edes pidä. Lisäksi pitkällinen pohdinta jälkikirjoituksineen koronapandemian vaikutuksista Suomeen ja Salla kertoo jutun hiihtoreissulta Norjasta.</p><p>Tässä jaksossa mukana Tuomas, Salla ja HS:n soteen erikoistunut toimittaja ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Rikos ja rangaistus (Q-teatteri)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "filosofia",
+          "klassikko"
+        ],
+        "kuvaus": "Q-teatterin näytelmä Dostojevskin romaanin pohjalta. Suosittelija kuvaa sitä filosofisesti syvälliseksi ja erinomaisesti toteutetuksi – yksi parhaista teatterikokemuksista.",
+        "google_linkki": "https://www.google.com/search?q=Q-teatteri+Rikos+ja+rangaistus",
+        "lisatieto_linkki": "https://www.q-teatteri.fi/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Arcane",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "animaatio",
+          "fantasia",
+          "steampunk"
+        ],
+        "kuvaus": "Netflixin animaatiosarja, joka perustuu League of Legends -peliin. Suosittelija kehuu sitä yhdeksi parhaimmista animaatioista ikinä – tyylikkääksi, koukuttavaksi ja erinomaisesti ohjatuksi.",
+        "google_linkki": "https://www.google.com/search?q=Arcane+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Arcane"
+      }
+    ]
+  },
+  {
+    "j_idx": 60,
+    "jakso_id": "9ca74510-5f0b-4a84-aaf9-e2b6db5b1f73",
+    "jakso_otsikko": "Ukrainan kohtalonhetket käsillä...jakso huomenna!",
+    "paivamaara": "13.2.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/9ca74510-5f0b-4a84-aaf9-e2b6db5b1f73.mp3",
+    "kesto_sek": 540,
+    "kesto_str": "09:00",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän päivän nauhoituksia päätettiin siirtää huomiselle, jotta yhtäkkisesti eskaloitunut tilanne Ukrainan, Venäjän, EU:n ja Trumpin välisessä noidankeitoksessa saadaan asianmukaisesti ja ajantasaisin tiedoin podcastiin. Eli varsinainen jakso saadaan julki vasta perjantaina iltapäivällä! Tässä jaksossa sen sijaan Tuomas lukee ja analysoi huonosti Kendrick Lamarin diss-trackin Not Like Us.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Not Like Us – Kendrick Lamar",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "räp",
+          "disstrack",
+          "musiikkianalyysi"
+        ],
+        "kuvaus": "Kendrick Lamarin Drake-vastainen dissbiisi, jota Tuomas analysoi lyriikka lyriikalta. Biisin viittaukset ulottuvat popkulttuurista henkilökohtaisiin syytöksiin.",
+        "google_linkki": "https://www.google.com/search?q=Kendrick+Lamar+Not+Like+Us",
+        "lisatieto_linkki": "https://open.spotify.com/search/Kendrick%20Lamar%20Not%20Like%20Us"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Amerikkapodi – haastattelu professori Marko Maunulan kanssa",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "historia",
+          "Trump"
+        ],
+        "kuvaus": "Clat and State Universityn historian professori Marko Maunula analysoi Trumpia syvällisesti ja akateemisesti useasta kulmasta. Jakson lopussa hän myös selittää, miksi Kendrick Lamar on tämän hetken kovin räppäri ja miksi Atlanta-trap on niin merkittävää.",
+        "google_linkki": "https://www.google.com/search?q=Amerikkapodi+Marko+Maunula",
+        "lisatieto_linkki": "https://open.spotify.com/search/Amerikkapodi%20Marko%20Maunula"
+      }
+    ]
+  },
+  {
+    "j_idx": 372,
+    "jakso_id": "tag:soundcloud,2010:tracks/759917992",
+    "jakso_otsikko": "13.2.2020: Persupuristeinen kokoomus, isä ja äiti kielletty, Saksan sisäinen kaaos",
+    "paivamaara": "13.2.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/013f2d02-4676-4802-acf8-5c77c6e0c52d.mp3",
+    "kesto_sek": 4256,
+    "kesto_str": "01:10:56",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa aiheina gallup-tähti perussuomalaisten kokoomuksessa aiheuttama tärinä ja vinkuna, ja sosiaali- ja terveysministeriön päätös muuttaa lain kieli sukupuolineutraaliksi, ja CDU:n paniikki Saksassa Annegret Kramp-Karrenbauerin vetäydyttyä kanslerikuvioista.\nPitkien epämukavien hiljaisuuksien varalle Marko suosittelee New Yorkerin juttua Omar Ameenista (https://www.newyorker.co",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Kaksi sisarusta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dokumentaarinen",
+          "radikalisoituminen",
+          "Lähi-itä"
+        ],
+        "kuvaus": "Norjalaisen toimittaja-kirjailija Åsne Seierstad'in kirja kahdesta norjalais-somalialaisesta sisaruksesta, jotka lähtevät Syyrian taistelualueelle, ja heidän isänsä epätoivoisesta yrityksestä saada tyttärensä takaisin.",
+        "google_linkki": "https://www.google.com/search?q=Åsne+Seierstad+Kaksi+sisarusta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Two+Sisters+Asne+Seierstad"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Syllabus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "uutiskirje",
+          "tiedonhaku",
+          "akateeminen"
+        ],
+        "kuvaus": "Kunnianhimoinen uutiskirjepalvelu, joka kokoaa käyttäjän kiinnostusten mukaan laadukkaita akateemisia artikkeleita, syvällistä journalismia, podcasteja ja videoita. Käyttäjä valitsee itse kiinnostuksen kohteensa ja saa räätälöidyn uutiskirjeen.",
+        "google_linkki": "https://www.google.com/search?q=The+Syllabus+newsletter",
+        "lisatieto_linkki": "https://the-syllabus.com"
+      }
+    ]
+  },
+  {
+    "j_idx": 18,
+    "jakso_id": "c6bb9d4a-1129-4225-8588-e3ab0e50fa9f",
+    "jakso_otsikko": "Verot, meh vai plah?, Kela, BBC & Epstein",
+    "paivamaara": "13.11.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/c6bb9d4a-1129-4225-8588-e3ab0e50fa9f.mp3",
+    "kesto_sek": 4881,
+    "kesto_str": "01:21:21",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner ja Marko Junkkari keskustelevat veropäivästä, joka alkaa vähän ikävstyttämään, Kelan pääjohtaja Lasse Lehtosesta joka ei ainakaan ikävystytä ja jonka avustuksella voidaan keskustella työelämän murroksesta, ja vielä lopuksi BBC:n karmivasta ja ilmeisen tarkoituksellisesta vääristelystä Trumpin puheiden suhteen, ja pedofiili-Epsteinistä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Hack",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "journalismi",
+          "rikossarja",
+          "brittiläinen"
+        ],
+        "kuvaus": "Brittisarja, joka kertoo Guardian-toimittajasta, joka paljasti News of the Worldin puhelinvastaajaskandaalin. Sarja rikkoo neljättä seinää ja on viihdyttävästi tehty.",
+        "google_linkki": "https://www.google.com/search?q=The+Hack+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Hack"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Diplomaatti",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "poliittinen draama",
+          "Netflix",
+          "saippuaooppera"
+        ],
+        "kuvaus": "Netflixin sarja, joka yhdistää saippuaoopperan ja maailmanpolitiikan. Päähenkilönä Yhdysvaltain Britanniaan lähettämä suurlähettiläs, jonka toiminta on välillä ärsyttävää mutta koukuttavaa.",
+        "google_linkki": "https://www.google.com/search?q=Diplomaatti+Netflix+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Diplomat+Netflix"
+      }
+    ]
+  },
+  {
+    "j_idx": 237,
+    "jakso_id": "tag:soundcloud,2010:tracks/1362359146",
+    "jakso_otsikko": "13.10.2022: Nuorisojengit, EU:n ennallistamisasetus, putinisti Elon",
+    "paivamaara": "13.10.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/ae4fbbda-d481-4b21-b19c-16db1760de5c.mp3",
+    "kesto_sek": 4563,
+    "kesto_str": "01:16:03",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat nuorisojengeistä ja perussuomalaisten aloitteesta rikosvastuuikärajan laskemiseksi, EU:n suunnitelemasta ennallistamisasetuksesta, ja Elon Muskista, joka yllättäen alkoi heittelemään Putinistisia.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Confidence Man",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "politiikka",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Maggie Habermanin kirjoittama kattava elämäkerta Donald Trumpista, joka kuvaa Trumpin ominaisuuksien syntyä New Yorkin kiinteistömaailmassa. Hyvin tutkittu ja hauskasti kirjoitettu teos.",
+        "google_linkki": "https://www.google.com/search?q=Confidence+Man+Maggie+Haberman",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Confidence+Man+Maggie+Haberman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Kim Ji-young, syntynyt 1982",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fiktio",
+          "feminismi",
+          "Korea"
+        ],
+        "kuvaus": "Cho Nam-joon kirjoittama korealainen romaani, joka kuvaa Etelä-Koreassa vuonna 1982 syntyneen naisen elämää. Sekoittaa fiktiota ja tutkimustietoa naisen asemasta Etelä-Koreassa.",
+        "google_linkki": "https://www.google.com/search?q=Kim+Ji-young+syntynyt+1982+Cho+Nam-joo",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kim+Ji-Young+Born+1982+Cho+Nam-Joo"
+      }
+    ]
+  },
+  {
+    "j_idx": 277,
+    "jakso_id": "tag:soundcloud,2010:tracks/1195826071",
+    "jakso_otsikko": "13.1.2022: Venäjän uhittelu, koronajohto sekaisin, rokotekriittiset",
+    "paivamaara": "13.1.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/338c2a80-fec2-42f1-bca6-8d0b59e99940.mp3",
+    "kesto_sek": 4131,
+    "kesto_str": "01:08:51",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Alma Onali keskustelevat huippukokousviikosta, kun Venäjän pullistelua puidaan ympäri Eurooppaa. Vieraana ensimmäisen aiheen ajan Venäjä-asiantuntija Pekka Hakala. Lisäksi keskustellaan koronakriisin poliittisen tason totaalisesta sekamelskasta Krista Kiurun tempauduttua irti kaikista säädyllisyyden pidäkkeistä ja lyhyesti Tuomaksen jutu",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "IPA-ykkösolut",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "olut",
+          "juomat",
+          "tipaton tammikuu"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee ykkösolutta (hyvin miedot IPA-oluet) alkoholittoman tammikuun vaihtoehdoksi. Hänen mukaansa ne maistuvat yllättävän hyviltä ja antavat normaalin kaljottelufiiliksen ilman humalaa.",
+        "google_linkki": "https://www.google.com/search?q=IPA+ykkösolut+alkoholittomat",
+        "lisatieto_linkki": ""
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Power of the Dog",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "huumesota",
+          "Meksiko"
+        ],
+        "kuvaus": "Don Winslowin romaani, jossa amerikkalainen DEA-agentti taistelee Meksikossa crack-huumeaaltoa vastaan. Marko Junkkari aloitti sen lukemisen edellisiltana ja pitää sitä erittäin hyvänä.",
+        "google_linkki": "https://www.google.com/search?q=The+Power+of+the+Dog+Don+Winslow",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Power+of+the+Dog"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Oikeusjuttu",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sananvapaus",
+          "oikeudenkäynti",
+          "journalismi"
+        ],
+        "kuvaus": "Johanna Vehkoon itse kirjoittama kirja oikeudenkäynneistään sananvapaussyytteiden tiimoilta. Alma Onali suosittelee kuuntelemaan äänikirjana – syke nousee nopeasti ja tapaus on historiallisesti merkittävä.",
+        "google_linkki": "https://www.google.com/search?q=Oikeusjuttu+Johanna+Vehkoo+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Oikeusjuttu+Johanna+Vehkoo"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Problem with Jon Stewart",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "poliittinen satiiri",
+          "komedia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Jon Stewartin Apple TV+ -sarjaan liittyvä podcast, jossa hän syventyy sarjan teemoihin. Tuomas Peltomäki ihailee Stewartia suuresti ja pitää häntä poliittisen satiirin isänä.",
+        "google_linkki": "https://www.google.com/search?q=The+Problem+with+Jon+Stewart+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Problem%20with%20Jon%20Stewart"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Cum Town",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "stand-up",
+          "komedia",
+          "absurdi huumori"
+        ],
+        "kuvaus": "Kolmen stand up -koomikon, erityisesti Nick Muellin, pitämä räävitön ja absurdi humoristinen podcast. Tuomas Peltomäki on kuunnellut sitä vuosia ja ilahtui lukiessaan, että myös Antti Holma on fani.",
+        "google_linkki": "https://www.google.com/search?q=Cum+Town+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Cum%20Town"
+      }
+    ]
+  },
+  {
+    "j_idx": 144,
+    "jakso_id": "tag:soundcloud,2010:tracks/1915221824",
+    "jakso_otsikko": "12.9.2024: Trump vs. Harris!, Yle-leikkaukset, Yle-skandaalit",
+    "paivamaara": "12.9.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/bcafc7b0-e699-4171-850a-c4eca359c4a9.mp3",
+    "kesto_sek": 4544,
+    "kesto_str": "01:15:44",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Marko, Sohvi ja Salla keskustelevat USA:n presidentinvaalien ensimmäisestä tai tavallaan toisesta väittelystä; Ylen rahoituspäätöksestä, joka nytkähtänee eteenpäin tänään; sekä Ylen ympärillä kuohuvista lukuisista skandaaleista ja niiden merkityksestä. Alussa luvattu eheytyshoitokeskustelu jäi tällä kertaa käymättä, kun aika loppui kesken.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Banksyn näyttely Tallinnassa",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "taide",
+          "graffiti",
+          "näyttely"
+        ],
+        "kuvaus": "Banksyn iso näyttely Tallinnan Telliskivessä, avoinna 27. lokakuuta 2024 asti. Poliittista graffititaidetta tunnetulta nimettömältä katutaiteilijalta.",
+        "google_linkki": "https://www.google.com/search?q=Banksy+n%C3%A4yttely+Tallinna+Telliskivi+2024",
+        "lisatieto_linkki": "https://www.google.com/search?q=Banksy+n%C3%A4yttely+Tallinna+Telliskivi+2024"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Game of Thrones",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "uusintakatselu"
+        ],
+        "kuvaus": "Klassinen fantasiasarja, jonka katsominen uudelleen palkitsee – yksityiskohdat ja juonenkäänteet avautuvat aivan uudella tavalla toisella katselukerralla.",
+        "google_linkki": "https://www.google.com/search?q=Game+of+Thrones",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Game+of+Thrones"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Another Love – Tom Odell",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "indie",
+          "tunteellinen"
+        ],
+        "kuvaus": "Tom Odellin sydäntä särkevä mutta toiveikas hitti, joka levisi laajasti TikTokissa. Erityisen vaikuttava live-versiona.",
+        "google_linkki": "https://www.google.com/search?q=Tom+Odell+Another+Love",
+        "lisatieto_linkki": "https://open.spotify.com/search/Tom%20Odell%20Another%20Love"
+      }
+    ]
+  },
+  {
+    "j_idx": 242,
+    "jakso_id": "tag:soundcloud,2010:tracks/1342473310",
+    "jakso_otsikko": "8.9.2022: Fortum, Hjallis, turkistarhaus",
+    "paivamaara": "12.9.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/2a636a60-d37b-44c3-8f37-4d8ef6c1f52f.mp3",
+    "kesto_sek": 4056,
+    "kesto_str": "01:07:36",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Salla Vuorikoski keskustelevat energiakriisistä ja Fortumin johdon virheistä, Hjallis Harkimon ja USA:n pakotelistan vähältä piti -tilanteesta, sekä turkistarhauksesta.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärke",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "True Story: Murder, Memoir, Mea Culpa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tositarina",
+          "journalismi",
+          "rikos"
+        ],
+        "kuvaus": "Michael Finkelin tositarina siitä, kuinka New York Timesin toimittaja jäi kiinni juttujen sepittämisestä ja kuinka hänen identiteettiään käytti hyväkseen murhaepäilty pakolainen. Kiehtova ja monitasoinen journalismin ja ihmisyyden tarkastelu.",
+        "google_linkki": "https://www.google.com/search?q=True+Story+Murder+Memoir+Mea+Culpa+Michael+Finkel",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=True+Story+Murder+Memoir+Mea+Culpa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kesälomakellarissa",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "suomalainen musiikki",
+          "huumori"
+        ],
+        "kuvaus": "Jarkko Martikaisen kappale, joka kertoo perheestä, joka lupautuu katsomaan naapurin koiraa tämän eteläloman ajan – kunnes koira sairastuu ja salaisuus paljastuu. Koskettava ja hauska biisi.",
+        "google_linkki": "https://www.google.com/search?q=Jarkko+Martikainen+Kesälomakellarissa",
+        "lisatieto_linkki": "https://open.spotify.com/search/Jarkko%20Martikainen%20Kes%C3%A4lomakellarissa"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Cairo Affair",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "vakoilu",
+          "trilleri",
+          "fiktio"
+        ],
+        "kuvaus": "Olen Steinhauerin vakoiluromaani, joka sijoittuu Pohjois-Afrikkaan ja Lähi-itään Arabikevään aikaan. Monimutkainen ja kiehtova agenttitarina John le Carréa muistuttavalta kirjailijalta.",
+        "google_linkki": "https://www.google.com/search?q=Cairo+Affair+Olen+Steinhauer",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Cairo+Affair+Olen+Steinhauer"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Hunting Warhead",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "rikos",
+          "tutkiva journalismi",
+          "tositarina"
+        ],
+        "kuvaus": "CBC:n tekemä kuusiosainen podcast-sarja, joka kertoo norjalaisesta hakkerista ja australialaisesta poliisiyksiköstä, jotka paljastavat Tor-verkossa toimivan lapsipornorinkiä. Rankasta aiheesta huolimatta ammattimaisesti ja inhimillisesti toteutettu.",
+        "google_linkki": "https://www.google.com/search?q=Hunting+Warhead+podcast+CBC",
+        "lisatieto_linkki": "https://open.spotify.com/search/Hunting%20Warhead"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "HBO"
+        ],
+        "kuvaus": "HBO:n Game of Thrones -esiosasarja, joka kertoo Targaryenien suvun tarinan. Sama intensiteetti, poliittinen juonittelu ja dramaattisuus kuin alkuperäisessä sarjassa – positiivinen yllätys epäilijöille.",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon"
+      }
+    ]
+  },
+  {
+    "j_idx": 297,
+    "jakso_id": "tag:soundcloud,2010:tracks/1104624766",
+    "jakso_otsikko": "12.8.2021: Perussuomalaisten tulevaisuus, IPCC:n ilmastoraportti ja budjettiriihi, Taleban",
+    "paivamaara": "12.8.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/cf9dd136-ab3a-4b07-9575-088b7ad7fef6/1104624766-uutisraportti-1282021-perussuomalaisten-tulevaisuus-.mp3",
+    "kesto_sek": 3939,
+    "kesto_str": "01:05:39",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Jantso Jokelin",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Marko Junkkari ja Jantso Jokelin keskustelevat perussuomalaisten puoluekokouksesta, IPCC:n ilmastoraportista ja budjettiriihestä sekä Afganistanin kohtalosta Talebanin käsissä.\n Uutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kuinka konservatiivinen aktivisti keksi konfliktin kriittisestä rotuteoriasta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "kulttuurisota"
+        ],
+        "kuvaus": "New Yorker -lehden artikkeli siitä, kuinka konservatiivinen aktivisti kehitti kriittisen roututeorian käsitteen poliittiseksi aseeksi. Kirjoittanut Benjamin Wallace-Wells.",
+        "google_linkki": "https://www.google.com/search?q=How+Conservative+Activist+Invented+the+Conflict+Over+Critical+Race+Theory+New+Yorker+Benjamin+Wallace-Wells",
+        "lisatieto_linkki": "https://www.newyorker.com/news/annals-of-inquiry/how-a-conservative-activist-invented-the-conflict-over-critical-race-theory"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Jantso Jokelin",
+        "teos": "Neljätoista heinäkuuta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "historiallinen romaani",
+          "Ranskan vallankumous"
+        ],
+        "kuvaus": "Eric Vuillard'n historiallinen romaani Ranskan vallankumouksesta, joka kertoo Bastiljin valtauksesta nimettömän väkijoukon näkökulmasta ilman suuria poliittisia linjoja. Vastikään suomennettu teos.",
+        "google_linkki": "https://www.google.com/search?q=Neljätoista+heinäkuuta+Eric+Vuillard",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Neljätoista+heinäkuuta+Eric+Vuillard"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Project Hail Mary",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "scifi",
+          "avaruus",
+          "seikkailu"
+        ],
+        "kuvaus": "Andy Weirin scifi-romaani, jossa muistinsa menettänyt astronautti herää yksin avaruusaluksessa ja huomaa tehtäväkseen pelastaa koko ihmiskunta aurinkoa uhkaavilta mikro-organismeilta. Barack Obaman suosittelema koukuttava selviytymistarina.",
+        "google_linkki": "https://www.google.com/search?q=Project+Hail+Mary+Andy+Weir",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Project+Hail+Mary+Andy+Weir"
+      }
+    ]
+  },
+  {
+    "j_idx": 41,
+    "jakso_id": "e2b368a0-c158-451a-b63f-1553ebce16dd",
+    "jakso_otsikko": "LA-mellakat vs. Trump, Elokapinan gentrifikaatio, AI",
+    "paivamaara": "12.6.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/e2b368a0-c158-451a-b63f-1553ebce16dd.mp3",
+    "kesto_sek": 4938,
+    "kesto_str": "01:22:18",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa keskustellaan Los Angelesin tapahtumista, jotka ovat joko demokraattista mielenosoittamista tai sitten väkivaltainen ulkoisten voimien invaasio – kummasta on kyse, riippuu siitä oletko Donald Trump vai et.  </p><p>Lisäksi keskustellaan elokapina-liikkeestä ja sen ajoittain rajunkin viestin gentrifioitumisesta vuosien myötä, ja toimittaja Pekka Torvisen mainiosta kolumni",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Paluu Lempbergiin (East West Street)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "oikeustiede",
+          "toinen maailmansota"
+        ],
+        "kuvaus": "Philippe Sandsin palkittu tietokirja, joka seuraa kahden juutalaisen juristin tarinaa Lembergistä ja heidän rooliaan Nürnbergin oikeudenkäynneissä. Kirja käsittelee 'rikos ihmisyyttä vastaan' ja 'kansanmurha'-käsitteiden syntyä.",
+        "google_linkki": "https://www.google.com/search?q=Paluu+Lempbergiin+Philippe+Sands",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=East+West+Street+Philippe+Sands"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Kollega-bingo (seuraleikki)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "seuraleikki",
+          "tutustuminen",
+          "työyhteisö"
+        ],
+        "kuvaus": "Tutustumisleikki, jossa tehdään bingolappuja ihmisiin sopivilla luonnehdinnoilla. Osallistujat etsivät joukosta henkilöitä, jotka täyttävät kunkin ruudun ehdon – hauska tapa tutustua uusiin kollegoihin tai ryhmäläisiin.",
+        "google_linkki": "https://www.google.com/search?q=bingo+tutustumisleikki+ty%C3%B6paikka",
+        "lisatieto_linkki": "https://www.google.com/search?q=bingo+generator+fi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Cleopatra and Frankenstein",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "chick lit",
+          "ihmissuhteet",
+          "new york"
+        ],
+        "kuvaus": "Coco Mellorsin chick lit -romaani, joka seuraa nuorta brittinaista New Yorkissa ja hänen suhdettaan rikkaaseen mainostoimistomieheen, jonka alkoholismi koettelee parisuhdetta. Kirja tempaisee mukaansa tunteiden ja ihmissuhteiden maailmaan.",
+        "google_linkki": "https://www.google.com/search?q=Cleopatra+and+Frankenstein+Coco+Mellors",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Cleopatra+and+Frankenstein+Coco+Mellors"
+      }
+    ]
+  },
+  {
+    "j_idx": 1,
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/c8e11f1d-db9c-4623-aaef-ba6c0fccba66.mp3",
+    "kesto_sek": 3835,
+    "kesto_str": "01:03:55",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Hanna Mahlamäki",
+      "Jussi Niemeläinen"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Anna-Sofia Berner, Jussi Niemeläinen ja Hanna Mahlamäki kehuvat nykynuoria ja ymmärtävät, mikä vetää nuorison mielen matalaksi. Entä miksi yhden jääkiekkoilijan paitavalinta on noussut viikon suurimmaksi kotimaan politiikan uutiseksi? Ja miten Supon terrorismivaroitukset ja uutiset lapsilta tilatusta tuhopoltosta kytkeytyvät yhteen? Ruotsin tie mainittu.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Hymni elämälle, ei enää häpeää",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "yhteiskunta",
+          "Ranska"
+        ],
+        "kuvaus": "Gisèle Pelicot'n oma kirja hänen kokemastaan raiskauksesta ja oikeudenkäynnistä, jossa hän teki prosessista julkisen. Kirja kuvaa ranskalaista yhteiskuntaa ja taistelee raiskauskulttuuria vastaan.",
+        "google_linkki": "https://www.google.com/search?q=Gisèle+Pelicot+Hymni+elämälle+ei+enää+häpeää",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Gisèle+Pelicot+hymne+à+la+vie"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Et ole enää isäni",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "perhe",
+          "Ranska"
+        ],
+        "kuvaus": "Caroline Darianin kirja tyttären näkökulmasta Pelicot-tapauksesta – siitä, miten isän hirviömäinen toiminta paljastui ja mitä sen jälkeen tapahtui.",
+        "google_linkki": "https://www.google.com/search?q=Caroline+Darian+Et+ole+enää+isäni",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Caroline+Darian+M+en+veux+plus+comme+père"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "New York Times Spelling Bee",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sanapeli",
+          "englanti",
+          "aivotreeni"
+        ],
+        "kuvaus": "New York Timesin päivittäinen sanapeli, jossa muodostetaan sanoja annetuista kirjaimista. Hyvä tapa pitää englannin kielen sanastoa yllä.",
+        "google_linkki": "https://www.google.com/search?q=New+York+Times+Spelling+Bee+peli",
+        "lisatieto_linkki": "https://www.nytimes.com/puzzles/spelling-bee"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Hanna Mahlamäki",
+        "teos": "Loikalan lapset",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "lastensuojelu",
+          "tutkiva journalismi",
+          "Suomi"
+        ],
+        "kuvaus": "Toimittaja Paavo Teittisen kolmiosainen podcast Loikalan lastensuojelulaitoksen epäkohdista. Useamman vuoden työn tulos, jossa kuullaan asianosaisten omat äänet.",
+        "google_linkki": "https://www.google.com/search?q=Loikalan+lapset+podcast+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://open.spotify.com/search/Loikalan%20lapset"
+      }
+    ]
+  },
+  {
+    "j_idx": 368,
+    "jakso_id": "tag:soundcloud,2010:tracks/775021945",
+    "jakso_otsikko": "12.3.2020: Hallitus ja koronavirus, Trump ja koronavirus",
+    "paivamaara": "12.3.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/c25cef04-41ee-40ed-8939-9da90d4cf7d3.mp3",
+    "kesto_sek": 3368,
+    "kesto_str": "56:08",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Maria Manner ja Marko Junkkari keskustelevat lähinnä koronaviruksesta, ja hallituksen reagoinnista siihen, ja Trumpin reagoinnista siihen.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Koresponentti",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "ulkomaanuutiset",
+          "analyysi",
+          "journalismi"
+        ],
+        "kuvaus": "Helsingin Sanomien ulkomaanuutispodcast, jossa kirjeenvaihtajat tarjoavat kovaa uutista ja hyvää analyysia maailman tapahtumista.",
+        "google_linkki": "https://www.google.com/search?q=Koresponentti+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Koresponentti"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Dark Towers",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "talous",
+          "pankit",
+          "Trump"
+        ],
+        "kuvaus": "New York Timesin taloustoimittaja David Enrichin kirja Deutsche Bankin historiasta ja sen pitkäaikaisesta, kivuliaasta suhteesta Donald Trumpiin – ainoa pankki, joka suostui lainaamaan Trumpille rahaa toistuvista epäonnistumisista huolimatta.",
+        "google_linkki": "https://www.google.com/search?q=Dark+Towers+David+Enrich",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Dark+Towers+David+Enrich"
+      }
+    ]
+  },
+  {
+    "j_idx": 5,
+    "jakso_id": "a477b93a-cc0a-427c-bf4a-cfff4005f58c",
+    "jakso_otsikko": "Epstein vs Britannia vs Norja, digitaalinen autonomia, melankolia",
+    "paivamaara": "12.2.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/a477b93a-cc0a-427c-bf4a-cfff4005f58c.mp3",
+    "kesto_sek": 5290,
+    "kesto_str": "01:28:10",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Jussi Niemeläinen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Anna-Sofia Berner ja Jussi Niemeläinen keskustelevat siitä, miten Epstein-skandaali lähes vei mukaansa viemäriin Britannian pääministerin ja Norjan kuningashuoneen; miten tukalaan asemaan Eurooppa ja Suomi ovat joutuneet koska digitaalinen omavaraisuus on niin heikkoa; ja jutuista joissa eri kantilta reflektoidaan keskiluokan apatiaa, nuorten työllisty",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Humiseva harju (elokuva, 2025)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "romantiikka",
+          "klassikko",
+          "brittiläinen"
+        ],
+        "kuvaus": "Uusi elokuva-adaptaatio Emily Brontën klassikkoromaanista, jossa näyttelevät Margot Robbie ja Austin Butler. Suosittelija kertoo hankkineensa liput ensi-iltaan ja odottavansa arvioita jännityksellä.",
+        "google_linkki": "https://www.google.com/search?q=Humiseva+harju+elokuva+2025",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Wuthering+Heights+2025"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Humiseva harju (romaani)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "klassikko",
+          "romantiikka",
+          "brittiläinen kirjallisuus"
+        ],
+        "kuvaus": "Emily Brontën 1800-luvun klassikkoromaani, johon uusi elokuva on herättänyt valtavan kiinnostuksen – kirjastoissa on pitkät varausjonot ja painokset ovat myyneet ulkomailla loppuun.",
+        "google_linkki": "https://www.google.com/search?q=Humiseva+harju+Emily+Bront%C3%AB",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Wuthering+Heights"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Kate Bush – Wuthering Heights",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "pop",
+          "brittiläinen musiikki",
+          "klassikko"
+        ],
+        "kuvaus": "Kate Bushin ikoninen kappale Humisevasta harjusta – suositellaan kuunneltavaksi erityisesti niille, jotka eivät jaksa lukea romaania.",
+        "google_linkki": "https://www.google.com/search?q=Kate+Bush+Wuthering+Heights",
+        "lisatieto_linkki": "https://open.spotify.com/search/Kate%20Bush%20Wuthering%20Heights"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Would I Lie to You? (tv-sarja)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittiläinen huumori",
+          "visailu",
+          "komedia"
+        ],
+        "kuvaus": "Brittiläinen komediaohjelma, jossa kaksi joukkuetta yrittää arvata, ovatko kerrotut tarinat totta vai ei. Bob Mortimer loistaa ohjelmassa absurdeilla tarinoillaan.",
+        "google_linkki": "https://www.google.com/search?q=Would+I+Lie+to+You+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Would+I+Lie+to+You"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Astral Codex Ten -blogi",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "politiikka",
+          "yhteiskunta",
+          "esseet"
+        ],
+        "kuvaus": "San Franciscolaisten älymystön suosima blogi, jossa on erinomaisia kirjoituksia mm. politiikasta ja kulttuurista. Erityisesti artikkeli 'Political Backflow from Europe' käsittelee kiinnostavasti, miten Amerikan oikeisto on lainannut maahanmuuttokeskustelun Euroopasta.",
+        "google_linkki": "https://www.google.com/search?q=Astral+Codex+Ten+blogi",
+        "lisatieto_linkki": "https://www.astralcodexten.com/"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Sininen kirja – Pekka Himanen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "teknologia",
+          "yhteiskunta",
+          "tulevaisuus"
+        ],
+        "kuvaus": "Filosofi Pekka Himasen vuonna 2013 kirjoittama raportti, jossa ennakoidaan häikäisevästi Euroopan teknologisia ja yhteiskunnallisia haasteita. Ehdottaa mm. Helsingin ja Aalto-yliopiston kehittämistä Euroopan Piilaaksoksi.",
+        "google_linkki": "https://www.google.com/search?q=Sininen+kirja+Pekka+Himanen+2013",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sininen+kirja+Pekka+Himanen"
+      }
+    ]
+  },
+  {
+    "j_idx": 69,
+    "jakso_id": "a2da7644-9450-4790-8dc5-eecbf4bfe38d",
+    "jakso_otsikko": "12.12.2024: Kiuru vs sotevaliokunta, Al-Jolani vs Assad, Luigi vs CEO",
+    "paivamaara": "12.12.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/a2da7644-9450-4790-8dc5-eecbf4bfe38d.mp3",
+    "kesto_sek": 5520,
+    "kesto_str": "01:32:00",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Marko keskustelevat alkuun lyhyesti linnan juhlista ja niiden luonteesta, sen jälkeen sote-valiokunnan ympärillä kieppuvasta kriisien vyyhdistä jossa pääasiallinen kieputtaja on podin ystävä Krista Kiuru; ja Syyrian tilanteesta sen jälkeen kun hirmuhallitsija Assad joutui luikkimaan pakoon Venäjälle; ja lopuksi koko maailman seuraamasta murhasta New Yor",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Käräjät",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "suomalainen kirjallisuus",
+          "historiallinen romaani",
+          "Pohjanmaa"
+        ],
+        "kuvaus": "Markus Nummen romaani, joka sijoittuu 1930-luvun Pohjanmaalle ja käsittelee laittomia abortteja tutkivaa poliisimiestä pienessä maaseutuyhteisössä. Markon mukaan yksi parhaista kirjoista, joita hän on pitkään aikaan lukenut.",
+        "google_linkki": "https://www.google.com/search?q=Markus+Nummi+K%C3%A4r%C3%A4j%C3%A4t",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=K%C3%A4r%C3%A4j%C3%A4t+Markus+Nummi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Konflikti",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "suomalainen draama",
+          "poliittinen jännäri",
+          "puolustusvoimat"
+        ],
+        "kuvaus": "Aku Louhimiehen ohjaama suomalainen tv-sarja, jossa Hankoniemi on vallattu vieraan vallan toimesta ja presidentti sekä pääministeri ovat täysin eri linjoilla kriisin ratkaisemisessa. Salla pitää sarjaa yllättävän laadukkaana ja kansainvälisen tason näköisenä.",
+        "google_linkki": "https://www.google.com/search?q=Konflikti+tv-sarja+Aku+Louhimies",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Konflikti+Aku+Louhimies"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Mikin takana (TikTok/podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "Suomi",
+          "TikTok"
+        ],
+        "kuvaus": "Historiantutkija Perttu Rytkölän TikTok-tili ja podcast, jossa hän kertoo kiinnostavasti ja tuoreella otteella Suomen historiasta käsitellen ihmisiä ihmisinä eikä abstraktioina.",
+        "google_linkki": "https://www.google.com/search?q=Mikin+takana+Perttu+Rytk%C3%B6l%C3%A4",
+        "lisatieto_linkki": "https://open.spotify.com/search/Mikin%20takana"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Google Willow -kvanttitietokone",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "teknologia",
+          "kvanttilaskenta",
+          "tiede"
+        ],
+        "kuvaus": "Googlen Willow on ensimmäinen merkittävän harppauksen ottanut kvanttitietokone, jonka lupaukset ovat kovat. Tuomaksen mukaan suomalainen media nukkuu tämän historiallisen tapahtuman.",
+        "google_linkki": "https://www.google.com/search?q=Google+Willow+kvanttitietokone",
+        "lisatieto_linkki": "https://www.google.com/search?q=Google+Willow+quantum+chip"
+      }
+    ]
+  },
+  {
+    "j_idx": 381,
+    "jakso_id": "tag:soundcloud,2010:tracks/726799033",
+    "jakso_otsikko": "12.12.2019: Al-Hol, Trumpin virkarikossyytteet, Sanna Marin – supertähti",
+    "paivamaara": "12.12.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/afa52334-f644-4ce4-b335-28d90f28e174.mp3",
+    "kesto_sek": 4154,
+    "kesto_str": "01:09:14",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari, Maria Manner ja puhelinyhteydellä Washingtonista Anna-Sofia Berner keskustelevat al-Holin leirin suomalaislasten ja äitien kohtalosta, ja heidän ympärilleen yhä tiukemmin puristuvasta poliittisesta sekamelskasta. Lisäksi keskustellaan Yhdysvaltain presidentti Donald Trumpin virkarikossyytöksistä, niiden syistä ja seurauksista paitsi Trumpille",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Irishman (The Irishman)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "mafiaelokuva",
+          "Scorsese",
+          "rikos"
+        ],
+        "kuvaus": "Martin Scorsesen ohjaama mafiaelokuva, jossa Robert De Niro näyttelee pääosaa. Marko Junkkari pettyi elokuvaan – kolme ja puoli tuntia tuntui liikaa, eikä draama vakuuttanut.",
+        "google_linkki": "https://www.google.com/search?q=The+Irishman+Scorsese",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Irishman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Avioliinariita (Marriage Story)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "avioero",
+          "Netflix"
+        ],
+        "kuvaus": "Noah Baumbackin ohjaama avioerodramma, jossa näyttelevät Adam Driver ja Scarlett Johansson. Anna-Sofia Berner suosittelee – loppua kohden elokuvassa on mielettömiä kohtauksia, jotka jäävät vahvasti mieleen.",
+        "google_linkki": "https://www.google.com/search?q=Marriage+Story+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Marriage+Story"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Markus vastaan kansa",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "Yle"
+        ],
+        "kuvaus": "Ylen anarkistinen dokumenttisarja Siikajokisesta remonttimies-transvestiitti Markus Kuotisahosta, joka asettui eduskuntavaaliehdokkaaksi. Tuomas Peltomäki suosittelee sarjaa, jossa Marko Junkkari toimi Markuksen neuvonantajana.",
+        "google_linkki": "https://www.google.com/search?q=Markus+vastaan+kansa+Yle",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Markus+vastaan+kansa"
+      }
+    ]
+  },
+  {
+    "j_idx": 335,
+    "jakso_id": "tag:soundcloud,2010:tracks/927955750",
+    "jakso_otsikko": "12.11.2020: Ryöstelevät nuorisojengit, Jan Vapaavuori, koronarokote",
+    "paivamaara": "12.11.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/4439317a-20ca-459e-81a2-d2ae15d90f70.mp3",
+    "kesto_sek": 4107,
+    "kesto_str": "01:08:27",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat HS:n uutisesta, joka kertoi että pääkaupunkiseudulla on 100-150:n mamutaustaisen nuoren jengi, joka herättää syvää huolta viranomaisissa ja nuorisotyöntekijöissä, ja Helsingin pormestariuden jättävän Jan Vapaavuoren tulevaisuudesta, sekä uutisesta että koronarokote on tulossa.\nUutisraportti podcast on Helsingin",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Last Juror",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "oikeussali",
+          "amerikkalainen kirjallisuus"
+        ],
+        "kuvaus": "John Grishamin oikeussalidekkarisarjan uusin teos, jonka suosittelija luki lähes kahdessa illassa. Grisham on legendaarinen juristidekkareiden kirjoittaja.",
+        "google_linkki": "https://www.google.com/search?q=John+Grisham+Last+Juror",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Last+Juror+John+Grisham"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Läpimurto teos",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "huumori",
+          "parodia",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Käsikirjoittaja Janne Sarjan teos, jossa muun muassa parodioidaan ja pilkataan Helsingin Sanomia. Janne Sarja on myös käsikirjoittanut Uutisraportti-podcastin.",
+        "google_linkki": "https://www.google.com/search?q=Janne+Sarja+L%C3%A4pimurto+teos",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4pimurto+teos+Janne+Sarja"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tiede-tv: Maan rajoihin puristettu historia – mistä Suomi on tehty",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "historia",
+          "luento",
+          "YouTube"
+        ],
+        "kuvaus": "YouTube-kanava Tiede-tv:n luento, jossa kolme luennoitsijaa kertoo tiiviisti tunnissa Suomen historian ennen sotia. Suosittelijan mukaan erinomainen ja yllättävän mielenkiintoinen katsaus.",
+        "google_linkki": "https://www.google.com/search?q=Tiede-tv+YouTube+maan+rajoihin+puristettu+historia+Suomi",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Tiede-tv+Suomen+historia+maan+rajoihin+puristettu"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Robert Sapolsky: Introduction to Human Behavioral Biology (Stanford)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "biologia",
+          "luento",
+          "YouTube"
+        ],
+        "kuvaus": "Stanfordin yliopiston professori Robert Sapolskyn luentosarja ihmisen käyttäytymisen biologiasta, saatavilla YouTubessa. Suosittelijan mukaan intensiivinen, hauska ja erittäin mielenkiintoinen luennoitsija.",
+        "google_linkki": "https://www.google.com/search?q=Robert+Sapolsky+Introduction+to+Human+Behavioral+Biology+Stanford+YouTube",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Robert+Sapolsky+Introduction+to+Human+Behavioral+Biology+Stanford"
+      }
+    ]
+  },
+  {
+    "j_idx": 189,
+    "jakso_id": "tag:soundcloud,2010:tracks/1638345129",
+    "jakso_otsikko": "12.10.2023: Israel vs. Hamas, kaasuputki vs. Suomi, ikuinen maailmanloppufiilis",
+    "paivamaara": "12.10.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/dd9b73cc-890c-453d-beeb-2acf0859d44b.mp3",
+    "kesto_sek": 4914,
+    "kesto_str": "01:21:54",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Jukka Huusko",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustelun aiheena Hamasin terroriteot Israelissa, niiden konteksti laajemmin, mediakritiikki ja pohdinnat; ja kaasuputki-isku Suomeen, sen poliittiset järistysvaikutukset, tiedustelun suoriutuminen; sekä pohdintaa siitä, onko tosiaan aina maailmanloppu nurkan takana vai ei.\nStudiossa Tuomas Peltomäki, Marko Junkkari, Jukka Huusko ja Anni Keski-Heikkilä. \nJaksossa mainittuja",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Rocketman",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "elämäkerta",
+          "musiikki",
+          "draama"
+        ],
+        "kuvaus": "Elton Johnin elämästä kertova elokuva, joka on saatavilla Netflixissä. Marko Junkkari piti sitä viihdyttävänä ja syvällisehkönä, samaa tasoa kuin Bohemian Rhapsody.",
+        "google_linkki": "https://www.google.com/search?q=Rocketman+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Rocketman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Sateentekijät",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "talous",
+          "muistelmat",
+          "suomalainen"
+        ],
+        "kuvaus": "Nalle Waaruksen päiväkirjan toinen osa, joka kertoo 90-luvun suurista yritysjärjestelyistä Suomessa. Saatavilla myös äänikirjana.",
+        "google_linkki": "https://www.google.com/search?q=Sateentekijät+Nalle+Waaris",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sateentekijät"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Errol Morris, Do Not Like This Q&A About His New Le Carré Film",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "dokumentti",
+          "journalismi",
+          "profiili"
+        ],
+        "kuvaus": "David Marchesen kirjoittama artikkeli dokumenttiohjaaja Errol Morrisista New York Timesin viikkoliitteessä. Käsittelee Morrisin uutta Apple TV+ -elokuvaa John le Carrésta.",
+        "google_linkki": "https://www.google.com/search?q=Errol+Morris+Do+Not+Like+This+Q%26A+New+York+Times",
+        "lisatieto_linkki": "https://www.google.com/search?q=Errol+Morris+Do+Not+Like+This+Q%26A+New+York+Times+Magazine"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "The Pigeon Tunnel",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "kirjallisuus",
+          "elämäkerta"
+        ],
+        "kuvaus": "Errol Morrisin ohjaama dokumenttielokuva John le Carrésta, saatavilla Apple TV+:ssa. Anni Keski-Heikki ihailee suuresti Morrisin tapaa ajatella ja tehdä töitä.",
+        "google_linkki": "https://www.google.com/search?q=The+Pigeon+Tunnel+Errol+Morris+Apple+TV",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Pigeon+Tunnel"
+      }
+    ]
+  },
+  {
+    "j_idx": 225,
+    "jakso_id": "tag:soundcloud,2010:tracks/1422349123",
+    "jakso_otsikko": "12.1.2022: Pj-tentit alkoivat, vartijoiden väkivalta, prinssi Harry",
+    "paivamaara": "12.1.2023",
+    "audio_url": "https://podcasts.captivate.fm/media/3c29c683-ddb4-4313-bed4-9d284471b344/1422349123-uutisraportti-1212022-pj-tentit-alkoivat-vartijoiden.mp3",
+    "kesto_sek": 3714,
+    "kesto_str": "01:01:54",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä keskustelevat IS:n aloittamasta pj-tenttikaudesta, väkivaltaryppäästä, jonka takana ovat vartiointifirmat ja niiden työntekijät, sekä prinssi Harryn uudesta kirjasta ja sen merkityksestä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Danhausen: How Danhausen Became Professional Wrestling's Great Weirdo of Charms",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "showpaini",
+          "urheilu",
+          "henkilöjuttu"
+        ],
+        "kuvaus": "New York Timesin artikkeli Danhausen-nimisestä showpainijasta, joka ei osaa painia mutta on noussut supertähdeksi loitsimishahmonsa ansiosta. Koskettava tarina sinnikkyydestä ja omaperäisyydestä.",
+        "google_linkki": "https://www.google.com/search?q=Danhausen+professional+wrestling+New+York+Times",
+        "lisatieto_linkki": "https://www.nytimes.com/search?query=Danhausen+wrestling"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Ralph Lauren (dokumentti)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "muoti",
+          "elämäkerta"
+        ],
+        "kuvaus": "HBO:n dokumentti muotisuunnittelija Ralph Laurenin elämäntarinasta, siitä miten hän aloitti myymällä kravatteja ja rakensi kokonaisen lifestyle-imperiumin. Tunnelmallinen ja inspiroiva fiilistelydokumentti.",
+        "google_linkki": "https://www.google.com/search?q=Ralph+Lauren+dokumentti+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ralph+Lauren+documentary"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Tutkija: diagnoosijärjestelmään liittyy merkittäviä eettisiä ongelmia",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "terveys",
+          "psykiatria",
+          "etiikka"
+        ],
+        "kuvaus": "Helsingin Sanomien artikkeli (Marianne Riiali & Tiina Rajamäki), jossa lääkäri Tomi Bergström herättelee keskustelua psykiatristen diagnoosien eettisistä ongelmista ja siitä, miten diagnoosi voi seurata ihmistä koko loppuelämän.",
+        "google_linkki": "https://www.google.com/search?q=tutkija+diagnoosijärjestelmä+eettiset+ongelmat+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.hs.fi/search/?query=diagnoosijärjestelmä+eettiset+ongelmat"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Gastronomiadiplomatia",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "ruokakulttuuri",
+          "diplomatia",
+          "politiikka"
+        ],
+        "kuvaus": "Ilmiö, jossa valtiot kuten Thaimaa ja Pohjoismaat edistävät omaa ruokakulttuuriaan ulkomailla diplomatian keinoin – esimerkiksi tukemalla ravintoloita ja yhtenäistämällä ruokien nimiä maailmanlaajuisesti.",
+        "google_linkki": "https://www.google.com/search?q=gastronomiadiplomatia+ruokadiplomatia+valtiot",
+        "lisatieto_linkki": "https://www.google.com/search?q=gastro+diplomacy+Thailand+Nordic+Council"
+      }
+    ]
+  },
+  {
+    "j_idx": 28,
+    "jakso_id": "2e56a0ec-007e-4c58-ac83-2940b6c0dfc0",
+    "jakso_otsikko": "Nato vs. droonit, Charlie Kirk, Kontula–PMMP",
+    "paivamaara": "11.9.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/2e56a0ec-007e-4c58-ac83-2940b6c0dfc0.mp3",
+    "kesto_sek": 4705,
+    "kesto_str": "01:18:25",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa aiheena Venäjän droonien pudottaminen Puolan ja muiden Nato-maiden toimesta, ja sen käynnistämä Naton neljännen artiklan mukainen konsultointi. Lisäksi keskustellaan oikeistopodcastaaja Charlie Kirkin salamurhasta, joka on galvanoinut oikeiston USA:ssa ja aiheuttanut inhimillistä murhetta ja melankoliaa kaikissa muissakin. Viimeisenä aiheena keskustellaan Anna Kontulan ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Vera or Fate",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dystopia",
+          "scifi",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Hauska ja dystooppinen romaani, joka sijoittuu lähitulevaisuuden Yhdysvaltoihin. Kertojana toimii 10-vuotias Vera-tyttö, jonka silmin seurataan yhteiskunnan kahtiajakoa ja perustuslain muutosta.",
+        "google_linkki": "https://www.google.com/search?q=Vera+or+Fate+Gary+Shteyngart",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Vera+or+Fate"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Things Fell Apart",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "kulttuurisota",
+          "historia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Jon Ronsonin tekemä kahdeksanosainen BBC-podcastsarja, joka käy läpi kulttuurisodan historian alkupisteet. Silmiä avaava, humaani ja hauska läpikäynti kulttuurisista kiistoista ja niiden juurista.",
+        "google_linkki": "https://www.google.com/search?q=Things+Fell+Apart+Jon+Ronson+BBC",
+        "lisatieto_linkki": "https://open.spotify.com/search/Things%20Fell%20Apart%20Jon%20Ronson"
+      }
+    ]
+  },
+  {
+    "j_idx": 247,
+    "jakso_id": "tag:soundcloud,2010:tracks/1322165527",
+    "jakso_otsikko": "11.8.2022 Markon kesäkuulumiset, kanien oikeudet, Trumpin kotietsintä",
+    "paivamaara": "11.8.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/ccfa2929-2f14-4500-84e4-9bdc517d928e.mp3",
+    "kesto_sek": 4474,
+    "kesto_str": "01:14:34",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Anni Keski-Heikkilä",
+      "Inkeri Harju",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Anni Keski-Heikkilä, Marko Junkkari, Alma Onali ja Inkeri Harju keskustelevat Markon kesästä eli siitä, mitä politiikassa on tapahtunut ja mitä syksyltä voi odottaa, kanien kasvattamisesta ruoaksi ja eläinten oikeuksista sekä siitä, mistä Yhdysvaltain ex-presidentin Donald Trumpin kartanoon tehdyssä kotietsinnässä on kyse.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Inkeri Harju",
+        "teos": "Not Okay",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "komedia",
+          "some-kulttuuri"
+        ],
+        "kuvaus": "Kevyt mutta monitasoinen teinielokuva tytöstä, joka feikkaa olevansa Pariisissa ja terroristi-iskun uhri saadakseen huomiota ja menestystä somessa. Löytyy Disney+:sta.",
+        "google_linkki": "https://www.google.com/search?q=Not+Okay+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Not+Okay"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tokyo Vice",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "journalismi",
+          "Japani"
+        ],
+        "kuvaus": "HBO Max -sarja, joka perustuu tositapahtumiin: amerikkalainen toimittaja muuttaa 1990-luvulla Japaniin, pääsee töihin japaninkieliseen sanomalehteen ja alkaa tutkia jakuzan toimintaa. Visuaalisesti upea ja hienosti rakennettu päähenkilö.",
+        "google_linkki": "https://www.google.com/search?q=Tokyo+Vice+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tokyo+Vice"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Knowing Animals",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "eläinoikeudet",
+          "filosofia",
+          "tiede"
+        ],
+        "kuvaus": "Podcast, jossa haastatellaan eläintieteilijöitä, eläinfilosofeja, lakiasiantuntijoita ja muita tutkijoita eläimiin liittyvistä aiheista. Avaa kiinnostavia moraalisia ja filosofisia kysymyksiä eläinoikeuksista.",
+        "google_linkki": "https://www.google.com/search?q=Knowing+Animals+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Knowing%20Animals"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tender is the Flesh",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dystopia",
+          "kauhu",
+          "eläinoikeudet"
+        ],
+        "kuvaus": "Vuonna 2019 julkaistu dystooppinen kauhufantasiaromaani maailmasta, jossa eläinkunta on tuhoutunut virukseen ja ihmiset kasvattavat toisia ihmisiä lihaksi. Pakottaa pohtimaan eläinten kohtelua yhteiskunnassamme.",
+        "google_linkki": "https://www.google.com/search?q=Tender+is+the+Flesh+Agustina+Bazterrica",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tender+is+the+Flesh"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Red Hand Files",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "musiikki",
+          "kirjallisuus",
+          "Nick Cave"
+        ],
+        "kuvaus": "Nick Caven vuodesta 2018 ylläpitämä uutiskirje, jossa hän vastaa fanien lähettämiin kysymyksiin syvällisesti, empaattisesti ja huumorilla. Erityisen koskettavia ovat vastaukset suruun ja menetykseen liittyviin kysymyksiin.",
+        "google_linkki": "https://www.google.com/search?q=The+Red+Hand+Files+Nick+Cave",
+        "lisatieto_linkki": "https://www.theredhandfiles.com"
+      }
+    ]
+  },
+  {
+    "j_idx": 153,
+    "jakso_id": "tag:soundcloud,2010:tracks/1868885901",
+    "jakso_otsikko": "11.7.2024: Käännytyslaki, Ranskan parlamenttivaalit, Lamine Yamal",
+    "paivamaara": "11.7.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/d5b45638-b825-4de9-8877-1c358215d9cb.mp3",
+    "kesto_sek": 2871,
+    "kesto_str": "47:51",
+    "rss_osallistujat": [
+      "Heini Pitkänen",
+      "Joona Aaltonen",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Heini Pitkänen, Joona Aaltonen ja Rasmus Helaniemi perkaavat, mitä politiikan kenttää viikosta toiseen ravistelevasta käännytyslaista on seuraavaksi odotettavissa ja mitä tapahtuu perjantaina käytävässä äänestyksessä. Pöydällä on myös Ranskan kaikki yllättänyt parlamenttivaalitulos sekä Ranskan EM-jalkapallokentällä yllättänyt Lamine Yamal, joka nousi teinisensaation maine",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Toppa-ravintolan kesäterassi",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "ravintola",
+          "terassi",
+          "Helsinki"
+        ],
+        "kuvaus": "Katajanokalla sijaitseva ravintola, jonka kesäterassilta avautuu hienot näkymät. Fine dining -tyylinen ruoka, mutta terassi erityisen mukava.",
+        "google_linkki": "https://www.google.com/search?q=Toppa+ravintola+Katajanokka+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Toppa+ravintola+Katajanokka+Helsinki"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Kööpenhamina-trilogia",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "tanskalaiskirjallisuus",
+          "klassikko"
+        ],
+        "kuvaus": "Tanskalaisen kirjailijan Tove Ditlevsenin omaelämäkerrallinen trilogia, joka sijoittuu Kööpenhaminaan. Jakson suosittelijan kevään suosikkilukemisto.",
+        "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+K%C3%B6%C3%B6penhamina-trilogia",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+Copenhagen+trilogy"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Clickbait",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "trilleri",
+          "Netflix",
+          "minisarja"
+        ],
+        "kuvaus": "Netflixin minisarja, jossa perheenisä pitää kylttiä tekstillä '5 million views and I die'. Joka jakso seuraa eri henkilön näkökulmaa, täynnä yllättäviä juonenkäänteitä. Noin kahdeksan jaksoa.",
+        "google_linkki": "https://www.google.com/search?q=Clickbait+Netflix+minisarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Clickbait"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Wok Lab – syyrialainen ravintola",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "ravintola",
+          "syyrialainen ruoka",
+          "lounas"
+        ],
+        "kuvaus": "Helsingin city-käytävällä sijaitseva ravintola, joka tarjoaa erinomaista syyrialaista ruokaa. Erityisesti lounas sai kehuja.",
+        "google_linkki": "https://www.google.com/search?q=Wok+Lab+syyrialainen+ravintola+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Wok+Lab+syyrialainen+ravintola+Helsinki"
+      }
+    ]
+  },
+  {
+    "j_idx": 403,
+    "jakso_id": "tag:soundcloud,2010:tracks/649550798",
+    "jakso_otsikko": "11.7.2019: Syöttöporsaat, riitelevä hallitus ja fasismin yö",
+    "paivamaara": "11.7.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/fabd3a07-6ae5-4407-badf-de6cb943339c.mp3",
+    "kesto_sek": 3932,
+    "kesto_str": "01:05:32",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Paavo Teittinen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Mitä SYL oikeastaan vaatii, kun se vaatii opiskelijalle oikeutta lomaan ja loma-ajan toimeentuloon? Mikä opiskelijoita oikeasti uuvuttaa? Miksi uusi hallitus kinaa kuin vaalit olisivat jo nurkan takana? Entä mikä vetää Euroopan populisteja Venäjälle? Podcastissa Alma Onali, Tuija Siltamäki ja Paavo Teittinen keskustelevat viikon ajankohtaisista kysymyksistä. Jaksossa selviää, vaadittiinko keneltäk",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "P3 Dystopia",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "dystopia",
+          "tulevaisuus",
+          "ruotsinkielinen"
+        ],
+        "kuvaus": "Ruotsin radion tuottama podcast-sarja dystooppisista maailmankuvista. Yhdistää fiktiivisiä kuunnelmia tulevaisuuden skenaarioista ja asiantuntijahaastatteluja – kuumottava mutta hyvin tuotettu.",
+        "google_linkki": "https://www.google.com/search?q=P3+Dystopia+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/P3%20Dystopia"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Paavo Teittinen",
+        "teos": "Möhkö-artikkeli (Kuukausiliite)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "matkailu",
+          "Karjala",
+          "rajakylä"
+        ],
+        "kuvaus": "Sami Sillanpään kirjoittama juttu Möhköstä, Suomen itäisimmästä kylästä Venäjän rajan tuntumassa Karjalassa. Kiehtova kuvaus pienestä rajakylästä ja sen elämästä.",
+        "google_linkki": "https://www.google.com/search?q=Möhkö+Sami+Sillanpää+Kuukausiliite",
+        "lisatieto_linkki": "https://www.google.com/search?q=Möhkö+Sami+Sillanpää+Kuukausiliite"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Jeeves ja Wooster",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittikomedia",
+          "klassikko",
+          "herrasmiespalvelija"
+        ],
+        "kuvaus": "P.G. Wodehouseen perustuva brittiläinen komediasarja, jossa Hugh Laurie esittää yläluokkaista tyhjäntoimittajaa Bertie Woosteria ja Stephen Fry tämän viisasta herrasmiespalvelijaa Jeevesiä. Hauska ja tyylikäs klassikko.",
+        "google_linkki": "https://www.google.com/search?q=Jeeves+ja+Wooster+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Jeeves+and+Wooster"
+      }
+    ]
+  },
+  {
+    "j_idx": 306,
+    "jakso_id": "tag:soundcloud,2010:tracks/1066498348",
+    "jakso_otsikko": "11.6. 2021: Kuntavaalit eilen ja tänään, Viron pääministeri lähetti Sanna Marinille kirjeen.",
+    "paivamaara": "11.6.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/f881c097-2697-4d13-91ee-a10ed5106c37.mp3",
+    "kesto_sek": 3714,
+    "kesto_str": "01:01:54",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tommi Nieminen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Marko Junkkari, Maria Manne ja Tommi Nieminen keskustelevat ja yrittävät pärjätä ilman Tuomas Peltomäkeä, joka rakentaa taloa.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "The Native Scholar Who Wasn't (New York Times -artikkeli)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "etnisyys",
+          "yhdysvallat",
+          "tutkiva journalismi"
+        ],
+        "kuvaus": "New York Timesin pitkä feature-artikkeli yhdysvaltalaisista tutkijoista, jotka ovat huijanneet etnisen taustansa – muun muassa Andrea Smith, joka esiintyi alkuperäiskansan jäsenenä cherokeena.",
+        "google_linkki": "https://www.google.com/search?q=The+Native+Scholar+Who+Wasn%27t+New+York+Times",
+        "lisatieto_linkki": "https://www.nytimes.com/search?query=native+scholar+andrea+smith"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Jalkapallon maailmanselitys",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "jalkapallo",
+          "yhteiskunta",
+          "nationalismi"
+        ],
+        "kuvaus": "Franklin Foerin kirja, joka kertoo nationalismin, organisoituneen rikollisuuden ja konfliktien suhteesta jalkapalloon.",
+        "google_linkki": "https://www.google.com/search?q=Jalkapallon+maailmanselitys+Franklin+Foer",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jalkapallon+maailmanselitys+Franklin+Foer"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Pallon herra",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "jalkapallo",
+          "poliittinen historia",
+          "neuvostoliitto"
+        ],
+        "kuvaus": "Poliittisen historian professori Vesa Vareksen kirja, joka tarkastelee jalkapalloa poliittisen historian näkökulmasta – sisältää muun muassa legendaarisen tarinan Kiovan Dynamon voitosta saksalaisten miehittäjien joukkuetta vastaan vuonna 1942.",
+        "google_linkki": "https://www.google.com/search?q=Pallon+herra+Vesa+Vares",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Pallon+herra+Vesa+Vares"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tommi Nieminen",
+        "teos": "Oi Suomi",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "jalkapallo",
+          "suomi",
+          "urheiluhistoria"
+        ],
+        "kuvaus": "Helsingin Sanomien urheilutoimittaja Ari Virtasen kirja Huuhkajien tarinasta – kuinka Suomen jalkapallomaajoukkue kehittyi voittavaksi joukkueeksi.",
+        "google_linkki": "https://www.google.com/search?q=Oi+Suomi+Ari+Virtanen+Huuhkajat",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Oi+Suomi+Ari+Virtanen"
+      }
+    ]
+  },
+  {
+    "j_idx": 355,
+    "jakso_id": "tag:soundcloud,2010:tracks/838299367",
+    "jakso_otsikko": "11.6.2020: Perussuomalaispamfletti, Matti Vanhanen, orjat vs. Suomi",
+    "paivamaara": "11.6.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/10da85c3-64f8-4491-bacd-033b01918836.mp3",
+    "kesto_sek": 4105,
+    "kesto_str": "01:08:25",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat salamakuohuntaa aiheuttaneesta perussuomalaisen ajatushautomo Suomen Perustan pamfletista, Matti Vanhasen valinnasta valtiovarainministeriksi ja maailmalla suurta kuohuntaa aiheuttavasta orjahistorian käsittelystä repimällä patsaita ja katukylttejä.\nPitkien, epämukavien hiljaisuuksien varalle Marko suositt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "What to Do with Robert E. Lee? (artikkeli)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "historia",
+          "Yhdysvallat",
+          "rasismi"
+        ],
+        "kuvaus": "Pitkä journalistinen juttu siitä, miten etelävaltioiden sankarikenraali Robert E. Leen kunnianosoituksia ja patsaita yritetään poistaa eräästä yhdysvaltalaisesta yliopistosta – ja miksi se ei onnistu.",
+        "google_linkki": "https://www.google.com/search?q=What+to+do+with+Robert+E+Lee+artikkeli",
+        "lisatieto_linkki": "https://www.google.com/search?q=What+to+do+with+Robert+E+Lee+university+article"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "To Run My Best Marathon at 44, I Had to Outrun My Past (artikkeli, Wired)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "urheilu",
+          "juokseminen",
+          "identiteetti"
+        ],
+        "kuvaus": "Wirdin päätoimittajan kirjoittama syvällinen urheiluartikkeli siitä, miten yli 40-vuotiaana yritetään alittaa maratonin kahden ja puolen tunnin raja – ja miten juoksuhistoria kietoutuu isän ja suvun tarinoihin. Artikkelin voi myös kuunnella luettuna.",
+        "google_linkki": "https://www.google.com/search?q=To+Run+My+Best+Marathon+at+44+I+Had+to+Outrun+My+Past+Wired",
+        "lisatieto_linkki": "https://www.wired.com/search/?q=To+Run+My+Best+Marathon"
+      }
+    ]
+  },
+  {
+    "j_idx": 209,
+    "jakso_id": "tag:soundcloud,2010:tracks/1511828713",
+    "jakso_otsikko": "11.05.2023: PS ja ay, Trump is BACK, Käärijä-huumaa",
+    "paivamaara": "11.5.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/4b636335-54fb-4d6e-b677-b58bbf983f09.mp3",
+    "kesto_sek": 4556,
+    "kesto_str": "01:15:56",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustellaan perussuomalaisten ja ammattiyhdistysliikkeen jännitteisestä suhteesta perinteisten duunariäänestäjien kaikottua vasemmistopuolueista perussuomalaisiin. Lisäksi keskustellaan presidenttiehdokas Donald Trumpin town hallista CNN-kanavalla, sekä euroviisuista ja Käärijä-hypestä.\n\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Anni Keski-Heikkilä. \n\nLue podcastista li",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "agenttisarja",
+          "musta komedia",
+          "brittiläinen"
+        ],
+        "kuvaus": "Apple TV+ -sarja, jossa Gary Oldman esittää brittiläisen tiedustelupalvelun epäonnistuneiden agenttien yksikön johtajaa. Musta komedia, joka parodioi agenttisarjoja.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Evening Rocket",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "teknologia",
+          "Elon Musk"
+        ],
+        "kuvaus": "Harvardin historioitsija Jill Leporen viisiosainen podcast-sarja Elon Muskin historiasta ja ideologisista taustoista. Käsittelee myös Silicon Valleyn aatteellisia juuria 1930-luvun teknokraattiliikkeessä.",
+        "google_linkki": "https://www.google.com/search?q=The+Evening+Rocket+podcast+Jill+Lepore",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Evening%20Rocket"
+      }
+    ]
+  },
+  {
+    "j_idx": 166,
+    "jakso_id": "tag:soundcloud,2010:tracks/1798431229",
+    "jakso_otsikko": "11.4.2024: Eläkkeet, Reissu-Alex, Pikkuvihreät",
+    "paivamaara": "11.4.2024",
+    "audio_url": "https://episodes.captivate.fm/episode/4427acf1-e10c-411b-971c-ddcefdd1820e.mp3",
+    "kesto_sek": 4997,
+    "kesto_str": "01:23:17",
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa puhutaan eläkkeistä, mutta hämmentävästi niin että kukaan ei edes nukahtanut! Tuomaksella taas veri kiehui. Lisäksi Stubbin astuminen maailman estradeille ja vihreiden alho. \nStudiossa Tuomas Peltomäki, Jari Hanska ja Salla Vuorikoski. \nJakson leikkasi Ville-Veikko Niemelä.\n\nJaksoon liittyviä linkkejä:\nIhan hyvä summaus hallituksen eläkekipuilusta https://www.hs.fi/politii",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Politiikan puskaradio",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "suomalainen podcast"
+        ],
+        "kuvaus": "Iltalehden politiikan podcast, jota Tuomas Peltomäki suosittelee lämpimästi kaikesta dissauksesta huolimatta. Hänen mukaansa ohjelma on erinomainen eikä ansaitse kritiikkiä.",
+        "google_linkki": "https://www.google.com/search?q=Politiikan+puskaradio+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Politiikan%20puskaradio"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "More Savory Goods",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "cocktailit",
+          "Instagram",
+          "juomat"
+        ],
+        "kuvaus": "Instagram-tili, jossa esitellään tyylikkäästi eksoottisten ja perinteisten cocktailien valmistusta. Tuomas seuraa tiliä absolutisminsa aikana ja haaveilee kokteilien tekemisestä.",
+        "google_linkki": "https://www.google.com/search?q=More+Savory+Goods+Instagram+cocktail",
+        "lisatieto_linkki": "https://www.instagram.com/explore/search/keyword/?q=moresavorygoods"
+      }
+    ]
+  },
+  {
+    "j_idx": 414,
+    "jakso_id": "tag:soundcloud,2010:tracks/604402233",
+    "jakso_otsikko": "11.4.2019: Suuri eduskuntavaalipodi",
+    "paivamaara": "11.4.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/b6b9cda8-c641-4b45-9970-06e65e2f3d98.mp3",
+    "kesto_sek": 3384,
+    "kesto_str": "56:24",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja Vaaliraportti podcastista tuttu Elina Väntönen analysoivat tilanteen nyt, eduskuntavaaleja edeltävällä viikolla, tilanteen äänestyskopissa äänestyspäätöksen realisoituessa äänestäjien valinnaksi ja tilanteen vaalien jälkeen: kuka muodostaa hallituksen ja miten ja miksi.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Veep",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "politiikka",
+          "HBO"
+        ],
+        "kuvaus": "HBO:n komediasarja Yhdysvaltain varapresidentistä. Uusi kausi juuri alkanut.",
+        "google_linkki": "https://www.google.com/search?q=Veep+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Veep"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Valtaistuinjälkipeli – Game of Thrones -podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "fantasia",
+          "jaksoseuranta",
+          "televisio"
+        ],
+        "kuvaus": "Nelosen radioiden jaksoseurantapodcast Game of Thronesista. Jakso ilmestyy noin päivä uuden GoT-jakson jälkeen ja siinä analysoidaan tuorein jakso asiantuntevalla porukalla.",
+        "google_linkki": "https://www.google.com/search?q=Valtaistuinjälkipeli+Game+of+Thrones+podcast+Supla",
+        "lisatieto_linkki": "https://supla.fi/search?q=Valtaistuinjälkipeli"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Against the Rules with Michael Lewis",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "yhteiskunta",
+          "journalismi"
+        ],
+        "kuvaus": "Malcolm Gladwellin perustaman Pushkin Industries -yhtiön julkaisema podcast, jota vetää huipputaloustoimittaja Michael Lewis. Sarja käsittelee sitä, miten taloudelliset instituutiot ovat siirtäneet vastuun tavallisille ihmisille.",
+        "google_linkki": "https://www.google.com/search?q=Against+the+Rules+with+Michael+Lewis+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Against%20the%20Rules%20with%20Michael%20Lewis"
+      }
+    ]
+  },
+  {
+    "j_idx": 319,
+    "jakso_id": "tag:soundcloud,2010:tracks/1004795509",
+    "jakso_otsikko": "11.3.2021: Kuntavaalien siirto, Jääkuningatar-Marin, syntyvyys",
+    "paivamaara": "11.3.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/918346d0-bbc2-44e6-9e9b-4ad28a4b8ed2/1004795509-uutisraportti-1132021-kuntavaalien-siirto-jaakuninga.mp3",
+    "kesto_sek": 3719,
+    "kesto_str": "01:01:59",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Uutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä tavoin kuten ihmiset niistä normaalisti puhuvat: turhia jännittämättä. Kaikki vuosien  aikana julkaistut jaksot löydät\nSuplasta https://bit.ly/2ygrn3T.Suplan lisäksi podcast julkaistaan myös\n- Spotify:",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Fall of the House of Maxwell",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "lehdistöhistoria",
+          "vakoilu"
+        ],
+        "kuvaus": "John Prestonin kirjoittama elämäkerta lehtimoguli Robert Maxwellista, Ghislaine Maxwellin isästä, joka kuoli mystisessä veneonnettomuudessa. Kiehtova tarina äärimmäisestä köyhyydestä maailmanmaineeseen.",
+        "google_linkki": "https://www.google.com/search?q=The+Fall+of+the+House+of+Maxwell+John+Preston",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Fall+of+the+House+of+Maxwell+John+Preston"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "True Detective – kausi 1",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "noir"
+        ],
+        "kuvaus": "HBO:n rikos- ja mysteerisarja, jonka pääosissa Matthew McConaughey ja Woody Harrelson. Louisianan synkkä miljöö ja filosofisesti latautunut päähenkilö Rust Cohle tekevät siitä poikkeuksellisen vaikuttavan katsomiskokemuksen.",
+        "google_linkki": "https://www.google.com/search?q=True+Detective+kausi+1",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=True+Detective"
+      }
+    ]
+  },
+  {
+    "j_idx": 323,
+    "jakso_id": "tag:soundcloud,2010:tracks/983410054",
+    "jakso_otsikko": "11.2.2021: Suomi, pohjoismaa?, Saarikon äitiys-avaus, Ranska bännää amerikkalaisen hapatuksen",
+    "paivamaara": "11.2.2021",
+    "audio_url": "https://podcasts.captivate.fm/media/65970c3f-9248-431c-b8d2-e4e92fde417a/983410054-uutisraportti-1122021-suomi-pohjoismaa-saarikon-aitiy.mp3",
+    "kesto_sek": 4443,
+    "kesto_str": "01:14:03",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon Uutisraportti podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat VM:n provosoivasta raportista, jonka mukaan Suomi ei kohta ole enää Pohjoismaa, Saarikon äitiyskeskustelusta, ranskalaisten nyrpistelystä jenkkien post-kolonialismille.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Quiet Americans",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "tiedustelupalvelu",
+          "kylmä sota"
+        ],
+        "kuvaus": "Scott Andersonin tietokirja neljän amerikkalaisen salaisen agentin tarinoista kylmän sodan alkuvaiheessa 1940–50-luvuilla. Kertoo yksityiskohtaisesti, kuinka CIA:n edeltäjä rakennettiin tyhjästä kommunismin vastaiseksi tiedusteluorganisaatioksi.",
+        "google_linkki": "https://www.google.com/search?q=The+Quiet+Americans+Scott+Anderson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Quiet+Americans+Scott+Anderson"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Jussi Halla-aho – epävirallinen elämäkerta",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "elämäkerta",
+          "politiikka",
+          "suomi"
+        ],
+        "kuvaus": "Toimittaja Lauri Nurmen kirjoittama epävirallinen elämäkerta Jussi Halla-ahosta. Sisältää muun muassa kuvauksen Peltolammin kaupunginosasta Tampereella, jossa Halla-aho varttui.",
+        "google_linkki": "https://www.google.com/search?q=Jussi+Halla-aho+ep%C3%A4virallinen+el%C3%A4m%C3%A4kerta+Lauri+Nurmi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jussi+Halla-aho+ep%C3%A4virallinen+el%C3%A4m%C3%A4kerta"
+      }
+    ]
+  },
+  {
+    "j_idx": 14,
+    "jakso_id": "22e36282-162d-46f5-ad0a-f46d97de8b92",
+    "jakso_otsikko": "Trumpin sokkidoktriini, Israelin tai Venäjän boikotointi, someblokki",
+    "paivamaara": "11.12.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/22e36282-162d-46f5-ad0a-f46d97de8b92.mp3",
+    "kesto_sek": 5179,
+    "kesto_str": "01:26:19",
+    "rss_osallistujat": [
+      "Maria Pettersson",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Pettersson keskustelevat Yhdysvaltain presidentti Donald Trumpin uudesta ulkopoliittisesta ohjelmanivaskasta, joka on kylmää mutta totuudenmukaista luettavaa Euroopalle. Lisäksi keskustellaan Ylen ei-niin-suoraselkäisestä toiminnasta Euroviisuasiassa, ja kysymyksestä miten paljon Venäjän kansa on vastuussa hallintonsa tekemisist",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Slow Horses",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittiläinen",
+          "vakoilu",
+          "trilleri"
+        ],
+        "kuvaus": "Marko Junkkari on ylistänyt tätä brittiläistä vakoilusarjaa useaan otteeseen. Perustuu Mick Herronin kirjoihin.",
+        "google_linkki": "https://www.google.com/search?q=Slow+Horses+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Slow+Horses"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Down Cemetery Road",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "brittiläinen",
+          "trilleri",
+          "Apple TV+"
+        ],
+        "kuvaus": "Apple TV+ -sarja, jonka on kirjoittanut Slow Horsesin tekijä Mick Herron. Pääosassa Emma Thompson kyynisena yksityisetsivänä. Kuvattu Skotlannissa, loistavat maisemat.",
+        "google_linkki": "https://www.google.com/search?q=Down+Cemetery+Road+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Down+Cemetery+Road"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Maria Pettersson",
+        "teos": "Sky Team",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lautapeli",
+          "yhteistyöpeli",
+          "strategia"
+        ],
+        "kuvaus": "Kahden pelaajan yhteistyölautapeli, jossa pelaajat ovat lentäjiä ja yrittävät laskeutua lentokoneella eri lentokentille. Voitti vuoden strategiapeli -palkinnon.",
+        "google_linkki": "https://www.google.com/search?q=Sky+Team+lautapeli",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sky+Team+lautapeli"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "RSS-lukija ja Substack",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "teknologia",
+          "media",
+          "uutiset"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee RSS-lukijoita (esim. Feedly) ja Substackia sosiaalisen median korvaajaksi uutisten ja asiantuntijablogien seuraamiseen. Mahdollistaa laadukkaan sisällön seuraamisen ilman somen haittoja.",
+        "google_linkki": "https://www.google.com/search?q=RSS+lukija+Substack",
+        "lisatieto_linkki": "https://www.google.com/search?q=Feedly+RSS+lukija"
+      }
+    ]
+  },
+  {
+    "j_idx": 390,
+    "jakso_id": "tag:soundcloud,2010:tracks/694250740",
+    "jakso_otsikko": "11.10.2019: Turkin sota ja Al-Holin suomalaislapset, Vapaavuoren tunneli ja Makian plagiointikohu",
+    "paivamaara": "11.10.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/d1d6f817-5824-4220-830e-71bf88f4cf58.mp3",
+    "kesto_sek": 3564,
+    "kesto_str": "59:24",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuija Siltamäki",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa Tuomas Peltomäki, Tuija Siltamäki ja Marko Junkkari keskustelevat Turkin sotatoimista, jotka onnistuivat niiden odotettavissa olemisesta huolimatta järkyttämään varsinkin Eurooppaa. Maanosan käytännössä koko pakolaispolitiikka on tällä hetkell presidentti Erdoganin käsissä. Lisäksi lähellä sotatoimialuetta on kymmeniä suomalaisia Al-Holin pahamaineisella leirillä, jonka oloje",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Uiminen harrastuksena",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "uiminen",
+          "hyvinvointi",
+          "harrastus"
+        ],
+        "kuvaus": "Tuija Siltamäki suosittelee uimista syksyn uutena harrastuksena. Hän on käynyt uimassa useita kertoja viikossa koko kesän ja kokee sen voimaannuttavana arjen harmautta vastaan.",
+        "google_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli",
+        "lisatieto_linkki": "https://www.google.com/search?q=uiminen+harrastus+uimahalli"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Petja Pellyn reportaasit Ruotsista – Ruotsalaisprofessori kuunteli lähes tuhatta asukasta ongelmallisiksi listatuissa lähiöissä",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "journalismi",
+          "yhteiskunta",
+          "Ruotsi"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee HS:n Tukholman kirjeenvaihtaja Petja Pellyn reportaaseja Ruotsista. Erityisesti artikkeli, jossa professori Peter Esajasson tutki Göteborgin lähiöiden asukkaiden kokemuksia ja yhteisöllisyyttä.",
+        "google_linkki": "https://www.google.com/search?q=Petja+Pelli+Ruotsi+l%C3%A4hi%C3%B6t+professori+Peter+Esajasson",
+        "lisatieto_linkki": "https://www.google.com/search?q=Petja+Pelli+Helsingin+Sanomat+Ruotsi"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Anna-Sofia Bernerin Instagram Stories",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sosiaalinen media",
+          "journalismi",
+          "Instagram"
+        ],
+        "kuvaus": "Tuomas Peltomäki suosittelee seuraamaan HS:n Washington-kirjeenvaihtaja Anna-Sofia Bernerin Instagram Stories -julkaisuja, jotka on tehty taidolla ja huumorilla.",
+        "google_linkki": "https://www.google.com/search?q=Anna-Sofia+Berner+Instagram",
+        "lisatieto_linkki": "https://www.instagram.com/annasofiaberner"
+      }
+    ]
+  },
+  {
+    "j_idx": 178,
+    "jakso_id": "tag:soundcloud,2010:tracks/1714651947",
+    "jakso_otsikko": "11.1.2024: Gaza-kirje, Anna-Maja Henrikssonin virhe, Tiktokin synnit",
+    "paivamaara": "11.1.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/94cc1995-56b0-479e-9775-29a75ea5a9ce/1714651947-uutisraportti-1112024-gaza-kirje-anna-maja-henriksso.mp3",
+    "kesto_sek": 3686,
+    "kesto_str": "01:01:26",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa puhutaan ulkoministeriön virkamiesten Elina Valtoselle lähettämästä Israel-kirjeestä ja kysytään, tekikö Rkp:n Anna-Maja Henriksson hirveän virheen. Lisäksi pohditaan Tiktokin kieltämistä. Studiossa Salla Vuorikoski, Marko Junkkari ja Anni Keski-Heikkilä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Ylen presidentinvaalitentit",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "politiikka",
+          "vaaliohjelma",
+          "televisio"
+        ],
+        "kuvaus": "Marko Junkkari suosittelee Ylen yksilötenttejä presidentinvaaliehdokkaille. Hän kehuu ohjelmien tasalaatuista tuotantoa ja ammattimaisuutta.",
+        "google_linkki": "https://www.google.com/search?q=Ylen+presidentinvaalitentit+2024",
+        "lisatieto_linkki": "https://areena.yle.fi/search?q=presidentinvaalitentit"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Pääministeripeli",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "lautapeli",
+          "politiikka",
+          "kirpputori"
+        ],
+        "kuvaus": "Vuoden 2015 ajankohtaisin lautapeli, jossa pelataan Suomen kartalla pääministeriehdokkailla. Anni Keski-Heikki löysi sen kirpputorilta ja suosittelee erityisesti pelin pääministeripuolta.",
+        "google_linkki": "https://www.google.com/search?q=P%C3%A4%C3%A4ministeripeli+lautapeli+2015",
+        "lisatieto_linkki": "https://www.google.com/search?q=P%C3%A4%C3%A4ministeripeli+lautapeli+2015"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Photo Restoration Group (Facebook)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sosiaalinen media",
+          "valokuvaus",
+          "yhteisö"
+        ],
+        "kuvaus": "Facebook-ryhmä, jossa ihmiset pyytävät muita restauroimaan ja muokkaamaan vanhoja valokuviaan. Salla Vuorikoski kertoo ryhmän avaavan kiinnostavan ja välillä synkänkin puolen ihmiselämästä.",
+        "google_linkki": "https://www.google.com/search?q=Photo+Restoration+Group+Facebook",
+        "lisatieto_linkki": "https://www.facebook.com/groups/search/results/?q=Photo+Restoration+Group"
+      }
+    ]
+  },
+  {
+    "j_idx": 343,
+    "jakso_id": "tag:soundcloud,2010:tracks/890918854",
+    "jakso_otsikko": "10.9.2020: Jussi Halla-ahon talousoikeistolaisuus, Saarikko, EU:n koronamiljardit",
+    "paivamaara": "10.9.2020",
+    "audio_url": "https://podcasts.captivate.fm/media/b4b37050-3c77-432b-8407-283a01b6b84c/890918854-uutisraportti-1092020-jussi-halla-ahon-talousoikeisto.mp3",
+    "kesto_sek": 3747,
+    "kesto_str": "01:02:27",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Marko Junkkari",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Teemu Muhonen keskustelevat Jussi Halla-ahon talousajattelusta ja sen yllättävän oikeistolaisesta meiningistä ( :D ), Annika Saarikon valinnasta keskustan puheenjohtajaksi pohjois-pohjalaisten lestadiolaisten tukemana, ja EU:n koronaelvytyspaketista.Pitkien, epämukavien hiljaisuuksien varalle Marko suosittelee Christopher Nolanin käsittä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "Eläkekomitea-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "eläkejärjestelmä",
+          "talous",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Eläketurvakeskuksen podcast, jota juontaa Tuija Siltamäki. Käsittelee Suomen työeläkejärjestelmää asiantuntevasti.",
+        "google_linkki": "https://www.google.com/search?q=Eläkekomitea+podcast+Eläketurvakeskus+Tuija+Siltamäki",
+        "lisatieto_linkki": "https://open.spotify.com/search/Eläkekomitea%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Teemu Muhonen",
+        "teos": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietotekniikka",
+          "historia",
+          "elämäkerrat"
+        ],
+        "kuvaus": "Walter Isaacsonin tietokirja, joka käy henkilöiden kautta läpi tietotekniikan historian Charles Babbagen difference enginestä nykypäivän iPhoneen. Lähestyttävä, viihdyttävä ja ymmärrystä avaava teos.",
+        "google_linkki": "https://www.google.com/search?q=The+Innovators+Walter+Isaacson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Innovators+Walter+Isaacson"
+      }
+    ]
+  },
+  {
+    "j_idx": 37,
+    "jakso_id": "b90a42b4-3e69-450f-b8ff-e0795df0eb51",
+    "jakso_otsikko": "Uusi Amerikka, kuolema, siat",
+    "paivamaara": "10.7.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/b90a42b4-3e69-450f-b8ff-e0795df0eb51.mp3",
+    "kesto_sek": 4004,
+    "kesto_str": "01:06:44",
+    "rss_osallistujat": [
+      "Hanna Havusto",
+      "Helmi Sundström",
+      "John Helin",
+      "Rasmus Helaniemi"
+    ],
+    "rss_kuvaus": "<p>Tässä jaksossa aiheina Donald Trumpin, Pete Hegsethin ja Elon Muskin sekoittama Yhdysvaltojen sisäpolitiikka, kuolema ja kuoleman hinta sekä erilaiset siat ja muut sikamaiset olennot. </p><p>Studiossa Rasmus Helaniemi, Helmi Sundström, Hanna Havusto ja John Helin.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Porco Rosso",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "animaatio",
+          "studio ghibli",
+          "seikkailu"
+        ],
+        "kuvaus": "Studio Ghiblin animaatioelokuva. Mainitaan sikasteeman yhteydessä suosituksena.",
+        "google_linkki": "https://www.google.com/search?q=Porco+Rosso",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Porco+Rosso"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Prinsessa Mononoke",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "animaatio",
+          "studio ghibli",
+          "luonto"
+        ],
+        "kuvaus": "Studio Ghiblin klassinen animaatioelokuva. Suositellaan sikasteeman yhteydessä.",
+        "google_linkki": "https://www.google.com/search?q=Prinsessa+Mononoke",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Princess+Mononoke"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Helsingin Jäätelötehdas",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "jäätelö",
+          "helsinki",
+          "kesä"
+        ],
+        "kuvaus": "Helsingin suurimpia jäätelöpalloja tarjoava jäätelötehdas. Hinta-laatusuhde kehuttu hyväksi.",
+        "google_linkki": "https://www.google.com/search?q=Helsingin+J%C3%A4%C3%A4tel%C3%B6tehdas",
+        "lisatieto_linkki": "https://www.google.com/search?q=Helsingin+J%C3%A4%C3%A4tel%C3%B6tehdas"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Vuosaaren huippu",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luontokohde",
+          "helsinki",
+          "näköalapaikka"
+        ],
+        "kuvaus": "Jätemaalle rakennettu kukkulanäköalapaikka Vuosaaressa, josta näkee Helsingin keskustaan ja Porvoon jalostamoille. Hyvät luontoarvot.",
+        "google_linkki": "https://www.google.com/search?q=Vuosaaren+huippu",
+        "lisatieto_linkki": "https://www.google.com/search?q=Vuosaaren+huippu"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Helmi Sundström",
+        "teos": "OceanGate-dokumentti (Netflix)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "onnettomuus",
+          "meri"
+        ],
+        "kuvaus": "Netflix-dokumentti OceanGaten sukellusveneestä, joka vei turisteja Titanicin hylylle, ja sitä seuranneesta onnettomuudesta ja etsinnästä.",
+        "google_linkki": "https://www.google.com/search?q=OceanGate+dokumentti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=OceanGate+documentary+Netflix"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Helmi Sundström",
+        "teos": "Lontoon pommi-iskut -dokumenttisarja (Netflix)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "rikos",
+          "terrorismi"
+        ],
+        "kuvaus": "Netflix-dokumenttisarja Lontoon pommi-iskujen tekijöiden jäljillä. Sivuaa myös median tapaa käsitellä terrori-iskuja.",
+        "google_linkki": "https://www.google.com/search?q=Lontoon+pommi-iskut+dokumentti+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=London+bombing+documentary+Netflix"
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": true,
+        "suosittelija": "Hanna-Avusta",
+        "teos": "Pod Save the World",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "maailmanpolitiikka"
+        ],
+        "kuvaus": "Yhdysvaltalainen podcast, jossa Obaman entinen neuvonantaja Ben Rhodes ja Tommy Vietor analysoivat maailmanpolitiikkaa demokraattilähtöisestä mutta analyyttisesta näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=Pod+Save+the+World",
+        "lisatieto_linkki": "https://open.spotify.com/search/Pod+Save+the+World"
+      }
+    ]
+  },
+  {
+    "j_idx": 50,
+    "jakso_id": "8c3759a2-25f0-4e8f-8284-cfd91d122eb5",
+    "jakso_otsikko": "Tullisekoilu, Pääsiäismuna-Satonen ja robotit tiskareina",
+    "paivamaara": "10.4.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/8c3759a2-25f0-4e8f-8284-cfd91d122eb5.mp3",
+    "kesto_sek": 4907,
+    "kesto_str": "01:21:47",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Sohvi, Marko ja Salla puivat Trumpin kauppasotaa, joka ehkä peruttiin tai ehkä sittenkään ei. Lisäksi kolmikko keskustelee poliittisista virkanimityksistä ja siitä, voiko poliitikko olla pätevä johtaja. Sohvi tivaa Markon ja Sallan tärppejä vaali-illan seuraamiseen, ja lopuksi toivotaan roboteista pelastusta sukkien lajitteluun.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "When the Going Was Good",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "journalismi",
+          "media"
+        ],
+        "kuvaus": "Vanity Fairin entisen päätoimittajan Graydon Carterin muistelmat aikakauslehtijournalismin kultakaudelta. Kirja kuvaa aikaa, jolloin medialla oli rajattomat resurssit ja New Yorkin lehtimiespiirit kukoistivat.",
+        "google_linkki": "https://www.google.com/search?q=When+the+Going+Was+Good+Graydon+Carter",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=When+the+Going+Was+Good+Graydon+Carter"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "The Daily – I Felt the Shame: Why One Lawyer Resigned When His Firm Caved to Trump",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "oikeusvaltio",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa asianajaja Thomas Sipp kertoo, miksi hän irtisanoutui suuresta lakifirmasta sen antauduttua Trumpin hallinnon painostukselle. Jakso valottaa oikeusvaltion rapautumista yksittäisen ihmisen näkökulmasta.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+NYT+I+Felt+the+Shame+lawyer+resigned+firm+caved+Trump",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20NYT%20I%20Felt%20the%20Shame%20lawyer%20resigned"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "American Factory",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "talous",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Vuoden 2019 Oscar-palkittu dokumentti, jossa kiinalainen yritys ostaa entisen General Motorsin tehtaan Ohiossa ja palkkaa tuhansia amerikkalaisia työntekijöitä. Elokuva kuvaa kiinalaisen tehokkuusajattelun ja amerikkalaisen duunarikulttuurin rajua törmäystä.",
+        "google_linkki": "https://www.google.com/search?q=American+Factory+dokumentti+2019",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=American+Factory"
+      }
+    ]
+  },
+  {
+    "j_idx": 218,
+    "jakso_id": "tag:soundcloud,2010:tracks/1465903744",
+    "jakso_otsikko": "10.3.2023: VM:n linjaukset, isyys ei kiinnosta, sateenkaaribägi",
+    "paivamaara": "10.3.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/4eafa8e3-faeb-48eb-b9b3-3d4ce3c9d62b.mp3",
+    "kesto_sek": 4693,
+    "kesto_str": "01:18:13",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Emil Elo",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Emil Elo ja Anni Keski-Heikkilä keskustelevat valtiovarainministeriön laskelmista lähteneistä keskusteluista jotka päättyivät kokoomuksen ja keskustan ilmoituksiin hallituskumppaneista, sekä isyyskannoista joita suomalaiset miehet esittelivät HS:n jutuissa, sekä tasa-arvovaltuutetun toimiston lausunnosta, joka sai aikaan raivoa ympäri maata.\n\nUutisraportt",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Kadonnut keskittymiskyky – artikkeli (Merja Saarinen, HS Visio)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "pitkä juttu",
+          "hyvinvointi",
+          "psykologia"
+        ],
+        "kuvaus": "HS Vision pitkä artikkeli, joka käsittelee keskittymiskyvyn katoamista modernissa maailmassa. Aiheesta on olemassa myös podcast-versio HS Vision podcastissa.",
+        "google_linkki": "https://www.google.com/search?q=Kadonnut+keskittymiskyky+Merja+Saarinen+HS+Visio",
+        "lisatieto_linkki": "https://www.hs.fi/visio/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Babylon Berlin",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "murhamysteeri",
+          "historiallinen draama",
+          "saksalainen"
+        ],
+        "kuvaus": "Saksalainen murhamysteeri-sarja, joka sijoittuu ensimmäisen maailmansodan jälkeiseen Berliiniin. Suosittelija kehuu sarjan eurooppalaista tunnelmaa ja saksalaista tuotantoa.",
+        "google_linkki": "https://www.google.com/search?q=Babylon+Berlin+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Babylon+Berlin"
+      }
+    ]
+  },
+  {
+    "j_idx": 269,
+    "jakso_id": "tag:soundcloud,2010:tracks/1229810752",
+    "jakso_otsikko": "10.3.2022: Niinistön ”prosessi”, puolueiden Nato-asennot, sodan sumun torjunta",
+    "paivamaara": "10.3.2022",
+    "audio_url": "https://podcasts.captivate.fm/media/b17da794-f800-4b8a-9f15-bb0eef5fe4e8/1229810752-uutisraportti-1032022-niiniston-prosessi-puolueiden.mp3",
+    "kesto_sek": 4103,
+    "kesto_str": "01:08:23",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat Niinistön Washingtonin-pyrähdyksestä, suomalaisten puolueiden Nato-kannoista ja tavoista joilla sotauutisten raskautta voi hälventää.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärke",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Eversti",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sota",
+          "suomalainen kirjallisuus",
+          "historiallinen fiktio"
+        ],
+        "kuvaus": "Rosa Liksomin romaani, joka käsittelee sotaa, natseja, Lapin paloa ja perheväkivaltaa synkästi mutta upeasti kirjoitettuna. Toimii outona lohtuna raskaina aikoina.",
+        "google_linkki": "https://www.google.com/search?q=Rosa+Liksom+Eversti",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Eversti+Rosa+Liksom"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ylen uutispodcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "uutiset",
+          "suomalainen podcast",
+          "journalismi"
+        ],
+        "kuvaus": "Ylen uusi uutispodcast, jota tuottaa Maria Manner. Laadukas äänimaailma ja koskettava uutissisältö – tervetullut lisä suomalaiseen podcast-kenttään.",
+        "google_linkki": "https://www.google.com/search?q=Ylen+uutispodcast",
+        "lisatieto_linkki": "https://areena.yle.fi/podcastit"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "UEFA:n Instagram-tili",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "some",
+          "UEFA"
+        ],
+        "kuvaus": "UEFA:n Instagram-tili postaa parhaat palat jalkapallo-otteluista ja maailmantähtien kikkailut hidastettuna. Hyvä tapa nauttia jalkapallosta ilmaiseksi pieninä annoksina.",
+        "google_linkki": "https://www.google.com/search?q=UEFA+Instagram",
+        "lisatieto_linkki": "https://www.instagram.com/uefachampionsleague/"
+      }
+    ]
+  },
+  {
+    "j_idx": 273,
+    "jakso_id": "tag:soundcloud,2010:tracks/1213357609",
+    "jakso_otsikko": "10.2.2022: Mika Niikko, opettajien työn puuroutuminen, Convoy",
+    "paivamaara": "10.2.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/87d5c3c5-093d-45b8-8884-22dc54c48aa3.mp3",
+    "kesto_sek": 4129,
+    "kesto_str": "01:08:49",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Anna-Sofia Berner keskustelevat Josep Borrellin vastauksesta Sergei Lavroville, Mika Niikon skandaalimaisen typerästä twiitistä, opettajien työn puuroutumisesta kaikkialle hiipivästä metatyöstä, ja convoy-rekkarallista Suomessa.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan s",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Lähiö (Joakim Zander)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkarit",
+          "nordic noir",
+          "poliittinen jännitys"
+        ],
+        "kuvaus": "Ruotsalainen nordic noir -dekkari, jossa yhdistyvät Syyrian Isis-taistelijoiksi lähteneet nuoret, lähiöongelmat ja venäläinen vaikuttaminen. Kirjailija Joakim Zander on itse työskennellyt EU-parlamentissa.",
+        "google_linkki": "https://www.google.com/search?q=L%C3%A4hi%C3%B6+Joakim+Zander",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=L%C3%A4hi%C3%B6+Joakim+Zander"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Suomalaiset naistenlehdet",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "aikakauslehdet",
+          "suomalaisuus",
+          "media"
+        ],
+        "kuvaus": "Anna-Sofia Berner suosittelee suomalaisia naistenlehtiä, jotka hän koki ilona palattuaan Yhdysvalloista – järkeviä, tasa-arvoisia ja sekä viihdyttäviä että sisällöllisesti kiinnostavia.",
+        "google_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet",
+        "lisatieto_linkki": "https://www.google.com/search?q=suomalaiset+naistenlehdet"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Honestly-podcast (Bari Weiss)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "journalismi"
+        ],
+        "kuvaus": "New York Timesin entisen mielipidetoimitajan Bari Weissin konservatiivi-republikaaninen podcast. Erityisesti jakso, jossa Matt Taibbi keskustelee Ukrainasta, on Tuomaksen mukaan raivostuttavan paljastava.",
+        "google_linkki": "https://www.google.com/search?q=Honestly+podcast+Bari+Weiss",
+        "lisatieto_linkki": "https://open.spotify.com/search/Honestly%20Bari%20Weiss"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Troijan hevonen -podcast (The Trojan Horse Affair)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tutkiva journalismi",
+          "islam",
+          "britannia"
+        ],
+        "kuvaus": "Serial-tuotantotiimin uusi podcast-sarja, joka tutkii Englannissa syntynyttä skandaalia väitetyistä islamistiverkostoista kouluissa. Seuraa saagaa, johon liittyy myös Britannian hallituksen Michael Gove.",
+        "google_linkki": "https://www.google.com/search?q=The+Trojan+Horse+Affair+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Trojan%20Horse%20Affair"
+      }
+    ]
+  },
+  {
+    "j_idx": 331,
+    "jakso_id": "tag:soundcloud,2010:tracks/944900617",
+    "jakso_otsikko": "10.12.2020: Pikkujoululähetys: P*sk*sirkus perustuslakivaliokunnassa",
+    "paivamaara": "10.12.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/e1e073f5-bb27-4bd1-9e87-0e7320654e67.mp3",
+    "kesto_sek": 5387,
+    "kesto_str": "01:29:47",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Pekka Mykkänen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat ulkoministeri Pekka Haaviston ministeririkosjupakasta, joka johti kovaan kuohuntaan perustuslakivaliokunnan sisällä ja sen ulkopuolellakin. Vieraaksi pikkujoululähetystä varten Sanomataloon on pyydetty toinen politiikkanarkkareiden suosikkipodcast, Apunen–Maliranta eli AM.\nUutisraportti podcast on Helsingin San",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Kadonneen arkin metsästys",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "seikkailu",
+          "tietokirja"
+        ],
+        "kuvaus": "Tutkija Timo Juutilaisen kirja suomalaisesta runoilijasta ja maan mittarista Valtteri Juveliuksesta, joka lähti etsimään Liiton arkkia Jerusalemista viime vuosisadan alussa ja sai aikaan kansainvälisen skandaalin. Sujuvasti kirjoitettu tositarina.",
+        "google_linkki": "https://www.google.com/search?q=Kadonneen+arkin+metsästys+Timo+Juutilainen",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kadonneen+arkin+metsästys"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Matti Apunen",
+        "teos": "Future Politics",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "yhteiskunta",
+          "tulevaisuus"
+        ],
+        "kuvaus": "Jamie Susskindin kirja siitä, miten poliittiset prosessit ja ihmisten käsitys reilusta muuttuvat. Erittäin valaiseva teos politiikan tulevaisuudesta.",
+        "google_linkki": "https://www.google.com/search?q=Future+Politics+Jamie+Susskind",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Future+Politics+Jamie+Susskind"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "A Civil Action",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "oikeustapaus",
+          "ympäristö",
+          "tietokirja"
+        ],
+        "kuvaus": "Jonathan Harrin tositarina 1980-luvun Yhdysvalloista, jossa nuori juristi otti vastaan tapauksen tehtaiden myrkyistä aiheutuneesta leukemiarypäästä pienellä paikkakunnalla. Kirja kertoo oikeustaistelun yksityiskohtaisesti ja fiktiomaisesti.",
+        "google_linkki": "https://www.google.com/search?q=A+Civil+Action+Jonathan+Harr",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Civil+Action+Jonathan+Harr"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Boys",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "supersankarit",
+          "toiminta",
+          "sarjakuva-adaptaatio"
+        ],
+        "kuvaus": "Amazon Prime -sarjakuvasarjaan perustuva sarja, jossa CIA:n epävirallinen ryhmä käy antamaan turpaan korruptoituneille supersankareille. Garth Ennisin sarjakuvaan perustuva, erittäin laadukas ja palkittu sarja.",
+        "google_linkki": "https://www.google.com/search?q=The+Boys+Amazon+Prime+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Boys"
+      }
+    ]
+  },
+  {
+    "j_idx": 233,
+    "jakso_id": "tag:soundcloud,2010:tracks/1380211654",
+    "jakso_otsikko": "10.11.2022: USA:n vaalit, välikysymyskeskustelu ennallistamisesta, miesten ulkonäköpaineet",
+    "paivamaara": "10.11.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/3b154cf5-a9ac-4d2e-842e-afcbefe13ce3.mp3",
+    "kesto_sek": 4608,
+    "kesto_str": "01:16:48",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Marko Junkkari",
+      "Pekka Mykkänen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari, Pekka Mykkänen ja Anni Keski-Heikkilä keskustelevat maltillisesti päättyneistä USA:n midterm-vaaleista, Marinin hallituksen loppukaarteesta, jossa sotkeudutaan jalkoihin, ja miesten ulkonäköpaineista, naisten ulkonäköpaineista ja inceleistä.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja anal",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Company",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "agenttiromaani",
+          "historia",
+          "vakoilu"
+        ],
+        "kuvaus": "Robert Littelin kirjoittama agenttiromaani, joka kattaa viisikymmentä vuotta CIA:n historiaa sekoittaen fiktiiviset hahmot oikeisiin historiallisiin tapahtumiin kuten Unkarin kansannousuun 1956 ja Sikojenlahden maihinnousuun. Kirjasta on tehty myös BBC:n tv-sarja.",
+        "google_linkki": "https://www.google.com/search?q=The+Company+Robert+Littell",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Company+Robert+Littell"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Guillermo del Toron Cabinet of Curiosities",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "kauhu",
+          "antologia",
+          "Netflix"
+        ],
+        "kuvaus": "Netflixissä oleva kahdeksanosainen kauhuantologiasarja, joka yhdistelee huumoria ja kauhua Tales from the Crypt -henkeen. Ei vakavaa kauhua vaan viihdyttävää ja omituista eskapismia.",
+        "google_linkki": "https://www.google.com/search?q=Guillermo+del+Toro+Cabinet+of+Curiosities",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Guillermo+del+Toro+Cabinet+of+Curiosities"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Game of Thrones",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "HBO"
+        ],
+        "kuvaus": "Suosittu fantasiasarja, jonka Anni Keski-Heikki aloitti katsottuaan ensin jatko-osan House of the Dragon. Alkaa hyvin ja koukuttaa nopeasti.",
+        "google_linkki": "https://www.google.com/search?q=Game+of+Thrones",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Game+of+Thrones"
+      }
+    ]
+  },
+  {
+    "j_idx": 284,
+    "jakso_id": "tag:soundcloud,2010:tracks/1157528071",
+    "jakso_otsikko": "10.11.2021: Valko-Venäjän operointi EU:n rajoilla, Wolt 7mrd e",
+    "paivamaara": "10.11.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/75aca291-9cd7-4ce5-bde1-6ac1a2fab45e.mp3",
+    "kesto_sek": 3481,
+    "kesto_str": "58:01",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat Valko-Venäjän operaatioista Puolan rajalla, ja niiden aiheuttamista reaktioista Suomessa, sekä Woltista, joka myytiin 7 miljardilla eurolla jenkkeihin.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kari Lumikerron muistelmat – jatko-osa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "muistelmat",
+          "toimittaja",
+          "huumori"
+        ],
+        "kuvaus": "Maikkarin tv-toimittaja Kari Lumikerron muistelmien jatko-osa, joka on suosittelijan mukaan vielä hauskempi kuin ensimmäinen osa – päästään suoraan hauskoihin juttuihin ilman lapsuuden historiaa.",
+        "google_linkki": "https://www.google.com/search?q=Kari+Lumikerro+muistelmat+jatko-osa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kari+Lumikerro"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Kalifaatti",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "terrorismi",
+          "Ruotsi"
+        ],
+        "kuvaus": "Ruotsalainen dramasarja, joka kertoo Syyriaan ISIS:n riveihin lähteneistä ruotsalaisista. Erittäin vetävästi tehty, kiinnostavat hahmot ja hyvät näyttelijäsuoritukset – katsottavissa Netflixissä.",
+        "google_linkki": "https://www.google.com/search?q=Kalifaatti+ruotsalainen+sarja+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kalifaatti"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Menneisyyden jäljillä",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "Suomi",
+          "haastattelu"
+        ],
+        "kuvaus": "Lotta Vuorion isännöimä suomalainen historia-podcast, jossa haastatellaan historiantutkijoita kiinnostavista aiheista kuten prostituutio 1800-luvun Turussa. Lempeä ja viehättävä tyyli.",
+        "google_linkki": "https://www.google.com/search?q=Menneisyyden+j%C3%A4ljill%C3%A4+podcast+Lotta+Vuorio",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menneisyyden%20j%C3%A4ljill%C3%A4"
+      }
+    ]
+  },
+  {
+    "j_idx": 23,
+    "jakso_id": "8c59c939-817f-4936-9dcd-ef4280499fb3",
+    "jakso_otsikko": "Jää murtui Washingtonissa, porno-ope, arvokas käytös",
+    "paivamaara": "10.10.2025",
+    "audio_url": "https://episodes.captivate.fm/episode/8c59c939-817f-4936-9dcd-ef4280499fb3.mp3",
+    "kesto_sek": 4659,
+    "kesto_str": "01:17:39",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko ja Salla keskustelevat poikkeuksellisesta Valkoisen talon vierailusta, jossa presidentit Alexander Stubb ja Donald Trump ja pääministeri Petteri Orpo istuskelivat kuin ystävykset, rennosti vain jäämurtajilla bisnestä tehden; ja Suomea tällä viikolla kuohuttaneesta porno-opesta, ja vielä eduskunnan vaalimasta arvokkaasta käytöksestä.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Task (TV-sarja)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikosdraama",
+          "HBO",
+          "amerikkalaiset sarjat"
+        ],
+        "kuvaus": "HBO:n rikosdraama, jossa roskakuski alkaa ryöstää huumetaloja ja FBI-agentti yrittää saada moottoripyöräjengiä kiinni. Syvällisesti käsikirjoitettu sarja yksinäisyydestä ja miehen elämän haasteista.",
+        "google_linkki": "https://www.google.com/search?q=Task+HBO+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Task+HBO"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Metsäpolun raivaaminen itse",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "ulkoilu",
+          "hyvinvointi"
+        ],
+        "kuvaus": "Tuomas suosittelee ostamaan vesurin ja raivaamaan itse oman luontopolun lähimetsään tai joenvarsipusikkoon. Oman luontopaikan tekeminen lähelle kotia on henkisesti palkitsevaa.",
+        "google_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri",
+        "lisatieto_linkki": "https://www.google.com/search?q=mets%C3%A4polun+raivaaminen+vesuri"
+      }
+    ]
+  },
+  {
+    "j_idx": 244,
+    "jakso_id": "tag:soundcloud,2010:tracks/1335541246",
+    "jakso_otsikko": "1.9.2022: Sähkön hinta, budjettiriihi ja Veikkaus, Mt. Innovation",
+    "paivamaara": "1.9.2022",
+    "audio_url": "https://episodes.captivate.fm/episode/148ab85c-5de6-49aa-9f3a-0bd0d2564528.mp3",
+    "kesto_sek": 3965,
+    "kesto_str": "01:06:05",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Jarno Hartikainen",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Marko Junkkari ja Jarno Hartikainen keskustelevat siitä, miksi sähkön hinta nousee ja millaisia ongelmia se tietää meille kaikille, lisäksi Alma ja Marko puhuvat nopeasti budjettiriihestä ja Veikkauksen osavuosikatsauksesta sekä lopuksi käyvät läpi vielä Linkedin-porukan retkeä Grönlantiin.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen po",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Tiina Itkonen – Grönlanti-valokuvat",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "valokuvaus",
+          "luonto",
+          "Grönlanti"
+        ],
+        "kuvaus": "Suomalainen taidevalokuvaaja Tiina Itkonen on kuvannut Grönlantia vuosikymmeniä. Hänen jäävuori- ja jääkarhokuvansa ovat huikeita ja hänellä on ollut näyttelyitä muun muassa Ranskassa.",
+        "google_linkki": "https://www.google.com/search?q=Tiina+Itkonen+Gr%C3%B6nlanti+valokuvat",
+        "lisatieto_linkki": "https://www.google.com/search?q=Tiina+Itkonen+photographer+Greenland"
+      }
+    ]
+  },
+  {
+    "j_idx": 150,
+    "jakso_id": "tag:soundcloud,2010:tracks/1886394150",
+    "jakso_otsikko": "1.8.2024: Tunnin juna, varhaiskasvatus, Coldsinki",
+    "paivamaara": "1.8.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/afb24844-49da-4e99-9ab6-5b2b3cda6c34/1886394150-uutisraportti-182024-tunnin-juna-varhaiskasvatus-col.mp3",
+    "kesto_sek": 4011,
+    "kesto_str": "01:06:51",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "Tämän viikon podcastissa Joona, Rasmus ja Oskari käyvät läpi niin sanottua Turun tunnin junaa, jonka suunniteltu matka-aika on sittemmin venynyt nopeimmillaan 78 minuuttiin. Lisäksi keskustellaan hallituksen aikeesta poistaa yhdenvertaisuussuunnitelmat päiväkodeista ja brittiyhtye Coldplayn Helsingin-keikoista.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
+        "teos": "Pod Save the World",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "politiikka",
+          "maailmanpolitiikka",
+          "USA"
+        ],
+        "kuvaus": "Yhdysvaltain maailmanpolitiikkaa käsittelevä podcast, jota juontavat kaksi Obaman entistä läheistä avustajaa. Suositellaan erityisesti kansainvälisestä politiikasta kiinnostuneille.",
+        "google_linkki": "https://www.google.com/search?q=Pod+Save+the+World",
+        "lisatieto_linkki": "https://open.spotify.com/search/Pod%20Save%20the%20World"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Oskari Eronen",
+        "teos": "Hymni rakkaudelle – Céline Dionin esitys Pariisin olympialaisten avajaisissa",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "olympialaiset",
+          "klassikko",
+          "live-esitys"
+        ],
+        "kuvaus": "Céline Dion esitti Edith Piafin klassikon 'Hymni rakkaudelle' Eiffel-tornin juurella Pariisin olympialaisten avajaisseremoniassa. Harvinainen ja liikuttava esitys vakavasti sairaalta artistilta.",
+        "google_linkki": "https://www.google.com/search?q=Celine+Dion+Olympics+Hymne+%C3%A0+l%27amour",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Olympics+Celine+Dion+Hymne+a+l+amour"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Joona Aaltonen",
+        "teos": "Ennen kuin kahvi jäähtyy",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "japanilainen kirjallisuus",
+          "aikamatkustus",
+          "hyvän mielen kirja"
+        ],
+        "kuvaus": "Toshikazu Kawaguchin japanilaisromaani kertoo kahvilasta, jossa voi matkustaa ajassa taaksepäin yhdeltä erityiseltä tuolilta. Kevyt, helppolukuinen ja hyvänmielen kirja, joka käsittelee suuria tunteita höyhenen kevyesti.",
+        "google_linkki": "https://www.google.com/search?q=Ennen+kuin+kahvi+j%C3%A4%C3%A4htyy+Toshikazu+Kawaguchi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Ennen+kuin+kahvi+j%C3%A4%C3%A4htyy"
+      }
+    ]
+  },
+  {
+    "j_idx": 400,
+    "jakso_id": "tag:soundcloud,2010:tracks/659507876",
+    "jakso_otsikko": "1.8.2019: Ylikulutuspäivä, kansanedustajien taksimatkat ja Flow-festivaalin riistoepäilyt",
+    "paivamaara": "1.8.2019",
+    "audio_url": "https://episodes.captivate.fm/episode/1e8a785a-0b95-4a8e-b3b0-1cc46bae8fc5.mp3",
+    "kesto_sek": 3283,
+    "kesto_str": "54:43",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Milka Valtanen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "Tämän viikon Uutisraportissa Milka Valtanen, Alma Onali ja Tuija Siltamäki keskustelevat ylikulutuspäivästä, kansanedustajien taksimatkoista ja Flow-festivaalin riistoepäilyistä.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
+        "teos": "Anna-Sofia Bernerin juttu Minnesotan somaliyhteisöstä (Helsingin Sanomat)",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "reportaasi",
+          "maahanmuutto",
+          "Yhdysvallat"
+        ],
+        "kuvaus": "Helsingin Sanomien ulkomaankirjeenvaihtajan Anna-Sofia Bernerin reportaasi Yhdysvaltojen Minnesotan somaliyhteisöstä. Juttu vertaa yhteisön tilannetta myös Suomessa käytävään keskusteluun.",
+        "google_linkki": "https://www.google.com/search?q=Anna-Sofia+Berner+Minnesota+somaliyhteisö+Helsingin+Sanomat",
+        "lisatieto_linkki": "https://www.hs.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Milka Valtanen",
+        "teos": "The Clearing",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "true crime",
+          "murha",
+          "amerikka"
+        ],
+        "kuvaus": "Amerikkalainen true crime -podcast, jossa nainen alkaa selvittää isänsä tekemiä murhia. Sarjaa on julkaistu muutama jakso ja se on herättänyt kiinnostusta.",
+        "google_linkki": "https://www.google.com/search?q=The+Clearing+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Clearing%20podcast"
+      }
+    ]
+  },
+  {
+    "j_idx": 303,
+    "jakso_id": "tag:soundcloud,2010:tracks/1079537803",
+    "jakso_otsikko": "01.07.2021: Himos, kisaturistit ja korona, turismin avautuminen ja tiedepiratismi",
+    "paivamaara": "1.7.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/cbde02e2-c058-49e2-9754-f9352cdf8fd5.mp3",
+    "kesto_sek": 3315,
+    "kesto_str": "55:15",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Joakim Westrén-Doll",
+      "Sara Vainio"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Sara Vainio ja Joakim Westrén-Doll keskustelevat festarikesän näkymistä, kun Himos Juhannus ja Pietarin EM-kisaturistit ovat aiheuttaneet somekohua. Lisäksi puhutaan turismin avautumisesta ja Barcelonan kaltaisten yliturismin uhrien tulevaisuudesta sekä tiedepiratismista.\n Uutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa pureta",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Sara Vainio",
+        "teos": "Shakki (nettishakki)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "shakki",
+          "pelit",
+          "ajanviete"
+        ],
+        "kuvaus": "Sara Vainio suosittelee nettishakkia helteen pakoon sisälle jäädessä. Vaikka säännöt osaa, peli saa tuntemaan itsensä tosi tyhmäksi – mutta anonyymisti.",
+        "google_linkki": "https://www.google.com/search?q=nettishakki+chess.com",
+        "lisatieto_linkki": "https://www.chess.com"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Joakim Westrén-Doll",
+        "teos": "Kaikki paskaksi ja ystävät",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "meemit",
+          "some",
+          "nuorisokulttuuri"
+        ],
+        "kuvaus": "Podcast, jossa meemitilien adminit juttelevat meemeistä, politiikasta ja elämästä. Tarjoaa kiinnostavan näkökulman zoomerikulttuuriin ja siihen, miten nuoret saavat tietonsa somesta ja meemeistä.",
+        "google_linkki": "https://www.google.com/search?q=Kaikki+paskaksi+ja+ystävät+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Kaikki%20paskaksi%20ja%20ystävät"
+      }
+    ]
+  },
+  {
+    "j_idx": 206,
+    "jakso_id": "tag:soundcloud,2010:tracks/1527802474",
+    "jakso_otsikko": "1.6.2023: Rkp vs. ps, vihreiden pj-kisa, IL:n Ukraina-jutut",
+    "paivamaara": "1.6.2023",
+    "audio_url": "https://episodes.captivate.fm/episode/741e97ec-5870-45f9-848c-0f08c5f94b3a.mp3",
+    "kesto_sek": 4408,
+    "kesto_str": "01:13:28",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Petja Pelli",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon jaksossa keskustellaan rkp:n roolista ja sielusta kun se taistelee perussuomalaisten kanssa maahanmuuttolinjauksista hallitusneuvotteluissa, ja lisäksi vihreiden pj-kisasta jossa vastakkain ovat Saara Hyrkkö ja Sofia Virta, sekä IL:n Ukrainan-avustajan kirjoitttamista jutuista jotka lehti joutui poistamaan niiden paljastuttua todennäköisesti osin sepitetyiksi.\nStudiossa Tuomas Peltomä",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Superpesis – pesäpallopelit paikan päällä",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "pesäpallo",
+          "liveurheilu",
+          "kesä"
+        ],
+        "kuvaus": "Suositellaan lähtemään katsomaan superpesiksen otteluita paikan päälle, esimerkiksi Hyvinkään Tahkon tai Roihuttarien peleihin. Livenä kokemus on paljon parempi kuin televisiosta katsottuna.",
+        "google_linkki": "https://www.google.com/search?q=Superpesis+pesäpallo",
+        "lisatieto_linkki": "https://www.superpesis.fi"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Yölaulajalintujen kuuntelu luonnossa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "lintuharrastus",
+          "kesä"
+        ],
+        "kuvaus": "Kesäkuun alkupäivät ovat paras aika lähteä iltakävelylle kuulemaan yölaulajia kuten viitakerttu, satakieli ja viitasirkkalintu. Helsingissä esimerkiksi Lammassaari on hyvä kohde.",
+        "google_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli",
+        "lisatieto_linkki": "https://www.google.com/search?q=yölaulajalinnut+Suomi+viitakerttu+satakieli"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Riistetyt",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "dokumentti",
+          "maahanmuutto",
+          "ihmisoikeudet"
+        ],
+        "kuvaus": "Kolmiosainen suomalainen dokumenttisarja (2022), ohjannut Janette Björqvist. Sarja käsittelee ihmiskauppaa, työorjuutta ja alaikäisinä Suomeen tulleita pakolaisia – löytyy Yle Areenasta.",
+        "google_linkki": "https://www.google.com/search?q=Riistetyt+dokumenttisarja+Yle+Janette+Björqvist",
+        "lisatieto_linkki": "https://imdb.com/find/?q=Riistetyt"
+      }
+    ]
+  },
+  {
+    "j_idx": 316,
+    "jakso_id": "tag:soundcloud,2010:tracks/1020340348",
+    "jakso_otsikko": "1.4.2021: Rokotejärjestys, PeV vs Marin, VTV:n kampaajat",
+    "paivamaara": "1.4.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/1a4117f1-5882-43aa-b9da-e4a4f2773d2d.mp3",
+    "kesto_sek": 4328,
+    "kesto_str": "01:12:08",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat rokotejärjestyksestä, joka pitkän väännön jälkeen hyväksyttiin mutta vesitettynä, ja perustuslakivaliokunnan lausunnosta joka ryttäsi hallituksen ajaman ulkonaliikkumiskiellon, ja VTV:n johtajan kujanjuoksusta.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analys",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Mindhunter",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "rikossarja",
+          "psykologia",
+          "tosi tapahtumat"
+        ],
+        "kuvaus": "Netflix-sarja 1970-luvun FBI:stä, jossa kaksi agenttia kehittää sarjamurhaajien psykologista profilointia. Hyvin tehty, hauska 70-lukulainen tunnelma ja hyvät näyttelijät.",
+        "google_linkki": "https://www.google.com/search?q=Mindhunter+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mindhunter"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
+        "teos": "Fevers, Feuds, and Diamonds: Ebola and the Ravages of History",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "terveys",
+          "pandemia",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Yhdysvaltalaisen lääkäri-antropologi Paul Farmerin teos ebolasta ja kansainvälisen pandemianhoidon puutteista. Kriittinen katsaus siihen, miten tartuntojen torjunta ajoi hoidon edelle Länsi-Afrikassa.",
+        "google_linkki": "https://www.google.com/search?q=Fevers+Feuds+and+Diamonds+Paul+Farmer",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Fevers+Feuds+and+Diamonds+Paul+Farmer"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "From Hell",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sarjakuva",
+          "historia",
+          "viktoriaaninen aika"
+        ],
+        "kuvaus": "Alan Mooren ja Eddie Campbellin klassinen sarjakuva Jack the Ripperistä – holistinen tutkielma viktoriaanisen Englannin yhteiskunnasta, vapaamuuraruudesta ja ensimmäisestä sarjamurhaajasta. Yksi kaikkien aikojen hienoimmista sarjakuvista.",
+        "google_linkki": "https://www.google.com/search?q=From+Hell+Alan+Moore+sarjakuva",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=From+Hell+Alan+Moore"
+      }
+    ]
+  },
+  {
+    "j_idx": 175,
+    "jakso_id": "tag:soundcloud,2010:tracks/1734321072",
+    "jakso_otsikko": "1.2.2024: Lakkoa, pressaa ja Taylor Swiftiin seonnut Amerikka",
+    "paivamaara": "1.2.2024",
+    "audio_url": "https://podcasts.captivate.fm/media/316f42de-d8dd-4b2b-a858-dd62d59b0f23/1734321072-uutisraportti-122024-lakkoa-pressaa-ja-taylor-swifti.mp3",
+    "kesto_sek": 4174,
+    "kesto_str": "01:09:34",
+    "rss_osallistujat": [
+      "Anni Keski-Heikkilä",
+      "Anni Lassila",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa pohditaan, miksi Riikka ei tule ikkunaan, vaikka torilla huutaa lakkoväki.  Lisäksi käydään läpi presidenttiehdokkaiden viime hetken vedot ja kysytään, ratkaiseeko pop-tähti Yhdysvaltain vaalit. Studiossa Salla Vuorikoski, Marko Junkkari ja Anni Keski-Heikkilä.\nPodcastin muut ilmestymiskanavat ja lisätietoa löydät täältä: hs.fi/uutisraporttipod.",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Travis Kelce podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "urheilu",
+          "viihde",
+          "amerikkalaiset"
+        ],
+        "kuvaus": "Travis Kelcen ja hänen veljensä yhteinen podcast, jossa he puhuvat avoimesti kaikesta. Suositellaan Taylor Swift -fanien lisäksi kaikille.",
+        "google_linkki": "https://www.google.com/search?q=Travis+Kelce+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Travis%20Kelce%20podcast"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Miss Americana",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "pop-kulttuuri"
+        ],
+        "kuvaus": "Taylor Swiftin itsensä hyväksymä dokumentti, jossa käsitellään muun muassa hänen ensimmäistä kertaansa ottaa kantaa politiikkaan.",
+        "google_linkki": "https://www.google.com/search?q=Miss+Americana+dokumentti+Taylor+Swift",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Miss+Americana"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Emperor of Ocean Park",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "amerikkalaiset",
+          "rotu ja yhteiskunta"
+        ],
+        "kuvaus": "Stephen L. Carterin dekkari, jonka päähenkilöinä on koulutettuja keskiluokkaisia mustia amerikkalaisia. Loistava maailmanrakennus ja jännittävä juoni.",
+        "google_linkki": "https://www.google.com/search?q=The+Emperor+of+Ocean+Park+Stephen+L+Carter",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+Ocean+Park"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "New England White",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "amerikkalaiset",
+          "rotu ja yhteiskunta"
+        ],
+        "kuvaus": "Stephen L. Carterin toinen romaani, jossa esiintyy samoja henkilöitä kuin The Emperor of Ocean Parkissa. Samantyylinen ja yhtä laadukas dekkari.",
+        "google_linkki": "https://www.google.com/search?q=New+England+White+Stephen+L+Carter",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=New+England+White+Stephen+L+Carter"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Palace Council",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "dekkari",
+          "historia",
+          "amerikkalaiset"
+        ],
+        "kuvaus": "Stephen L. Carterin kolmas romaani, joka sijoittuu 1950-luvun Yhdysvaltoihin. Älyttömän hyvä kirja, jossa tuttuun tapaan käsitellään rotukysymyksiä kiehtovassa ympäristössä.",
+        "google_linkki": "https://www.google.com/search?q=Palace+Council+Stephen+L+Carter",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Palace+Council+Stephen+L+Carter"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Karjala-tietokanta",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "sukututkimus",
+          "historia",
+          "Karjala"
+        ],
+        "kuvaus": "Verkossa oleva tietokanta, josta voi hakea tietoja Karjalassa asuneista sukulaisista: rippikirjoja, muuttotietoja ja muuta historiallista nippelitietoa.",
+        "google_linkki": "https://www.google.com/search?q=Karjala-tietokanta",
+        "lisatieto_linkki": "https://www.google.com/search?q=Karjala-tietokanta"
+      }
+    ]
+  },
+  {
+    "j_idx": 290,
+    "jakso_id": "tag:soundcloud,2010:tracks/1134345391",
+    "jakso_otsikko": "1.10.2021: Saksan vaalit, poliisin määrärahat, Elokapina ja Ohisalo",
+    "paivamaara": "1.10.2021",
+    "audio_url": "https://episodes.captivate.fm/episode/fff0faa3-9562-4010-92a9-90b9c60cac66.mp3",
+    "kesto_sek": 4040,
+    "kesto_str": "01:07:20",
+    "rss_osallistujat": [
+      "Alma Onali",
+      "Joakim Westrén-Doll",
+      "Maria Manner",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Heikki Aittokoski, Marko Junkkari ja Joakim Westrén-Doll keskustelevat Saksan liittopäivävaaleista, poliisin määrärahoista ja niiden käyttökohteista sekä sisäministeri Maria Ohisalon suhteesta Elokapinaan.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on s",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "IFK Helsingin kotipelit",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "jalkapallo",
+          "fanikulttuuri",
+          "live-urheilu"
+        ],
+        "kuvaus": "Suositellaan menemään katsomaan IFK Helsingin jalkapallo-ottelua ja kokemaan seuran ainutlaatuinen fanikulttuuri Bolt Areenalla.",
+        "google_linkki": "https://www.google.com/search?q=IFK+Helsinki+jalkapallo+kotipelit",
+        "lisatieto_linkki": "https://www.google.com/search?q=IFK+Helsinki+jalkapallo+kotipelit"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Tallinna",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "matkailu",
+          "ravintolat",
+          "kaupunkikulttuuri"
+        ],
+        "kuvaus": "Suositellaan vierailemaan Tallinnassa ja tutustumaan muuhunkin kuin vanhaan kaupunkiin – erityisesti Telliskivi ja Kopli mainitaan kiinnostavina kohteina. Kaupungissa on myös hyviä ravintoloita.",
+        "google_linkki": "https://www.google.com/search?q=Tallinna+matkailu+Telliskivi+Kopli",
+        "lisatieto_linkki": "https://www.google.com/search?q=Tallinna+matkailu+Telliskivi+Kopli"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikkilä",
+        "teos": "Cooper-testi keskustelunaiheena",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "juoksu",
+          "kestävyysurheilu",
+          "keskusteluaihe"
+        ],
+        "kuvaus": "Suositellaan nostamaan Cooper-testi ja Mikko Vieremeläisen ennätystulos kahvipöytäkeskustelun aiheeksi – se herättää ihmisissä muistoja ja paljastaa paljon persoonallisuudesta.",
+        "google_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen",
+        "lisatieto_linkki": "https://www.google.com/search?q=Cooper-testi+Mikko+Vieremeläinen"
+      }
+    ]
+  },
+  {
+    "j_idx": 340,
+    "jakso_id": "tag:soundcloud,2010:tracks/902759080",
+    "jakso_otsikko": "1.10.2020: Kiihtyvä korona, USA:n vaaliväittely, Sananvapaustuomio hovissa",
+    "paivamaara": "1.10.2020",
+    "audio_url": "https://episodes.captivate.fm/episode/38791ede-aeaf-4d0f-8a48-555746ce7f47.mp3",
+    "kesto_sek": 4708,
+    "kesto_str": "01:18:28",
+    "rss_osallistujat": [
+      "Maria Manner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Marko Junkkari ja Maria Manner keskustelevat kasvavista koronaluvuista ja THL:n ja sosiaali- ja terveysministeriön päätöksestä nostaa hälytystasoa juuri nyt, sekä Yhdysvaltain presidentinvaalien ensimmäistä väittelystä ja sananvapauden kannalta kiinnostavasta hovioikeuden tuomiosta.\nPitkien, epämukavien hiljaisuuksien varalle Marko suosittelee kolmatta ke",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "The Wilderness: A History of the First Presidential Race (Mark Halperin & John Heilemann)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "Yhdysvallat",
+          "vaalit"
+        ],
+        "kuvaus": "Pitkä, yli tuhat sivua käsittävä teos Yhdysvaltain presidentinvaalikampanjoista, joka kuvaa poliitikkoja poikkeuksellisen inhimillisesti ja syvällisesti heidän sisäisen maailmansa kautta. Marko Junkkari suositteli teosta kolmatta kertaa peräkkäin.",
+        "google_linkki": "https://www.google.com/search?q=The+Wilderness+Halperin+Heilemann+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wilderness+Halperin+Heilemann"
+      }
+    ]
+  },
+  {
+    "j_idx": 11,
+    "jakso_id": "4a506983-ed11-44f0-907d-250fe58c9b0c",
+    "jakso_otsikko": "Vuosikooste 2025: mitä jäi käteen?",
+    "paivamaara": "1.1.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4a506983-ed11-44f0-907d-250fe58c9b0c.mp3",
+    "kesto_sek": 5242,
+    "kesto_str": "01:27:22",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän vuoden ensimmäisessä jaksossa Tuomas Peltomäki, Anna-Sofia Berner, Salla Vuorikoski ja Marko Junkkari keskustelevat kuluneesta vuodesta 2025.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Something from Nothing – Alison Roman",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "keittokirja",
+          "ruoanlaitto",
+          "amerikkalainen keittiö"
+        ],
+        "kuvaus": "Alison Romanin uusi keittokirja, jossa hyödynnetään ruokakomeron perusraaka-aineita kuten säilykkeitä, öljyjä ja papuja. Reseptit ovat klassisia mutta monipuolisia – pastoja, juutalaisvaikutteisia ruokia ja aasialaisia makuja.",
+        "google_linkki": "https://www.google.com/search?q=Something+from+Nothing+Alison+Roman+keittokirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Something+from+Nothing+Alison+Roman"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Technoir – Gunship",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "synthwave",
+          "dystopia",
+          "elektroninen musiikki"
+        ],
+        "kuvaus": "Gunship-yhtyeen kappale, jonka sanoituksissa John Carpenter kuvaa ydinsodan jälkeistä maisemaa runollisesti. Käytetty jakson avauksessa tunnelmanluojana.",
+        "google_linkki": "https://www.google.com/search?q=Gunship+Technoir+biisi",
+        "lisatieto_linkki": "https://open.spotify.com/search/Gunship%20Technoir"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kino Regina",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "elokuvateatteri",
+          "Helsinki",
+          "kulttuurikokemus"
+        ],
+        "kuvaus": "Helsingin Kampin lähellä sijaitseva elokuvateatteri, jota kehutaan teknisesti laadukkaaksi: hyvät äänet, hyvä kuva ja isot jalkatilat. Sinne voi myös viedä omia juomia.",
+        "google_linkki": "https://www.google.com/search?q=Kino+Regina+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kino+Regina+Helsinki"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Milanon talviolympialaiset 2026",
+        "paakategoria": "urheilu",
+        "kategoriat": [
+          "hiihto",
+          "olympialaiset",
+          "talviurheilu"
+        ],
+        "kuvaus": "Salla Vuorikoski aikoo matkustaa Milano-Cortina 2026 -talviolympialaisiin helmikuussa ja seurata erityisesti hiihtokisoja. Hänellä on jo liput hankittuna.",
+        "google_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+talviolympialaiset",
+        "lisatieto_linkki": "https://www.google.com/search?q=Milano+Cortina+2026+talviolympialaiset"
+      }
+    ]
   }
 ];
