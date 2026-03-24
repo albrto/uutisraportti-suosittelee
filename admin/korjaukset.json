@@ -34,5 +34,23 @@
         "Ranska"
       ]
     }
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 3,
+    "teos": "Loikalan lapset",
+    "uusi_data": {
+      "teos": "Loikalan lapset",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Toimittaja Paavo Teittisen kolmiosainen podcast Loikalan lastensuojelulaitoksen epäkohdista. Useamman vuoden työn tulos, jossa kuullaan asianosaisten omat äänet.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "lastensuojelu",
+        "tutkiva journalismi",
+        "Suomi"
+      ]
+    }
   }
 ]
