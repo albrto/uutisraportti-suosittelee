@@ -1,7 +1,7 @@
 #!/bin/bash
 # Kopioi suositukset.json iCloud-kansiosta, luo .js-versio ja pushaa GitHubiin
 
-SOURCE_JSON="/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsan suositukset/suositukset.json"
+SOURCE_JSON="/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/suositukset.json"
 TARGET_DIR="/Users/antero/.gemini/antigravity/scratch/uutisraportti-web"
 
 # 1. Kopioi JSON
