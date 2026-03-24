@@ -44,6 +44,10 @@ def muotoile_claudella(commits):
     historia_str = "\n".join(f"- {c}" for c in commits)
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
     
+    # Lokitetaan avaimen alku (turvallisesti) tyypin tunnistamiseksi
+    key_prefix = ANTHROPIC_API_KEY[:10] if ANTHROPIC_API_KEY else "PUUTTUU"
+    print(f"🔑 Käytetään avainta (alku): {key_prefix}...")
+
     prompt = f"""Olet "Uutisraportti suosittelee" -verkkosivuston rento ja nörttihuumoria viljelevä tiedottaja. 
 Koodari on tehnyt taustalla teknisiä päivityksiä. Sinun tehtäväsi on tiivistää nämä ihmislukijalle YHTEEN TAI KAHTEEN LYHYEEN KAPPALEESEEN ymmärrettävästi ja humoristisesti, korostaen mitä siistiä "pellin alla" tapahtui verkkosivulle ja koko automaatiolle.
 Kirjoita validia, semanttisesti puhdasta HTML:ää. Käytä rohkeasti <strong>-tageja tärkeissä kohdissa. ÄLÄ LAITA mitään muuta kuin pelkkää HTML-asennettua tekstiä (kuten <p>jotain uutta...</p>). Älä sido sitä ylimääräisten elementtien sisään.
@@ -55,7 +59,10 @@ Koodarin commitit:
     models_to_try = [
         "claude-3-5-sonnet-20240620",
         "claude-3-5-haiku-20241022",
-        "claude-3-haiku-20240307"
+        "claude-3-sonnet-20240229",
+        "claude-3-haiku-20240307",
+        "claude-2.1",
+        "claude-instant-1.2"
     ]
     
     for model_name in models_to_try:
