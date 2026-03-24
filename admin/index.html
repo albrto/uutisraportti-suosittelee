@@ -944,7 +944,7 @@ async function loadFullData() {
         lisatieto_linkki: rec.lisatieto_linkki || '',
       }));
       return {
-        j_idx: j_idx + 1, // 1-pohjainen numero
+        j_idx: allData.length - j_idx, // vanhin = 1, uusin = N
         jakso_id: jakso.id,
         jakso_otsikko: jakso.jakso_otsikko,
         paivamaara: jakso.paivamaara || '?',
