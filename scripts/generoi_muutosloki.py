@@ -7,24 +7,32 @@ from datetime import datetime
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 def hae_git_historia():
+    print("📜 Luetaan git-historiaa...")
     cmd = ['git', 'log', '-n', '20', '--pretty=format:%s|||%b']
     result = subprocess.run(cmd, capture_output=True, text=True)
     commits = []
     
-    for line in result.stdout.strip().split('\n'):
+    lines = result.stdout.strip().split('\n')
+    print(f"📄 Löydettiin {len(lines)} riviä historiatierosta.")
+    
+    for line in lines:
         if not line: continue
         osat = line.split('|||')
         otsikko = osat[0].strip()
         body = osat[1].strip() if len(osat) > 1 else ""
         
-        # Lopetetaan historia vanhaan changelog-ajoon (tai itse tähän skriptiin)
-        if "Tekoälyn kirjoittama muutosloki" in otsikko or "päivitetty muutosloki" in otsikko.lower():
+        print(f"  - Tutkitaan: {otsikko}")
+        
+        # Lopetetaan historia vanhaan changelog-ajoon
+        if "päivitetty muutosloki" in otsikko.lower() or "tekoälyn katsaus" in otsikko.lower():
+            print("  🛑 Pysähdytään: Vanha muutosloki-commit löydetty.")
             break
         
         # Ohitetaan datapäivitysten automaattiset commitit
-        if "Automaatio: Uudet suositukset ja validointidata" in otsikko:
+        if "Automaatio: Uudet suositukset" in otsikko:
             continue
             
+        print(f"  ✅ Lisätään: {otsikko}")
         commits.append(otsikko + (" - " + body if body else ""))
         
     return commits
