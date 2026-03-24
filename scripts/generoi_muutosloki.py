@@ -48,7 +48,7 @@ def muotoile_claudella(commits):
 Koodari on tehnyt taustalla teknisiä päivityksiä. Sinun tehtäväsi on tiivistää nämä tavalliselle käyttäjälle ymmärrettävästi.
 
 TYYLI JA MUOTO:
-1. Käytä RANSKALAISIA VIIVOJA (HTML: <ul> ja <li>).
+1. Käytä RANSKALAISIA VIIVOJA (HTML: <ul class="change-list"> ja <li>).
 2. Pidä teksti LYHYENÄ ja ytimekkäänä.
 3. ÄLÄ paljasta tarkkaa arkkitehtuuria, mallinimiä (kuten Claude 4) tai kirjastojen versioita.
 4. Kuvaile tekniset muutokset abstraktisti (esim. "Parannettu automaatiota", "Päivitetty tekoälyä", "Varmistettu sovelluksen vakaus").
