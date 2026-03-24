@@ -5,11 +5,24 @@
     "paivamaara": "19.3.2026",
     "suositukset": [
       {
+        "teos": "Love Story (sarja JFK Juniorista)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Love+Story+JFK+Junior+Disney+Plus+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Story+JFK+Junior",
+        "kuvaus": "Disney Plus -sarja John F. Kennedy Juniorin ja hänen vaimonsa Carolyn Bessetin rakkaustarinasta 1990-luvun New Yorkissa. Anna-Sofia Berner suosittelee lämpimästi ja kertoo itkeneensä sarjan parissa.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "romanttinen draama",
+          "historiallinen",
+          "1990-luku"
+        ]
+      },
+      {
         "teos": "Yksin Putinia vastaan (Mr. Nobody Against Putin)",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=Mr+Nobody+Against+Putin+dokumentti",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Mr+Nobody+Against+Putin",
-        "kuvaus": "Dokumentti venäläisestä videokuvaajasta Pavel Lankista, joka suhtautuu kriittisesti Putiniin ja joutuu kuvaamaan propagandatunteja pienessä venäläisessä koulussa hyökkäyssodan alettua. Kylmäävä kuvaus siitä, miten isänmaallinen propaganda levisi nopeasti kaikkialle Venäjällä. Katsottavissa Areenassa.",
+        "kuvaus": "Dokumentti venäläisestä videokuvaajasta Pavel Lankista, joka suhtautuu kriittisesti Putiniin ja kuvaa propagandatunteja pienessä venäläisessä kaupungissa. Saatavilla Yle Areenassa.",
         "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
           "dokumentti",
@@ -20,13 +33,13 @@
       {
         "teos": "Moraalinen kunnianhimo",
         "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Moraalinen+kunnianhimo+Rutger+Bregman",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Rutger+Bregman",
-        "kuvaus": "Hollantilaisen historioitsija Rutger Bregmanin teos, joka käsittelee sitä, mihin lahjakkaat ja kunnianhimoiset ihmiset käyttävät aikansa. Kirja saarnaa toiminnan puolesta tiedostamisen sijaan ja haastaa lukijan miettimään omia valintojaan – someaktivismi ei Bregmanin mukaan riitä.",
+        "google_linkki": "https://www.google.com/search?q=Rutger+Bregman+Moraalinen+kunnianhimo",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Bregman",
+        "kuvaus": "Hollantilaisen historioitsija Rutger Bregmanin teos, joka käsittelee sitä, mihin lahjakkaat ja kunnianhimoiset ihmiset käyttävät aikansa. Kirja korostaa toiminnan tärkeyttä pelkän tiedostamisen sijaan.",
         "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "tietokirja",
-          "etiikka",
+          "filosofia",
           "yhteiskunta"
         ]
       }

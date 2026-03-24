@@ -12,7 +12,7 @@ load_dotenv(override=True)
 # --- ASETUKSET ---
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 LATAA_MÄÄRÄ = 421
-LEIKKAUS_SEKUNTIA = 600  # Viimeiset 10 min
+LEIKKAUS_SEKUNTIA = 1200  # Viimeiset 20 min
 TULOS_TIEDOSTO = "suositukset.json"
 HISTORIA_TIEDOSTO = "historia_json.txt"
 
@@ -81,7 +81,7 @@ Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json 
         try:
             response = client.messages.create(
                 model=model_name,
-                max_tokens=1500,
+                max_tokens=4000,
                 temperature=0.1,
                 system=system_prompt,
                 messages=[
