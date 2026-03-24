@@ -1017,6 +1017,7 @@ function renderList() {
 }
 
 function renderCard(jakso) {
+  const resolved = isJaksoResolved(jakso);
   const recs = showMode === 'suspicious' ? jakso.suositukset.filter(r => r.is_suspicious) : jakso.suositukset;
   const n_open = recs.filter(rec => {
     const c = getCorr(jakso.jakso_id, rec.r_idx);
@@ -1029,7 +1030,7 @@ function renderCard(jakso) {
   return `
 <div class="episode-card${resolved ? ' resolved' : ''}" id="card-${jakso.jakso_id}">
   <div class="card-header" onclick="toggleCard('${jakso.jakso_id}')">
-    <div class="episode-num">${num}</div>
+    <div class="episode-num">${jakso.j_idx || '?'}</div>
     <div class="episode-meta">
       <div class="episode-date">${jakso.paivamaara}</div>
       <div class="episode-title">${escHtml(jakso.jakso_otsikko)}</div>
