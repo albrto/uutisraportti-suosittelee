@@ -7,8 +7,6 @@ TARGET_DIR="/Users/antero/.gemini/antigravity/scratch/uutisraportti-web"
 # 1. Kopioi JSON
 cp "$SOURCE_JSON" "$TARGET_DIR/suositukset.json"
 
-# 2. Luo JS-versio (CORS-ohitusta varten)
-cat "$TARGET_DIR/suositukset.json" | sed '1s/^/window.SUOSITUKSET_DATA = /' | sed '$s/$/;/' > "$TARGET_DIR/suositukset.js"
 
 # 2.5 Päivitä myös admin/epailyttavat.js ja tyhjennä korjaukset
 EPAILYTTAVAT_JS="/Users/antero/.gemini/antigravity/scratch/validointidata/epailyttavat.js"
