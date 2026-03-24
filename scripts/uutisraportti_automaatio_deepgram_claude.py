@@ -71,8 +71,9 @@ Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json 
 """
 
     models_to_try = [
-        "claude-sonnet-4-6",
-        "claude-haiku-4-5",
+        "claude-3-5-sonnet-20240620",
+        "claude-3-5-haiku-20241022",
+        "claude-3-opus-20240229"
     ]
 
     tulos = None

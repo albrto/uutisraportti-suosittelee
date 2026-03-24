@@ -51,22 +51,32 @@ Kirjoita validia, semanttisesti puhdasta HTML:ää. Käytä rohkeasti <strong>-t
 Koodarin commitit:
 {historia_str}
     """
+
+    models_to_try = [
+        "claude-3-5-sonnet-20240620",
+        "claude-3-5-haiku-20241022",
+        "claude-3-haiku-20240307"
+    ]
     
-    try:
-        response = client.messages.create(
-            model="claude-3-5-sonnet-latest",
-            max_tokens=800,
-            temperature=0.7,
-            messages=[{"role": "user", "content": prompt}]
-        )
-        tulos = response.content[0].text.strip()
-        if tulos.startswith("```html"): tulos = tulos[7:]
-        elif tulos.startswith("```"): tulos = tulos[3:]
-        if tulos.endswith("```"): tulos = tulos[:-3]
-        return tulos.strip()
-    except Exception as e:
-        print(f"Claude-virhe (muutosloki): {e}")
-        return None
+    for model_name in models_to_try:
+        try:
+            print(f"  - Yritetään mallia: {model_name}...")
+            response = client.messages.create(
+                model=model_name,
+                max_tokens=800,
+                temperature=0.7,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            tulos = response.content[0].text.strip()
+            if tulos.startswith("```html"): tulos = tulos[7:]
+            elif tulos.startswith("```"): tulos = tulos[3:]
+            if tulos.endswith("```"): tulos = tulos[:-3]
+            return tulos.strip()
+        except Exception as e:
+            print(f"  ⚠️ Malli {model_name} epäonnistui: {e}")
+            continue
+            
+    return None
 
 import re
 
