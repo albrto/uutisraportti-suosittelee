@@ -19299,7 +19299,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Hanna Mahlamäki",
+        "suosittelija": "",
         "teos": "Hymni elämälle, ei enää häpeää",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -19314,7 +19314,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Hanna Mahlamäki",
+        "suosittelija": "",
         "teos": "Et ole enää isäni",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -19344,7 +19344,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "",
         "teos": "Loikalan lapset",
         "paakategoria": "podcast",
         "kategoriat": [
