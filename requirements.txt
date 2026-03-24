@@ -1,0 +1,5 @@
+requests
+feedparser
+pydub
+python-dotenv
+anthropic
