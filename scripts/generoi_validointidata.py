@@ -165,8 +165,11 @@ def main():
 
     # Ryhmittele jaksot ja suositukset (sisältäen normaalit ja epäilyttävät)
     muokattavat_jaksot = {}
+    
+    total_jaksot = len(data)
 
-    for j_idx, jakso in enumerate(data):
+    for i, jakso in enumerate(data):
+        j_idx = total_jaksot - i
         jakso_id = jakso["id"]
         jakso_otsikko = jakso["jakso_otsikko"]
 
