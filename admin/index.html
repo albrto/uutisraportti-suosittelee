@@ -932,7 +932,6 @@ async function loadFullData() {
     
     // Muunna suositukset.json admin-työkalun muotoon
     DATA_FULL = allData.map((jakso, j_idx) => {
-      // Lisätään is_suspicious=false kaikille (täydessä näkymässä ei ole epäilyksiä)
       const suositukset = (jakso.suositukset || []).map((rec, r_idx) => ({
         r_idx: r_idx,
         is_suspicious: false,
@@ -945,7 +944,7 @@ async function loadFullData() {
         lisatieto_linkki: rec.lisatieto_linkki || '',
       }));
       return {
-        j_idx: j_idx,
+        j_idx: j_idx + 1, // 1-pohjainen numero
         jakso_id: jakso.id,
         jakso_otsikko: jakso.jakso_otsikko,
         paivamaara: jakso.paivamaara || '?',
@@ -957,6 +956,32 @@ async function loadFullData() {
         suositukset: suositukset,
       };
     });
+    
+    // Rikasta validointidatasta: is_suspicious -liput, audio-URL:t, RSS-tiedot
+    if (DATA_SUSPICIOUS) {
+      const valMap = {};
+      DATA_SUSPICIOUS.forEach(vj => {
+        valMap[vj.jakso_id] = vj;
+      });
+      DATA_FULL.forEach(fj => {
+        const vj = valMap[fj.jakso_id];
+        if (vj) {
+          // Kopioi audio- ja RSS-tiedot
+          fj.audio_url = vj.audio_url || fj.audio_url;
+          fj.kesto_sek = vj.kesto_sek || fj.kesto_sek;
+          fj.kesto_str = vj.kesto_str || fj.kesto_str;
+          fj.rss_osallistujat = vj.rss_osallistujat.length > 0 ? vj.rss_osallistujat : fj.rss_osallistujat;
+          fj.rss_kuvaus = vj.rss_kuvaus || fj.rss_kuvaus;
+          // Kopioi is_suspicious -liput
+          vj.suositukset.forEach(vs => {
+            if (vs.is_suspicious && fj.suositukset[vs.r_idx]) {
+              fj.suositukset[vs.r_idx].is_suspicious = true;
+            }
+          });
+        }
+      });
+    }
+    
     DATA = DATA_FULL;
     updateStats();
     renderList();
