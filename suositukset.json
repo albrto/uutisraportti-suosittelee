@@ -1,5 +1,51 @@
 [
   {
+    "id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
+    "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
+    "paivamaara": "19.3.2026",
+    "suositukset": [
+      {
+        "teos": "Love Story (sarja JFK Juniorista)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Love+Story+JFK+Junior+Disney+Plus+sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Story+JFK+Junior",
+        "kuvaus": "Disney Plus -sarja John F. Kennedy Juniorin ja hänen vaimonsa Carolyn Bessetin rakkaustarinasta 1990-luvun New Yorkissa. Anna-Sofia Berner suosittelee lämpimästi ja kertoo itkeneensä sarjan parissa.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "romanttinen draama",
+          "historiallinen",
+          "1990-luku"
+        ]
+      },
+      {
+        "teos": "Yksin Putinia vastaan (Mr. Nobody Against Putin)",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Mr+Nobody+Against+Putin+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mr+Nobody+Against+Putin",
+        "kuvaus": "Dokumentti venäläisestä videokuvaajasta Pavel Talankinista, joka suhtautuu kriittisesti Putiniin ja kuvaa propagandatunteja pienessä venäläisessä kaupungissa. Saatavilla Yle Areenassa.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "dokumentti",
+          "Venäjä",
+          "sota"
+        ]
+      },
+      {
+        "teos": "Moraalinen kunnianhimo",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Rutger+Bregman+Moraalinen+kunnianhimo",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Moraalinen+kunnianhimo+Bregman",
+        "kuvaus": "Hollantilaisen historioitsija Rutger Bregmanin teos, joka käsittelee sitä, mihin lahjakkaat ja kunnianhimoiset ihmiset käyttävät aikansa. Kirja korostaa toiminnan tärkeyttä pelkän tiedostamisen sijaan.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "tietokirja",
+          "filosofia",
+          "yhteiskunta"
+        ]
+      }
+    ]
+  },
+  {
     "id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
     "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
     "paivamaara": "12.3.2026",
