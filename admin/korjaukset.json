@@ -181,5 +181,44 @@
         "resepti"
       ]
     }
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 0,
+    "teos": "Hymni elämälle, ei enää häpeää"
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 1,
+    "teos": "Et ole enää isäni"
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 3,
+    "teos": "Loikalan lapset"
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "jakso_otsikko": "Sanna Marinin kirja, New Yorkin pormestari ja merkit Venäjän heikkoudesta",
+    "paivamaara": "6.11.2025",
+    "r_idx": 3,
+    "teos": "Sardelli-oliivi-kapris-pizza",
+    "uusi_data": {
+      "teos": "Sardelli-oliivi-kapris-pizza",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Kotipizza sardelleilla, oliiveilla, kapriksilla, valkosipulilla, chilillä ja tomaattikastikkeella. Sama ainesosayhdistelmä toimii myös pasta puttanescana.",
+      "paakategoria": "ruoka",
+      "kategoriat": [
+        "pizza",
+        "italialainen",
+        "resepti"
+      ]
+    }
   }
 ]
