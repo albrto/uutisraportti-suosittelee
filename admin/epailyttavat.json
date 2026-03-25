@@ -2779,7 +2779,7 @@
         "r_idx": 1,
         "is_suspicious": true,
         "suosittelija": "Anna-Sofia Berner",
-        "teos": "A Complete Unknown",
+        "teos": "One Battle After Another",
         "paakategoria": "elokuva",
         "kategoriat": [
           "trilleri",
@@ -2792,7 +2792,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Say Nothing",
         "paakategoria": "kirja",
@@ -2807,8 +2807,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Salla Vuorikoski",
+        "is_suspicious": false,
+        "suosittelija": "",
         "teos": "Sardelli-oliivi-kapris-pizza",
         "paakategoria": "ruoka",
         "kategoriat": [
