@@ -266,5 +266,73 @@
     "paivamaara": "6.11.2025",
     "r_idx": 3,
     "teos": "Sardelli-oliivi-kapris-pizza"
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 0,
+    "teos": "Hymni elämälle, ei enää häpeää",
+    "uusi_data": {
+      "teos": "Hymni elämälle, ei enää häpeää",
+      "suosittelija": "Hanna Mahlamäki",
+      "kuvaus": "Gisèle Pelicot'n oma kirja hänen kokemastaan raiskauksesta ja oikeudenkäynnistä, jossa hän teki prosessista julkisen. Kirja kuvaa ranskalaista yhteiskuntaa ja taistelee raiskauskulttuuria vastaan.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "omaelämäkerta",
+        "yhteiskunta",
+        "Ranska"
+      ]
+    }
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 1,
+    "teos": "Et ole enää isäni",
+    "uusi_data": {
+      "teos": "Et ole enää isäni",
+      "suosittelija": "Hanna Mahlamäki",
+      "kuvaus": "Caroline Darianin kirja tyttären näkökulmasta Pelicot-tapauksesta – siitä, miten isän hirviömäinen toiminta paljastui ja mitä sen jälkeen tapahtui.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "omaelämäkerta",
+        "perhe",
+        "Ranska"
+      ]
+    }
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 3,
+    "teos": "Loikalan lapset",
+    "uusi_data": {
+      "teos": "Loikalan lapset",
+      "suosittelija": "Anna-Sofia Berner",
+      "kuvaus": "Toimittaja Paavo Teittisen kolmiosainen podcast Loikalan lastensuojelulaitoksen epäkohdista. Useamman vuoden työn tulos, jossa kuullaan asianosaisten omat äänet.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "lastensuojelu",
+        "tutkiva journalismi",
+        "Suomi"
+      ]
+    }
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "jakso_otsikko": "Sanna Marinin kirja, New Yorkin pormestari ja merkit Venäjän heikkoudesta",
+    "paivamaara": "6.11.2025",
+    "r_idx": 1,
+    "teos": "One Battle After Another"
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "jakso_otsikko": "Sanna Marinin kirja, New Yorkin pormestari ja merkit Venäjän heikkoudesta",
+    "paivamaara": "6.11.2025",
+    "r_idx": 3,
+    "teos": "Sardelli-oliivi-kapris-pizza"
   }
 ]
