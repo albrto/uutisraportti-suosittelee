@@ -1,5 +1,38 @@
 [
   {
+    "id": "93a44f52-172e-4764-8f39-94f5cbc96730",
+    "jakso_otsikko": "Bensa- ja korkoahdinko, Suomen miljardöörit, vassaritoimittajaopiskelijat",
+    "paivamaara": "26.3.2026",
+    "suositukset": [
+      {
+        "teos": "Muistopäivä (Kansallisteatteri)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Muistop%C3%A4iv%C3%A4+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
+        "kuvaus": "Kansallisteatterissa esitetty näytelmä Stalinin vainojen suomalaisuhreista. Käsikirjoittanut Elli Salo, ohjauksessa synkkää historiaa mutta myös huumorin pilkahduksia.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "teatteri",
+          "historia",
+          "Neuvostoliitto"
+        ]
+      },
+      {
+        "teos": "Pohjantähden alla (Kansallisteatteri)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Pohjant%C3%A4hden+alla+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
+        "kuvaus": "Lauri Maijalan ohjaama näytelmä Väinö Linnan romaanijättiläisen pohjalta. Keskiössä Akselin ja Elinan tarina Suomen sisällissodan ja muiden vaiheiden taustalla.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "teatteri",
+          "historia",
+          "Väinö Linna"
+        ]
+      }
+    ]
+  },
+  {
     "id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
     "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
     "paivamaara": "19.3.2026",

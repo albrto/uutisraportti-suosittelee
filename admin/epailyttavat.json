@@ -8726,6 +8726,52 @@
     ]
   },
   {
+    "j_idx": 424,
+    "jakso_id": "93a44f52-172e-4764-8f39-94f5cbc96730",
+    "jakso_otsikko": "Bensa- ja korkoahdinko, Suomen miljardöörit, vassaritoimittajaopiskelijat",
+    "paivamaara": "26.3.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/93a44f52-172e-4764-8f39-94f5cbc96730.mp3",
+    "kesto_sek": 4360,
+    "kesto_str": "01:12:40",
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Sohvi Sirkesalo"
+    ],
+    "rss_kuvaus": "<p>Podissa keskustellaan Iranin sodan moninaisista vaikutuksista tavallisen suomalaisen arkeen. Lisäksi ruoditaan Suomen rikkaita. Keitä he ovat, mistä omaisuus on tehty ja miksi heitä on niin vähän? Lopuksi katsotaan peiliin ja pohditaan kohua herättänytta tutkimusta, joka paljasti Tampereen toimittajaopiskelijoiden tykkäävän tosi paljon vasemmistoliitosta.  Studiossa Salla Vuorikoski, Anna-Sofia",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anna-Sofia Berner",
+        "teos": "Muistopäivä (Kansallisteatteri)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "historia",
+          "Neuvostoliitto"
+        ],
+        "kuvaus": "Kansallisteatterissa esitetty näytelmä Stalinin vainojen suomalaisuhreista. Käsikirjoittanut Elli Salo, ohjauksessa synkkää historiaa mutta myös huumorin pilkahduksia.",
+        "google_linkki": "https://www.google.com/search?q=Muistop%C3%A4iv%C3%A4+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Pohjantähden alla (Kansallisteatteri)",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "teatteri",
+          "historia",
+          "Väinö Linna"
+        ],
+        "kuvaus": "Lauri Maijalan ohjaama näytelmä Väinö Linnan romaanijättiläisen pohjalta. Keskiössä Akselin ja Elinan tarina Suomen sisällissodan ja muiden vaiheiden taustalla.",
+        "google_linkki": "https://www.google.com/search?q=Pohjant%C3%A4hden+alla+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
+        "lisatieto_linkki": "https://www.kansallisteatteri.fi/"
+      }
+    ]
+  },
+  {
     "j_idx": 57,
     "jakso_id": "tag:soundcloud,2010:tracks/783794824",
     "jakso_otsikko": "26.3.2020: Marinin suuri suunnitelma, hallitus vs perustuslakiproffat, Uudenmaan karanteeni",
