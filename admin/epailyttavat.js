@@ -13579,7 +13579,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "",
         "teos": "Good Hang with Amy Poehler",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -13594,7 +13594,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "",
+        "suosittelija": "Jussi Niemeläinen",
         "teos": "Pistaasilevite (Fiasconaro)",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -13602,7 +13602,7 @@ window.VALIDATION_DATA = [
           "italialainen",
           "levite"
         ],
-        "kuvaus": "Fiasconaaron pistaasilevite, jonka Tuomas mainitsee parhaaksi. Kotivara koostuu pitkälti tästä tuotteesta.",
+        "kuvaus": "Fiasconaaron pistaasilevite, jonka Jussi mainitsee parhaaksi. Kotivara koostuu pitkälti tästä tuotteesta.",
         "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite+osta"
       },
