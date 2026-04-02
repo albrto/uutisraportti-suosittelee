@@ -13610,7 +13610,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Jussi Niemeläinen",
-        "teos": "LOL: Last One Laughing UK",
+        "teos": "Taskmaster (Britannia)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "komedia",
