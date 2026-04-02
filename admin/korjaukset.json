@@ -334,5 +334,58 @@
     "paivamaara": "6.11.2025",
     "r_idx": 3,
     "teos": "Sardelli-oliivi-kapris-pizza"
+  },
+  {
+    "jakso_id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminati baddies",
+    "paivamaara": "2.4.2026",
+    "r_idx": 0,
+    "teos": "Good Hang with Amy Poehler",
+    "uusi_data": {
+      "teos": "Good Hang with Amy Poehler",
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen tuttujensa kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
+      "paakategoria": "podcast",
+      "kategoriat": [
+        "komedia",
+        "viihde",
+        "haastattelu"
+      ]
+    }
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 0,
+    "teos": "Hymni elämälle, ei enää häpeää"
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 1,
+    "teos": "Et ole enää isäni"
+  },
+  {
+    "jakso_id": "c8e11f1d-db9c-4623-aaef-ba6c0fccba66",
+    "jakso_otsikko": "Synkkä nuoriso, TPS ja politiikan tila, lapsirikolliset",
+    "paivamaara": "12.3.2026",
+    "r_idx": 3,
+    "teos": "Loikalan lapset"
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "jakso_otsikko": "Sanna Marinin kirja, New Yorkin pormestari ja merkit Venäjän heikkoudesta",
+    "paivamaara": "6.11.2025",
+    "r_idx": 1,
+    "teos": "One Battle After Another"
+  },
+  {
+    "jakso_id": "a608b163-5869-4a94-af18-9634820c65ee",
+    "jakso_otsikko": "Sanna Marinin kirja, New Yorkin pormestari ja merkit Venäjän heikkoudesta",
+    "paivamaara": "6.11.2025",
+    "r_idx": 3,
+    "teos": "Sardelli-oliivi-kapris-pizza"
   }
 ]
