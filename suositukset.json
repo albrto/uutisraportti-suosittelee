@@ -1,5 +1,51 @@
 [
   {
+    "id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminati baddies",
+    "paivamaara": "2.4.2026",
+    "suositukset": [
+      {
+        "teos": "Good Hang with Amy Poehler",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
+        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen tuttujensa kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "komedia",
+          "viihde",
+          "haastattelu"
+        ]
+      },
+      {
+        "teos": "Pistaasilevite (Fiasconaro)",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
+        "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite+osta",
+        "kuvaus": "Fiasconaaron pistaasilevite, jonka Tuomas mainitsee parhaaksi. Kotivara koostuu pitkälti tästä tuotteesta.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "herkku",
+          "italialainen",
+          "levite"
+        ]
+      },
+      {
+        "teos": "Taskmaster (Britannia)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+Amazon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK",
+        "kuvaus": "Brittiläinen komediaohjelma Amazonilla, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Juontajana Jim Carr, toisella kaudella mukana mm. David Mitchell.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "komedia",
+          "brittiläinen",
+          "viihde"
+        ]
+      }
+    ]
+  },
+  {
     "id": "93a44f52-172e-4764-8f39-94f5cbc96730",
     "jakso_otsikko": "Bensa- ja korkoahdinko, Suomen miljardöörit, vassaritoimittajaopiskelijat",
     "paivamaara": "26.3.2026",

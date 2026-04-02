@@ -8741,7 +8741,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Muistopäivä (Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -13558,6 +13558,68 @@
         "kuvaus": "New York Times Magazinen pitkä artikkeli, jonka on kirjoittanut Wesley Morris. Hän analysoi romanttisen komedian elokuvagenren alennustilaa ja sitä, miksi genre on tärkeä populaarikulttuurille.",
         "google_linkki": "https://www.google.com/search?q=Rom-Coms+Were+Corny+and+Retrograde+Why+Do+I+Miss+Them+So+Much+Wesley+Morris",
         "lisatieto_linkki": "https://www.nytimes.com/"
+      }
+    ]
+  },
+  {
+    "j_idx": 425,
+    "jakso_id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminati baddies",
+    "paivamaara": "2.4.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/c3ef6603-60ad-46cd-9285-1b0c618aa657.mp3",
+    "kesto_sek": 5500,
+    "kesto_str": "01:31:40",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Jussi Niemeläinen ja Salla Vuorikoski keskustelevat droonien aiheuttamista tuntemuksista ja reaktioista Suomen kamaralla, Petteri Orpon hallituksen kauan odotetusta koronpandemia-raportista, ja illuminatiseurasta nimeltä maanpuolustuskurssi.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Good Hang with Amy Poehler",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "komedia",
+          "viihde",
+          "haastattelu"
+        ],
+        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen tuttujensa kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
+        "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Pistaasilevite (Fiasconaro)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "herkku",
+          "italialainen",
+          "levite"
+        ],
+        "kuvaus": "Fiasconaaron pistaasilevite, jonka Tuomas mainitsee parhaaksi. Kotivara koostuu pitkälti tästä tuotteesta.",
+        "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
+        "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite+osta"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Taskmaster (Britannia)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "brittiläinen",
+          "viihde"
+        ],
+        "kuvaus": "Brittiläinen komediaohjelma Amazonilla, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Juontajana Jim Carr, toisella kaudella mukana mm. David Mitchell.",
+        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+Amazon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK"
       }
     ]
   },
