@@ -13579,7 +13579,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "",
         "teos": "Good Hang with Amy Poehler",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -13594,7 +13594,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Jussi Niemeläinen",
         "teos": "Pistaasilevite (Fiasconaro)",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -13609,8 +13609,8 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
-        "teos": "Taskmaster (Britannia)",
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "LOL: Last One Laughing UK",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "komedia",
