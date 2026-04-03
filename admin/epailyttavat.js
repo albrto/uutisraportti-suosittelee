@@ -13594,7 +13594,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "",
         "teos": "Pistaasilevite (Fiasconaro)",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -15410,7 +15410,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Piparijauhokastike kinkunliemestä",
         "paakategoria": "ruoka",
         "kategoriat": [
