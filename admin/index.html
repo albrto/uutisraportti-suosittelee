@@ -1547,7 +1547,7 @@ function saveChanges() {
   DATA.forEach(jakso => {
     jakso.suositukset.forEach(rec => {
       const c = getCorr(jakso.jakso_id, rec.r_idx);
-      if (c && !c.skipped && c.is_edited) {
+      if (c && !c.skipped && c.is_edited && !c.saved) {
         corrections.push({
           jakso_id: jakso.jakso_id,
           jakso_otsikko: jakso.jakso_otsikko,

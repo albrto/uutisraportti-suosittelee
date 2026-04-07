@@ -1,84 +1,5 @@
 [
   {
-    "id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
-    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminati baddies",
-    "paivamaara": "2.4.2026",
-    "suositukset": [
-      {
-        "teos": "Good Hang with Amy Poehler",
-        "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
-        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen tuttujensa kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
-        "suosittelija": "",
-        "kategoriat": [
-          "komedia",
-          "viihde",
-          "haastattelu"
-        ]
-      },
-      {
-        "teos": "Pistaasilevite (Fiasconaro)",
-        "paakategoria": "ruoka",
-        "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
-        "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite+osta",
-        "kuvaus": "Fiasconaaron pistaasilevite, jonka Jussi mainitsee parhaaksi. Kotivara koostuu pitkälti tästä tuotteesta.",
-        "suosittelija": "",
-        "kategoriat": [
-          "herkku",
-          "italialainen",
-          "levite"
-        ]
-      },
-      {
-        "teos": "Taskmaster (Britannia)",
-        "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+Amazon",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK",
-        "kuvaus": "Brittiläinen komediaohjelma Amazonilla, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Juontajana Jim Carr, toisella kaudella mukana mm. David Mitchell.",
-        "suosittelija": "",
-        "kategoriat": [
-          "komedia",
-          "brittiläinen",
-          "viihde"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "93a44f52-172e-4764-8f39-94f5cbc96730",
-    "jakso_otsikko": "Bensa- ja korkoahdinko, Suomen miljardöörit, vassaritoimittajaopiskelijat",
-    "paivamaara": "26.3.2026",
-    "suositukset": [
-      {
-        "teos": "Muistopäivä (Kansallisteatteri)",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Muistop%C3%A4iv%C3%A4+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
-        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
-        "kuvaus": "Kansallisteatterissa esitetty näytelmä Stalinin vainojen suomalaisuhreista. Käsikirjoittanut Elli Salo, ohjauksessa synkkää historiaa mutta myös huumorin pilkahduksia.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "teatteri",
-          "historia",
-          "Neuvostoliitto"
-        ]
-      },
-      {
-        "teos": "Pohjantähden alla (Kansallisteatteri)",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Pohjant%C3%A4hden+alla+Kansallisteatteri+n%C3%A4ytelm%C3%A4",
-        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
-        "kuvaus": "Lauri Maijalan ohjaama näytelmä Väinö Linnan romaanijättiläisen pohjalta. Keskiössä Akselin ja Elinan tarina Suomen sisällissodan ja muiden vaiheiden taustalla.",
-        "suosittelija": "Salla Vuorikoski",
-        "kategoriat": [
-          "teatteri",
-          "historia",
-          "Väinö Linna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
     "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
     "paivamaara": "19.3.2026",
@@ -135,7 +56,7 @@
         "google_linkki": "https://www.google.com/search?q=Gisèle+Pelicot+Hymni+elämälle+ei+enää+häpeää",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Gisèle+Pelicot+hymne+à+la+vie",
         "kuvaus": "Gisèle Pelicot'n oma kirja hänen kokemastaan raiskauksesta ja oikeudenkäynnistä, jossa hän teki prosessista julkisen. Kirja kuvaa ranskalaista yhteiskuntaa ja taistelee raiskauskulttuuria vastaan.",
-        "suosittelija": "",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "omaelämäkerta",
           "yhteiskunta",
@@ -148,7 +69,7 @@
         "google_linkki": "https://www.google.com/search?q=Caroline+Darian+Et+ole+enää+isäni",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Caroline+Darian+M+en+veux+plus+comme+père",
         "kuvaus": "Caroline Darianin kirja tyttären näkökulmasta Pelicot-tapauksesta – siitä, miten isän hirviömäinen toiminta paljastui ja mitä sen jälkeen tapahtui.",
-        "suosittelija": "",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "omaelämäkerta",
           "perhe",
@@ -174,7 +95,7 @@
         "google_linkki": "https://www.google.com/search?q=Loikalan+lapset+podcast+Helsingin+Sanomat",
         "lisatieto_linkki": "https://open.spotify.com/search/Loikalan%20lapset",
         "kuvaus": "Toimittaja Paavo Teittisen kolmiosainen podcast Loikalan lastensuojelulaitoksen epäkohdista. Useamman vuoden työn tulos, jossa kuullaan asianosaisten omat äänet.",
-        "suosittelija": "",
+        "suosittelija": "Hanna Mahlamäki",
         "kategoriat": [
           "lastensuojelu",
           "tutkiva journalismi",
@@ -763,7 +684,7 @@
         "google_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka",
         "lisatieto_linkki": "https://www.google.com/search?q=piparijauhokastike+kinkku+jouluruoka+ohje",
         "kuvaus": "Jouluinen kinkunkastike, jossa perinteinen jauhopohjainen roux tehdään piparijauheesta ja voista, johon lisätään kylmä kinkunliemi, kerma ja sinappi. Sopii perunoiden ja kinkunsiivujen kanssa.",
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "jouluruoka",
           "kastike",
@@ -842,7 +763,7 @@
         "google_linkki": "https://www.google.com/search?q=C%C3%A9line+Dion+Pariisin+olympialaisten+avajaiset+2024",
         "lisatieto_linkki": "https://open.spotify.com/search/Celine%20Dion%20Paris%20Olympics",
         "kuvaus": "Céline Dion esiintyi Eiffel-tornilla Pariisin olympialaisten avajaisissa 2024 laulaen ranskankielisen kappaleen olympiatulen sytytyksen jälkeen. Alle neljän minuutin esiintyminen on voimakas tunnekuohu, erityisesti kun tietää artistin kamppailleen vakavan sairauden kanssa.",
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Anna-Sofia-Berner",
         "kategoriat": [
           "olympialaiset",
           "live-esiintyminen",
@@ -1058,12 +979,12 @@
         ]
       },
       {
-        "teos": "One Battle After Another",
+        "teos": "A Complete Unknown",
         "paakategoria": "elokuva",
         "google_linkki": "https://www.google.com/search?q=A+Complete+Unknown+elokuva",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Complete+Unknown",
         "kuvaus": "Jännittävä ja syvällinen elokuva, jossa Leonardo DiCaprio, Benicio del Toro ja Sean Penn tähdittävät tarinaa vasemmistoterroristeista Yhdysvalloissa. Sisältää aikahyppyjä, poliittisia sävyjä ja mieleenpainuvan takaa-ajokohtauksen.",
-        "suosittelija": "",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "trilleri",
           "poliittinen",
@@ -1089,7 +1010,7 @@
         "google_linkki": "https://www.google.com/search?q=pizza+sardelli+oliivi+kapris+valkosipuli+chili+tomaattikastike",
         "lisatieto_linkki": "https://www.google.com/search?q=pizza+puttanesca+resepti",
         "kuvaus": "Kotipizza sardelleilla, oliiveilla, kapriksilla, valkosipulilla, chilillä ja tomaattikastikkeella. Sama ainesosayhdistelmä toimii myös pasta puttanescana.",
-        "suosittelija": "",
+        "suosittelija": "Marko Junkkari",
         "kategoriat": [
           "pizza",
           "italialainen",
@@ -3772,372 +3693,6 @@
     ]
   },
   {
-    "id": "tag:soundcloud,2010:tracks/1843245000",
-    "jakso_otsikko": "9.6.2024:  Exxxxtraspesiaali eurovaalien reaktiocast!",
-    "paivamaara": "9.6.2024",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1774580406",
-    "jakso_otsikko": "Lakot vol XXXI, feminismi Suomessa 2024, Prinsessa Kate",
-    "paivamaara": "14.3.2024",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1744164075",
-    "jakso_otsikko": "12.2.2024: Cai-Göran in da HOUSE!!",
-    "paivamaara": "11.2.2024",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1730424789",
-    "jakso_otsikko": "Hotttis bottis reaktiot pressanvaalien tulokseen",
-    "paivamaara": "28.1.2024",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1679276856",
-    "jakso_otsikko": "Pikkujoulupod 2: Urpilaisen presidenttiehdokkuus, plagiointikohu, lisää conundrumeja",
-    "paivamaara": "2.12.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1679274111",
-    "jakso_otsikko": "Pikkujoulupod 1: Rajat, kanatuinen, conundrumeja",
-    "paivamaara": "1.12.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1644554487",
-    "jakso_otsikko": "19.10.2023: Miniraportti, Q & A, pikkujoulut",
-    "paivamaara": "19.10.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1639870563",
-    "jakso_otsikko": "MAISTIAISJAKSO: Täydellinen pako",
-    "paivamaara": "13.10.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1632294387",
-    "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
-    "paivamaara": "4.10.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1589383315",
-    "jakso_otsikko": "10.8.2023: Tiedonanto, Amazonin sademetsä, myrsky",
-    "paivamaara": "10.8.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1542059371",
-    "jakso_otsikko": "Ekstraraportti: Kokoomukselta kokoomuslainen ohjelma YLLÄRI",
-    "paivamaara": "16.6.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1483565674",
-    "jakso_otsikko": "VAALISPECIAL: Reaktiot vaalien tulokseen",
-    "paivamaara": "2.4.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1432917166",
-    "jakso_otsikko": "26.1.2023: Haavisto vs. Ruotsi, vaalirahoituskuviot 2023, pandat",
-    "paivamaara": "26.1.2023",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1408142170",
-    "jakso_otsikko": "22.12.2022: Afganistan, gallupit, joulu",
-    "paivamaara": "22.12.2022",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1380864469",
-    "jakso_otsikko": "Tervetuloa Uutisraportti podcastin pikkujouluihin 13.12.!",
-    "paivamaara": "11.11.2022",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1301246983",
-    "jakso_otsikko": "MAISTIAISJAKSO: Päätös, jota ei koskaan tehty",
-    "paivamaara": "7.7.2022",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1187291050",
-    "jakso_otsikko": "30.12.2021: Vuosikatsaus 2021",
-    "paivamaara": "30.12.2021",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1163119357",
-    "jakso_otsikko": "19.11.2021: Rajakriisi, Ruotsin jengitilanne, katumus",
-    "paivamaara": "19.11.2021",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/1043043142",
-    "jakso_otsikko": "Miniraportti: Tuomas jää pois Uutisraportti podcastista",
-    "paivamaara": "5.5.2021",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/957097555",
-    "jakso_otsikko": "Miniraportti podcast: Hyvää uuttavuotta!",
-    "paivamaara": "31.12.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/923804611",
-    "jakso_otsikko": "5.11.2020: Yhdysvaltain edelleen keskeneräiset vaalit 2020",
-    "paivamaara": "5.11.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/915352216",
-    "jakso_otsikko": "USA Vaalispecial 4: Loppusuoran tilanne",
-    "paivamaara": "21.10.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/914702704",
-    "jakso_otsikko": "USA Vaalispecial 3: Vaa’ankieliosavaltiot",
-    "paivamaara": "20.10.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/906243925",
-    "jakso_otsikko": "USA Vaalispecial 2: Trumpin korona ja sen seuraukset",
-    "paivamaara": "7.10.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/902317825",
-    "jakso_otsikko": "USA Vaalispecial 1: Ensimmäinen väittely takana",
-    "paivamaara": "30.9.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/882922090",
-    "jakso_otsikko": "27.8.2020: Tuomaksen julkinen anteeksipyyntö",
-    "paivamaara": "27.8.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/783577522",
-    "jakso_otsikko": "ERIKOISJAKSO: Uusi HS Päivä -podcast seuraa koronavirusepidemian vaikutusta ja hallituksen toimia",
-    "paivamaara": "26.3.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/772589662",
-    "jakso_otsikko": "ERIKOISJAKSO: Vuosi Nepalin jälkeen",
-    "paivamaara": "8.3.2020",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/723066562",
-    "jakso_otsikko": "5.12.2019: Antti Rinteen ero ja hallituskriisi, demarien tulevaisuus, Haaviston kujanjuoksu",
-    "paivamaara": "5.12.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/636001962",
-    "jakso_otsikko": "13.6.2019: \"Jääprinsessakohu\", Valtion kehitysyhtiön ongelmat, Isis-vaimot",
-    "paivamaara": "13.6.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/627274113",
-    "jakso_otsikko": "Eurovaalit: Perinteisille ryhmille köniin ja Hakkaraiselle haastavat ajat meppinä",
-    "paivamaara": "27.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/625337175",
-    "jakso_otsikko": "Eurovaalit: Eurovaalit ovat ”jättimäinen mikseri, joka heittää ihmiset uusille sijoilleen”",
-    "paivamaara": "23.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/624798795",
-    "jakso_otsikko": "Eurovaalit: Brittien piti lähteä EU:sta, mutta tänään he äänestävät eurovaaleissa",
-    "paivamaara": "22.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/624273939",
-    "jakso_otsikko": "Eurovaalit: ”Ootko sä jutsku” – ehdokkaat kertovat tulehtuneista tunnelmista vaalien alla",
-    "paivamaara": "21.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/623651133",
-    "jakso_otsikko": "Eurovaalit: Brexitin uhri kertoo, kuinka EU-parlamentin vakaus horjuu vaaleissa",
-    "paivamaara": "20.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/623432502",
-    "jakso_otsikko": "Eurovaalit: Ymmärräthän sen, että kun äänestät Sirpaa, niin äänestät myös EPP:tä?",
-    "paivamaara": "20.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/621638076",
-    "jakso_otsikko": "Eurovaalit: Hakkuut, ilmasto, energia ja naisten paikka",
-    "paivamaara": "17.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/620980608",
-    "jakso_otsikko": "Eurovaalit: Eurooppaa repii vaalien alla \"epävarmuuksien cocktail\"",
-    "paivamaara": "16.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/620548791",
-    "jakso_otsikko": "Eurovaalit: Miten valtaa käytetään ja kahmitaan EU:ssa",
-    "paivamaara": "15.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/620030001",
-    "jakso_otsikko": "Eurovaalit: ”Surullisen alhainen” nuorten äänestysaktiivisuus huolestuttaa",
-    "paivamaara": "14.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/619375422",
-    "jakso_otsikko": "Eurovaalit: On aika kurkata eurovaalikoneen sisälle",
-    "paivamaara": "13.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/617490252",
-    "jakso_otsikko": "Eurovaalit: Into piukeena eurovaaleista esittää vaalin ääripäät",
-    "paivamaara": "9.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/616444881",
-    "jakso_otsikko": "Miniraportti podcast: Kohta alkaa ilmestyä eurovaaleihin liittyvä podi",
-    "paivamaara": "6.5.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/611206827",
-    "jakso_otsikko": "25.4.2019: Äitiys ja johtajuus, hallitusneuvottelut, EU-vaalit, Sri Lanka",
-    "paivamaara": "25.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/604825299",
-    "jakso_otsikko": "Vaaliraportti: Miten puoluejohtajat pärjäsivät Ylen vaalitentissä?",
-    "paivamaara": "12.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/603901617",
-    "jakso_otsikko": "Vaaliraportti: Miksi ihmiset haluavat kansanedustajiksi?",
-    "paivamaara": "10.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/603405309",
-    "jakso_otsikko": "Vaaliraportti: Miksi puolueet vaikenevat vaalilupaustensa rahoituskeinoista?",
-    "paivamaara": "9.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/603171753",
-    "jakso_otsikko": "Vaaliraportti: Pika-analyysissa HS:n tuore puoluekannatusmittaus",
-    "paivamaara": "9.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/601391814",
-    "jakso_otsikko": "Vaaliraportti: Missä vaalipiireissä muhivat suurimmat myllerrykset?",
-    "paivamaara": "7.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/600842754",
-    "jakso_otsikko": "Vaaliraportti: Mitkä puolueet istuvat tulevassa hallituksessa?",
-    "paivamaara": "4.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/600313098",
-    "jakso_otsikko": "Vaaliraportti: Kannattaako pienpuoluetta äänestää?",
-    "paivamaara": "3.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/599801769",
-    "jakso_otsikko": "Vaaliraportti: Miten puolueiden ilmasto-ohjelmat eroavat toisistaan?",
-    "paivamaara": "2.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/599328108",
-    "jakso_otsikko": "Mistä vaalikojuilla oikeasti puhutaan?",
-    "paivamaara": "1.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/599123442",
-    "jakso_otsikko": "Vaaliraportti: Mitä tuore kysely ehdokkaiden vetovoimasta kertoo?",
-    "paivamaara": "1.4.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/597307668",
-    "jakso_otsikko": "Vaaliraportti: Onko vaalien alla keskusteltu aivan vääristä asioista?",
-    "paivamaara": "28.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/596777184",
-    "jakso_otsikko": "Vaaliraportti: Miten häiriköinti on muuttanut vaalikampanjointia?",
-    "paivamaara": "27.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/596622540",
-    "jakso_otsikko": "Vaaliraportti: Tarvitseeko pääministerin olla suosittu?",
-    "paivamaara": "27.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/595576116",
-    "jakso_otsikko": "Vaaliraportti: Onko vaalien voittaja jo ratkennut?",
-    "paivamaara": "25.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/595495149",
-    "jakso_otsikko": "Vaaliraportti: Haluaako Sdp lihan pois perheiden ruokapöydästä?",
-    "paivamaara": "25.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/586911090",
-    "jakso_otsikko": "8.3.2019: Extraextraextraraportti hallituksen erosta",
-    "paivamaara": "8.3.2019",
-    "suositukset": []
-  },
-  {
-    "id": "tag:soundcloud,2010:tracks/579461394",
-    "jakso_otsikko": "22.2.2019: Miniraportti podcast ja avunpyyntö kuulijoille",
-    "paivamaara": "22.2.2019",
-    "suositukset": []
-  },
-  {
     "id": "tag:soundcloud,2010:tracks/1928065391",
     "jakso_otsikko": "3.10.2024: Israel vs. Iran vs. Hizbollah vs. Hamas vs. Vs vs, koululuisun jatko, NotebookML",
     "paivamaara": "3.10.2024",
@@ -5089,6 +4644,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1843245000",
+    "jakso_otsikko": "9.6.2024:  Exxxxtraspesiaali eurovaalien reaktiocast!",
+    "paivamaara": "9.6.2024",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1839558489",
     "jakso_otsikko": "6.6.2024: MARKO is back, eurovaalit 1&2, Ukkolan kolumni",
     "paivamaara": "6.6.2024",
@@ -5624,6 +5185,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1774580406",
+    "jakso_otsikko": "Lakot vol XXXI, feminismi Suomessa 2024, Prinsessa Kate",
+    "paivamaara": "14.3.2024",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1767946203",
     "jakso_otsikko": "7.3.2024: Lakot ja leikkaukset, pj-erot, salametsästys",
     "paivamaara": "7.3.2024",
@@ -5820,6 +5387,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1744164075",
+    "jakso_otsikko": "12.2.2024: Cai-Göran in da HOUSE!!",
+    "paivamaara": "11.2.2024",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1741317948",
     "jakso_otsikko": "8.2.2024: 2. kierros, USA:n eteläraja, Vastaamon 30k uhria",
     "paivamaara": "8.2.2024",
@@ -5962,6 +5535,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1730424789",
+    "jakso_otsikko": "Hotttis bottis reaktiot pressanvaalien tulokseen",
+    "paivamaara": "28.1.2024",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1727311281",
@@ -6434,6 +6013,18 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1679276856",
+    "jakso_otsikko": "Pikkujoulupod 2: Urpilaisen presidenttiehdokkuus, plagiointikohu, lisää conundrumeja",
+    "paivamaara": "2.12.2023",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1679274111",
+    "jakso_otsikko": "Pikkujoulupod 1: Rajat, kanatuinen, conundrumeja",
+    "paivamaara": "1.12.2023",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1672693716",
     "jakso_otsikko": "23.11.2023: Rajat kiinni vol XVI, mamututkimuksille persustop, presidentinvaalit",
     "paivamaara": "23.11.2023",
@@ -6651,6 +6242,18 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1644554487",
+    "jakso_otsikko": "19.10.2023: Miniraportti, Q & A, pikkujoulut",
+    "paivamaara": "19.10.2023",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1639870563",
+    "jakso_otsikko": "MAISTIAISJAKSO: Täydellinen pako",
+    "paivamaara": "13.10.2023",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1638345129",
     "jakso_otsikko": "12.10.2023: Israel vs. Hamas, kaasuputki vs. Suomi, ikuinen maailmanloppufiilis",
     "paivamaara": "12.10.2023",
@@ -6708,6 +6311,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1632294387",
+    "jakso_otsikko": "4.10.2023: Här kommer dödspatrullet!, sote-räjähdys, Täydellinen pako",
+    "paivamaara": "4.10.2023",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1627527729",
@@ -6993,6 +6602,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1589383315",
+    "jakso_otsikko": "10.8.2023: Tiedonanto, Amazonin sademetsä, myrsky",
+    "paivamaara": "10.8.2023",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1583127527",
     "jakso_otsikko": "4.8.2023: Presidenttipeli, Ruotsin levottomuudet, Tiitisen lista",
     "paivamaara": "4.8.2023",
@@ -7258,6 +6873,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1542059371",
+    "jakso_otsikko": "Ekstraraportti: Kokoomukselta kokoomuslainen ohjelma YLLÄRI",
+    "paivamaara": "16.6.2023",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1540850749",
@@ -7830,6 +7451,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1483565674",
+    "jakso_otsikko": "VAALISPECIAL: Reaktiot vaalien tulokseen",
+    "paivamaara": "2.4.2023",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1481098231",
     "jakso_otsikko": "30.3.2023: Vaalit 1, Vaalit 2, eläkeasiaa oui",
     "paivamaara": "30.3.2023",
@@ -8192,6 +7819,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1432917166",
+    "jakso_otsikko": "26.1.2023: Haavisto vs. Ruotsi, vaalirahoituskuviot 2023, pandat",
+    "paivamaara": "26.1.2023",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1427829517",
     "jakso_otsikko": "19.1.2023: Translaki, apteekit, Turkin metkut",
     "paivamaara": "19.1.2023",
@@ -8361,6 +7994,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1408142170",
+    "jakso_otsikko": "22.12.2022: Afganistan, gallupit, joulu",
+    "paivamaara": "22.12.2022",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1403332597",
@@ -8591,6 +8230,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1380864469",
+    "jakso_otsikko": "Tervetuloa Uutisraportti podcastin pikkujouluihin 13.12.!",
+    "paivamaara": "11.11.2022",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1380211654",
@@ -9600,6 +9245,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1301246983",
+    "jakso_otsikko": "MAISTIAISJAKSO: Päätös, jota ei koskaan tehty",
+    "paivamaara": "7.7.2022",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1297407583",
@@ -10900,6 +10551,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1187291050",
+    "jakso_otsikko": "30.12.2021: Vuosikatsaus 2021",
+    "paivamaara": "30.12.2021",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1183514755",
     "jakso_otsikko": "23.12.2021: Hyvää joulua! Hallituksen omikron-strategia, kinkut ja moraali, jouluperinteet",
     "paivamaara": "23.12.2021",
@@ -11150,6 +10807,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/1163119357",
+    "jakso_otsikko": "19.11.2021: Rajakriisi, Ruotsin jengitilanne, katumus",
+    "paivamaara": "19.11.2021",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/1157528071",
@@ -12373,6 +12036,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/1043043142",
+    "jakso_otsikko": "Miniraportti: Tuomas jää pois Uutisraportti podcastista",
+    "paivamaara": "5.5.2021",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/1039086244",
     "jakso_otsikko": "29.4.2021: Keskustan arvoton sirkus, EU:n elvytyspaketin kohtalo, jea",
     "paivamaara": "29.4.2021",
@@ -13036,6 +12705,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/957097555",
+    "jakso_otsikko": "Miniraportti podcast: Hyvää uuttavuotta!",
+    "paivamaara": "31.12.2020",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/952859740",
     "jakso_otsikko": "24.12.2020: Al-hol ja joulukooste 2020, baby!",
     "paivamaara": "24.12.2020",
@@ -13345,6 +13020,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/923804611",
+    "jakso_otsikko": "5.11.2020: Yhdysvaltain edelleen keskeneräiset vaalit 2020",
+    "paivamaara": "5.11.2020",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/919661269",
     "jakso_otsikko": "29.10.2020: Trump–Biden 2020, this is it baby!",
     "paivamaara": "29.10.2020",
@@ -13424,6 +13105,18 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/915352216",
+    "jakso_otsikko": "USA Vaalispecial 4: Loppusuoran tilanne",
+    "paivamaara": "21.10.2020",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/914702704",
+    "jakso_otsikko": "USA Vaalispecial 3: Vaa’ankieliosavaltiot",
+    "paivamaara": "20.10.2020",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/910937410",
     "jakso_otsikko": "15.10.2020: Maskikalapaliikki, sote-uudistus, kalifaatti",
     "paivamaara": "15.10.2020",
@@ -13490,6 +13183,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/906243925",
+    "jakso_otsikko": "USA Vaalispecial 2: Trumpin korona ja sen seuraukset",
+    "paivamaara": "7.10.2020",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/902759080",
     "jakso_otsikko": "1.10.2020: Kiihtyvä korona, USA:n vaaliväittely, Sananvapaustuomio hovissa",
     "paivamaara": "1.10.2020",
@@ -13508,6 +13207,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/902317825",
+    "jakso_otsikko": "USA Vaalispecial 1: Ensimmäinen väittely takana",
+    "paivamaara": "30.9.2020",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/899397160",
@@ -13679,6 +13384,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/882922090",
+    "jakso_otsikko": "27.8.2020: Tuomaksen julkinen anteeksipyyntö",
+    "paivamaara": "27.8.2020",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/879031654",
@@ -14659,6 +14370,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/783577522",
+    "jakso_otsikko": "ERIKOISJAKSO: Uusi HS Päivä -podcast seuraa koronavirusepidemian vaikutusta ja hallituksen toimia",
+    "paivamaara": "26.3.2020",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/783794824",
     "jakso_otsikko": "26.3.2020: Marinin suuri suunnitelma, hallitus vs perustuslakiproffat, Uudenmaan karanteeni",
     "paivamaara": "26.3.2020",
@@ -14769,6 +14486,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/772589662",
+    "jakso_otsikko": "ERIKOISJAKSO: Vuosi Nepalin jälkeen",
+    "paivamaara": "8.3.2020",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/771172393",
@@ -15289,6 +15012,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/723066562",
+    "jakso_otsikko": "5.12.2019: Antti Rinteen ero ja hallituskriisi, demarien tulevaisuus, Haaviston kujanjuoksu",
+    "paivamaara": "5.12.2019",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/723065566",
@@ -16465,6 +16194,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/636001962",
+    "jakso_otsikko": "13.6.2019: \"Jääprinsessakohu\", Valtion kehitysyhtiön ongelmat, Isis-vaimot",
+    "paivamaara": "13.6.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/632606268",
     "jakso_otsikko": "6.6.2019: Uudet ministerit, hallitusohjelma, mystinen iranilaiskenraali",
     "paivamaara": "6.6.2019",
@@ -16544,6 +16279,18 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/627274113",
+    "jakso_otsikko": "Eurovaalit: Perinteisille ryhmille köniin ja Hakkaraiselle haastavat ajat meppinä",
+    "paivamaara": "27.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/625337175",
+    "jakso_otsikko": "Eurovaalit: Eurovaalit ovat ”jättimäinen mikseri, joka heittää ihmiset uusille sijoilleen”",
+    "paivamaara": "23.5.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/625310046",
     "jakso_otsikko": "23.5.2019: Kissanrääkkäys, Itävallan korruptioskandaali ja hallitusneuvottelut",
     "paivamaara": "23.5.2019",
@@ -16590,6 +16337,42 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/624798795",
+    "jakso_otsikko": "Eurovaalit: Brittien piti lähteä EU:sta, mutta tänään he äänestävät eurovaaleissa",
+    "paivamaara": "22.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/624273939",
+    "jakso_otsikko": "Eurovaalit: ”Ootko sä jutsku” – ehdokkaat kertovat tulehtuneista tunnelmista vaalien alla",
+    "paivamaara": "21.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/623651133",
+    "jakso_otsikko": "Eurovaalit: Brexitin uhri kertoo, kuinka EU-parlamentin vakaus horjuu vaaleissa",
+    "paivamaara": "20.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/623432502",
+    "jakso_otsikko": "Eurovaalit: Ymmärräthän sen, että kun äänestät Sirpaa, niin äänestät myös EPP:tä?",
+    "paivamaara": "20.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/621638076",
+    "jakso_otsikko": "Eurovaalit: Hakkuut, ilmasto, energia ja naisten paikka",
+    "paivamaara": "17.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/620980608",
+    "jakso_otsikko": "Eurovaalit: Eurooppaa repii vaalien alla \"epävarmuuksien cocktail\"",
+    "paivamaara": "16.5.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/621516915",
     "jakso_otsikko": "16.5.2019: Hallitusneuvottelut, USA vs. Kiina kauppasodassa, naisten vartaloiden politiikka",
     "paivamaara": "16.5.2019",
@@ -16610,6 +16393,30 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/620548791",
+    "jakso_otsikko": "Eurovaalit: Miten valtaa käytetään ja kahmitaan EU:ssa",
+    "paivamaara": "15.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/620030001",
+    "jakso_otsikko": "Eurovaalit: ”Surullisen alhainen” nuorten äänestysaktiivisuus huolestuttaa",
+    "paivamaara": "14.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/619375422",
+    "jakso_otsikko": "Eurovaalit: On aika kurkata eurovaalikoneen sisälle",
+    "paivamaara": "13.5.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/617490252",
+    "jakso_otsikko": "Eurovaalit: Into piukeena eurovaaleista esittää vaalin ääripäät",
+    "paivamaara": "9.5.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/617992386",
     "jakso_otsikko": "9.5.2019: Politiikan isot nimet oikeudessa, hallituksen muodostus, luonnon monimuotoisuuden tuho",
     "paivamaara": "9.5.2019",
@@ -16628,6 +16435,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/616444881",
+    "jakso_otsikko": "Miniraportti podcast: Kohta alkaa ilmestyä eurovaaleihin liittyvä podi",
+    "paivamaara": "6.5.2019",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/614609454",
@@ -16676,6 +16489,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/611206827",
+    "jakso_otsikko": "25.4.2019: Äitiys ja johtajuus, hallitusneuvottelut, EU-vaalit, Sri Lanka",
+    "paivamaara": "25.4.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/607788249",
     "jakso_otsikko": "18.4.2019: Eduskuntavaalien tulos, tuloksen merkitys ja seuraavat vaalit",
     "paivamaara": "18.4.2019",
@@ -16694,6 +16513,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/604825299",
+    "jakso_otsikko": "Vaaliraportti: Miten puoluejohtajat pärjäsivät Ylen vaalitentissä?",
+    "paivamaara": "12.4.2019",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/604402233",
@@ -16742,6 +16567,36 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/603901617",
+    "jakso_otsikko": "Vaaliraportti: Miksi ihmiset haluavat kansanedustajiksi?",
+    "paivamaara": "10.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/603405309",
+    "jakso_otsikko": "Vaaliraportti: Miksi puolueet vaikenevat vaalilupaustensa rahoituskeinoista?",
+    "paivamaara": "9.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/603171753",
+    "jakso_otsikko": "Vaaliraportti: Pika-analyysissa HS:n tuore puoluekannatusmittaus",
+    "paivamaara": "9.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/601391814",
+    "jakso_otsikko": "Vaaliraportti: Missä vaalipiireissä muhivat suurimmat myllerrykset?",
+    "paivamaara": "7.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/600842754",
+    "jakso_otsikko": "Vaaliraportti: Mitkä puolueet istuvat tulevassa hallituksessa?",
+    "paivamaara": "4.4.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/600832521",
     "jakso_otsikko": "4.4.2019: Brexit, Sipilän ja Halla-ahon vääntö Oulussa, nepalilaisravintoloiden orjaolot",
     "paivamaara": "4.4.2019",
@@ -16775,6 +16630,36 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/600313098",
+    "jakso_otsikko": "Vaaliraportti: Kannattaako pienpuoluetta äänestää?",
+    "paivamaara": "3.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/599801769",
+    "jakso_otsikko": "Vaaliraportti: Miten puolueiden ilmasto-ohjelmat eroavat toisistaan?",
+    "paivamaara": "2.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/599328108",
+    "jakso_otsikko": "Mistä vaalikojuilla oikeasti puhutaan?",
+    "paivamaara": "1.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/599123442",
+    "jakso_otsikko": "Vaaliraportti: Mitä tuore kysely ehdokkaiden vetovoimasta kertoo?",
+    "paivamaara": "1.4.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/597307668",
+    "jakso_otsikko": "Vaaliraportti: Onko vaalien alla keskusteltu aivan vääristä asioista?",
+    "paivamaara": "28.3.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/597272277",
     "jakso_otsikko": "28.3.2019: Järkyttävä pedofiliarinki paljastui, Muellerin raportti ja persujen vaalivideo",
     "paivamaara": "28.3.2019",
@@ -16805,6 +16690,30 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/596777184",
+    "jakso_otsikko": "Vaaliraportti: Miten häiriköinti on muuttanut vaalikampanjointia?",
+    "paivamaara": "27.3.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/596622540",
+    "jakso_otsikko": "Vaaliraportti: Tarvitseeko pääministerin olla suosittu?",
+    "paivamaara": "27.3.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/595576116",
+    "jakso_otsikko": "Vaaliraportti: Onko vaalien voittaja jo ratkennut?",
+    "paivamaara": "25.3.2019",
+    "suositukset": []
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/595495149",
+    "jakso_otsikko": "Vaaliraportti: Haluaako Sdp lihan pois perheiden ruokapöydästä?",
+    "paivamaara": "25.3.2019",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/593546820",
@@ -16858,6 +16767,12 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tag:soundcloud,2010:tracks/586911090",
+    "jakso_otsikko": "8.3.2019: Extraextraextraraportti hallituksen erosta",
+    "paivamaara": "8.3.2019",
+    "suositukset": []
   },
   {
     "id": "tag:soundcloud,2010:tracks/586395102",
@@ -16926,6 +16841,12 @@
     ]
   },
   {
+    "id": "tag:soundcloud,2010:tracks/579461394",
+    "jakso_otsikko": "22.2.2019: Miniraportti podcast ja avunpyyntö kuulijoille",
+    "paivamaara": "22.2.2019",
+    "suositukset": []
+  },
+  {
     "id": "tag:soundcloud,2010:tracks/575299158",
     "jakso_otsikko": "14.2.2019: Tiedustelulakien paniikkijarrutus, ihmeellinen Irak-suhmurointi, poliittiset kuplat",
     "paivamaara": "14.2.2019",
@@ -16987,6 +16908,1193 @@
           "taloustiede",
           "yhteiskunta",
           "analyysi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2b9d578f-075e-49c0-a0a2-9cf1c44090e2",
+    "jakso_otsikko": "LäpiHUUTOvaalit: Marko Junkkarin ja Tuomas Peltomäen vieraana Maija-Riitta Ollila",
+    "paivamaara": "17.1.2018",
+    "suositukset": [
+      {
+        "teos": "Making Sense with Sam Harris",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Making+Sense+with+Sam+Harris+podcast",
+        "lisatieto_linkki": "https://www.samharris.org/podcasts/making-sense-episodes",
+        "kuvaus": "Sam Harrisin isännöimä podcast, jossa käsitellään muun muassa tekoälyä ja singulariteettia. Maija-Riitta Ollilan mukaan aina sataprosenttista laatua ja tekoälyjaksot erityisen mielenkiintoisia.",
+        "suosittelija": "Maija-Riitta Ollila",
+        "kategoriat": [
+          "tekoäly",
+          "filosofia",
+          "tiede"
+        ]
+      },
+      {
+        "teos": "I Went on a Date with Aziz Ansari. It Turned into the Worst Night of My Life.",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=I+Went+on+a+Date+with+Aziz+Ansari+babe.net+Grace",
+        "lisatieto_linkki": "https://www.google.com/search?q=babe.net+Aziz+Ansari+Grace+article",
+        "kuvaus": "Babe.net-julkaisussa ilmestynyt artikkeli, jossa 23-vuotias newyorkilaisnainen kertoo kokemuksistaan treffillä koomikko Aziz Ansarin kanssa. Artikkeli jakoi voimakkaasti mielipiteitä MeToo-keskustelussa.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "MeToo",
+          "yhteiskunta",
+          "feministinen media"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "926674a4-00ae-4f88-ae51-60760c996c12",
+    "jakso_otsikko": "LäpiHUUTOvaalit: Marko Junkkarin ja Tuomas Peltomäen vieraana Taru Tujunen",
+    "paivamaara": "10.1.2018",
+    "suositukset": [
+      {
+        "teos": "Fire and Fury: Inside the Trump White House",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Fire+and+Fury+Michael+Wolff",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Fire+and+Fury+Michael+Wolff",
+        "kuvaus": "Michael Wolffin kirja Trumpin Valkoisesta talosta. Sisältää paljon juoruja mutta myös analyysiä, ja herätti laajan keskustelun median roolista.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "politiikka",
+          "Trump",
+          "tietokirja"
+        ]
+      },
+      {
+        "teos": "Kaikkien vitsausten ruhtinas: Syövän elämäkerta",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Emperor+of+All+Maladies+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+All+Maladies+Mukherjee",
+        "kuvaus": "Onkologi Siddhartha Mukherjeen kirja syövän historiasta ja biologiasta. Yksi suosittelijan lempikirjoja – selittää monimutkaiset tieteelliset asiat ymmärrettävästi tarinan muodossa.",
+        "suosittelija": "Taru Tujunen",
+        "kategoriat": [
+          "lääketiede",
+          "tiede",
+          "tietokirja"
+        ]
+      },
+      {
+        "teos": "The Gene: An Intimate History",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Gene+An+Intimate+History+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Gene+An+Intimate+History+Mukherjee",
+        "kuvaus": "Siddhartha Mukherjeen kirja geeneistä, niiden löytämisen historiasta ja toimintatavoista. Suosittelija odottaa pääsevänsä lukemaan sen ja kehuu kirjailijan kykyä selittää tiede ymmärrettävästi.",
+        "suosittelija": "Taru Tujunen",
+        "kategoriat": [
+          "genetiikka",
+          "tiede",
+          "tietokirja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "399c30b6-1830-419c-8484-0a9246d3242d",
+    "jakso_otsikko": "LäpiHUUTOvaalit: Väittelyä Laura Huhtasaaren persoonasta – vieraana Anu Koivunen",
+    "paivamaara": "4.1.2018",
+    "suositukset": [
+      {
+        "teos": "The Crown",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=The+Crown+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Crown",
+        "kuvaus": "Brittimonarkiasta kertova laadukas draamasarja, joka käsittelee toisen maailmansodan jälkeistä maailmanhistoriaa. Erityisesti Winston Churchillia käsittelevä jakso ja Edwardin natsiyhteydet nousevat esiin.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "historiallinen draama",
+          "brittiläinen",
+          "monarkia"
+        ]
+      },
+      {
+        "teos": "Silta",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Silta+tv-sarja+ruotsalainen",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Broen+Broen+The+Bridge",
+        "kuvaus": "Ruotsalais-tanskalainen pohjoismainen rikossarja, jonka avausjakso herätti ristiriitaisia tunteita me too -syksyn jälkeen. Kiinnostava katsoa mihin se menee.",
+        "suosittelija": "Anu Koivonen",
+        "kategoriat": [
+          "pohjoismainen noir",
+          "rikossarja",
+          "skandinaavinen"
+        ]
+      },
+      {
+        "teos": "Recovery Elevator",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Recovery+Elevator+podcast",
+        "lisatieto_linkki": "https://www.recoveryelevator.com",
+        "kuvaus": "Amerikkalainen, pitkään julkaistu ja suosittu podcast, joka tukee ihmisiä alkoholista pidättäytymisessä. Suositellaan erityisesti niille, jotka haluavat pitää pidempiä raittiusjaksoja.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "raittius",
+          "elämäntapa",
+          "hyvinvointi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7dfb89c1-afce-4d2c-9d24-95ffd7f77f3f",
+    "jakso_otsikko": "Uutisraportti podcast 28.6.: Terveysuudistus taas jumiin, Trump vs Venäjä, työministeriö vs somalit",
+    "paivamaara": "29.6.2017",
+    "suositukset": [
+      {
+        "teos": "Mistä maailmat syntyvät",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Joel+Haahtela+Mist%C3%A4+maailmat+syntyyv%C3%A4t",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Joel+Haahtela+Mist%C3%A4+maailmat+syntyvät",
+        "kuvaus": "Joel Haahtelan uusin romaani, tunnelmallista fiktiota helsinkiläisestä kuvataidepiiristä ja yksilökuvauksesta. Suosittelija kehuu sen kaunista maailmaa.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "fiktio",
+          "tunnelmakirjallisuus",
+          "helsinkiläinen kulttuuri"
+        ]
+      },
+      {
+        "teos": "A Wilderness of Error: The Trials of Jeffrey MacDonald",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=A+Wilderness+of+Error+Errol+Morris",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=A+Wilderness+of+Error+Errol+Morris",
+        "kuvaus": "Elokuvaohjaaja Errol Morrisin vuonna 2012 kirjoittama tietokirja, joka käy läpi Jeffrey MacDonaldin kolmoismurhaoikeudenkäynnin vuodelta 1979 ja kritisoi psykopaattidiagnoosin käyttöä oikeudessa. Silmiä avaava teos oikeudenmukaisuudesta ja psykologisista ennakkoluuloista.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tietokirja",
+          "true crime",
+          "oikeudenkäynti"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7d0bb81f-2449-4509-8720-1fe6662c94ea",
+    "jakso_otsikko": "Uutisraportti podcast 20.6.: Vihreiden uusi puheenjohtaja, uusi Sininen tulevaisuus -puolue",
+    "paivamaara": "20.6.2017",
+    "suositukset": []
+  },
+  {
+    "id": "e5392796-e1ec-4b89-a9d2-1df0e47558d4",
+    "jakso_otsikko": "Uutisraportti podcast 16.6.: Perussuomalaiset, Uusi vaihtoehto, hallituskriisi",
+    "paivamaara": "16.6.2017",
+    "suositukset": [
+      {
+        "teos": "The Red Queen: Sex and the Evolution of Human Nature",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Red+Queen+Matt+Ridley",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Red+Queen+Matt+Ridley",
+        "kuvaus": "Matt Ridleyn tietokirja vuodelta 1993, joka käsittelee evoluution vaikutusta ihmisen käyttäytymiseen ja sukupuolirooleihin. Suosittelijan mukaan silmiä avaava ja lähtemättömän vaikutuksen tehnyt teos.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "evoluutiobiologia",
+          "tietokirja",
+          "ihmisluonto"
+        ]
+      },
+      {
+        "teos": "Geeni: Intiimi historia",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Gene+An+Intimate+History+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Gene+An+Intimate+History+Mukherjee",
+        "kuvaus": "Siddhartha Mukherjeen tietokirja, joka käy läpi miten geenit toimivat ja mitä ne tekevät. Suosittelija luki tämän ennen The Red Queenia ja se johdatti hänet evoluutiobiologian pariin.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "genetiikka",
+          "tietokirja",
+          "luonnontiede"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6f166f57-f459-425b-9bcb-adc4235d8639",
+    "jakso_otsikko": "Uutisraportti podcast 7.6.: Poliisien rasismi, Iso-Britannian vaalit ja demareiden presidenttiehdokas",
+    "paivamaara": "8.6.2017",
+    "suositukset": [
+      {
+        "teos": "Keisari Aarnio",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
+        "kuvaus": "Minna Passin ja Susanna Reinbothin kirjoittama tietokirja Helsingin huumepoliisin päällikkö Jari Aarniosta. Anna-Sofia Berner kuvailee sitä vilpittömästi parhaaksi kirjaksi, jonka on sinä vuonna lukenut.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "tietokirja",
+          "rikos",
+          "suomalainen"
+        ]
+      },
+      {
+        "teos": "Sideways Festival",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Sideways+Festival+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Sideways+Festival+Helsinki",
+        "kuvaus": "Helsinkiläinen musiikkifestivaali, jonne Anna-Sofia Berner aikoo mennä. Hän suosittelee festivaalia lämpimästi ja kehottaa kuulijoita ottamaan selvää ohjelmistosta.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "festivaali",
+          "musiikki",
+          "Helsinki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a79e11d1-83ee-4521-b451-55d6e819cfc2",
+    "jakso_otsikko": "Uutisraportti podcast 31.5.: Niinistö presidenttiehdokkaaksi, Jääskeläinen ulos Ylestä, alkoholilaki",
+    "paivamaara": "1.6.2017",
+    "suositukset": [
+      {
+        "teos": "House of Cards",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=House+of+Cards+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+Cards",
+        "kuvaus": "Yhdysvaltalainen poliittinen draama, jossa Frank Underwood taistelee vallasta. Marko mainitsi kohtauksen, jossa Underwood marssii kongressiin pitämään puheen.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "poliittinen draama",
+          "amerikkalaiset sarjat"
+        ]
+      },
+      {
+        "teos": "The Handmaid's Tale",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=The+Handmaid%27s+Tale+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Handmaid%27s+Tale",
+        "kuvaus": "Margaret Atwoodin romaaniin perustuva dystopinen sarja, jossa Yhdysvalloissa on noussut kiihkouskovainen diktatuuri ja naiset on alistettu synnyttäjiksi. Anna-Sofia suositteli sarjaa lämpimästi.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "dystopia",
+          "feministinen",
+          "draama"
+        ]
+      },
+      {
+        "teos": "Orjattaren taru",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Orjattaren+taru+Margaret+Atwood",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Orjattaren+taru",
+        "kuvaus": "Margaret Atwoodin 1980-luvulla kirjoittama dystopinen romaani, johon The Handmaid's Tale -sarja perustuu. Anna-Sofia mainitsi, että kaikkien naisten olisi pitänyt lukea se.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "dystopia",
+          "klassikko",
+          "feministinen kirjallisuus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "06aa0459-b8f8-47e6-9441-ab02ac69e71f",
+    "jakso_otsikko": "Uutisraportti podcast 24.5.: Manchesterin terrori-iskut, Nesteen myynti, viinalaki",
+    "paivamaara": "24.5.2017",
+    "suositukset": []
+  },
+  {
+    "id": "92fb3a64-60c7-476d-a132-94165659fcdd",
+    "jakso_otsikko": "Uutiaraportti podcast 16.5.: Yle-selvitys, Yle-kirja, Yle-gate",
+    "paivamaara": "16.5.2017",
+    "suositukset": []
+  },
+  {
+    "id": "f3614583-bae3-4e44-832a-ea720638ada0",
+    "jakso_otsikko": "Uutisraportti podcast 10.5.: Niinistö vs. Tuomioja, työttömien paperisirkus, Martti Ahtisaaren eläköityminen",
+    "paivamaara": "10.5.2017",
+    "suositukset": [
+      {
+        "teos": "Getting to Yes: Negotiating Agreement Without Giving In",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Getting+to+Yes+Fisher+Ury+Patton",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Getting+to+Yes+Fisher+Ury+Patton",
+        "kuvaus": "Roger Fisherin, William Uryn ja Bruce Pattonin kirjoittama Harvardin neuvotteluprojektiin perustuva klassikkoteos neuvottelustrategioista. Tuomas kertoo aloittaneensa sen kuuntelemisen äänikirjana.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "neuvottelu",
+          "populaaritiede",
+          "työelämä"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b92538ab-f442-4f66-9628-a9d0366c9bec",
+    "jakso_otsikko": "Uutisraportti podcast 3.5.: Hallintarekisteri, hallituksen uudet ministerit, nimilaki",
+    "paivamaara": "3.5.2017",
+    "suositukset": [
+      {
+        "teos": "Sensuroimaton Päivärinta (IL-TV)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Sensuroimaton+P%C3%A4iv%C3%A4rinta+IL-TV",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Sensuroimaton+P%C3%A4iv%C3%A4rinta",
+        "kuvaus": "Susanna Päivärinnan uusi asiajournalismi-ohjelma IL-TV:ssä. Tuomas suosittelee seuraamaan ohjelmaa suurella mielenkiinnolla, vaikka ei ole vielä nähnyt sitä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "asiajournalismi",
+          "netti-tv",
+          "ajankohtaisohjelma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b75f0c4b-f0f7-45f3-9ec6-0a0b812874ce",
+    "jakso_otsikko": "Uutisraportti podcast 27.4.: Ranskan vaalit, puoliväliriihi, Pohjois-Korea",
+    "paivamaara": "27.4.2017",
+    "suositukset": [
+      {
+        "teos": "Keisari Aarnio",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio",
+        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Petri Pelli kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+        "suosittelija": "Petri Pelli",
+        "kategoriat": [
+          "tietokirja",
+          "rikos",
+          "journalismi"
+        ]
+      },
+      {
+        "teos": "Ilosaarirock",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Ilosaarirock",
+        "lisatieto_linkki": null,
+        "kuvaus": "Joensuussa järjestettävä musiikkifestivaali, jota Petri Pelli pitää Suomen parhaana festarina. Hän kehuu erityisesti festivaalin tunnelmaa, mukavia ihmisiä ja hyviä säitä.",
+        "suosittelija": "Petri Pelli",
+        "kategoriat": [
+          "festivaali",
+          "musiikki",
+          "kesätapahtuma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "de64719e-03e4-4888-ba09-65632d60af01",
+    "jakso_otsikko": "Uutisraportti podcast 17.4. Britannian vaalit, vihreiden tilanne, Ranskan vaalit",
+    "paivamaara": "19.4.2017",
+    "suositukset": [
+      {
+        "teos": "S-Town",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=S-Town+podcast",
+        "lisatieto_linkki": "https://stownpodcast.org/",
+        "kuvaus": "Yhdysvaltalainen dokumentaarinen podcast, jossa newyorkilainen radiotoimittaja saa soiton Alabamasta ja lähtee tutkimaan väitettyä murhaa. Tarina laajenee odottamattomaan suuntaan seitsemässä jaksossa.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "dokumentaari",
+          "rikospodcast",
+          "journalismi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0b1c58ad-4a01-401e-afc2-6b67f626da3e",
+    "jakso_otsikko": "Uutisraportti podcast 5.4.",
+    "paivamaara": "6.4.2017",
+    "suositukset": []
+  },
+  {
+    "id": "891747a2-f519-4ae4-902a-6cb83d1825a8",
+    "jakso_otsikko": "Uutisraportti podcast 29.3.2017",
+    "paivamaara": "29.3.2017",
+    "suositukset": [
+      {
+        "teos": "Veep",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Veep+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Veep",
+        "kuvaus": "Yhdysvaltalainen poliittinen komediasarja varapresidentin kabinetista. Marko Junkkari suosittelee erityisesti sarjan realistista ja absurdia kuvaa politiikan kulissien toiminnasta.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "poliittinen komedia",
+          "HBO",
+          "yhdysvaltalainen"
+        ]
+      },
+      {
+        "teos": "The Thick of It",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=The+Thick+of+It+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Thick+of+It",
+        "kuvaus": "Brittiläinen poliittinen komediasarja, jonka pohjalta Veep on tehty. Marko Junkkari suosittelee katsomaan pitkiä pätkiä YouTubesta ja kuvailee sitä huikeaksi.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "poliittinen komedia",
+          "brittiläinen",
+          "Armando Iannucci"
+        ]
+      },
+      {
+        "teos": "Rakkautta ja rakkauden kauhuja",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Cold+Feet+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Cold+Feet",
+        "kuvaus": "Brittiläinen romanttinen draamakomedia, jonka Tuomas Peltomäki nimeää kaikkien aikojen lempisarjakseen. Sarja on koskettava, humaani ja hauska, ja sille on tullut uusi tuotantokausi yli kymmenen vuoden tauon jälkeen.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "romanttinen komedia",
+          "brittiläinen",
+          "draamakomedia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "963bcce3-af52-47bd-b0fc-6420d7684306",
+    "jakso_otsikko": "18: Helsingin suurmoskeija, kuntavaalit ja sarjahukuttaja",
+    "paivamaara": "23.3.2017",
+    "suositukset": [
+      {
+        "teos": "Homo Deus: Huomisen lyhyt historia",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Homo+Deus+Yuval+Noah+Harari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Homo+Deus+Yuval+Noah+Harari",
+        "kuvaus": "Israelilaisen historioitsija Yuval Noah Hararin teos, jossa hän tarkastelee ihmiskunnan tulevaisuutta: dataismin nousua, kuolemattomuuden tavoittelua ja ihmisen muuttumista tarpeettomaksi tekoälyn aikakaudella.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "tietokirja",
+          "tulevaisuudentutkimus",
+          "filosofia"
+        ]
+      },
+      {
+        "teos": "Genome: The Autobiography of a Species in 23 Chapters",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Genome+Matt+Ridley",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Genome+Matt+Ridley",
+        "kuvaus": "Matt Ridleyn teos, joka kertoo ihmisen evoluution historian kahdenkymmenenkolmen geenin kautta. Suosittelijan mukaan huikeaa luettavaa.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "tietokirja",
+          "evoluutiobiologia",
+          "genetiikka"
+        ]
+      },
+      {
+        "teos": "The Red Queen: Sex and the Evolution of Human Nature",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Red+Queen+Matt+Ridley",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Red+Queen+Matt+Ridley",
+        "kuvaus": "Matt Ridleyn vuonna 1992 julkaistu klassikko seksuaalisuuden evoluutiosta. Suosittelijan mukaan paras kirja ikinä – sen luettuaan ymmärtää ympäröivästä maailmasta 75 prosenttia enemmän.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "tietokirja",
+          "evoluutiobiologia",
+          "seksuaalisuus"
+        ]
+      },
+      {
+        "teos": "Kuinka menestyä suomalaisessa televisiossa (blogikirjoitus)",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Antti+Holma+kuinka+menestyä+suomalaisessa+televisiossa",
+        "lisatieto_linkki": "https://www.google.com/search?q=Antti+Holma+kuinka+menestyä+suomalaisessa+televisiossa",
+        "kuvaus": "Antti Holman hauska ja terävä blogikirjoitus siitä, miten suomalaisessa televisiossa pärjää – ja miksi suomalainen televisio on niin kuin se on. Sisäpiiriläisen näkökulma mediamaisemaan.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "media-analyysi",
+          "televisio",
+          "suomalainen kulttuuri"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f59ff743-f7a3-4fee-9f65-56faa530a5dc",
+    "jakso_otsikko": "17: Jussi Halla-aho, Hollannin vaalit, Donald Trumpin tylsyys",
+    "paivamaara": "16.3.2017",
+    "suositukset": []
+  },
+  {
+    "id": "34f32abd-1cf8-4a31-8aca-ea7d0742045d",
+    "jakso_otsikko": "16: Hämääkö hallitus tahallaan siirtämällä sisäiset riitansa perustuslakijeesuksille?",
+    "paivamaara": "21.12.2016",
+    "suositukset": []
+  },
+  {
+    "id": "2d0961bf-dd72-448b-a795-18fcd6ed6210",
+    "jakso_otsikko": "16: \"Onko toimitusjohtaja-miljonääreillä oikeat taidot valtioiden johtamiseen?\"",
+    "paivamaara": "13.12.2016",
+    "suositukset": [
+      {
+        "teos": "Elon Musk",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Elon+Musk+elämäkerta+Walter+Isaacson",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Elon+Musk+Walter+Isaacson",
+        "kuvaus": "Walter Isaacsonin kirjoittama elämäkerta Elon Muskista, joka on suomennettu Jussi Sippalan toimesta. Kirja käsittelee Muskin uraa PayPalista Teslaan ja SpaceXiin.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "elämäkerta",
+          "bisnes",
+          "teknologia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f05ccbcc-51dc-47f3-b2b9-f48fdef22dc2",
+    "jakso_otsikko": "14: Miten viettää itsenäisyyspäivää maassa, jossa pääministeri ei hillitse tunteitaan, ihmisiä ammutaan ja uusnatsit marssivat?",
+    "paivamaara": "8.12.2016",
+    "suositukset": [
+      {
+        "teos": "Jaakko Teppo – elämäkerta",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Jaakko+Teppo+elämäkerta",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Jaakko+Teppo+elämäkerta",
+        "kuvaus": "Kuplettilaulaja Jaakko Tepon elämäkerta, jonka Unto Hämäläinen osti kirjamessuilla lokakuussa ja löysi vasta myöhemmin vaatehuoneesta.",
+        "suosittelija": "Unto Hämäläinen",
+        "kategoriat": [
+          "elämäkerta",
+          "suomalainen kulttuuri",
+          "musiikki"
+        ]
+      },
+      {
+        "teos": "Harry Potter -kirjasarja",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Harry+Potter+kirjasarja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Harry+Potter",
+        "kuvaus": "Unto Hämäläinen on alkanut lukea Harry Potter -kirjoja ääneen kahdeksanvuotiaalle pojalleen, ja on huomannut ääneen lukemisen olevan yllättävän hauskaa ja paljastavaa.",
+        "suosittelija": "Unto Hämäläinen",
+        "kategoriat": [
+          "lastenkirja",
+          "fantasia",
+          "ääneen lukeminen"
+        ]
+      },
+      {
+        "teos": "Saara Aalto – X Factor Iso-Britannia",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=Saara+Aalto+X+Factor+UK",
+        "lisatieto_linkki": "https://www.youtube.com/results?search_query=Saara+Aalto+X+Factor",
+        "kuvaus": "Anna-Sofia Berner suosittelee seuraamaan Saara Aallon esiintymisiä Britannian X Factor -finaalissa, joita hän on katsonut YouTubesta joka maanantai ilon ja onnen hetkinä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "laulukilpailu",
+          "suomalaiset maailmalla",
+          "televisio"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "75cf93b8-7cc2-4924-b87c-4b6fff94e75e",
+    "jakso_otsikko": "13: \"Sipilän jääviyskriisi on oikeasti Sipilän ja median kriisi\"",
+    "paivamaara": "30.11.2016",
+    "suositukset": [
+      {
+        "teos": "Minä, Daniel Blake",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Min%C3%A4+Daniel+Blake",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=I+Daniel+Blake",
+        "kuvaus": "Cannes-palkittu brittielokuva kuusikymppisestä duunaristä, joka joutuu absurdin byrokratian hampaisiin sydänkohtauksen jälkeen. Raastavaa ja kafkamaista kuvausta sosiaaliturvajärjestelmän epäinhimillisyydestä.",
+        "suosittelija": "Anna-Sofia Perner",
+        "kategoriat": [
+          "draama",
+          "yhteiskuntakritiikki",
+          "brittiläinen elokuva"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a436f8d0-fea7-4148-a8a3-91f4d863809b",
+    "jakso_otsikko": "12: \"Onko Sdp:n puheenjohtajavaali vain matalamielinen julkisuussirkus?\"",
+    "paivamaara": "22.11.2016",
+    "suositukset": [
+      {
+        "teos": "Karoliina Helvalin näyttely – Galleria Anhava",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Karoliina+Helva+Galleria+Anhava",
+        "lisatieto_linkki": "https://www.google.com/search?q=Karoliina+Helva+Galleria+Anhava",
+        "kuvaus": "Taidemaalari Karoliina Helvan näyttely Galleria Anhavassa Fredrikinkadun ja Kalevankadun kulmassa. Tuomas suosittelee käymään, sillä siellä on hienoja tauluja.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "taide",
+          "näyttely",
+          "maalaus"
+        ]
+      },
+      {
+        "teos": "Narcos",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Narcos+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Narcos",
+        "kuvaus": "Netflixin sarja Pablo Escobarista ja Medellínin kartellista. Marko kehuu sarjaa aivan huikeaksi ja täysin tositarinaan perustuvaksi.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "rikos",
+          "draama",
+          "tositapahtumat"
+        ]
+      },
+      {
+        "teos": "Westworld",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Westworld+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Westworld",
+        "kuvaus": "Anna-Sofia Berner suosittelee katsomaan ainakin seitsemänteen jaksoon asti, jolloin tulee iso käänne. Tuomas myöntää vihdoin hyväksyvänsä sarjan.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "sci-fi",
+          "draama",
+          "trilleri"
+        ]
+      },
+      {
+        "teos": "Gilmoren tytöt: Vuosi elämässä",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Gilmore+Girls+A+Year+in+the+Life+Netflix",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Gilmore+Girls+A+Year+in+the+Life",
+        "kuvaus": "Netflixiin tuleva Gilmoren tyttöjen jatko-osa, josta fanit ovat olleet innoissaan puoli vuotta. Anna-Sofia mainitsee uusien jaksojen ilmestyvän perjantaina.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "draama",
+          "komedia",
+          "jatko-osa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c8a94117-e318-4bba-8b76-0ae09b998c11",
+    "jakso_otsikko": "11: Miten kaikki Suomen rakennushankkeet maksavat moninkertaisesti ja ylittävät aikarajat?",
+    "paivamaara": "15.11.2016",
+    "suositukset": [
+      {
+        "teos": "The Children's Book",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Children%27s+Book+A.S.+Byatt",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Children%27s+Book+A.S.+Byatt",
+        "kuvaus": "A. S. Byattin paksu romaani, joka seuraa brittiperheiden tarinoita 1800-luvulta ensimmäiseen maailmansotaan. Teos kuvaa, kuinka nopeasti maailma voi muuttua.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "kaunokirjallisuus",
+          "historiallinen romaani",
+          "brittiläinen kirjallisuus"
+        ]
+      },
+      {
+        "teos": "Understanding Comics: The Invisible Art",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Understanding+Comics+The+Invisible+Art+Scott+McCloud",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Understanding+Comics+The+Invisible+Art+Scott+McCloud",
+        "kuvaus": "Scott McCloudin klassikkokirja sarjakuvan psykologiasta, joka on itse sarjakuvamuodossa. Avaa silmiä sille, miten ihminen katsoo ja kokee sarjakuvan.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sarjakuva",
+          "media-analyysi",
+          "tietokirja"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c3fc4ac4-4968-4502-96d2-0aa1aea09b21",
+    "jakso_otsikko": "10: \"Miksi presidentti ei nimitä Kelan uutta johtajaa?\"",
+    "paivamaara": "8.11.2016",
+    "suositukset": [
+      {
+        "teos": "Iivisniemen pesänjakajat",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Iivisniemen+pesänjakajat+Long+Play",
+        "lisatieto_linkki": "https://www.longplay.fi",
+        "kuvaus": "Long Playn pitkä artikkeli perussuomalaisista ja puolueen tulevaisuudesta Timo Soinin puheenjohtajakauden loppumetreillä.",
+        "suosittelija": "Juha Kauppinen",
+        "kategoriat": [
+          "politiikka",
+          "pitkä journalismi",
+          "perussuomalaiset"
+        ]
+      },
+      {
+        "teos": "HyperNormalisaatio",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=HyperNormalisation+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=HyperNormalisation",
+        "kuvaus": "Adam Curtisin BBC-dokumentti, joka seuraa itsemurhapommitusten syntyä ja leviämistä sekä selittää Lähi-idän nykyisen tilanteen taustoja silmiä avaavalla tavalla.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "dokumentti",
+          "Lähi-itä",
+          "historia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2ee73cfe-956b-4c69-bf08-941f904e483f",
+    "jakso_otsikko": "9: \"Kaikki mitä sinun tarvitsee tietää USA:n presidentinvaaleista\" -special",
+    "paivamaara": "1.11.2016",
+    "suositukset": [
+      {
+        "teos": "Tatu ja Patu",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Tatu+ja+Patu+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Tatu+ja+Patu",
+        "kuvaus": "Suomalainen lastenelokuva, joka yllätti positiivisesti harmonisella tunnelmallaan ja onnistuneella käsikirjoituksella. Suosittelijan mukaan palautti uskon suomalaiseen elokuvaan.",
+        "suosittelija": "Tuomas Niskakangas",
+        "kategoriat": [
+          "suomalainen elokuva",
+          "lastenelokuva"
+        ]
+      },
+      {
+        "teos": "Kaikki presidentin miehet",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Kaikki+presidentin+miehet+1976",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=All+the+President%27s+Men",
+        "kuvaus": "1970-luvun klassikkoelokuva, jossa Washington Postin toimittajat paljastavat Watergate-skandaalin. Suosittelijan mukaan elokuva on elänyt hyvin ja on edelleen kelpo katsottava.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "poliittinen draama",
+          "klassikko",
+          "journalismi"
+        ]
+      },
+      {
+        "teos": "Political Gabfest",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Slate+Political+Gabfest+podcast",
+        "lisatieto_linkki": "https://podcasts.apple.com/us/podcast/slate-political-gabfest/id201671138",
+        "kuvaus": "Slaten tuottama politiikan analyysipodcast, jossa mukana muun muassa David Plotz, John Dickerson ja Emily Bazelon. Erityisen suositeltava vaalien aikaan ylivoimaisen analyysinsä vuoksi.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "analyysi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7c74177b-0f82-4369-9ac9-4ddce3539e7d",
+    "jakso_otsikko": "\"Suomessa tarvitaan feministinen keskustelu lumenaurauksesta\"",
+    "paivamaara": "25.10.2016",
+    "suositukset": [
+      {
+        "teos": "Westworld",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Westworld+HBO",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Westworld",
+        "kuvaus": "HBO:n scifi-western-sarja, joka käsittelee ihmisyyden, muistin ja minuuden kysymyksiä inhimillistettyjen robottien kautta. Perustuu Michael Crichtonin 1970-luvun kirjaan.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "scifi",
+          "draama",
+          "filosofia"
+        ]
+      },
+      {
+        "teos": "Lennusadam – Viron merimuseon lentokonehalli",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Lennusadam+Viron+merimuseo+Tallinna",
+        "lisatieto_linkki": "https://www.google.com/search?q=Lennusadam+Viron+merimuseo+Tallinna",
+        "kuvaus": "Tallinnassa vanhassa lentokonehallissa sijaitseva interaktiivinen merimuseo, jossa pääsee muun muassa ampumaan konekiväärillä lentokoneita. Sopii myös lapsiperheille.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "museo",
+          "historia",
+          "lapsiperheet"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "05aa1666-066b-482c-8e3d-c7fcf901228b",
+    "jakso_otsikko": "7: \"Jee noobeli!\"",
+    "paivamaara": "12.10.2016",
+    "suositukset": [
+      {
+        "teos": "Post Alfa",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Post+Alfa+runokokoelma",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Post+Alfa",
+        "kuvaus": "Runokokoelma, jossa käsitellään somekäyttäytymistä, onnellisuuskonsultteja ja sydänsärkyjä. Anna-Sofia Berner luki sen töiden takia mutta yllättyi pitävänsä siitä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "runous",
+          "nykykulttuuri",
+          "some"
+        ]
+      },
+      {
+        "teos": "Kekkonen-dokumentti (Yle)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Kekkonen+dokumentti+Yle",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Kekkonen+dokumentti+Yle",
+        "kuvaus": "Yle-dokumentti Urho Kekkosesta, jossa Maarit Tyrkkö on keskeisessä roolissa. Marko Junkkari kehui erityisesti koskettavaa loppua ja harvinaisia kuvia Kekkosesta presidentin kauden jälkeen.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "dokumentti",
+          "historia",
+          "politiikka"
+        ]
+      },
+      {
+        "teos": "Tunturikadun hiljaisuus",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Tunturikadun+hiljaisuus+Teppo+Sillantaus+Mika+Waltari",
+        "lisatieto_linkki": "https://www.google.com/search?q=Tunturikadun+hiljaisuus+Teppo+Sillantaus+Mika+Waltari",
+        "kuvaus": "Helsingin Sanomien kuukausiliitteen juttu, jossa Teppo Sillantaus vierailee Mika Waltarin koskemattomana säilyneessä kodissa Töölössä ja käy läpi Waltarin vaiheita ja ajattelua syvällisesti ja tunnelmallisesti.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "kirjallisuus",
+          "henkilöjuttu",
+          "kulttuuri"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "21024046-9b76-496d-86cf-fcbf96cf5ee2",
+    "jakso_otsikko": "6: \"Presidentti Niinistöllä on presidenteistä eniten valtaa Kekkosen jälkeen\"",
+    "paivamaara": "3.10.2016",
+    "suositukset": [
+      {
+        "teos": "Omenakrokotiilin kuolema",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Omenakrokotiilin+kuolema+Juhani+Karila",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Omenakrokotiilin+kuolema",
+        "kuvaus": "Juhani Karilan uusi novellikokoelma. Edellinen kokoelma Gorilla sisälsi absurdeja, surrealistisia ja dadaistisia tarinoita kauniilla kirjoitustyylillä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "novellikokoelma",
+          "suomalainen kirjallisuus",
+          "surrealismi"
+        ]
+      },
+      {
+        "teos": "Kuolemantanssi",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Kuolemantanssi+Heikki+Aittokoski",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kuolemantanssi+Aittokoski",
+        "kuvaus": "Heikki Aittokosken teos eurooppalaisesta nationalismista. Kirjailija on matkustanut yli kahdessakymmenessä Euroopan maassa ja tavannut tavallisia ihmisiä sekä päättäjiä yrittäen ymmärtää ulkomaalaispelkoa ja nationalismia. Kirjan läpi kulkee myös afgaanipakolaisperhe Saksassa.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "tietokirja",
+          "eurooppalainen politiikka",
+          "nationalismi"
+        ]
+      },
+      {
+        "teos": "Sairauksien keisari: syövän elämäkerta",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Sairauksien+keisari+sy%C3%B6v%C3%A4n+el%C3%A4m%C3%A4kerta+Siddhartha+Mukherjee",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Emperor+of+All+Maladies+Mukherjee",
+        "kuvaus": "Amerikkalaisen onkologi Siddhartha Mukherjeen Pulitzer-palkittu teos (2011) syövän historiasta antiikista nykypäivään. Suosittelijan mukaan paras non-fiktiivinen kirja, jonka hän on koskaan lukenut.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tietokirja",
+          "lääketiede",
+          "tieteenhistoria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "090426f2-2713-4833-bc43-ee8e1206d633",
+    "jakso_otsikko": "5: \"Risikko vs. taivaan mahti\"",
+    "paivamaara": "29.9.2016",
+    "suositukset": [
+      {
+        "teos": "Patarein vankila, Tallinna",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Patarei+vankila+Tallinna",
+        "lisatieto_linkki": "https://www.google.com/search?q=Patarei+vankila+Tallinna+kierros",
+        "kuvaus": "1800-luvulla linnoitukseksi rakennettu vankila Tallinnassa, joka toimi vankilana vielä 2000-luvun alulle. Opastettu kierros pimeässä, kosteassa ja kylmässä historiallisessa vankilassa, jossa on ollut sekä poliittisia vankeja että rikollisia.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "historia",
+          "kierros",
+          "Viro"
+        ]
+      },
+      {
+        "teos": "Erkki Tuomiojan päiväkirjat, osa 2: 1995–1997",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat+1995-1997",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Erkki+Tuomiojan+p%C3%A4iv%C3%A4kirjat",
+        "kuvaus": "Erkki Tuomiojan autenttinen päiväkirja vuosilta 1995–1997, jota ei ole jälkikäteen sensuroitu tai korjattu. Sisältää värikkäitä luonnekuvauksia ja pilkkaa puoluetovereista, erityisesti Paavo Lipposesta.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "politiikka",
+          "päiväkirja",
+          "Suomi"
+        ]
+      },
+      {
+        "teos": "iTunes University",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=iTunes+University",
+        "lisatieto_linkki": "https://podcasts.apple.com/us/genre/podcasts-education/id1304",
+        "kuvaus": "Applen kuratoima satojen yliopistojen luentopankki, jossa voi kuunnella, katsoa ja lukea kokonaisia kursseja. Erityisesti amerikkalaisyliopistojen luennot ovat laadukkaita ja kiinnostavia – suositellaan esimerkiksi Yhdysvaltain vaaleja käsitteleviä luentoja.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "opetus",
+          "yliopisto",
+          "luennot"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29d1560d-6e92-4174-a4c0-838f8dc69bb5",
+    "jakso_otsikko": "4: \"Irakilaismurhaajat ja uusnatsit ja muita iloisia uutisia\"",
+    "paivamaara": "20.9.2016",
+    "suositukset": [
+      {
+        "teos": "The Century of the Self",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=The+Century+of+the+Self+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Century+of+the+Self",
+        "kuvaus": "Adam Curtisin BBC-dokumenttisarja, joka kertoo Edward Bernaysin kehittämästä PR-alasta ja sen yhteyksistä Sigmund Freudin psykologisiin teorioihin. Tuomas suosittelee sitä eskapismina masentavista uutisista.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "dokumentti",
+          "yhteiskunta",
+          "historia"
+        ]
+      },
+      {
+        "teos": "Suomi (näytelmä, Kansallisteatteri)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Juha+Jokela+Suomi+n%C3%A4ytelm%C3%A4+Kansallisteatteri",
+        "lisatieto_linkki": "https://www.google.com/search?q=Juha+Jokela+Suomi+n%C3%A4ytelm%C3%A4+Kansallisteatteri",
+        "kuvaus": "Juha Jokelan näytelmä Kansallisteatterissa, joka käsittelee Venäjä-teemoja. Anna-Sofia Berner harkitsee menevänsä katsomaan sitä vapauttavana kokemuksena.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "teatteri",
+          "näytelmä",
+          "Venäjä"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bbcc1dcb-f042-4ee2-8ad0-b38b7bfb7fbd",
+    "jakso_otsikko": "3: \"Pitäisikö median lakata ampumasta omaan jalkaansa?\"",
+    "paivamaara": "13.9.2016",
+    "suositukset": [
+      {
+        "teos": "Kekkonen – Maarit Tyrkkö",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Maarit+Tyrkkö+Kekkonen+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Maarit+Tyrkkö+Kekkonen",
+        "kuvaus": "Kirja kertoo Kekkosen ja nuoren toimittajanaisen suhteesta, jossa ikäeroa on 47 vuotta. Teos tarjoaa yksityiskohtaisen ja elävän kuvan 1970-luvun elämästä ja ruokakulttuurista.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "elämäkerta",
+          "historia",
+          "suomalainen politiikka"
+        ]
+      },
+      {
+        "teos": "Sapiens – Ihmisen lyhyt historia",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Sapiens+Yuval+Noah+Harari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sapiens+Yuval+Noah+Harari",
+        "kuvaus": "Yuval Noah Hararin tietokirja kertoo ihmislajin historiasta elävästi ja ymmärrettävästi. Kirja käsittelee muun muassa kielen kehitystä ja juoruilun roolia ihmislajin menestyksessä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "tietokirja",
+          "historia",
+          "ihmistiede"
+        ]
+      },
+      {
+        "teos": "The Power of Nightmares",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=The+Power+of+Nightmares+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Power+of+Nightmares",
+        "kuvaus": "Adam Curtisin dokumenttisarja kuvaa, miten lännen uuskonservatismi ja radikaali islam lähtivät liikkeelle samasta pisteestä 1950-luvun Chicagosta. Sarja seuraa aatteiden leviämistä ympäri maailmaa aina 9/11-iskuihin asti.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "historia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e2ad29f4-4096-43c0-945c-a243105eb46c",
+    "jakso_otsikko": "3. ”Pitäisikö median lopettaa omiin jalkoihinsa ampuminen?”",
+    "paivamaara": "13.9.2016",
+    "suositukset": [
+      {
+        "teos": "Kekkonen – Maarit Tyrkkö",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Maarit+Tyrkkö+Kekkonen+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Maarit+Tyrkkö+Kekkonen",
+        "kuvaus": "Kirja kertoo Kekkosen ja nuoren toimittajanaisen suhteesta, jossa ikäeroa on 47 vuotta. Teos tarjoaa yksityiskohtaisen ja inhimillisen kuvan 70-luvun Suomesta ja Kekkosesta ihmisenä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "historia",
+          "elämäkerta",
+          "suomalainen politiikka"
+        ]
+      },
+      {
+        "teos": "Sapiens – Ihmisen lyhyt historia",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Sapiens+Yuval+Noah+Harari",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sapiens+Harari",
+        "kuvaus": "Yuval Noah Hararin tietokirja ihmislajin historiasta, kerrottuna elävästi ja ymmärrettävästi. Kirja käsittelee muun muassa kielen kehitystä ja sen roolia ihmislajin menestyksessä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "tietokirja",
+          "ihmiskunnan historia",
+          "evoluutio"
+        ]
+      },
+      {
+        "teos": "The Power of Nightmares",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=The+Power+of+Nightmares+Adam+Curtis",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Power+of+Nightmares",
+        "kuvaus": "Adam Curtisin dokumenttisarja, joka kuvaa miten lännen uuskonservatismi ja radikaali islam lähtivät liikkeelle samasta pisteestä 1950-luvun Chicagosta ja törmäsivät toisiinsa syyskuun 11. päivän iskuissa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "dokumentti",
+          "politiikka",
+          "historia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b7e6c006-7fd8-4101-8ab7-6f510ff63159",
+    "jakso_otsikko": "2 \"Punk ei ole kuollut, vaan käymässä Hesburgerissa\"",
+    "paivamaara": "12.9.2016",
+    "suositukset": [
+      {
+        "teos": "Neuromaani-esitys (Marian sairaala)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Neuromaani+esitys+Marian+sairaala",
+        "lisatieto_linkki": null,
+        "kuvaus": "Immersiivinen teatteriesitys Marian sairaalassa, jossa katsojat kutsutaan sisään lääkärille ja pääsevät kokemaan erilaisia aistikokemuksia sairaalan huoneissa, mukaan lukien aistideprivaatiotankki ja yllätysjuomat.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "immersiivinen teatteri",
+          "kokeellinen esitys",
+          "Helsinki"
+        ]
+      },
+      {
+        "teos": "Food Wishes (YouTube-kanava)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Food+Wishes+YouTube+Chef+John",
+        "lisatieto_linkki": "https://www.youtube.com/@foodwishes",
+        "kuvaus": "Chef Johnin pyörittämä erittäin suosittu ruoanlaitto-YouTube-kanava, jossa kokki näyttää reseptit käsien kautta katsojan olkapään yli kuvattuna. Yli tuhat videota kaikenlaisista ruoista, ja jokaisessa on vinkkejä, joilla ruoan saa aivan eri tasolle.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "ruoanlaitto",
+          "YouTube",
+          "kokkiohjelma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7ae42fee-30cf-404f-9627-3016cc7ea586",
+    "jakso_otsikko": "2: \"Punk ei ole kuollut, vaan käymässä Hesburgerissa\"",
+    "paivamaara": "6.9.2016",
+    "suositukset": [
+      {
+        "teos": "Neuromaani-esitys (Marian sairaala)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Neuromaani+esitys+Marian+sairaala+Helsinki",
+        "lisatieto_linkki": null,
+        "kuvaus": "Immersiivinen teatteriesitys Marian sairaalassa, jossa katsojat kutsutaan osallistumaan kokeeseen alkoholin ja lääkkeiden yhteisvaikutuksista. Esityksessä hortoillaan sairaalan huoneissa ja koetaan muun muassa aistideprivaatiotankki pallomerinä.",
+        "suosittelija": "Anna-Sofia Berner",
+        "kategoriat": [
+          "immersiivinen teatteri",
+          "kokeellinen esitys",
+          "Helsinki"
+        ]
+      },
+      {
+        "teos": "Food Wishes (YouTube-kanava)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Food+Wishes+YouTube+Chef+John",
+        "lisatieto_linkki": "https://www.youtube.com/@foodwishes",
+        "kuvaus": "Chef Johnin pyörittämä erittäin suosittu ruoanlaitto-YouTube-kanava, jossa kokki näkyy vain käsistään ja katsoja seuraa ruoanlaittoa olan yli. Yli tuhat videota kaikenlaisista ruoista, täynnä hyödyllisiä vinkkejä ja viihdyttävää kerrontaa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "ruoanlaitto",
+          "YouTube",
+          "opetuskanavat"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8a66178d-1bca-4f7e-80b4-e5fad715f708",
+    "jakso_otsikko": "Jakso 1 otsikolla \"Mitä yhteistä on delfiineillä ja Kelan pääjohtajalla?\"",
+    "paivamaara": "31.8.2016",
+    "suositukset": [
+      {
+        "teos": "Stranger Things",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Stranger+Things",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things",
+        "kuvaus": "Netflixin kahdeksanosainen minisarja, joka sijoittuu 1980-luvun amerikkalaiseen pikkukaupunkiin. Neljä nuorta poikaa, joista yksi katoaa – sekoitus nostalgiaa, kauhua ja 80-luvun syntetisaattorimusiikkia.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sci-fi",
+          "kauhu",
+          "80-luku"
+        ]
+      },
+      {
+        "teos": "Alex Otin valokuvanäyttely",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Alex+Ott+valokuvataiteen+museo+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Alex+Ott+valokuvataiteen+museo+Helsinki",
+        "kuvaus": "Valokuvataiteen museossa Helsingissä esillä oleva amerikkalaisen valokuvataiteen näyttely.",
+        "suosittelija": "Sohvi Berner",
+        "kategoriat": [
+          "valokuvaus",
+          "näyttely",
+          "amerikkalainen taide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "017a9d77-828c-414a-a25b-5afb6feb7689",
+    "jakso_otsikko": "1. Mitä yhteistä on Kelan pääjohtajalla ja delfiineillä?",
+    "paivamaara": "31.8.2016",
+    "suositukset": [
+      {
+        "teos": "Stranger Things",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Stranger+Things",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things",
+        "kuvaus": "Kahdeksanosainen minisarja, joka sijoittuu 1980-luvun amerikkalaiseen pikkukaupunkiin. Neljä nuorta poikaa, joista yksi katoaa – sekoitus nostalgiaa, kauhua ja roolipelejä 80-luvun syntetisaattorimusiikilla.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sci-fi",
+          "kauhu",
+          "80-luku"
+        ]
+      },
+      {
+        "teos": "Alex Bottin valokuvanäyttely",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Alex+Bott+valokuvataiteen+museo+Helsinki",
+        "lisatieto_linkki": null,
+        "kuvaus": "Valokuvataiteen museossa Helsingissä esillä oleva Alex Bottin näyttely amerikkalaisesta valokuvauksesta.",
+        "suosittelija": "Sohvi Berner",
+        "kategoriat": [
+          "valokuvaus",
+          "näyttely",
+          "amerikkalaiset"
         ]
       }
     ]
