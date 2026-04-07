@@ -267,19 +267,28 @@ function setupListeners() {
 function setupScrollListener() {
   const controls = document.querySelector('.controls');
   let lastScrollY = window.scrollY;
-  
+  let ticking = false;
+  const SCROLL_THRESHOLD = 8; // Ignore small deltas (e.g. mobile Safari address bar)
+
   window.addEventListener('scroll', () => {
-    const currentScrollY = window.scrollY;
-    
-    // Minify when scrolling down, expand when scrolling up
-    // threshold of 100px before minifying
-    if (currentScrollY > 100 && currentScrollY > lastScrollY) {
-      controls.classList.add('minified');
-    } else if (currentScrollY < lastScrollY || currentScrollY <= 100) {
-      controls.classList.remove('minified');
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        const currentScrollY = window.scrollY;
+        const delta = currentScrollY - lastScrollY;
+
+        if (Math.abs(delta) > SCROLL_THRESHOLD) {
+          if (currentScrollY > 100 && delta > 0) {
+            controls.classList.add('minified');
+          } else if (delta < 0 || currentScrollY <= 100) {
+            controls.classList.remove('minified');
+          }
+          lastScrollY = currentScrollY;
+        }
+
+        ticking = false;
+      });
+      ticking = true;
     }
-    
-    lastScrollY = currentScrollY;
   }, { passive: true });
 }
 
