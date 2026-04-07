@@ -276,7 +276,11 @@ function setupScrollListener() {
         const currentScrollY = window.scrollY;
         const delta = currentScrollY - lastScrollY;
 
-        if (Math.abs(delta) > SCROLL_THRESHOLD) {
+        // Skip when at the bottom of the page (Safari rubber-band / overscroll)
+        const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+        const atBottom = currentScrollY >= maxScroll - 5;
+
+        if (Math.abs(delta) > SCROLL_THRESHOLD && !atBottom) {
           if (currentScrollY > 100 && delta > 0) {
             controls.classList.add('minified');
           } else if (delta < 0 || currentScrollY <= 100) {
