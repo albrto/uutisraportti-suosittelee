@@ -842,7 +842,7 @@
         "google_linkki": "https://www.google.com/search?q=C%C3%A9line+Dion+Pariisin+olympialaisten+avajaiset+2024",
         "lisatieto_linkki": "https://open.spotify.com/search/Celine%20Dion%20Paris%20Olympics",
         "kuvaus": "Céline Dion esiintyi Eiffel-tornilla Pariisin olympialaisten avajaisissa 2024 laulaen ranskankielisen kappaleen olympiatulen sytytyksen jälkeen. Alle neljän minuutin esiintyminen on voimakas tunnekuohu, erityisesti kun tietää artistin kamppailleen vakavan sairauden kanssa.",
-        "suosittelija": "Anna-Sofia-Berner",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "olympialaiset",
           "live-esiintyminen",
@@ -18001,85 +18001,6 @@
     ]
   },
   {
-    "id": "e2ad29f4-4096-43c0-945c-a243105eb46c",
-    "jakso_otsikko": "3. ”Pitäisikö median lopettaa omiin jalkoihinsa ampuminen?”",
-    "paivamaara": "13.9.2016",
-    "suositukset": [
-      {
-        "teos": "Kekkonen – Maarit Tyrkkö",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Maarit+Tyrkkö+Kekkonen+kirja",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Maarit+Tyrkkö+Kekkonen",
-        "kuvaus": "Kirja kertoo Kekkosen ja nuoren toimittajanaisen suhteesta, jossa ikäeroa on 47 vuotta. Teos tarjoaa yksityiskohtaisen ja inhimillisen kuvan 70-luvun Suomesta ja Kekkosesta ihmisenä.",
-        "suosittelija": "Marko Junkkari",
-        "kategoriat": [
-          "historia",
-          "elämäkerta",
-          "suomalainen politiikka"
-        ]
-      },
-      {
-        "teos": "Sapiens – Ihmisen lyhyt historia",
-        "paakategoria": "kirja",
-        "google_linkki": "https://www.google.com/search?q=Sapiens+Yuval+Noah+Harari",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Sapiens+Harari",
-        "kuvaus": "Yuval Noah Hararin tietokirja ihmislajin historiasta, kerrottuna elävästi ja ymmärrettävästi. Kirja käsittelee muun muassa kielen kehitystä ja sen roolia ihmislajin menestyksessä.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "tietokirja",
-          "ihmiskunnan historia",
-          "evoluutio"
-        ]
-      },
-      {
-        "teos": "The Power of Nightmares",
-        "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=The+Power+of+Nightmares+Adam+Curtis",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Power+of+Nightmares",
-        "kuvaus": "Adam Curtisin dokumenttisarja, joka kuvaa miten lännen uuskonservatismi ja radikaali islam lähtivät liikkeelle samasta pisteestä 1950-luvun Chicagosta ja törmäsivät toisiinsa syyskuun 11. päivän iskuissa.",
-        "suosittelija": "Tuomas Peltomäki",
-        "kategoriat": [
-          "dokumentti",
-          "politiikka",
-          "historia"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "b7e6c006-7fd8-4101-8ab7-6f510ff63159",
-    "jakso_otsikko": "2 \"Punk ei ole kuollut, vaan käymässä Hesburgerissa\"",
-    "paivamaara": "12.9.2016",
-    "suositukset": [
-      {
-        "teos": "Neuromaani-esitys (Marian sairaala)",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Neuromaani+esitys+Marian+sairaala",
-        "lisatieto_linkki": null,
-        "kuvaus": "Immersiivinen teatteriesitys Marian sairaalassa, jossa katsojat kutsutaan sisään lääkärille ja pääsevät kokemaan erilaisia aistikokemuksia sairaalan huoneissa, mukaan lukien aistideprivaatiotankki ja yllätysjuomat.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "immersiivinen teatteri",
-          "kokeellinen esitys",
-          "Helsinki"
-        ]
-      },
-      {
-        "teos": "Food Wishes (YouTube-kanava)",
-        "paakategoria": "muu",
-        "google_linkki": "https://www.google.com/search?q=Food+Wishes+YouTube+Chef+John",
-        "lisatieto_linkki": "https://www.youtube.com/@foodwishes",
-        "kuvaus": "Chef Johnin pyörittämä erittäin suosittu ruoanlaitto-YouTube-kanava, jossa kokki näyttää reseptit käsien kautta katsojan olkapään yli kuvattuna. Yli tuhat videota kaikenlaisista ruoista, ja jokaisessa on vinkkejä, joilla ruoan saa aivan eri tasolle.",
-        "suosittelija": "Tuomas Peltomäki",
-        "kategoriat": [
-          "ruoanlaitto",
-          "YouTube",
-          "kokkiohjelma"
-        ]
-      }
-    ]
-  },
-  {
     "id": "7ae42fee-30cf-404f-9627-3016cc7ea586",
     "jakso_otsikko": "2: \"Punk ei ole kuollut, vaan käymässä Hesburgerissa\"",
     "paivamaara": "6.9.2016",
@@ -18136,44 +18057,11 @@
         "google_linkki": "https://www.google.com/search?q=Alex+Ott+valokuvataiteen+museo+Helsinki",
         "lisatieto_linkki": "https://www.google.com/search?q=Alex+Ott+valokuvataiteen+museo+Helsinki",
         "kuvaus": "Valokuvataiteen museossa Helsingissä esillä oleva amerikkalaisen valokuvataiteen näyttely.",
-        "suosittelija": "Sohvi Berner",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "valokuvaus",
           "näyttely",
           "amerikkalainen taide"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "017a9d77-828c-414a-a25b-5afb6feb7689",
-    "jakso_otsikko": "1. Mitä yhteistä on Kelan pääjohtajalla ja delfiineillä?",
-    "paivamaara": "31.8.2016",
-    "suositukset": [
-      {
-        "teos": "Stranger Things",
-        "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Stranger+Things",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Stranger+Things",
-        "kuvaus": "Kahdeksanosainen minisarja, joka sijoittuu 1980-luvun amerikkalaiseen pikkukaupunkiin. Neljä nuorta poikaa, joista yksi katoaa – sekoitus nostalgiaa, kauhua ja roolipelejä 80-luvun syntetisaattorimusiikilla.",
-        "suosittelija": "Tuomas Peltomäki",
-        "kategoriat": [
-          "sci-fi",
-          "kauhu",
-          "80-luku"
-        ]
-      },
-      {
-        "teos": "Alex Bottin valokuvanäyttely",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Alex+Bott+valokuvataiteen+museo+Helsinki",
-        "lisatieto_linkki": null,
-        "kuvaus": "Valokuvataiteen museossa Helsingissä esillä oleva Alex Bottin näyttely amerikkalaisesta valokuvauksesta.",
-        "suosittelija": "Sohvi Berner",
-        "kategoriat": [
-          "valokuvaus",
-          "näyttely",
-          "amerikkalaiset"
         ]
       }
     ]
