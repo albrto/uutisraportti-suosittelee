@@ -1,84 +1,5 @@
 [
   {
-    "id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
-    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminati baddies",
-    "paivamaara": "2.4.2026",
-    "suositukset": [
-      {
-        "teos": "Good Hang with Amy Poehler",
-        "paakategoria": "podcast",
-        "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
-        "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
-        "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
-        "suosittelija": "Jussi Niemeläinen",
-        "kategoriat": [
-          "komedia",
-          "viihde",
-          "haastattelu"
-        ]
-      },
-      {
-        "teos": "Pistaasilevite (Fiasconaro)",
-        "paakategoria": "ruoka",
-        "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
-        "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
-        "kuvaus": "Fiasconaaron pistaasilevite, jonka Salla kehuu parhaaksi. Myös Amazonilta löytyy hyvä vaihtoehto.",
-        "suosittelija": "Salla Vuorikoski",
-        "kategoriat": [
-          "herkku",
-          "italialainen",
-          "levite"
-        ]
-      },
-      {
-        "teos": "Taskmaster (Britannia)",
-        "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+TV+show",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK",
-        "kuvaus": "Brittiläinen komediasarja, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Toinen kausi on paraikaa käynnissä Amazonilla, juontajana Jim Carr ja mukana mm. David Mitchell.",
-        "suosittelija": "Tuomas Peltomäki",
-        "kategoriat": [
-          "komedia",
-          "brittiläinen",
-          "viihde"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "93a44f52-172e-4764-8f39-94f5cbc96730",
-    "jakso_otsikko": "Bensa- ja korkoahdinko, Suomen miljardöörit, vassaritoimittajaopiskelijat",
-    "paivamaara": "26.3.2026",
-    "suositukset": [
-      {
-        "teos": "Muistopäivä (Kansallisteatteri)",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Muistopäivä+Kansallisteatteri+näytelmä",
-        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
-        "kuvaus": "Näytelmä Stalinin vainojen suomalaisuhreista. Seuraa pientä suomalaisten joukkoa, joka loikkasi Neuvostoliittoon 1930-luvulla. Käsikirjoittaja Elli Salo.",
-        "suosittelija": "Anna-Sofia Berner",
-        "kategoriat": [
-          "teatteri",
-          "historia",
-          "Neuvostoliitto"
-        ]
-      },
-      {
-        "teos": "Täällä Pohjantähden alla (Kansallisteatteri)",
-        "paakategoria": "kulttuuri",
-        "google_linkki": "https://www.google.com/search?q=Täällä+Pohjantähden+alla+Kansallisteatteri+näytelmä+Lauri+Maijala",
-        "lisatieto_linkki": "https://www.kansallisteatteri.fi/",
-        "kuvaus": "Lauri Maijalan ohjaama näytelmä Väinö Linnan romaanijättiläisen pohjalta. Keskiössä Akselin ja Elinan tarina Suomen sisällissodan ja muiden vaiheiden taustalla.",
-        "suosittelija": "Salla Vuorikoski",
-        "kategoriat": [
-          "teatteri",
-          "historia",
-          "Väinö Linna"
-        ]
-      }
-    ]
-  },
-  {
     "id": "fef94bfd-7e85-4b4f-a0fd-9b31c06f5ece",
     "jakso_otsikko": "Loppuuko Euroopan Trump-mielistely nyt?",
     "paivamaara": "19.3.2026",
@@ -17571,7 +17492,7 @@
         "google_linkki": "https://www.google.com/search?q=Min%C3%A4+Daniel+Blake",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=I+Daniel+Blake",
         "kuvaus": "Cannes-palkittu brittielokuva kuusikymppisestä duunaristä, joka joutuu absurdin byrokratian hampaisiin sydänkohtauksen jälkeen. Raastavaa ja kafkamaista kuvausta sosiaaliturvajärjestelmän epäinhimillisyydestä.",
-        "suosittelija": "Anna-Sofia Perner",
+        "suosittelija": "Anna-Sofia Berner",
         "kategoriat": [
           "draama",
           "yhteiskuntakritiikki",
