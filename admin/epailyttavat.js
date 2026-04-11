@@ -174,7 +174,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Elvis Presley in Concert (dokumenttielokuva)",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -204,8 +204,8 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Jussi Niemeläinen",
-        "teos": "Everybody's Free (To Wear Sunscreen)",
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Everybody\\'s Free (To Wear Sunscreen)",
         "paakategoria": "musiikki",
         "kategoriat": [
           "puhe",
@@ -219,8 +219,8 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 3,
         "is_suspicious": false,
-        "suosittelija": "Anna-Sofia Berner",
-        "teos": "East West Street – Philippe Sands",
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "East West Street",
         "paakategoria": "kirja",
         "kategoriat": [
           "historia",
