@@ -1144,7 +1144,20 @@ function isJaksoResolved(jakso) {
 
 function renderList() {
   let filtered = DATA.filter(jakso => {
-    // 1. View filtering
+    // 1. Search filtering ENSIN — näin haku löytää aina kaikki osuvat jaksot
+    if (currentSearch) {
+      const hay = (
+        jakso.jakso_otsikko + ' ' +
+        jakso.paivamaara + ' ' +
+        (jakso.rss_osallistujat || []).join(' ') + ' ' +
+        jakso.suositukset.map(r =>
+          [r.suosittelija, r.teos, r.paakategoria, r.kuvaus].filter(Boolean).join(' ')
+        ).join(' ')
+      ).toLowerCase();
+      if (!hay.includes(currentSearch)) return false;
+    }
+
+    // 2. View filtering
     if (mainView === 'suspicious') {
       const hasUnresolved = jakso.suositukset.some(r => {
         if (!r.is_suspicious) return false;
@@ -1157,12 +1170,6 @@ function renderList() {
       if (!hasCorrection) return false;
     }
 
-    // 2. Search filtering
-    if (currentSearch) {
-      const hay = (jakso.jakso_otsikko + ' ' +
-        jakso.suositukset.map(r => r.suosittelija + ' ' + r.teos).join(' ')).toLowerCase();
-      if (!hay.includes(currentSearch)) return false;
-    }
     return true;
   });
 
