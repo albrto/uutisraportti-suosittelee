@@ -8880,7 +8880,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Petri Pelli",
+        "suosittelija": "Petja Pelli",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -8895,7 +8895,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Petri Pelli",
+        "suosittelija": "Petja Pelli",
         "teos": "Ilosaarirock",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -8903,7 +8903,7 @@ window.VALIDATION_DATA = [
           "musiikki",
           "kesätapahtuma"
         ],
-        "kuvaus": "Joensuussa järjestettävä musiikkifestivaali, jota Petri Pelli pitää Suomen parhaana festarina. Hän kehuu erityisesti festivaalin tunnelmaa, mukavia ihmisiä ja hyviä säitä.",
+        "kuvaus": "Joensuussa järjestettävä musiikkifestivaali, jota Petja Pelli pitää Suomen parhaana festarina. Hän kehuu erityisesti festivaalin tunnelmaa, mukavia ihmisiä ja hyviä säitä.",
         "google_linkki": "https://www.google.com/search?q=Ilosaarirock",
         "lisatieto_linkki": null
       }
