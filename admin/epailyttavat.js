@@ -8880,7 +8880,7 @@ window.VALIDATION_DATA = [
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Petja Pelli",
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Keisari Aarnio",
         "paakategoria": "kirja",
         "kategoriat": [
