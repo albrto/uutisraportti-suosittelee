@@ -8888,7 +8888,7 @@ window.VALIDATION_DATA = [
           "rikos",
           "journalismi"
         ],
-        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Petri Pelli kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+        "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuoma Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
         "google_linkki": "https://www.google.com/search?q=Keisari+Aarnio",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=Keisari+Aarnio"
       },
@@ -21972,14 +21972,14 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
-        "teos": "Petja Pellyn reportaasit Ruotsista – Ruotsalaisprofessori kuunteli lähes tuhatta asukasta ongelmallisiksi listatuissa lähiöissä",
+        "teos": "Petja Pellin reportaasit Ruotsista",
         "paakategoria": "artikkeli",
         "kategoriat": [
           "journalismi",
           "yhteiskunta",
           "Ruotsi"
         ],
-        "kuvaus": "Marko Junkkari suosittelee HS:n Tukholman kirjeenvaihtaja Petja Pellyn reportaaseja Ruotsista. Erityisesti artikkeli, jossa professori Peter Esajasson tutki Göteborgin lähiöiden asukkaiden kokemuksia ja yhteisöllisyyttä.",
+        "kuvaus": "Marko Junkkari suosittelee HS:n Tukholman kirjeenvaihtaja Petja Pellin reportaaseja Ruotsista. Erityisesti artikkeli, jossa professori Peter Esaiasson tutki Göteborgin lähiöiden asukkaiden kokemuksia ja yhteisöllisyyttä.",
         "google_linkki": "https://www.google.com/search?q=Petja+Pelli+Ruotsi+l%C3%A4hi%C3%B6t+professori+Peter+Esajasson",
         "lisatieto_linkki": "https://www.google.com/search?q=Petja+Pelli+Helsingin+Sanomat+Ruotsi"
       },
