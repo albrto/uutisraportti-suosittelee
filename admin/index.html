@@ -1193,8 +1193,11 @@ function renderCard(jakso) {
   const startSek = Math.max(0, jakso.kesto_sek - 900);
   const startPct = jakso.kesto_sek > 0 ? Math.min(startSek / jakso.kesto_sek, 0.75) : 0;
 
+  // Himmennä vain "epäilyttävät"-näkymässä, ei "kaikki"-näkymässä
+  const showResolved = resolved && mainView === 'suspicious';
+
   return `
-<div class="episode-card${resolved ? ' resolved' : ''}" id="card-${jakso.jakso_id}">
+<div class="episode-card${showResolved ? ' resolved' : ''}" id="card-${jakso.jakso_id}">
   <div class="card-header" onclick="toggleCard('${jakso.jakso_id}')">
     <div class="episode-num">${jakso.j_idx || '?'}</div>
     <div class="episode-meta">
