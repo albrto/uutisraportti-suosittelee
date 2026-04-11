@@ -124,5 +124,41 @@
         "journalismi"
       ]
     }
+  },
+  {
+    "jakso_id": "tag:soundcloud,2010:tracks/694250740",
+    "jakso_otsikko": "11.10.2019: Turkin sota ja Al-Holin suomalaislapset, Vapaavuoren tunneli ja Makian plagiointikohu",
+    "paivamaara": "11.10.2019",
+    "r_idx": 1,
+    "teos": "Petja Pellyn reportaasit Ruotsista – Ruotsalaisprofessori kuunteli lähes tuhatta asukasta ongelmallisiksi listatuissa lähiöissä",
+    "uusi_data": {
+      "teos": "Petja Pellin reportaasit Ruotsista",
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko Junkkari suosittelee HS:n Tukholman kirjeenvaihtaja Petja Pellin reportaaseja Ruotsista. Erityisesti artikkeli, jossa professori Peter Esaiasson tutki Göteborgin lähiöiden asukkaiden kokemuksia ja yhteisöllisyyttä.",
+      "paakategoria": "artikkeli",
+      "kategoriat": [
+        "journalismi",
+        "yhteiskunta",
+        "Ruotsi"
+      ]
+    }
+  },
+  {
+    "jakso_id": "b75f0c4b-f0f7-45f3-9ec6-0a0b812874ce",
+    "jakso_otsikko": "Uutisraportti podcast 27.4.: Ranskan vaalit, puoliväliriihi, Pohjois-Korea",
+    "paivamaara": "27.4.2017",
+    "r_idx": 0,
+    "teos": "Keisari Aarnio",
+    "uusi_data": {
+      "teos": "Keisari Aarnio",
+      "suosittelija": "Tuomas Peltomäki",
+      "kuvaus": "Helsingin Sanomien toimittajien Minna Passin ja Susanna Rainion kirja Helsingin huumepoliisin päällikkö Jari Aarnion tapauksesta. Tuoma Peltomäki kehuu kirjaa poikkeuksellisen hyvin kirjoitetuksi ja silmiä avaavaksi kuvaukseksi suomalaisesta poliisi- ja mediamaailmasta.",
+      "paakategoria": "kirja",
+      "kategoriat": [
+        "tietokirja",
+        "rikos",
+        "journalismi"
+      ]
+    }
   }
 ]
