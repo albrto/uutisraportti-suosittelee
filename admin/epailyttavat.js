@@ -205,7 +205,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Everybody\\'s Free (To Wear Sunscreen)",
+        "teos": "Everybody's Free (To Wear Sunscreen)",
         "paakategoria": "musiikki",
         "kategoriat": [
           "puhe",
