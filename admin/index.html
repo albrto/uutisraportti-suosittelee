@@ -109,12 +109,13 @@
     /* Filter bar */
     .filterbar {
       max-width: 1200px;
-      margin: 24px auto 0;
-      padding: 0 32px;
+      margin: 0 auto;
+      padding: 14px 0 0;
       display: flex;
       gap: 12px;
       align-items: center;
       flex-wrap: wrap;
+      border-top: 1px solid var(--border);
     }
 
     .search-wrap {
@@ -809,9 +810,7 @@
       <button class="filter-btn" style="margin-left:8px" onclick="logout()">Kirjaudu ulos</button>
     </div>
   </div>
-</header>
-
-<div class="filterbar">
+  <div class="filterbar">
   <div class="search-wrap">
     <span class="search-icon">🔍</span>
     <input type="text" id="search" placeholder="Hae jaksoa tai suosittelijaa..." />
@@ -825,7 +824,8 @@
     </div>
     <div class="progress-info" id="progress-text">0 / 0</div>
   </div>
-</div>
+  </div>
+</header>
 
 <main id="main-list">
   <div class="empty" id="loading">
