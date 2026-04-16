@@ -17513,6 +17513,83 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 461,
+    "jakso_id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
+    "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
+    "paivamaara": "16.4.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/12121d03-6138-4c7c-8da6-cfa2ebc87100.mp3",
+    "kesto_sek": 5146,
+    "kesto_str": "01:25:46",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski ja Jussi Niemeläinen keskustelevat ulkopoliittisesta sillisalaatista, jossa on mukana Stubbin ja Kanadan pääministeri Mark Carneyn pipolätkä, Trump Jeesuksena ja biiffi paavin kanssa, Unkarin vaalivoittajan aiheuttama hyvän olon hyrinä liberaalipiireissä; sekä Helsingin kaupungin lähes silmät kiinni myöntämät avokätiset tuet yhdistyksi",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Last One Laughing (japanilainen formaatti)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "tosi-tv",
+          "brittiläinen"
+        ],
+        "kuvaus": "Tosi-tv-kilpailu, jossa huippukoomikoita suljetaan taloon ja heidän tehtävänään on saada muut nauramaan olematta itse repeämättä. Brittiläinen versio on kerännyt suosiota.",
+        "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Bob Mortimer",
+        "paakategoria": "kulttuuri",
+        "kategoriat": [
+          "komedia",
+          "brittiläinen",
+          "stand-up"
+        ],
+        "kuvaus": "Brittiläinen koomikko, jota suositellaan katsomaan ihan missä formaatissa tahansa – käsittämättömän hauska ukko.",
+        "google_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian",
+        "lisatieto_linkki": "https://www.google.com/search?q=Bob+Mortimer+comedian"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "London Falling",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "rikos",
+          "Lontoo"
+        ],
+        "kuvaus": "Patrick Radden Keefin tuore tietokirja, joka selvittää 19-vuotiaan brittiteinin mystistä kuolemaa Thamesijoessa ja avaa eeppisen kertomuksen valheista, oligarkeista ja Lontoon alamaailmasta.",
+        "google_linkki": "https://www.google.com/search?q=London+Falling+Patrick+Radden+Keefe",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=London+Falling+Patrick+Radden+Keefe"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Wind of Change",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "tutkiva journalismi",
+          "historia",
+          "musiikki"
+        ],
+        "kuvaus": "Patrick Radden Keefin tekemä podcast, jota pidetään yhtenä maailman parhaista. Tutkii CIA:n mahdollista yhteyttä Scorpionsin hittikappaleeseen.",
+        "google_linkki": "https://www.google.com/search?q=Wind+of+Change+podcast+Patrick+Radden+Keefe",
+        "lisatieto_linkki": "https://open.spotify.com/search/Wind%20of%20Change%20podcast"
+      }
+    ]
+  },
+  {
     "j_idx": 408,
     "jakso_id": "4e5d8448-2363-49fc-856c-05931759c383",
     "jakso_otsikko": "Persujen katastrofi, hylätyt äänet ja ADHD",
