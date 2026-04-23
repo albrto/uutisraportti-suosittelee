@@ -11418,6 +11418,53 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 462,
+    "jakso_id": "2fca672e-9a55-41d1-94d8-e8a523c522d8",
+    "jakso_otsikko": "Kehysriihi oli melankolinen startti vaaleihin",
+    "paivamaara": "23.4.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/2fca672e-9a55-41d1-94d8-e8a523c522d8.mp3",
+    "kesto_sek": 5018,
+    "kesto_str": "01:23:38",
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Anna-Sofia Berner, Tuomas Peltomäki ja Salla Vuorikoski saavat vieraakseen Teemu Muhosen, sillä keskustellaan hallituksen kehysriihestä. Lopuksi aiheena vielä CNN:n selvitys, jonka mukaan ranskalaisen Gisele Pelicot’n kokema kohtalo ei ehkä ollutkaan niin ainutkertainen kuin olisi voinut kuvitella.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikki",
+        "teos": "Last One Laughing (brittiläiset kaudet)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "komedia",
+          "reality",
+          "viihde"
+        ],
+        "kuvaus": "Brittiversio suositusta formaatista, jossa koomikoita yritetään saada nauramaan. Suosittelija katsoi molemmat brittikaudet ja piti niitä tosi hyvinä.",
+        "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Anni Keski-Heikki",
+        "teos": "Marty Supreme",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "draama",
+          "kasvutarina",
+          "urheilu"
+        ],
+        "kuvaus": "1950-luvulle sijoittuva elokuva kenkäkaupan myyjästä, joka haaveilee pääsystä pingiksen MM-kisoihin Tokioon. Timothée Chalamet pääosassa; absurdi kasvutarina, jolla oli useita Oscar-ehdokkuuksia.",
+        "google_linkki": "https://www.google.com/search?q=Marty+Supreme+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Marty+Supreme"
+      }
+    ]
+  },
+  {
     "j_idx": 130,
     "jakso_id": "tag:soundcloud,2010:tracks/805366771",
     "jakso_otsikko": "23.4.2020: Marinin \"hybridi\"malli, Business Finlandin \"businekset\", Lindbergin hävittäjäkonsultointi",

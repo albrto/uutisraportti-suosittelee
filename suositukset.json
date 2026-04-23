@@ -1,5 +1,38 @@
 [
   {
+    "id": "2fca672e-9a55-41d1-94d8-e8a523c522d8",
+    "jakso_otsikko": "Kehysriihi oli melankolinen startti vaaleihin",
+    "paivamaara": "23.4.2026",
+    "suositukset": [
+      {
+        "teos": "Last One Laughing (brittiläiset kaudet)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Last+One+Laughing",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing",
+        "kuvaus": "Brittiversio suositusta formaatista, jossa koomikoita yritetään saada nauramaan. Suosittelija katsoi molemmat brittikaudet ja piti niitä tosi hyvinä.",
+        "suosittelija": "Anni Keski-Heikki",
+        "kategoriat": [
+          "komedia",
+          "reality",
+          "viihde"
+        ]
+      },
+      {
+        "teos": "Marty Supreme",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Marty+Supreme+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Marty+Supreme",
+        "kuvaus": "1950-luvulle sijoittuva elokuva kenkäkaupan myyjästä, joka haaveilee pääsystä pingiksen MM-kisoihin Tokioon. Timothée Chalamet pääosassa; absurdi kasvutarina, jolla oli useita Oscar-ehdokkuuksia.",
+        "suosittelija": "Anni Keski-Heikki",
+        "kategoriat": [
+          "draama",
+          "kasvutarina",
+          "urheilu"
+        ]
+      }
+    ]
+  },
+  {
     "id": "12121d03-6138-4c7c-8da6-cfa2ebc87100",
     "jakso_otsikko": "Trump-sus vs. paavi, Helsingin autoreply-tuet, Suomi jää kelkasta syöpähoidoissa",
     "paivamaara": "16.4.2026",
