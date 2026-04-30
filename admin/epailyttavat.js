@@ -7127,6 +7127,82 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 463,
+    "jakso_id": "fc6314aa-e6aa-44d2-b814-5032c4e0e609",
+    "jakso_otsikko": "Sofia Virta vs. Wille Rydman, Auerin vapautus, Trump",
+    "paivamaara": "29.4.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/fc6314aa-e6aa-44d2-b814-5032c4e0e609.mp3",
+    "kesto_sek": 4848,
+    "kesto_str": "01:20:48",
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski ja oikeustoimittaja Susanne Reinboth keskustelevat vihreiden puheenjohtaja Sofia Virran ja sosiaali- ja terveysministeri Wille Rydmanin ryöpsähtäneestä biiffaamisesta A-studiossa, mutta myös niistä itse aiheista joista biiffi lähti. Lisäksi aiheena täydellinen ruumiinavaus sille oikeusjärjestelmän epäonnistumiselle, joka on tapaus Anneli ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Terminaattori",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "scifi",
+          "toiminta",
+          "tekoäly"
+        ],
+        "kuvaus": "Klassinen scifi-toimintaelokuva vuodelta 1984, jossa tulevaisuudesta saapuu tappokone suojelemaan tai tuhoamaan Sarah Conneria. Salla Vuorikoski yllättyi, kuinka paljon elokuva puhutteli tekoälyaikana.",
+        "google_linkki": "https://www.google.com/search?q=Terminaattori+1984+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Terminator"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Susanna Reinboth",
+        "teos": "Muistin varassa – Oikeusprosessi ja totuus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "oikeustiede",
+          "psykologia",
+          "tietokirja"
+        ],
+        "kuvaus": "Julia Korkmanin kirja siitä, kuinka muisti voi pettää ja todisteet ovat helposti manipuloitavissa oikeusprosesseissa. Liittyy Anneli Auer -tapaukseen.",
+        "google_linkki": "https://www.google.com/search?q=Muistin+varassa+Oikeusprosessi+ja+totuus+Julia+Korkman",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Muistin+varassa+Julia+Korkman"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Susanna Reinboth",
+        "teos": "Simpanssi sisällämme",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tiede",
+          "evoluutio",
+          "eläimet"
+        ],
+        "kuvaus": "Apinatutkija Sonja Kosken kirjoittama teos ihmisten yhtäläisyyksistä ja eroavaisuuksista lähisukulaisiin verrattuna. Koski menehtyi valitettavasti viime syksynä.",
+        "google_linkki": "https://www.google.com/search?q=Simpanssi+sisällämme+Sonja+Koski",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Simpanssi+sisällämme+Sonja+Koski"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Bluestocking – Helen Lewisin blogi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "blogi",
+          "politiikka",
+          "kulttuuri"
+        ],
+        "kuvaus": "Toimittaja Helen Lewisin blogi, jossa hän linkittää kiinnostavia löytöjä netistä ja kirjoittaa älykkäästi ja humoristisesti politiikasta, kulttuurista ja elämästä.",
+        "google_linkki": "https://www.google.com/search?q=Helen+Lewis+The+Bluestocking+blog",
+        "lisatieto_linkki": "https://www.google.com/search?q=Helen+Lewis+The+Bluestocking+newsletter"
+      }
+    ]
+  },
+  {
     "j_idx": 187,
     "jakso_id": "tag:soundcloud,2010:tracks/1039086244",
     "jakso_otsikko": "29.4.2021: Keskustan arvoton sirkus, EU:n elvytyspaketin kohtalo, jea",
