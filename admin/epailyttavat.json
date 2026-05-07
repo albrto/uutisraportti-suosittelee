@@ -1879,6 +1879,53 @@
     ]
   },
   {
+    "j_idx": 464,
+    "jakso_id": "ae30837f-3a2b-4a65-ac42-27ee3a9c8fb0",
+    "jakso_otsikko": "Ääriliikeväkivalta, etätyön lopettelupuheet, valtion velka",
+    "paivamaara": "7.5.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/ae30837f-3a2b-4a65-ac42-27ee3a9c8fb0.mp3",
+    "kesto_sek": 5094,
+    "kesto_str": "01:24:54",
+    "rss_osallistujat": [
+      "Inkeri Harju",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski ja Keskiyön kaninkolo -podcastista tuttu Inkeri Harju keskustelevat väkivaltaiseksi muuttuneesta marssista Tampereella ja erityisesti siitä levinneestä aika älyttömästä naamiokeskustelusta. Puhetta on myös monista yrittäjäleiristä tulleista avauksista, jotka pyrkivät parantamaan Suomen taloustilannetta lähinnä ottamalla rahat työntekij",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Keskiyön Kaninkolo",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "yhteiskunta",
+          "selittävä journalismi",
+          "talous"
+        ],
+        "kuvaus": "Helsingin Sanomien podcast, jota vetävät Inkeri Harju ja Topi Kosunen. Sarja selittää monimutkaisia yhteiskunnallisia aiheita – kuten valtion velkaa ja hammaslääketieteen historiaa – ymmärrettävästi ja syvällisesti.",
+        "google_linkki": "https://www.google.com/search?q=Keskiy%C3%B6n+Kaninkolo+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Keskiy%C3%B6n%20Kaninkolo"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Totuus palvelutalosta",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "undercover-journalismi",
+          "vanhustenhoito",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Ilta-Sanomien toimittaja Salli Hakala pestäytyi kuudeksi päiväksi turkulaiseen hoivakotiin sairaanhoitajana ja raportoi arjen todellisuudesta – sekä hyvistä hetkistä että vakavista puutteista hoivatyössä.",
+        "google_linkki": "https://www.google.com/search?q=Totuus+palvelutalosta+Ilta-Sanomat+Salli+Hakala",
+        "lisatieto_linkki": "https://www.google.com/search?q=Totuus+palvelutalosta+Ilta-Sanomat+Salli+Hakala"
+      }
+    ]
+  },
+  {
     "j_idx": 132,
     "jakso_id": "tag:soundcloud,2010:tracks/815560156",
     "jakso_otsikko": "7.5.2020: Hallituksen exit-suunnitelma, ravintolat unohdettiin, Viro",

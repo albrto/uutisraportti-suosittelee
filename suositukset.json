@@ -1,5 +1,38 @@
 [
   {
+    "id": "ae30837f-3a2b-4a65-ac42-27ee3a9c8fb0",
+    "jakso_otsikko": "Ääriliikeväkivalta, etätyön lopettelupuheet, valtion velka",
+    "paivamaara": "7.5.2026",
+    "suositukset": [
+      {
+        "teos": "Keskiyön Kaninkolo",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Keskiy%C3%B6n+Kaninkolo+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Keskiy%C3%B6n%20Kaninkolo",
+        "kuvaus": "Helsingin Sanomien podcast, jota vetävät Inkeri Harju ja Topi Kosunen. Sarja selittää monimutkaisia yhteiskunnallisia aiheita – kuten valtion velkaa ja hammaslääketieteen historiaa – ymmärrettävästi ja syvällisesti.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "yhteiskunta",
+          "selittävä journalismi",
+          "talous"
+        ]
+      },
+      {
+        "teos": "Totuus palvelutalosta",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Totuus+palvelutalosta+Ilta-Sanomat+Salli+Hakala",
+        "lisatieto_linkki": "https://www.google.com/search?q=Totuus+palvelutalosta+Ilta-Sanomat+Salli+Hakala",
+        "kuvaus": "Ilta-Sanomien toimittaja Salli Hakala pestäytyi kuudeksi päiväksi turkulaiseen hoivakotiin sairaanhoitajana ja raportoi arjen todellisuudesta – sekä hyvistä hetkistä että vakavista puutteista hoivatyössä.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "undercover-journalismi",
+          "vanhustenhoito",
+          "yhteiskunta"
+        ]
+      }
+    ]
+  },
+  {
     "id": "fc6314aa-e6aa-44d2-b814-5032c4e0e609",
     "jakso_otsikko": "Sofia Virta vs. Wille Rydman, Auerin vapautus, Trump",
     "paivamaara": "29.4.2026",
