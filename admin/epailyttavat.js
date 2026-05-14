@@ -20056,6 +20056,68 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 465,
+    "jakso_id": "07271fe1-1641-4985-b9ea-c5641bbeb58b",
+    "jakso_otsikko": "Demarien talousasento, rauhanpuhe Suomessa, viisut Wienissä",
+    "paivamaara": "13.5.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/07271fe1-1641-4985-b9ea-c5641bbeb58b.mp3",
+    "kesto_sek": 4703,
+    "kesto_str": "01:18:23",
+    "rss_osallistujat": [
+      "Hanna Mahlamäki",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski, politiikan toimituksen esihenkilö Hanna Mahlamäki ja lankoja pitkin Wienistä Itävallasta euroviisutoimittaja Juuso Määttänen keskustelevat Sdp:n mahdollisista lähestymistavoista vaalien talouskeskusteluun, Espanjan merkityksestä puolueelle ja vuorineuvosten vastaiskusta. Puhetta myös Putinin rauhanpuheista ja suomalaisten poliitikoide",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Elämäni ilman sinua",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "mielenterveys",
+          "suomalainen kirjallisuus"
+        ],
+        "kuvaus": "Näyttelijä Lotta Lehtikarin ja Anna Pihlajaniemen yhdessä kirjoittama teos, joka kertoo siitä, kuinka Lehtikarin sisko ja äiti ovat molemmat päätyneet itsemurhaan. Koskettava ja surullinen kirja selviytymisestä ja elämästä eteenpäin.",
+        "google_linkki": "https://www.google.com/search?q=El%C3%A4m%C3%A4ni+ilman+sinua+Lotta+Lehtikari+Anna+Pihlajaniemi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4ni+ilman+sinua"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Edes vastuutonta väkeä (Careless People)",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "teknologia",
+          "muistelmat",
+          "Silicon Valley"
+        ],
+        "kuvaus": "Sarah Wynn-Williamsin muistelmateos seitsemän vuoden jaksosta Facebookin politiikkajohtajana. Kertoo, kuinka yhtiön johto muuttui edes vastuuttomaksi ja teki käsittämättömiä kompromisseja esimerkiksi Kiinan kanssa.",
+        "google_linkki": "https://www.google.com/search?q=Careless+People+Sarah+Wynn-Williams",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Careless+People+Sarah+Wynn-Williams"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Hell or High Water",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "lännenelokuva",
+          "rikos",
+          "Texas"
+        ],
+        "kuvaus": "Lännenelokuva veljesparista, joka yrittää pelastaa äitinsä farmin ahneelta pankilta. Mukana myös Texas Ranger, joka lähtee heitä jäljittämään.",
+        "google_linkki": "https://www.google.com/search?q=Hell+or+High+Water+2016+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hell+or+High+Water"
+      }
+    ]
+  },
+  {
     "j_idx": 242,
     "jakso_id": "tag:soundcloud,2010:tracks/1267671271",
     "jakso_otsikko": "13.5.2022: Nato, nato, nato jee jee jee",
