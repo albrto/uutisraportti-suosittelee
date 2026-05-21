@@ -13035,6 +13035,83 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 466,
+    "jakso_id": "be218fc2-33ad-4be8-85ed-e26d8df2edd9",
+    "jakso_otsikko": "\"BIG 2\" ja vasalli Kiinassa, vasemmiston rakettikannatus ja velkajarru, Turun ratikka",
+    "paivamaara": "21.5.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/be218fc2-33ad-4be8-85ed-e26d8df2edd9.mp3",
+    "kesto_sek": 5098,
+    "kesto_str": "01:24:58",
+    "rss_osallistujat": [
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas Peltomäki, Salla Vuorikoski ja Jussi Niemeläinen keskustelevat Kiinan päämies Xi Jingpingin ympärille muodostuneesta valtionpäämiesten suoranaisesta jonosta, tuoreimmista kannatuskyselyistä ja siitä mitä ne merkitsevät vaalien asetelmia ajatellen, ja Turun ratikkapäätöksestä.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Matkalla islamilaisessa Suomessa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "yhteiskunta",
+          "maahanmuutto",
+          "dokumentaarinen"
+        ],
+        "kuvaus": "Tutkija elää Turun Varissuolla ja kuvailee kirjassa, minkälaisia eri yhteisöjä siellä on. Yksi parhaimmista kirjoista Suomessa suosittelijan mukaan.",
+        "google_linkki": "https://www.google.com/search?q=Matkalla+islamilaisessa+Suomessa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Matkalla+islamilaisessa+Suomessa"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Georgialaiset viinit",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "viini",
+          "Georgia",
+          "juomat"
+        ],
+        "kuvaus": "Jussi Niemeläinen suosittelee georgialaista viiniä, jota saa Alkosta muutamaa lajia. Georgialaiset ovat tehneet viiniä yli 8000 vuotta.",
+        "google_linkki": "https://www.google.com/search?q=georgialainen+viini+Alko",
+        "lisatieto_linkki": "https://www.google.com/search?q=georgialainen+viini+Alko"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Ihana Agnes",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "komedia",
+          "ruotsalainen",
+          "Netflix"
+        ],
+        "kuvaus": "Ruotsalainen Netflix-komedia, jossa keski-ikäinen nainen lähtee au pairiksi Ranskaan ja päätyy hoivaamaan iäkästä taiteilijaa. Hauska ja absurdi elokuva, joka puhuttelee elämäänsä kyllästyneitä.",
+        "google_linkki": "https://www.google.com/search?q=Ihana+Agnes+Netflix+ruotsalainen+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ihana+Agnes"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "The Ruffian -blogi",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "blogi",
+          "Britannia",
+          "politiikka"
+        ],
+        "kuvaus": "Ian Lesleyn kirjoittama Substack-blogi, jossa käsitellään Britannian politiikkaa, kulttuuria ja yhteiskuntaa erinomaisella kirjoitustyylillä. Osittain maksullinen, mutta suosittelijan mukaan ehdottomasti lukemisen arvoinen.",
+        "google_linkki": "https://www.google.com/search?q=The+Ruffian+blog+Ian+Leslie+Substack",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Ruffian+Ian+Leslie+Substack"
+      }
+    ]
+  },
+  {
     "j_idx": 191,
     "jakso_id": "tag:soundcloud,2010:tracks/1052924116",
     "jakso_otsikko": "21.5.2021: Kuntavaalit, vaalikoneet ja Vapaavuori",

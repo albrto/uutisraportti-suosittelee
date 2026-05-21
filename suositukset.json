@@ -1,5 +1,64 @@
 [
   {
+    "id": "be218fc2-33ad-4be8-85ed-e26d8df2edd9",
+    "jakso_otsikko": "\"BIG 2\" ja vasalli Kiinassa, vasemmiston rakettikannatus ja velkajarru, Turun ratikka",
+    "paivamaara": "21.5.2026",
+    "suositukset": [
+      {
+        "teos": "Matkalla islamilaisessa Suomessa",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Matkalla+islamilaisessa+Suomessa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Matkalla+islamilaisessa+Suomessa",
+        "kuvaus": "Tutkija elää Turun Varissuolla ja kuvailee kirjassa, minkälaisia eri yhteisöjä siellä on. Yksi parhaimmista kirjoista Suomessa suosittelijan mukaan.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "yhteiskunta",
+          "maahanmuutto",
+          "dokumentaarinen"
+        ]
+      },
+      {
+        "teos": "Georgialaiset viinit",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=georgialainen+viini+Alko",
+        "lisatieto_linkki": "https://www.google.com/search?q=georgialainen+viini+Alko",
+        "kuvaus": "Jussi Niemeläinen suosittelee georgialaista viiniä, jota saa Alkosta muutamaa lajia. Georgialaiset ovat tehneet viiniä yli 8000 vuotta.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "viini",
+          "Georgia",
+          "juomat"
+        ]
+      },
+      {
+        "teos": "Ihana Agnes",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Ihana+Agnes+Netflix+ruotsalainen+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ihana+Agnes",
+        "kuvaus": "Ruotsalainen Netflix-komedia, jossa keski-ikäinen nainen lähtee au pairiksi Ranskaan ja päätyy hoivaamaan iäkästä taiteilijaa. Hauska ja absurdi elokuva, joka puhuttelee elämäänsä kyllästyneitä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "komedia",
+          "ruotsalainen",
+          "Netflix"
+        ]
+      },
+      {
+        "teos": "The Ruffian -blogi",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=The+Ruffian+blog+Ian+Leslie+Substack",
+        "lisatieto_linkki": "https://www.google.com/search?q=The+Ruffian+Ian+Leslie+Substack",
+        "kuvaus": "Ian Lesleyn kirjoittama Substack-blogi, jossa käsitellään Britannian politiikkaa, kulttuuria ja yhteiskuntaa erinomaisella kirjoitustyylillä. Osittain maksullinen, mutta suosittelijan mukaan ehdottomasti lukemisen arvoinen.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "blogi",
+          "Britannia",
+          "politiikka"
+        ]
+      }
+    ]
+  },
+  {
     "id": "07271fe1-1641-4985-b9ea-c5641bbeb58b",
     "jakso_otsikko": "Demarien talousasento, rauhanpuhe Suomessa, viisut Wienissä",
     "paivamaara": "13.5.2026",
