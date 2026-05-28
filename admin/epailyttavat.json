@@ -7852,6 +7852,68 @@
     ]
   },
   {
+    "j_idx": 467,
+    "jakso_id": "1862f21e-d368-4b9f-8459-2828794a7d56",
+    "jakso_otsikko": "Naton lopullinen romahdus, Kalasataman jättipalo ja varoitus, täältä tulee Suvivirsi!",
+    "paivamaara": "28.5.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/1862f21e-d368-4b9f-8459-2828794a7d56.mp3",
+    "kesto_sek": 3897,
+    "kesto_str": "01:04:57",
+    "rss_osallistujat": [
+      "John Helin",
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Salla Vuorikoski, John Helin ja Jussi Niemeläinen puhuvat Trumpin aikeista romuttaa Nato. Eikö sotilasliitto ollutkaan meille suojaisa satama? Lisäksi ihmetellään, miten Kalasataman jättipalossa selvittiin ilman henkilövahinkoja. Lopuksi innovoidaan Suvivirsi-varoitusjärjestelmää.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "The Beatles: Get Back",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "historia"
+        ],
+        "kuvaus": "Peter Jacksonin vuonna 2021 julkaisema dokumentti, joka perustuu Beatlesin itse nauhoittamaan materiaaliin heidän viimeisten albumiensa tekovaiheesta. Noin seitsemän tunnin teos antaa arkistomateriaalin puhua puolestaan ilman erillistä kertojaa.",
+        "google_linkki": "https://www.google.com/search?q=The+Beatles+Get+Back+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Beatles+Get+Back"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Churchkhela (georgialainen jälkiruoka)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "georgia",
+          "vegaaninen",
+          "matkatuliaiset"
+        ],
+        "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinimehusta ja jauhosta tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton.",
+        "google_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
+        "lisatieto_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Ikitie",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historia",
+          "suomalainen elokuva",
+          "Neuvostoliitto"
+        ],
+        "kuvaus": "Vuonna 2017 valmistunut suomalainen elokuva, joka kertoo Lapuan liikkeen vainoaman miehen päätymisestä Neuvostoliittoon ja amerikansuomalaisten kohtalosta Stalinin vainoissa. Pääosassa Tommi Korpela.",
+        "google_linkki": "https://www.google.com/search?q=Ikitie+elokuva+2017",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ikitie+2017"
+      }
+    ]
+  },
+  {
     "j_idx": 192,
     "jakso_id": "tag:soundcloud,2010:tracks/1057300072",
     "jakso_otsikko": "28.5.2021: Valko-Venäjä ei piittaa,Marinin aamiainen kertoo Suomesta,perintätoimistot rikkovat lakia",

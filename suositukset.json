@@ -1,5 +1,51 @@
 [
   {
+    "id": "1862f21e-d368-4b9f-8459-2828794a7d56",
+    "jakso_otsikko": "Naton lopullinen romahdus, Kalasataman jättipalo ja varoitus, täältä tulee Suvivirsi!",
+    "paivamaara": "28.5.2026",
+    "suositukset": [
+      {
+        "teos": "The Beatles: Get Back",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=The+Beatles+Get+Back+dokumentti",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Beatles+Get+Back",
+        "kuvaus": "Peter Jacksonin vuonna 2021 julkaisema dokumentti, joka perustuu Beatlesin itse nauhoittamaan materiaaliin heidän viimeisten albumiensa tekovaiheesta. Noin seitsemän tunnin teos antaa arkistomateriaalin puhua puolestaan ilman erillistä kertojaa.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "dokumentti",
+          "musiikki",
+          "historia"
+        ]
+      },
+      {
+        "teos": "Churchkhela (georgialainen jälkiruoka)",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
+        "lisatieto_linkki": "https://www.google.com/search?q=Churchkhela+georgialainen+j%C3%A4lkiruoka",
+        "kuvaus": "Georgialainen perinteinen herkku, jossa pähkinät pujotetaan langalle ja upotetaan viinimehusta ja jauhosta tehtyyn seokseen, joka jähmettyy pötkylämäiseksi makeiseksi. Vegaaninen ja sokeriton.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "georgia",
+          "vegaaninen",
+          "matkatuliaiset"
+        ]
+      },
+      {
+        "teos": "Ikitie",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Ikitie+elokuva+2017",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ikitie+2017",
+        "kuvaus": "Vuonna 2017 valmistunut suomalainen elokuva, joka kertoo Lapuan liikkeen vainoaman miehen päätymisestä Neuvostoliittoon ja amerikansuomalaisten kohtalosta Stalinin vainoissa. Pääosassa Tommi Korpela.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "historia",
+          "suomalainen elokuva",
+          "Neuvostoliitto"
+        ]
+      }
+    ]
+  },
+  {
     "id": "be218fc2-33ad-4be8-85ed-e26d8df2edd9",
     "jakso_otsikko": "\"BIG 2\" ja vasalli Kiinassa, vasemmiston rakettikannatus ja velkajarru, Turun ratikka",
     "paivamaara": "21.5.2026",
