@@ -1,5 +1,75 @@
 [
   {
+    "id": "e6092347-b775-4f07-abe8-19666159edd1",
+    "jakso_otsikko": "Kokoomus, nice! vai nais-?, Keir Starmer pinteessä, EU:n lahja persuille",
+    "paivamaara": "4.6.2026",
+    "suositukset": [
+      {
+        "teos": "Philadelphia's Been Good to Me (Kurt Vile)",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=Kurt+Vile+Philadelphia%27s+Been+Good+to+Me",
+        "lisatieto_linkki": "https://open.spotify.com/search/Kurt%20Vile%20Philadelphia%27s%20Been%20Good%20to%20Me",
+        "kuvaus": "Kurt Vilen uusi albumi, joka on juurevaa perinnetietoista jenkkirokkia. Ammentaa paljon Neil Youngilta – täydellistä kesämusiikkia mökkimatkoille.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "rock",
+          "americana",
+          "kesämusiikki"
+        ]
+      },
+      {
+        "teos": "Varkaiden kaupunki (Patrick Radden Keefe)",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Patrick+Radden+Keefe+Varkaiden+kaupunki",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Patrick+Radden+Keefe+Varkaiden+kaupunki",
+        "kuvaus": "Patrick Radden Keefen suomennettu teos. Keefe on tämän hetken kenties kovimpia eläviä toimittajia.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "journalismi",
+          "tietokirja"
+        ]
+      },
+      {
+        "teos": "Sketsipoika78 (Instagram)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Sketsipoika78+Instagram",
+        "lisatieto_linkki": "https://www.instagram.com/sketsipoika78",
+        "kuvaus": "Suomalainen Instagram-sketsitili, jossa absurdeja ja tolkuttomia hahmoja kuten iskelmälaulaja Janne Juhana. Paikoin hyvin asiaton mutta viihdyttävä.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "sketsikomedia",
+          "instagram",
+          "huumori"
+        ]
+      },
+      {
+        "teos": "Kaisa Koivisto (Instagram/TikTok)",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Kaisa+Koivisto+Instagram+sketsi",
+        "lisatieto_linkki": "https://www.instagram.com/kaisakoivisto",
+        "kuvaus": "Suomalainen sketsiartisti Instagramissa ja TikTokissa. Erityisesti sohvan ostamisesta kertova sketsi sai suosittelijan mukaan nauramaan enemmän kuin mikään suomalainen sisältö vuosiin.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sketsikomedia",
+          "instagram",
+          "huumori"
+        ]
+      },
+      {
+        "teos": "Kivijalkakaupoissa asiointi",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi",
+        "lisatieto_linkki": "https://www.google.com/search?q=kivijalkakaupoissa+asiointi+suomi",
+        "kuvaus": "Suositellaan asioimista kivijalkakaupoissa verkkokaupan sijaan. Henkilökohtainen ja ystävällinen palvelu on arvo sinänsä.",
+        "suosittelija": "Jussi Niemeläinen",
+        "kategoriat": [
+          "kuluttaminen",
+          "paikallisuus"
+        ]
+      }
+    ]
+  },
+  {
     "id": "1862f21e-d368-4b9f-8459-2828794a7d56",
     "jakso_otsikko": "Naton lopullinen romahdus, Kalasataman jättipalo ja varoitus, täältä tulee Suvivirsi!",
     "paivamaara": "28.5.2026",
