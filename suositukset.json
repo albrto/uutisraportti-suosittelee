@@ -1,5 +1,51 @@
 [
   {
+    "id": "12fc0564-c469-42cd-bff7-924cf7acd414",
+    "jakso_otsikko": "Are things getting Petter eli kaikki kokoomuksen puoluekokouksesta, Karoliina Partasen saamasta rangaistuksesta ja fudiksen MM-kisoista",
+    "paivamaara": "11.6.2026",
+    "suositukset": [
+      {
+        "teos": "Lapsuus / Nuoruus / Aikuisuus (trilogia)",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Tove+Ditlevsen+trilogia+suomi",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tove+Ditlevsen+trilogia",
+        "kuvaus": "Tanskalaisen Tove Ditlevsenin kuuluisa omaelämäkerrallinen trilogia, joka on julkaistu suomeksi. Salla Vuorikoski lukee sitä kolmatta kertaa ja kehuu kirjailijan kykyä kuvata järisyttäviä asioita muutamilla sanoilla.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "omaelämäkerta",
+          "tanskalaisuus",
+          "klassikko"
+        ]
+      },
+      {
+        "teos": "Ohjus",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Ohjus+elokuva+2024+Miia+Tervo",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Ohjus+2024",
+        "kuvaus": "Miia Tervon ohjaama suomalainen elokuva vuodelta 2024, joka perustuu vuoden 1984 tapahtumiin, kun neuvostoliittolainen ohjus syöksyi Inarijärveen. Fiktiivinen tarina yksinhuoltajaäidistä, joka ryhtyy paikallislehden toimittajaksi ja selvittää ohjusasiaa. Pääosassa Oona Airola.",
+        "suosittelija": "Satu Vasantola",
+        "kategoriat": [
+          "suomalainen elokuva",
+          "historiallinen",
+          "komedia"
+        ]
+      },
+      {
+        "teos": "London Falling",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Patrick+Radden+Keefe+London+Falling+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Patrick+Radden+Keefe+London+Falling",
+        "kuvaus": "Patrick Radden Keeffin uusi kirja (2024) kertoo brittipojan mystisestä kuolemasta Lontoon Thamesia reunustavan kerrostalon parvekkeelta. Poika oli esiintynyt venäläisen oligarkin poikana huijatakseen epäilyttävää porukkaa, ja kirja selvittää mitä todella tapahtui.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "tietokirja",
+          "rikos",
+          "tutkiva journalismi"
+        ]
+      }
+    ]
+  },
+  {
     "id": "e6092347-b775-4f07-abe8-19666159edd1",
     "jakso_otsikko": "Kokoomus, nice! vai nais-?, Keir Starmer pinteessä, EU:n lahja persuille",
     "paivamaara": "4.6.2026",
