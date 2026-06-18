@@ -1,5 +1,51 @@
 [
   {
+    "id": "fa7943d3-89ff-4073-b8d2-f5cba539b368",
+    "jakso_otsikko": "Sofia Virta sai huudot, Rydman tarttui leikkuriin ja kauneusbisnes kuohuttaa",
+    "paivamaara": "18.6.2026",
+    "suositukset": [
+      {
+        "teos": "Yksisarvinen maailman myyteissä ja tarinoissa",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Yksisarvinen+maailman+myyteissä+ja+tarinoissa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Yksisarvinen+maailman+myyteissä+ja+tarinoissa",
+        "kuvaus": "Kulttuurihistorioitsijan teos yksisarvisten esiintymisestä myyteissä ja tarinoissa antiikista nykypäivään. Kirja käy läpi yksisarvisten historian antiikin kreikkalaisista kirjoituksista Raamattuun ja populaarikulttuuriin.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "kulttuurihistoria",
+          "mytologia",
+          "tietokirja"
+        ]
+      },
+      {
+        "teos": "Roaster",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Roaster+HBO+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Roaster+HBO",
+        "kuvaus": "Amerikkalainen lempeä komediasarja HBO:lta, joka sijoittuu yliopistomaailmaan. Pääosassa Steve Carell, ja sarja käsittelee isä-tytär-suhdetta, professorien kilvoittelua sekä Amerikan jakautuneisuutta.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "komedia",
+          "yliopisto",
+          "amerikkalainen"
+        ]
+      },
+      {
+        "teos": "Naurava Sohvi -stand up -klubi",
+        "paakategoria": "kulttuuri",
+        "google_linkki": "https://www.google.com/search?q=Naurava+Sohvi+stand+up+Käpylä+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Naurava+Sohvi+stand+up+Käpylä+Helsinki",
+        "kuvaus": "Käpylässä sijaitseva stand up -klubi, jossa esiintyy Suomen eturivin koomikkoja harjoittelemassa uutta materiaalia. Pieni ja intiimi tila, jossa mm. Jukka Lindström on esiintynyt.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "stand up",
+          "komedia",
+          "Helsinki"
+        ]
+      }
+    ]
+  },
+  {
     "id": "12fc0564-c469-42cd-bff7-924cf7acd414",
     "jakso_otsikko": "Are things getting Petter eli kaikki kokoomuksen puoluekokouksesta, Karoliina Partasen saamasta rangaistuksesta ja fudiksen MM-kisoista",
     "paivamaara": "11.6.2026",
