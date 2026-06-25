@@ -10234,6 +10234,67 @@
     ]
   },
   {
+    "j_idx": 471,
+    "jakso_id": "4dfc8c80-14b0-4ab8-8780-8908d8c2929a",
+    "jakso_otsikko": "Rydman järjesti vaalikriisin, Britannia sai kissadiktaattorin ja Kauppatori sloppia",
+    "paivamaara": "25.6.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4dfc8c80-14b0-4ab8-8780-8908d8c2929a.mp3",
+    "kesto_sek": 3520,
+    "kesto_str": "58:40",
+    "rss_osallistujat": [
+      "John Helin",
+      "Marko Junkkari"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastissa aloittaa kesätiimi, joka ensitöikseen keskustelee poliittisesta nosteesta, jonka sosiaali- ja terveysministeri Wille Rydman (ps) on saanut hallituskriisillä. Studiossa puhutaan myös Britannian pääministeriyden mahdottomuudesta ja Kauppatorin tekoälyllä tuotetusta turistirihkamasta.</p><p>Podissa mukana ovat John Helin, Pihla Saravirta, Topi Kosunen ja Ma",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Topi Kokonen",
+        "teos": "Svart Rido",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "rock",
+          "ruotsalainen musiikki",
+          "indie"
+        ],
+        "kuvaus": "Ruotsalainen kolmen naisen bändi, joka soittaa tummansävyistä, melodista kitaravetoista rock-musiikkia. Topi Kokonen suosittelee bändiä kuultuaan heidän keikkansa Kesärannassa.",
+        "google_linkki": "https://www.google.com/search?q=Svart+Rido+band",
+        "lisatieto_linkki": "https://open.spotify.com/search/Svart%20Rido"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Vety (Lappeenrantalainen lihapiiras)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "suomalainen ruoka",
+          "street food",
+          "perinneruoka"
+        ],
+        "kuvaus": "Perinteinen lappeenrantalainen lihapiiras, johon kuuluu savukinkku, kananmuna, valkosipulimajoneesi, ketsuppi, sipuli ja kurkkusalaatti. Saatavilla myös kasvis- ja vegaaniversioina.",
+        "google_linkki": "https://www.google.com/search?q=vety+lihapiiras+Lappeenranta",
+        "lisatieto_linkki": "https://www.google.com/search?q=vety+lihapiiras+Lappeenranta"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
+        "teos": "Kuninkaansaari, Helsinki",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "Helsinki",
+          "retkeily"
+        ],
+        "kuvaus": "Helsingin edustalla sijaitseva villiintynyt saari, joka on Vallisaarta rauhallisempi ja luonnonläheisempi kohde. Suositellaan erityisesti kesäiseen päiväretkeen.",
+        "google_linkki": "https://www.google.com/search?q=Kuninkaansaari+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kuninkaansaari+Helsinki"
+      }
+    ]
+  },
+  {
     "j_idx": 139,
     "jakso_id": "tag:soundcloud,2010:tracks/846655741",
     "jakso_otsikko": "25.6.2020: Washington Postin cancel-artikkeli ja Eskimot, translaki, Juha Mäenpään syytesuoja",

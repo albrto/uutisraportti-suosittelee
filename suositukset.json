@@ -1,5 +1,51 @@
 [
   {
+    "id": "4dfc8c80-14b0-4ab8-8780-8908d8c2929a",
+    "jakso_otsikko": "Rydman järjesti vaalikriisin, Britannia sai kissadiktaattorin ja Kauppatori sloppia",
+    "paivamaara": "25.6.2026",
+    "suositukset": [
+      {
+        "teos": "Svart Rido",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=Svart+Rido+band",
+        "lisatieto_linkki": "https://open.spotify.com/search/Svart%20Rido",
+        "kuvaus": "Ruotsalainen kolmen naisen bändi, joka soittaa tummansävyistä, melodista kitaravetoista rock-musiikkia. Topi Kokonen suosittelee bändiä kuultuaan heidän keikkansa Kesärannassa.",
+        "suosittelija": "Topi Kokonen",
+        "kategoriat": [
+          "rock",
+          "ruotsalainen musiikki",
+          "indie"
+        ]
+      },
+      {
+        "teos": "Vety (Lappeenrantalainen lihapiiras)",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=vety+lihapiiras+Lappeenranta",
+        "lisatieto_linkki": "https://www.google.com/search?q=vety+lihapiiras+Lappeenranta",
+        "kuvaus": "Perinteinen lappeenrantalainen lihapiiras, johon kuuluu savukinkku, kananmuna, valkosipulimajoneesi, ketsuppi, sipuli ja kurkkusalaatti. Saatavilla myös kasvis- ja vegaaniversioina.",
+        "suosittelija": "Pihla Saravirta",
+        "kategoriat": [
+          "suomalainen ruoka",
+          "street food",
+          "perinneruoka"
+        ]
+      },
+      {
+        "teos": "Kuninkaansaari, Helsinki",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Kuninkaansaari+Helsinki",
+        "lisatieto_linkki": "https://www.google.com/search?q=Kuninkaansaari+Helsinki",
+        "kuvaus": "Helsingin edustalla sijaitseva villiintynyt saari, joka on Vallisaarta rauhallisempi ja luonnonläheisempi kohde. Suositellaan erityisesti kesäiseen päiväretkeen.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "luonto",
+          "Helsinki",
+          "retkeily"
+        ]
+      }
+    ]
+  },
+  {
     "id": "fa7943d3-89ff-4073-b8d2-f5cba539b368",
     "jakso_otsikko": "Sofia Virta sai huudot, Rydman tarttui leikkuriin ja kauneusbisnes kuohuttaa",
     "paivamaara": "18.6.2026",
