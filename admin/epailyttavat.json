@@ -14672,6 +14672,82 @@
     ]
   },
   {
+    "j_idx": 472,
+    "jakso_id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
+    "jakso_otsikko": "Areenahanke korruptoi, julkishallinnon tekoälykiima kiihottaa, apokalyptinen lämpö saa temuttamaan",
+    "paivamaara": "2.7.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/7485f7b1-4d5d-40b5-95bd-0cb9247caa4e.mp3",
+    "kesto_sek": 4289,
+    "kesto_str": "01:11:29",
+    "rss_osallistujat": [
+      "John Helin",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Garden Helsinki -areenahankkeelle myönnetystä 35 miljoonan euron ehdollisesta tuesta ja sitä ympäröivästä poliittisesta suhmuroinnista.</p><p>Studiossa puhutaan myös valtiovarainministeriön suunnitelmista pelastaa hyvinvointiyhteiskunta tekoälyllä sekä ilmastonmuutoksen aiheuttaman Euroopan helleaallon ja temutuksen yhteydestä.</p><p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Don't Look Up",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "sci-fi",
+          "komedia",
+          "ilmastonmuutos"
+        ],
+        "kuvaus": "Leonardo DiCaprio ja Jennifer Lawrence esittävät tutkijoita, jotka yrittävät varoittaa maailmaa lähestyvästä asteroidista, mutta kukaan ei usko heitä. Elokuva toimii vertauskuvana ilmastonmuutokselle.",
+        "google_linkki": "https://www.google.com/search?q=Don%27t+Look+Up+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Don%27t+Look+Up"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Juustonaksujäätelö (Närpiön jäätelötehdas)",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "jäätelö",
+          "suomalainen",
+          "erikoismaut"
+        ],
+        "kuvaus": "Närpiön jäätelötehtaan erikoisuus, joka maistuu suolaiselta karamellijäätelöltä. Tehtaalla on myös muita erikoisia makuja kuten riisipuurojäätelö ja nokkosjäätelö.",
+        "google_linkki": "https://www.google.com/search?q=Närpiön+jäätelötehdas+juustonaksujäätelö",
+        "lisatieto_linkki": "https://www.google.com/search?q=Närpiön+jäätelötehdas+erikoisjäätelöt"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Maniac",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tekoäly",
+          "historiallinen fiktio",
+          "tiede"
+        ],
+        "kuvaus": "Benjamín Labatut'n toinen romaani, joka käsittelee tekoälyn ja tietokoneen kehitystä yhdistäen historiallisen tietokirjan ja kaunokirjalliset elementit. Kuvaa muun muassa hetkeä, jolloin kone voitti ihmisen shakissa ja GO-pelissä.",
+        "google_linkki": "https://www.google.com/search?q=Maniac+Benjamín+Labatut+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Maniac+Labatut"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
+        "teos": "Harold Holt -uintikeskus (Instagram-sarja)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "dokumentaari",
+          "historia",
+          "Australia"
+        ],
+        "kuvaus": "Australialaisen koomikon ja tiktokkarin Instagram-sarja, jossa hän rakentaa 3D-mallia Harold Holtin mukaan nimetystä uintikeskuksesta ja kertoo samalla Australian pääministerin mystisestä katoamisesta mereen vuonna 1967.",
+        "google_linkki": "https://www.google.com/search?q=Harold+Holt+swimming+centre+Instagram+Australian+comedian",
+        "lisatieto_linkki": "https://www.instagram.com/explore/search/?q=Harold+Holt+swimming+centre"
+      }
+    ]
+  },
+  {
     "j_idx": 140,
     "jakso_id": "tag:soundcloud,2010:tracks/850825633",
     "jakso_otsikko": "2.7.2020: Demokratian musta keskiviikko, marjanpoiminta ja intersektionaalinen feminismi",

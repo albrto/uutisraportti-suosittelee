@@ -1,5 +1,64 @@
 [
   {
+    "id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
+    "jakso_otsikko": "Areenahanke korruptoi, julkishallinnon tekoälykiima kiihottaa, apokalyptinen lämpö saa temuttamaan",
+    "paivamaara": "2.7.2026",
+    "suositukset": [
+      {
+        "teos": "Don't Look Up",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Don%27t+Look+Up+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Don%27t+Look+Up",
+        "kuvaus": "Leonardo DiCaprio ja Jennifer Lawrence esittävät tutkijoita, jotka yrittävät varoittaa maailmaa lähestyvästä asteroidista, mutta kukaan ei usko heitä. Elokuva toimii vertauskuvana ilmastonmuutokselle.",
+        "suosittelija": "Pihla Saravirta",
+        "kategoriat": [
+          "sci-fi",
+          "komedia",
+          "ilmastonmuutos"
+        ]
+      },
+      {
+        "teos": "Juustonaksujäätelö (Närpiön jäätelötehdas)",
+        "paakategoria": "ruoka",
+        "google_linkki": "https://www.google.com/search?q=Närpiön+jäätelötehdas+juustonaksujäätelö",
+        "lisatieto_linkki": "https://www.google.com/search?q=Närpiön+jäätelötehdas+erikoisjäätelöt",
+        "kuvaus": "Närpiön jäätelötehtaan erikoisuus, joka maistuu suolaiselta karamellijäätelöltä. Tehtaalla on myös muita erikoisia makuja kuten riisipuurojäätelö ja nokkosjäätelö.",
+        "suosittelija": "Pihla Saravirta",
+        "kategoriat": [
+          "jäätelö",
+          "suomalainen",
+          "erikoismaut"
+        ]
+      },
+      {
+        "teos": "Maniac",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Maniac+Benjamín+Labatut+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Maniac+Labatut",
+        "kuvaus": "Benjamín Labatut'n toinen romaani, joka käsittelee tekoälyn ja tietokoneen kehitystä yhdistäen historiallisen tietokirjan ja kaunokirjalliset elementit. Kuvaa muun muassa hetkeä, jolloin kone voitti ihmisen shakissa ja GO-pelissä.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "tekoäly",
+          "historiallinen fiktio",
+          "tiede"
+        ]
+      },
+      {
+        "teos": "Harold Holt -uintikeskus (Instagram-sarja)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Harold+Holt+swimming+centre+Instagram+Australian+comedian",
+        "lisatieto_linkki": "https://www.instagram.com/explore/search/?q=Harold+Holt+swimming+centre",
+        "kuvaus": "Australialaisen koomikon ja tiktokkarin Instagram-sarja, jossa hän rakentaa 3D-mallia Harold Holtin mukaan nimetystä uintikeskuksesta ja kertoo samalla Australian pääministerin mystisestä katoamisesta mereen vuonna 1967.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "dokumentaari",
+          "historia",
+          "Australia"
+        ]
+      }
+    ]
+  },
+  {
     "id": "4dfc8c80-14b0-4ab8-8780-8908d8c2929a",
     "jakso_otsikko": "Rydman järjesti vaalikriisin, Britannia sai kissadiktaattorin ja Kauppatori sloppia",
     "paivamaara": "25.6.2026",
