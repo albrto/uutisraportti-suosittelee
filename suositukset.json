@@ -1,5 +1,77 @@
 [
   {
+    "id": "4f9f30f1-4873-45d8-b31f-aaf76bcceaa3",
+    "jakso_otsikko": "Fy fan FIFA, verimarjat, aikuisuus",
+    "paivamaara": "9.7.2026",
+    "suositukset": [
+      {
+        "teos": "Killers of the Flower Moon",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Killers+of+the+Flower+Moon+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Killers+of+the+Flower+Moon",
+        "kuvaus": "Scorsesen ohjaama elokuva, jonka juontaja mainitsi katsoneensa viikon ajan. Perustuu David Grannin samannimiseen kirjaan.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "historiallinen",
+          "rikos",
+          "draama"
+        ]
+      },
+      {
+        "teos": "The Wager",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Wager+David+Grann+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wager+David+Grann",
+        "kuvaus": "David Grannin kirja brittiläisestä kauppa-aluksesta, joka haaksirikkoutui matkalla Chileen. Selviytyjien tarinat ristiriitaistuvat dramaattisesti.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "historia",
+          "meriseikkailu",
+          "nonfiktio"
+        ]
+      },
+      {
+        "teos": "The Lost City of Z",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=The+Lost+City+of+Z+David+Grann+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Lost+City+of+Z+David+Grann",
+        "kuvaus": "David Grannin kirja Indiana Jonesin esikuvana pidetystä löytöretkeilijä Percy Fawcettista, joka etsi Amazonilta kadonnutta Z-kaupunkia.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "historia",
+          "seikkailu",
+          "nonfiktio"
+        ]
+      },
+      {
+        "teos": "The Last Weeks",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=The+Last+Weeks+podcast+New+York+Times",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Last%20Weeks%20podcast",
+        "kuvaus": "New York Timesin podcast, joka seuraa David Woodin tapausta – miestä, joka on tuomittu kuolemaan El Pason sarjamurhista vuonna 1992. Uusi todistusaineisto herättää kysymyksen syyttömyydestä.",
+        "suosittelija": "Topi Kosunen",
+        "kategoriat": [
+          "rikos",
+          "oikeudenkäynti",
+          "journalismi"
+        ]
+      },
+      {
+        "teos": "Yövartiosto",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Yövartiosto+Terry+Pratchett+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Night+Watch+Terry+Pratchett",
+        "kuvaus": "Terry Pratchettin Kiekkomaa-sarjan romaani, jonka suosittelija nostaa lempikirjakseen. Aikuisena kirjasta löytää joka lukukerralla uusia tasoja.",
+        "suosittelija": "Topi Kosunen",
+        "kategoriat": [
+          "fantasia",
+          "huumori",
+          "klassikko"
+        ]
+      }
+    ]
+  },
+  {
     "id": "7485f7b1-4d5d-40b5-95bd-0cb9247caa4e",
     "jakso_otsikko": "Areenahanke korruptoi, julkishallinnon tekoälykiima kiihottaa, apokalyptinen lämpö saa temuttamaan",
     "paivamaara": "2.7.2026",

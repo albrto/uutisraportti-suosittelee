@@ -32,6 +32,97 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 473,
+    "jakso_id": "4f9f30f1-4873-45d8-b31f-aaf76bcceaa3",
+    "jakso_otsikko": "Fy fan FIFA, verimarjat, aikuisuus",
+    "paivamaara": "9.7.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/4f9f30f1-4873-45d8-b31f-aaf76bcceaa3.mp3",
+    "kesto_sek": 4761,
+    "kesto_str": "01:19:21",
+    "rss_osallistujat": [
+      "John Helin",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee jalkapallon MM-kisojen ympärille nousseista skandaaleista, joissa kansainvälistä jalkapalloliitto Fifaa on syytetty korruptiosta ja joidenkin joukkueiden suosimisesta.</p><p>Studiossa puhutaan myös marja-alasta, jonka vierastyöläisistä suurimmalta osalta on evätty viisumit aikaisempien ihmiskauppariskien vuoksi, sekä aikuistumisen kar",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Killers of the Flower Moon",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historiallinen",
+          "rikos",
+          "draama"
+        ],
+        "kuvaus": "Scorsesen ohjaama elokuva, jonka juontaja mainitsi katsoneensa viikon ajan. Perustuu David Grannin samannimiseen kirjaan.",
+        "google_linkki": "https://www.google.com/search?q=Killers+of+the+Flower+Moon+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Killers+of+the+Flower+Moon"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "The Wager",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "meriseikkailu",
+          "nonfiktio"
+        ],
+        "kuvaus": "David Grannin kirja brittiläisestä kauppa-aluksesta, joka haaksirikkoutui matkalla Chileen. Selviytyjien tarinat ristiriitaistuvat dramaattisesti.",
+        "google_linkki": "https://www.google.com/search?q=The+Wager+David+Grann+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Wager+David+Grann"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "The Lost City of Z",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "seikkailu",
+          "nonfiktio"
+        ],
+        "kuvaus": "David Grannin kirja Indiana Jonesin esikuvana pidetystä löytöretkeilijä Percy Fawcettista, joka etsi Amazonilta kadonnutta Z-kaupunkia.",
+        "google_linkki": "https://www.google.com/search?q=The+Lost+City+of+Z+David+Grann+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Lost+City+of+Z+David+Grann"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Topi Kosunen",
+        "teos": "The Last Weeks",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "rikos",
+          "oikeudenkäynti",
+          "journalismi"
+        ],
+        "kuvaus": "New York Timesin podcast, joka seuraa David Woodin tapausta – miestä, joka on tuomittu kuolemaan El Pason sarjamurhista vuonna 1992. Uusi todistusaineisto herättää kysymyksen syyttömyydestä.",
+        "google_linkki": "https://www.google.com/search?q=The+Last+Weeks+podcast+New+York+Times",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Last%20Weeks%20podcast"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": true,
+        "suosittelija": "Topi Kosunen",
+        "teos": "Yövartiosto",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "fantasia",
+          "huumori",
+          "klassikko"
+        ],
+        "kuvaus": "Terry Pratchettin Kiekkomaa-sarjan romaani, jonka suosittelija nostaa lempikirjakseen. Aikuisena kirjasta löytää joka lukukerralla uusia tasoja.",
+        "google_linkki": "https://www.google.com/search?q=Yövartiosto+Terry+Pratchett+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Night+Watch+Terry+Pratchett"
+      }
+    ]
+  },
+  {
     "j_idx": 141,
     "jakso_id": "tag:soundcloud,2010:tracks/854839819",
     "jakso_otsikko": "9.7.2020: Siivoojien riisto, uusimmat koronauutiset ja matkailu",
