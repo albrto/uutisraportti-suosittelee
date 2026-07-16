@@ -1,5 +1,38 @@
 [
   {
+    "id": "9b77b795-d2bc-4e40-8cbc-ccc6f5039354",
+    "jakso_otsikko": "Uutisraportin mega-areena, asunnot, Britannian rakastetuin roskis",
+    "paivamaara": "16.7.2026",
+    "suositukset": [
+      {
+        "teos": "What's Epic About the Odyssey? Everything (The Daily -podcast)",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+What%27s+Epic+About+the+Odyssey+Everything",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20What%27s%20Epic%20About%20the%20Odyssey%20Everything",
+        "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa keskustellaan Odysseiasta ja Christopher Nolanin tulevasta elokuvaversiosta. Vieraina muun muassa Odysseian englanniksi kääntänyt Emily Wilson sekä kirjailija Madeline Miller.",
+        "suosittelija": "Topi Kosunen",
+        "kategoriat": [
+          "historia",
+          "kirjallisuus",
+          "elokuva"
+        ]
+      },
+      {
+        "teos": "Tribe: On Homecoming and Belonging",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
+        "kuvaus": "Sotajournalisti Sebastian Jungerin teos vuodelta 2016, joka käsittelee sodassa koetun yhteisöllisyyden hajoamista kotiinpaluun jälkeen ja sen yhteyttä traumoihin. Yhdistää journalismia ja konfliktiantropologiaa.",
+        "suosittelija": "Topi Kosunen",
+        "kategoriat": [
+          "sota",
+          "antropologia",
+          "PTSD"
+        ]
+      }
+    ]
+  },
+  {
     "id": "4f9f30f1-4873-45d8-b31f-aaf76bcceaa3",
     "jakso_otsikko": "Fy fan FIFA, verimarjat, aikuisuus",
     "paivamaara": "9.7.2026",

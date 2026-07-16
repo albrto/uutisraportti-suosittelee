@@ -17911,6 +17911,51 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 474,
+    "jakso_id": "9b77b795-d2bc-4e40-8cbc-ccc6f5039354",
+    "jakso_otsikko": "Uutisraportin mega-areena, asunnot, Britannian rakastetuin roskis",
+    "paivamaara": "16.7.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/9b77b795-d2bc-4e40-8cbc-ccc6f5039354.mp3",
+    "kesto_sek": 4155,
+    "kesto_str": "01:09:15",
+    "rss_osallistujat": [
+      "John Helin"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Suvilahden DIY-skeittipuistosta, joka jyrätään syksyllä, vaikka sen tilalle suunniteltu areenaprojekti onkin jäissä.</p><p>Studiossa puhutaan myös asumisen laskevasta hinnasta ja siitä tinkimisestä, sekä Nigel Faragen poliittisesta suhmuroinnista, jonka seurauksena hän kohtaa vaaliväittelyissä puhuvan roskiksen.</p><p>Podissa mukana o",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Topi Kosunen",
+        "teos": "What's Epic About the Odyssey? Everything (The Daily -podcast)",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "kirjallisuus",
+          "elokuva"
+        ],
+        "kuvaus": "New York Timesin The Daily -podcastin jakso, jossa keskustellaan Odysseiasta ja Christopher Nolanin tulevasta elokuvaversiosta. Vieraina muun muassa Odysseian englanniksi kääntänyt Emily Wilson sekä kirjailija Madeline Miller.",
+        "google_linkki": "https://www.google.com/search?q=The+Daily+What%27s+Epic+About+the+Odyssey+Everything",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Daily%20What%27s%20Epic%20About%20the%20Odyssey%20Everything"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Topi Kosunen",
+        "teos": "Tribe: On Homecoming and Belonging",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sota",
+          "antropologia",
+          "PTSD"
+        ],
+        "kuvaus": "Sotajournalisti Sebastian Jungerin teos vuodelta 2016, joka käsittelee sodassa koetun yhteisöllisyyden hajoamista kotiinpaluun jälkeen ja sen yhteyttä traumoihin. Yhdistää journalismia ja konfliktiantropologiaa.",
+        "google_linkki": "https://www.google.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tribe+On+Homecoming+and+Belonging+Sebastian+Junger"
+      }
+    ]
+  },
+  {
     "j_idx": 142,
     "jakso_id": "tag:soundcloud,2010:tracks/858955084",
     "jakso_otsikko": "16.7.2020: Oskari Onnisen porsaanreikä, presidentin valtaoikeudet ja Valko-Venäjän muutoksen kesä.",
