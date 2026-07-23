@@ -1,5 +1,75 @@
 [
   {
+    "id": "20d33d41-14b8-4f16-b5ce-27e2e537633d",
+    "jakso_otsikko": "Things are no longer getting Petter eli Garden-kriisi, sinkkukännit, kulttuurisotalaiva",
+    "paivamaara": "23.7.2026",
+    "suositukset": [
+      {
+        "teos": "Obsession",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Obsession+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Obsession",
+        "kuvaus": "Kauhuelokuva, jota Pihla suosittelee erityisesti niille, jotka pitävät jännitystä sisältävistä elokuvista.",
+        "suosittelija": "Pihla Saravilta",
+        "kategoriat": [
+          "kauhu",
+          "jännitys"
+        ]
+      },
+      {
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
+        "kuvaus": "Game of Thrones -universumiin sijoittuva sarja, jonka uusi kausi on Pihlan mukaan toimiva ja loistava.",
+        "suosittelija": "Pihla Saravilta",
+        "kategoriat": [
+          "fantasia",
+          "draama"
+        ]
+      },
+      {
+        "teos": "Pikalähettinä Pekingissä – Duunarielämää 2000-luvun Kiinassa",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Pikalähettinä+Pekingissä+Duunarielämää+2000-luvun+Kiinassa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Pikalähettinä+Pekingissä",
+        "kuvaus": "Tänä vuonna suomeksi julkaistu omaelämäkerrallinen kirja, jossa kerrotaan lakonisesti ja hauskasti pikalähettinä työskentelystä Pekingissä ja työläisten oikeuksien puuttumisesta.",
+        "suosittelija": "Pihla Saravilta",
+        "kategoriat": [
+          "omaelämäkerta",
+          "työelämä",
+          "Kiina"
+        ]
+      },
+      {
+        "teos": "Don Rosa: Sammon salaisuus",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Don+Rosa+Sammon+salaisuus+sarjakuva",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Don+Rosa+Sammon+salaisuus",
+        "kuvaus": "Don Rosan sarjakuva, jossa Roope Ankka seikkailee suomalaisen mytologian parissa. Suositellaan erityisesti mytologiasta kiinnostuneille.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sarjakuva",
+          "mytologia",
+          "suomalainen kulttuuri"
+        ]
+      },
+      {
+        "teos": "A Knight of the Seven Kingdoms",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=A+Knight+of+the+Seven+Kingdoms+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Knight+of+the+Seven+Kingdoms",
+        "kuvaus": "Game of Thrones -universumiin sijoittuva sarja, joka on suosittelijan mukaan paras Game of Thrones -asia kolmannen kauden jälkeen – pienempi ja henkilökohtaisempi tarina.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "keskiaika"
+        ]
+      }
+    ]
+  },
+  {
     "id": "9b77b795-d2bc-4e40-8cbc-ccc6f5039354",
     "jakso_otsikko": "Uutisraportin mega-areena, asunnot, Britannian rakastetuin roskis",
     "paivamaara": "16.7.2026",

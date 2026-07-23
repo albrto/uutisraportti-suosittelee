@@ -11636,6 +11636,95 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 475,
+    "jakso_id": "20d33d41-14b8-4f16-b5ce-27e2e537633d",
+    "jakso_otsikko": "Things are no longer getting Petter eli Garden-kriisi, sinkkukännit, kulttuurisotalaiva",
+    "paivamaara": "23.7.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/20d33d41-14b8-4f16-b5ce-27e2e537633d.mp3",
+    "kesto_sek": 4496,
+    "kesto_str": "01:14:56",
+    "rss_osallistujat": [
+      "John Helin",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee eduskuntakäsittelyyn edenneestä Garden Helsinki -kriisistä, jonka laajuus tuli todennäköisesti Kokoomukselle täytenä yllätyksenä.</p><p>Politiikan lisäksi studiossa puhutaan myös Helsingin sinkkunaisten vaikeudesta löytää itselleen hyviä miehiä, sekä Christopher Nolanin juuri julkaistun Odysseia-elokuvan ympärillä vellovista kulttuuri",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravilta",
+        "teos": "Obsession",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "kauhu",
+          "jännitys"
+        ],
+        "kuvaus": "Kauhuelokuva, jota Pihla suosittelee erityisesti niille, jotka pitävät jännitystä sisältävistä elokuvista.",
+        "google_linkki": "https://www.google.com/search?q=Obsession+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Obsession"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravilta",
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama"
+        ],
+        "kuvaus": "Game of Thrones -universumiin sijoittuva sarja, jonka uusi kausi on Pihlan mukaan toimiva ja loistava.",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravilta",
+        "teos": "Pikalähettinä Pekingissä – Duunarielämää 2000-luvun Kiinassa",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "omaelämäkerta",
+          "työelämä",
+          "Kiina"
+        ],
+        "kuvaus": "Tänä vuonna suomeksi julkaistu omaelämäkerrallinen kirja, jossa kerrotaan lakonisesti ja hauskasti pikalähettinä työskentelystä Pekingissä ja työläisten oikeuksien puuttumisesta.",
+        "google_linkki": "https://www.google.com/search?q=Pikalähettinä+Pekingissä+Duunarielämää+2000-luvun+Kiinassa",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Pikalähettinä+Pekingissä"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Don Rosa: Sammon salaisuus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sarjakuva",
+          "mytologia",
+          "suomalainen kulttuuri"
+        ],
+        "kuvaus": "Don Rosan sarjakuva, jossa Roope Ankka seikkailee suomalaisen mytologian parissa. Suositellaan erityisesti mytologiasta kiinnostuneille.",
+        "google_linkki": "https://www.google.com/search?q=Don+Rosa+Sammon+salaisuus+sarjakuva",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Don+Rosa+Sammon+salaisuus"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": true,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "A Knight of the Seven Kingdoms",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama",
+          "keskiaika"
+        ],
+        "kuvaus": "Game of Thrones -universumiin sijoittuva sarja, joka on suosittelijan mukaan paras Game of Thrones -asia kolmannen kauden jälkeen – pienempi ja henkilökohtaisempi tarina.",
+        "google_linkki": "https://www.google.com/search?q=A+Knight+of+the+Seven+Kingdoms+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=A+Knight+of+the+Seven+Kingdoms"
+      }
+    ]
+  },
+  {
     "j_idx": 143,
     "jakso_id": "tag:soundcloud,2010:tracks/863049127",
     "jakso_otsikko": "23.7.2020: EU-budjettikeskustelua, etätöiden vaikutukset ja mökkibuumi.",
