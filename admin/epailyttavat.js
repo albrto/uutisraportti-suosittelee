@@ -5546,6 +5546,96 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 476,
+    "jakso_id": "e97f2d5c-d446-4afa-a9c8-371a6fbac493",
+    "jakso_otsikko": "Bordeaux’n apokalyptinen pilvi, temukotien ruostuvat suihkut, bajamajafestarit",
+    "paivamaara": "30.7.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/e97f2d5c-d446-4afa-a9c8-371a6fbac493.mp3",
+    "kesto_sek": 4090,
+    "kesto_str": "01:08:10",
+    "rss_osallistujat": [
+      "John Helin",
+      "Petja Pelli",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Ranskassa roihuavista metsäpaloista, joiden vuoksi on tehty Ranskan suurimmat evakuoinnit sitten toisen maailmansodan.</p><p>Bordeaux’n lieskojen lisäksi studiossa pohditaan myös sitä, minkä vuoksi Suomessa ei mitä ilmeisimmin osata enää tehdä rakennusprojekteja, sekä suomalaisista festareista joille ei löydy ulkomaisia artisteja tai ",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Kotiapulainen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "trilleri",
+          "psykologinen"
+        ],
+        "kuvaus": "Helppolukuinen psykologinen trilleri, josta on tehty myös elokuva. Hyvä valinta lukutauon jälkeen aloittamiseen. Pihla antoi arvosanaksi 4,5/5.",
+        "google_linkki": "https://www.google.com/search?q=Kotiapulainen+trilleri+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Help+Kathryn+Stockett"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "The Only One Left",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "trilleri",
+          "englanninkielinen"
+        ],
+        "kuvaus": "Viihdyttävä trilleri, jonka Pihla luki englanniksi ja antoi arvosanaksi 4,55/5.",
+        "google_linkki": "https://www.google.com/search?q=The+Only+One+Left+Riley+Sager",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Only+One+Left+Riley+Sager"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Hiljainen potilas",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "trilleri",
+          "psykologinen",
+          "mysteeri"
+        ],
+        "kuvaus": "Psykologinen trilleri hiljaisesta potilaasta, joka ei puhu miehensä kuolemasta. Hidas mutta erittäin yllättävä – Pihla antoi täydet pisteet 5/5 eikä osannut arvata twistiä.",
+        "google_linkki": "https://www.google.com/search?q=Hiljainen+potilas+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=The+Silent+Patient+Alex+Michaelides"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": true,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Kiertolainen",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "japanilainen kirjallisuus",
+          "feministinen",
+          "autofiktiivinen"
+        ],
+        "kuvaus": "Fumiko Hayashin autofiktiivinen teos työläisnaisesta, julkaistu keväällä suomeksi japanilaiseen kirjallisuuteen erikoistuneen uuden kustantamon toimesta. Lakoninen ja melankolinen ote sekä kaunis kirjaesine.",
+        "google_linkki": "https://www.google.com/search?q=Kiertolainen+Fumiko+Hayashi+kirja",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Kiertolainen+Fumiko+Hayashi"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": true,
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "Nakkikrokotiili",
+        "paakategoria": "ruoka",
+        "kategoriat": [
+          "juhlat",
+          "naposteltava",
+          "diy"
+        ],
+        "kuvaus": "Nakeista ja juustosta rakennettu krokotiilin muotoinen naposteltava juhliin. Tuottaa iloa ja tuo leikkisyyttä juhliin.",
+        "google_linkki": "https://www.google.com/search?q=nakkikrokotiili+resepti",
+        "lisatieto_linkki": "https://www.google.com/search?q=nakkikrokotiili+naposteltava"
+      }
+    ]
+  },
+  {
     "j_idx": 144,
     "jakso_id": "tag:soundcloud,2010:tracks/867122464",
     "jakso_otsikko": "30.7.2020:  Koronapandemian toinen aalto, kansanedustajien kielenkäyttö ja Turkin alamäki",
