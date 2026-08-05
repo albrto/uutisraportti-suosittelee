@@ -41,6 +41,7 @@
     "kesto_str": "01:19:21",
     "rss_osallistujat": [
       "John Helin",
+      "Topi Kosunen",
       "Tuija Siltamäki"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee jalkapallon MM-kisojen ympärille nousseista skandaaleista, joissa kansainvälistä jalkapalloliitto Fifaa on syytetty korruptiosta ja joidenkin joukkueiden suosimisesta.</p><p>Studiossa puhutaan myös marja-alasta, jonka vierastyöläisistä suurimmalta osalta on evätty viisumit aikaisempien ihmiskauppariskien vuoksi, sekä aikuistumisen kar",
@@ -92,7 +93,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Topi Kosunen",
         "teos": "The Last Weeks",
         "paakategoria": "podcast",
@@ -107,8 +108,8 @@
       },
       {
         "r_idx": 4,
-        "is_suspicious": true,
-        "suosittelija": "Topi Kosunen",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "Yövartiosto",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -5422,7 +5423,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tähänastinen elämä",
         "paakategoria": "kulttuuri",
@@ -5437,7 +5438,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Fear and Loathing on the Campaign Trail '72",
         "paakategoria": "kirja",
@@ -5452,7 +5453,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "The Boys on the Bus",
         "paakategoria": "kirja",
@@ -5467,7 +5468,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mårten Göstickin näyttely Ateneumissa",
         "paakategoria": "kulttuuri",
@@ -5555,13 +5556,14 @@
     "rss_osallistujat": [
       "John Helin",
       "Petja Pelli",
+      "Pihla Saravirta",
       "Tuija Siltamäki"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Ranskassa roihuavista metsäpaloista, joiden vuoksi on tehty Ranskan suurimmat evakuoinnit sitten toisen maailmansodan.</p><p>Bordeaux’n lieskojen lisäksi studiossa pohditaan myös sitä, minkä vuoksi Suomessa ei mitä ilmeisimmin osata enää tehdä rakennusprojekteja, sekä suomalaisista festareista joille ei löydy ulkomaisia artisteja tai ",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "Kotiapulainen",
         "paakategoria": "kirja",
@@ -5575,7 +5577,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "The Only One Left",
         "paakategoria": "kirja",
@@ -5589,7 +5591,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "Hiljainen potilas",
         "paakategoria": "kirja",
@@ -5604,8 +5606,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Pihla Saravirta",
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
         "teos": "Kiertolainen",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -5619,8 +5621,8 @@
       },
       {
         "r_idx": 4,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "Nakkikrokotiili",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -6041,7 +6043,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Kaikki taivaan sini",
         "paakategoria": "kirja",
@@ -6056,8 +6058,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Tuomas Peltomäki",
+        "is_suspicious": false,
+        "suosittelija": "Alex af Heurlin",
         "teos": "The Big Lebowski",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -6071,7 +6073,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dust-to-Digital",
         "paakategoria": "musiikki",
@@ -7478,7 +7480,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Susanna Reinboth",
         "teos": "Muistin varassa – Oikeusprosessi ja totuus",
         "paakategoria": "kirja",
@@ -7493,7 +7495,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Susanna Reinboth",
         "teos": "Simpanssi sisällämme",
         "paakategoria": "kirja",
@@ -10426,14 +10428,16 @@
     "kesto_str": "58:40",
     "rss_osallistujat": [
       "John Helin",
-      "Marko Junkkari"
+      "Marko Junkkari",
+      "Pihla Saravirta",
+      "Topi Kosunen"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastissa aloittaa kesätiimi, joka ensitöikseen keskustelee poliittisesta nosteesta, jonka sosiaali- ja terveysministeri Wille Rydman (ps) on saanut hallituskriisillä. Studiossa puhutaan myös Britannian pääministeriyden mahdottomuudesta ja Kauppatorin tekoälyllä tuotetusta turistirihkamasta.</p><p>Podissa mukana ovat John Helin, Pihla Saravirta, Topi Kosunen ja Ma",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Topi Kokonen",
+        "is_suspicious": false,
+        "suosittelija": "Topi Kosunen",
         "teos": "Svart Rido",
         "paakategoria": "musiikki",
         "kategoriat": [
@@ -10447,7 +10451,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "Vety (Lappeenrantalainen lihapiiras)",
         "paakategoria": "ruoka",
@@ -11738,14 +11742,15 @@
     "kesto_str": "01:14:56",
     "rss_osallistujat": [
       "John Helin",
+      "Pihla Saravirta",
       "Tuija Siltamäki"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee eduskuntakäsittelyyn edenneestä Garden Helsinki -kriisistä, jonka laajuus tuli todennäköisesti Kokoomukselle täytenä yllätyksenä.</p><p>Politiikan lisäksi studiossa puhutaan myös Helsingin sinkkunaisten vaikeudesta löytää itselleen hyviä miehiä, sekä Christopher Nolanin juuri julkaistun Odysseia-elokuvan ympärillä vellovista kulttuuri",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Pihla Saravilta",
+        "is_suspicious": false,
+        "suosittelija": "Pihla Saravirta",
         "teos": "Obsession",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -11758,8 +11763,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Pihla Saravilta",
+        "is_suspicious": false,
+        "suosittelija": "Pihla Saravirta",
         "teos": "House of the Dragon",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -11772,8 +11777,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Pihla Saravilta",
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
         "teos": "Pikalähettinä Pekingissä – Duunarielämää 2000-luvun Kiinassa",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -11787,8 +11792,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Tuomas Peltomäki",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "Don Rosa: Sammon salaisuus",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -11802,8 +11807,8 @@
       },
       {
         "r_idx": 4,
-        "is_suspicious": true,
-        "suosittelija": "Tuomas Peltomäki",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "A Knight of the Seven Kingdoms",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -12044,8 +12049,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikki",
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Last One Laughing (brittiläiset kaudet)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -12059,8 +12064,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikki",
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Marty Supreme",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -14952,13 +14957,14 @@
     "kesto_str": "01:11:29",
     "rss_osallistujat": [
       "John Helin",
+      "Pihla Saravirta",
       "Tuija Siltamäki"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Garden Helsinki -areenahankkeelle myönnetystä 35 miljoonan euron ehdollisesta tuesta ja sitä ympäröivästä poliittisesta suhmuroinnista.</p><p>Studiossa puhutaan myös valtiovarainministeriön suunnitelmista pelastaa hyvinvointiyhteiskunta tekoälyllä sekä ilmastonmuutoksen aiheuttaman Euroopan helleaallon ja temutuksen yhteydestä.</p><p>",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "Don't Look Up",
         "paakategoria": "elokuva",
@@ -14973,7 +14979,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Pihla Saravirta",
         "teos": "Juustonaksujäätelö (Närpiön jäätelötehdas)",
         "paakategoria": "ruoka",
@@ -18099,13 +18105,15 @@
     "kesto_sek": 4155,
     "kesto_str": "01:09:15",
     "rss_osallistujat": [
-      "John Helin"
+      "John Helin",
+      "Pihla Saravirta",
+      "Topi Kosunen"
     ],
     "rss_kuvaus": "<p>Tällä viikolla Uutisraportti-podcastin kesätiimi keskustelee Suvilahden DIY-skeittipuistosta, joka jyrätään syksyllä, vaikka sen tilalle suunniteltu areenaprojekti onkin jäissä.</p><p>Studiossa puhutaan myös asumisen laskevasta hinnasta ja siitä tinkimisestä, sekä Nigel Faragen poliittisesta suhmuroinnista, jonka seurauksena hän kohtaa vaaliväittelyissä puhuvan roskiksen.</p><p>Podissa mukana o",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Topi Kosunen",
         "teos": "What's Epic About the Odyssey? Everything (The Daily -podcast)",
         "paakategoria": "podcast",
@@ -18120,8 +18128,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Topi Kosunen",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "Tribe: On Homecoming and Belonging",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -22573,8 +22581,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Satu Vasantola",
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Ohjus",
         "paakategoria": "elokuva",
         "kategoriat": [
