@@ -90,7 +90,7 @@ def poimi_osallistujat_rss(kuvaus):
         match = re.search(pattern, kuvaus)
         if match:
             lause = match.group(1)
-            sanat = re.findall(r'\b([A-ZÄÖÅ][a-zäöåé-]+)\b', lause)
+            sanat = re.findall(r'\b([A-ZÄÖÅ][a-zäöåé]+(?:-[A-ZÄÖÅ][a-zäöåé]+)?)\b', lause)
             for sana in sanat:
                 etunimi = sana.lower()
                 if etunimi in ETUNIMI_KARTTA:
