@@ -1164,7 +1164,7 @@ window.VALIDATION_DATA = [
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot",
         "paakategoria": "kirja",
@@ -1179,7 +1179,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot (näytelmä, Helsingin Kaupunginteatteri)",
         "paakategoria": "kulttuuri",
@@ -3224,7 +3224,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Sardelli-oliivi-kapris-pizza",
         "paakategoria": "ruoka",
@@ -6832,7 +6832,7 @@ window.VALIDATION_DATA = [
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Mureneva maa (podcast)",
         "paakategoria": "podcast",
@@ -7404,7 +7404,7 @@ window.VALIDATION_DATA = [
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anu-Elina Lehti",
         "teos": "Ihmisiä, vuosia, elämää",
         "paakategoria": "kirja",
@@ -19173,7 +19173,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Niclas Storås",
         "teos": "Elämän lyhyydestä",
         "paakategoria": "kirja",
@@ -19590,7 +19590,7 @@ window.VALIDATION_DATA = [
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Room Next Door",
         "paakategoria": "elokuva",
