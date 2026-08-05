@@ -19,7 +19,7 @@ TUNNETUT_NIMET = [
     "Tuomas Peltomäki", "Salla Vuorikoski", "Marko Junkkari",
     "Jussi Niemeläinen", "Anna-Sofia Berner", "Alma Onali",
     "Rasmus Helaniemi", "Helmi Sundström", "Hanna Havusto",
-    "John Helin", "Sohvi Sirkesalo", "Maria Manner", "Maria Pettersson",
+    "John Helin", "Maria Manner", "Maria Pettersson",
     "Onni Niemi", "Joakim Westrén-Doll", "Alli Hallonblad",
     "Pekka Mykkänen", "Teemu Muhonen", "Paavo Teittinen",
     "Lari Malmberg", "Anni Keski-Heikkilä", "Anni Lassila",
@@ -51,7 +51,8 @@ ETUNIMI_KARTTA = {
     "helmi": "Helmi Sundström",
     "hanna": "Hanna Havusto",
     "john": "John Helin",
-    "sohvi": "Sohvi Sirkesalo",
+    # "Sohvi" on Anna-Sofia Bernerin lempinimi podcastissa (Sohvi Sirkesalo oli virheellinen haamunimi)
+    "sohvi": "Anna-Sofia Berner",
     "maria": "Maria Manner",
     "onni": "Onni Niemi",
     "joakim": "Joakim Westrén-Doll",
@@ -82,6 +83,8 @@ def poimi_osallistujat_rss(kuvaus):
     studio_patterns = [
         r'[Ss]tudiossa\s+([^.]+)',
         r'[Kk]eskustelevat\s+([^.]+)',
+        # Nimet voivat olla myös ENNEN verbiä: "Sohvi, Marko ja Tommi keskustelevat..."
+        r'([^.]+?)\s+keskustelevat',
     ]
     for pattern in studio_patterns:
         match = re.search(pattern, kuvaus)
