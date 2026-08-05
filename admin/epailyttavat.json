@@ -132,6 +132,7 @@
     "kesto_str": "01:01:19",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Paavo Teittinen"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Paavo Teittinen ja Iida Sofia Hirvonen\nkeskustelevat siivoojien riistosta Suomessa, koronavirustilanteesta Amerikoissa\nja meillä, ja matkustamisesta pitkän lockdown-kevään jälkeen.\nPitkien, epämukavien hiljaisuuksien varalle Paavo suosittelee Dark Waters\n-elokuvaa (https://www.imdb.com/title/tt9071322/), Iida Sofia suosittelee Political Theory Other\n-podcastia ",
@@ -153,7 +154,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Politics Theory Other",
         "paakategoria": "podcast",
@@ -520,7 +521,6 @@
     "kesto_str": "01:15:13",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -601,7 +601,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "All the Worst Humans",
         "paakategoria": "kirja",
@@ -983,8 +983,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Salla Vuorikoski",
+        "is_suspicious": false,
+        "suosittelija": "Sara Vainio",
         "teos": "Hyvän historia (Humankind)",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -1090,7 +1090,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Pitkä tie Natoon",
         "paakategoria": "kirja",
@@ -1164,7 +1164,7 @@
       {
         "r_idx": 0,
         "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -1179,7 +1179,7 @@
       {
         "r_idx": 1,
         "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Sinun Margot (näytelmä, Helsingin Kaupunginteatteri)",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -1750,7 +1750,6 @@
     "kesto_str": "01:18:05",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -2150,7 +2149,6 @@
     "kesto_str": "01:20:44",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -2674,14 +2672,15 @@
     "kesto_str": "01:13:41",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat toisen aallon rantautumisesta Suomeen, Beirutissa tapahtuneesta räjähdyksestä ja Libanonin tilanteesta sekä vastailevat kuuntelijoiden lähettämiin kysymyksiin.\n\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Villa Gyllenbergin Salatun tiedon tie -näyttelyä (https://gyllenbergs.fi/fi/villa-gylle",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Tuca & Bertie (1. tuotantokausi)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -2695,8 +2694,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Ghost of Tsushima",
         "paakategoria": "muu",
         "kategoriat": [
@@ -2710,8 +2709,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Salla Vuorikoski",
+        "is_suspicious": false,
+        "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Villa Gyllenbergin esoteerisen taiteen näyttely",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -2725,8 +2724,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "is_suspicious": false,
+        "suosittelija": "Onni Niemi",
         "teos": "Variksen kaaduin sylin verta ja aloin pelätä pyöräilemistä",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -2770,7 +2769,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "404 Media -podcast",
         "paakategoria": "podcast",
@@ -2879,7 +2878,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Maria Manner",
         "teos": "Sydämen asioita – perhe ja planeettakriisi",
         "paakategoria": "kirja",
@@ -3194,7 +3193,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "A Complete Unknown",
         "paakategoria": "elokuva",
@@ -3225,7 +3224,7 @@
       {
         "r_idx": 3,
         "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Sardelli-oliivi-kapris-pizza",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -3331,7 +3330,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hamilton",
         "paakategoria": "kulttuuri",
@@ -3346,7 +3345,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Slow Horses",
         "paakategoria": "tv-sarja",
@@ -3361,7 +3360,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Presumed Innocent",
         "paakategoria": "tv-sarja",
@@ -3408,8 +3407,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
         "teos": "RuPaul's Drag Race, kausi 11",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -3589,8 +3588,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Esseitä eläimistä",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -3604,8 +3603,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "The New Atlantis",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -3862,7 +3861,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Angels in America (Kansallisteatteri)",
         "paakategoria": "kulttuuri",
@@ -4664,7 +4663,6 @@
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon jaksossa keskustelu järkyttävästä kouluampumisesta Vantaan Viertolassa, tutkimuksesta joka paljasti säännönmukaista syrjintää ylioppilaskokeiden arvostelussa, ja näyttelijätär Emma Thompsonin rakkauskirje Suomelle.\nStudiossa Tuomas Peltomäki, Anna-Sofia Berner ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nJaksoon liittyviä linkkejä:\nSohvin kirjoittama juttu ylioppilaskirjoitu",
@@ -4976,7 +4974,6 @@
     "kesto_str": "58:30",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -5211,8 +5208,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
         "teos": "Dogs of Mariupol",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -5226,8 +5223,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Helmi Sundström",
         "teos": "Ilmajooga",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -5333,8 +5330,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Aino Frilander",
         "teos": "'I See Any Dinosaur, I Buy It' (Guardian -artikkeli)",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -5418,12 +5415,14 @@
     "audio_url": "https://podcasts.captivate.fm/media/d6552414-06b9-4fe2-81e6-73774dc0ae95/URPOD-24-10-31.mp3",
     "kesto_sek": 5388,
     "kesto_str": "01:29:48",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Susanne Salmi"
+    ],
     "rss_kuvaus": "<p>Tässä varsinkin Yhdysvaltain presidentinvaaleihin keskittyvässä jaksossa Tuomas, Marko ja Salla sekä Amerikkapodista vierailemaan saapunut Susanne Salmi keskustelevat ensi viikon vaalipäivästä, kampanjoinnin kehityskuluista, suurista asioista jotka sivuutettiin, sekä niukan tuloksen mahdollisista seuraamuksista. Lisäksi aiheina Suomen aloittama venäläisen omaisuuden takavarikointi ja keskustan ",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Tähänastinen elämä",
         "paakategoria": "kulttuuri",
@@ -5438,7 +5437,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Marko Junkkari",
         "teos": "Fear and Loathing on the Campaign Trail '72",
         "paakategoria": "kirja",
@@ -5453,7 +5452,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Marko Junkkari",
         "teos": "The Boys on the Bus",
         "paakategoria": "kirja",
@@ -5468,7 +5467,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Mårten Göstickin näyttely Ateneumissa",
         "paakategoria": "kulttuuri",
@@ -5645,14 +5644,15 @@
     "kesto_str": "01:09:06",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat koronapandemian toisesta aallosta, kansanedustajien kovenevasta kielenkäytöstä sekä Turkin huolestuttavasta ihmisoikeustilanteesta.\n\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Thomas Mannin Kuolema Venetsiassa -kirjaa (https://yle.fi/aihe/artikkeli/2020/03/19/kun-maailma-alkoi-haista-naapur",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Kuolema Venetsiassa",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -5666,7 +5666,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Yoga With Adriene",
         "paakategoria": "muu",
@@ -5758,7 +5758,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Hacks",
         "paakategoria": "tv-sarja",
@@ -5773,7 +5773,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anni Keski-Heikkilä",
         "teos": "Superpesis-ottelut",
         "paakategoria": "urheilu",
@@ -5863,8 +5863,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Mrs. America",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -6034,12 +6034,14 @@
     "audio_url": "https://podcasts.captivate.fm/media/4db6a57f-79f8-4c2b-bf95-e8f2249ad1fd/URPOD-25-01-30-v2.mp3",
     "kesto_sek": 5299,
     "kesto_str": "01:28:19",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Alex af Heurlin"
+    ],
     "rss_kuvaus": "<p>HUOM! Extrapitkäjakso koska studion kello oli poks. Tämän viikon jaksossa Tuomas, Marko ja Salla ja vierailemaan tullut HS Visio podcastin (<a href=\"https://www.hs.fi/visiopodi/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.hs.fi/visiopodi/</a>) Alex af Heurlin keskustelevat DeepSeekin markkinoita myllertäneestä saapumisesta tekoälyareenalle, Tanskan kieltämättä kusisesta tilanteesta T",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Marko Junkkari",
         "teos": "Kaikki taivaan sini",
         "paakategoria": "kirja",
@@ -6054,7 +6056,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "The Big Lebowski",
         "paakategoria": "elokuva",
@@ -6069,7 +6071,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dust-to-Digital",
         "paakategoria": "musiikki",
@@ -6267,8 +6269,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "@WAR: The Rise of the Military-Internet Complex",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -6829,7 +6831,7 @@
       {
         "r_idx": 0,
         "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Anna-Sofia Berner",
         "teos": "Mureneva maa (podcast)",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -6843,7 +6845,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Pinnan alta – Suomen talouden uusi nousu",
         "paakategoria": "kirja",
@@ -6858,7 +6860,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Aitojamakuja.fi",
         "paakategoria": "ruoka",
@@ -7228,14 +7230,15 @@
     "kesto_str": "53:20",
     "rss_osallistujat": [
       "Emil Elo",
+      "Hilla Körkkö",
       "Joakim Westrén-Doll"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Emil Elo, Hilla Körkkö ja Joakim Westrén-Doll keskustelevat rokotepassien mahdollisesta käyttöönotosta, telinevoimistelija Simone Bilesista sekä Suomen työllisyysasteesta. \n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analysoidaan sen viikon tärkeimmät uutisaiheet. Tarkoitus on siis puhua tärkeistä aiheista, mutta sillä ta",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Hilla Körkkä",
+        "is_suspicious": false,
+        "suosittelija": "Hilla Körkkö",
         "teos": "Katriina Pajarin Instagram (Tokion olympialaiset)",
         "paakategoria": "muu",
         "kategoriat": [
@@ -7249,8 +7252,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Hilla Körkkä",
+        "is_suspicious": false,
+        "suosittelija": "Hilla Körkkö",
         "teos": "Linnanmäki",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -7400,7 +7403,7 @@
       {
         "r_idx": 0,
         "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "suosittelija": "Anu-Elina Lehti",
         "teos": "Ihmisiä, vuosia, elämää",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -7665,7 +7668,6 @@
     "kesto_str": "01:18:29",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -7674,7 +7676,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Think Twice (podcast Michael Jacksonista)",
         "paakategoria": "podcast",
@@ -7886,7 +7888,6 @@
     "kesto_str": "01:16:43",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tommi Nieminen"
     ],
@@ -7954,7 +7955,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "The Darkest Hour",
         "paakategoria": "elokuva",
@@ -7969,7 +7970,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Jussi Halla-aho – elämäkerta",
         "paakategoria": "kirja",
@@ -7984,7 +7985,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Ville Itälä – elämäkerta",
         "paakategoria": "kirja",
@@ -7999,7 +8000,7 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Plain English -podcast",
         "paakategoria": "podcast",
@@ -8014,7 +8015,7 @@
       },
       {
         "r_idx": 4,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Dwarkesh Podcast",
         "paakategoria": "podcast",
@@ -8029,7 +8030,7 @@
       },
       {
         "r_idx": 5,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Memos to the President -podcast",
         "paakategoria": "podcast",
@@ -8062,8 +8063,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "Ilmo Ilkka",
         "teos": "How Civil Wars Start – Barbara F. Walter",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -8201,7 +8202,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Maria Manner",
         "teos": "Systeemin murskaaja",
         "paakategoria": "elokuva",
@@ -8325,8 +8326,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Julia",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -8952,7 +8953,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Maria Manner",
         "teos": "Muistissanne kiinni",
         "paakategoria": "kirja",
@@ -9395,7 +9396,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Severance",
         "paakategoria": "tv-sarja",
@@ -9410,7 +9411,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "She Said",
         "paakategoria": "elokuva",
@@ -9601,6 +9602,7 @@
     "kesto_sek": 4087,
     "kesto_str": "01:08:07",
     "rss_osallistujat": [
+      "Alex af Heurlin",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -9623,8 +9625,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Aleksi Af Heurlin",
+        "is_suspicious": false,
+        "suosittelija": "Alex af Heurlin",
         "teos": "Putinin sisäpiirissä",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -9886,6 +9888,7 @@
     "kesto_sek": 4360,
     "kesto_str": "01:12:40",
     "rss_osallistujat": [
+      "Alex af Heurlin",
       "Salla Vuorikoski",
       "Sohvi Sirkesalo"
     ],
@@ -10136,7 +10139,6 @@
     "kesto_str": "01:22:09",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -10485,13 +10487,14 @@
     "kesto_str": "59:22",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat Washington Postin cancel-artikkelista ja Eskimo-jäätelöstä, translaista ja kansanedustaja Mäenpään syytesuojasta.\n\nEpämukavien hiljaisuuksien varalle Onni Niemi suosittelee Panu Hietanevan Koiria ja ihmisiä -podcastia (https://areena.yle.fi/audio/1-50538411), Iida Sofia Hirvonen suosittelee Funeral Parade of Roses",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Koiria ja ihmisiä",
         "paakategoria": "podcast",
@@ -11054,8 +11057,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Julian Puumalainen",
         "teos": "The Morning Show",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -11069,8 +11072,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Naisten EM-jalkapallo 2025 – finaali",
         "paakategoria": "urheilu",
         "kategoriat": [
@@ -11084,8 +11087,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Suomen Kuvalehti",
         "paakategoria": "artikkeli",
         "kategoriat": [
@@ -11099,8 +11102,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Hanna Havusto",
         "teos": "Kusikivi, Etelä-Pohjanmaa",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -11824,6 +11827,7 @@
     "kesto_str": "59:21",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat EU:n rahapolitiikasta ja unionin suunnasta, etätöiden vaikutuksista ja mökkibuumista Suomessa. Pitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Ville Vuorenmaan näyttely Tiketti-galleriassa Kampissa, auki 25.7 asti (https://www.tiketti.fi/galleria), Onni Niemi suosittelee HBO:n kotimaista Eristyk",
@@ -11845,7 +11849,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Ville Vuorenmaan taidenäyttely – Tikketi-galleria, Kamppi",
         "paakategoria": "kulttuuri",
@@ -12414,7 +12418,6 @@
     "kesto_str": "01:15:39",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -12497,7 +12500,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "Every Day Is Sunday",
         "paakategoria": "kirja",
@@ -12527,7 +12530,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Code: The Hidden Language of Computer Hardware and Software",
         "paakategoria": "kirja",
@@ -13171,7 +13174,6 @@
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon jaksossa aiheina Venäjän hyökkäyksen kaksivuotispäivä ja ympärillä leijuva surumielisyys ja synkkyys, maahanmuuttajien huonot työllisyysluvut ja kielivaikeudet, ja miesten ja naisten poliittisten asenteiden merkittävä eriytyminen toisistaan nuoressa Z-sukupolvessa.\nStudiossa Tuomas Peltomäki, Anna-Sofia Berner ja Anni Keski-Heikkilä. \nJakson leikkasi Mikko Peura.\n\nJaksoon liittyviä li",
@@ -13352,7 +13354,6 @@
     "kesto_str": "01:14:10",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Matilda Jokinen",
       "Tuomas Peltomäki"
@@ -13472,8 +13473,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Jussi Niemeläinen",
+        "is_suspicious": false,
+        "suosittelija": "Ilmo Ilkka",
         "teos": "DIY Or DIE (DJ Orkidea)",
         "paakategoria": "musiikki",
         "kategoriat": [
@@ -13695,7 +13696,6 @@
     "kesto_str": "01:29:36",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Paavo Teittinen",
       "Tuomas Peltomäki"
     ],
@@ -13881,6 +13881,7 @@
     "kesto_str": "01:14:00",
     "rss_osallistujat": [
       "Alma Onali",
+      "Niclas Storås",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas Peltomäki, Alma Onali ja taloustoimittaja Niclas Storås keskustelevat koronapandemian katkomista toimitusketjuista ja siitä mitä niiden toiminta kertoo maailmasta, Facebookin uudesta metaversumista ja Afrikan tähti -kohusta, joka ei ole oikein kunniaksi kenellekään.\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan ja analys",
@@ -13902,8 +13903,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Niklas Storås",
+        "is_suspicious": false,
+        "suosittelija": "Niclas Storås",
         "teos": "Helsingin kirjamessut",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -14494,7 +14495,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Elämäni miehet",
         "paakategoria": "kirja",
@@ -14524,7 +14525,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Keskiyön kaninkolo",
         "paakategoria": "podcast",
@@ -15027,6 +15028,7 @@
     "kesto_str": "01:04:08",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat demokratian mustasta keskiviikosta, marjanpoiminnasta ja intersektionaalisesta feminismistä. Pitkien, epämukavien hiljaisuuksien varalle Alma suosittelee I am not your negro (2016) -dokumenttia (https://areena.yle.fi/1-4232383), Onni suosittelee Normaaleja ihmisiä -sarjaa (https://areena.yle.fi/1-50495302) ja Iida",
@@ -15048,7 +15050,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Tommi Liimatan suuri serkkuteoria",
         "paakategoria": "podcast",
@@ -15707,8 +15709,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Hanna Mahlamäki",
         "teos": "Mindhunter",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -16074,7 +16076,6 @@
     "kesto_str": "58:04",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -16354,7 +16355,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Somebody Somewhere (kausi 3)",
         "paakategoria": "tv-sarja",
@@ -16369,7 +16370,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Salla Vuorikoski",
         "teos": "Regime",
         "paakategoria": "tv-sarja",
@@ -16474,7 +16475,6 @@
     "kesto_str": "01:11:57",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -16843,6 +16843,7 @@
     "kesto_str": "57:03",
     "rss_osallistujat": [
       "Emil Elo",
+      "Iida Sofia Hirvonen",
       "Maria Manner"
     ],
     "rss_kuvaus": "Studiossa Maria Manner, Iida Sofia Hirvonen ja Emil Elo.",
@@ -16864,7 +16865,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Cruelty Squad",
         "paakategoria": "muu",
@@ -16951,6 +16952,7 @@
     "kesto_str": "01:01:30",
     "rss_osallistujat": [
       "Marko Junkkari",
+      "Susanne Salmi",
       "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa aiheina New Yorkin metrossa tapahtuneesta surmasta seurannut yhteiskunnalinen keskustelu ja fentanyyli- ja opiaattikriisien vaikutus ihmisiin Yhdysvalloissa, Markon juttu perussuomalaisista: sen somereaktio ja sisältö, David Nasaw'n artikkeli jonka mukaan Elon Musk ei olekaan sekoboltsi vaan ihan vaan pelkkä nero.\nStudiossa Tuomas Peltomäki, Marko Junkkari ja Susanne Salmi",
@@ -16986,8 +16988,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Susanna Salmi",
+        "is_suspicious": false,
+        "suosittelija": "Susanne Salmi",
         "teos": "Mehiläisten historia",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -17124,8 +17126,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Maria Manner",
         "teos": "Naarasleijona",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -17307,8 +17309,8 @@
       },
       {
         "r_idx": 3,
-        "is_suspicious": true,
-        "suosittelija": "Marko Junkkari",
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
         "teos": "Project Hail Mary",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -17808,7 +17810,6 @@
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -18144,13 +18145,14 @@
     "kesto_str": "59:57",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat Oskari Onnisen kohua herättäneestä opiskeluesseestä, presidentti Sauli Niinistön\nvaltaoikeuksista ja Valko-Venäjän protestikesästä.\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Visulahden vahakabinettia (https://www.visulahti.fi/hinnat-ja-aukioloajat/), Onni Niemi suosittelee kulttuuritoimitt",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Visulahden Vahakabinetit",
         "paakategoria": "kulttuuri",
@@ -18228,8 +18230,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Inkeri Harju",
         "teos": "Stranger Things (kausi 4)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -19164,7 +19166,7 @@
       {
         "r_idx": 1,
         "is_suspicious": true,
-        "suosittelija": "Niklas Storaas",
+        "suosittelija": "Niclas Storås",
         "teos": "Elämän lyhyydestä",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -19178,7 +19180,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Emil Elo",
         "teos": "Rolling Stones: Hackney Diamonds (livealbumi)",
         "paakategoria": "musiikki",
@@ -19250,7 +19252,7 @@
     "kesto_str": "01:09:15",
     "rss_osallistujat": [
       "Anni Huttunen",
-      "Anni Lassila",
+      "Anni Keski-Heikkilä",
       "Marko Junkkari",
       "Sohvi Sirkesalo"
     ],
@@ -19288,7 +19290,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Chef's Table: Nuudelit",
         "paakategoria": "tv-sarja",
@@ -19360,7 +19362,6 @@
     "kesto_str": "01:16:08",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -19566,8 +19567,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Tuomas Peltomäki",
+        "is_suspicious": false,
+        "suosittelija": "Petja Pelli",
         "teos": "Ohuella langalla (kausi 3)",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -19582,7 +19583,7 @@
       {
         "r_idx": 1,
         "is_suspicious": true,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "The Room Next Door",
         "paakategoria": "elokuva",
         "kategoriat": [
@@ -19783,7 +19784,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
         "teos": "Kaikki rakastaa ysäriä",
         "paakategoria": "podcast",
@@ -19798,7 +19799,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Middlesex",
         "paakategoria": "kirja",
@@ -19813,7 +19814,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Marko Junkkari",
         "teos": "The Doorman",
         "paakategoria": "kirja",
@@ -19884,14 +19885,15 @@
     "kesto_str": "01:07:43",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
+      "Irina Hasala",
       "Joona Aaltonen"
     ],
     "rss_kuvaus": "14.7.2022: Uniper, Japani ja avaruus. Tämän viikon podcastissa Anni Keski-Heikkilä, Irina Hasala ja Joona Aaltonen keskustelevat Fortumin tytäryhtiö Uniperin kaasukriisistä, Japanin entisen pääministeri Shinzō Aben surmasta epäillyn taustoista sekä uudesta Webb-teleskoopista ja avaruuden äärettömyydestä.\n\nUutisraportti podcast on Helsingin Sanomien julkaisema viikottainen podcast, jossa puretaan j",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Irina Hala",
+        "is_suspicious": false,
+        "suosittelija": "Irina Hasala",
         "teos": "Lintujen tarkkailu",
         "paakategoria": "muu",
         "kategoriat": [
@@ -20253,7 +20255,6 @@
     "kesto_str": "01:21:04",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -20685,13 +20686,14 @@
     "kesto_str": "01:17:16",
     "rss_osallistujat": [
       "Alma Onali",
+      "Iida Sofia Hirvonen",
       "Onni Niemi"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Alma Onali, Onni Niemi ja Iida Sofia Hirvonen keskustelevat hallituksen koronapolitiikasta ja uusista suosituksista, Valko-Venäjän vaalituloksesta ja sen jälkeisestä poliisiväkivallasta sekä vastailevat kuuntelijoiden lähettämiin kysymyksiin.\n\nPitkien, epämukavien hiljaisuuksien varalle Iida Sofia suosittelee Akira-elokuvaa (https://cinemaorion.fi/elokuvat/akira/), Onni Ni",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Iida Sofia Hirvonen",
         "teos": "Akira",
         "paakategoria": "elokuva",
@@ -20873,8 +20875,8 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Decoder Ring",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -22062,7 +22064,6 @@
     "kesto_str": "01:21:49",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Jukka Huusko",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -22736,7 +22737,6 @@
     "kesto_str": "01:15:51",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -23119,7 +23119,6 @@
     "kesto_str": "01:01:26",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski"
     ],
@@ -23328,8 +23327,8 @@
       },
       {
         "r_idx": 6,
-        "is_suspicious": true,
-        "suosittelija": "Hanna-Avusta",
+        "is_suspicious": false,
+        "suosittelija": "Rasmus Helaniemi",
         "teos": "Pod Save the World",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -23648,7 +23647,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Matti Apunen",
         "teos": "Future Politics",
         "paakategoria": "kirja",
@@ -24113,7 +24112,6 @@
     "kesto_str": "01:13:23",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Petja Pelli",
       "Tuomas Peltomäki"
@@ -24137,8 +24135,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anna-Sofia Berner",
+        "is_suspicious": false,
+        "suosittelija": "Petja Pelli",
         "teos": "Yölaulajalintujen kuuntelu luonnossa",
         "paakategoria": "muu",
         "kategoriat": [
@@ -24296,7 +24294,6 @@
     "kesto_str": "01:09:34",
     "rss_osallistujat": [
       "Anni Keski-Heikkilä",
-      "Anni Lassila",
       "Marko Junkkari",
       "Salla Vuorikoski"
     ],
@@ -24484,8 +24481,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Alma Onali",
         "teos": "Tallinna",
         "paakategoria": "muu",
         "kategoriat": [
@@ -24499,8 +24496,8 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
-        "suosittelija": "Anni Keski-Heikkilä",
+        "is_suspicious": false,
+        "suosittelija": "Joakim Westrén-Doll",
         "teos": "Cooper-testi keskustelunaiheena",
         "paakategoria": "urheilu",
         "kategoriat": [
