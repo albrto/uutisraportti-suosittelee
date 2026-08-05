@@ -20,21 +20,21 @@ def hae_git_historia():
         osat = line.split('|||')
         otsikko = osat[0].strip()
         body = osat[1].strip() if len(osat) > 1 else ""
-        
+
         print(f"  - Tutkitaan: {otsikko}")
-        
-        # Lopetetaan historia vanhaan changelog-ajoon
-        if "päivitetty muutosloki" in otsikko.lower() or "tekoälyn katsaus" in otsikko.lower():
-            print("  🛑 Pysähdytään: Vanha muutosloki-commit löydetty.")
+
+        # Pysähdytään edellisen automaatioajon commitiin: kaikki sitä vanhempi
+        # on jo käsitelty aiemmissa muutoslokeissa. Automaation omat commitit
+        # eivät myöskään koskaan itsessään ole muutoslokiin kuuluvia muutoksia —
+        # muuten Claude keksii viikoittain "päivityksiä" tyhjästä (bugi, joka
+        # tuotti 16 hallusinoitua entryä kesällä 2026).
+        if otsikko.lower().startswith("automaatio:"):
+            print("  🛑 Pysähdytään: edellisen automaatioajon commit.")
             break
-        
-        # Ohitetaan datapäivitysten automaattiset commitit
-        if "Automaatio: Uudet suositukset" in otsikko:
-            continue
-            
+
         print(f"  ✅ Lisätään: {otsikko}")
         commits.append(otsikko + (" - " + body if body else ""))
-        
+
     return commits
 
 def muotoile_claudella(commits):
@@ -54,6 +54,8 @@ TYYLI JA MUOTO:
 4. Kuvaile tekniset muutokset abstraktisti (esim. "Parannettu automaatiota", "Päivitetty tekoälyä", "Varmistettu sovelluksen vakaus").
 5. Korosta käyttäjälle näkyvää hyötyä (jos sellaista on).
 6. Palauta VAIN validia HTML-koodia (pelkkä <ul>...</ul>), ei markdownia tai muuta tekstiä.
+7. ÄLÄ KEKSI MITÄÄN: mainitse vain muutoksia, jotka näkyvät alla olevissa commiteissa. Jos committi on epäselvä, jätä se mainitsematta. Älä täytä listaa yleisluontoisilla lauseilla.
+8. ÄLÄ käytä emojeita.
 
 Koodarin tekniset commitit:
 {historia_str}
@@ -69,7 +71,7 @@ Koodarin tekniset commitit:
             response = client.messages.create(
                 model=model_name,
                 max_tokens=800,
-                temperature=0.7,
+                temperature=0.2,
                 messages=[{"role": "user", "content": prompt}]
             )
             tulos = response.content[0].text.strip()
