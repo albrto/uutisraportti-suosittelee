@@ -37,6 +37,7 @@ TUNNETUT_NIMET = [
     "Irina Hasala", "Ilmo Ilkka", "Jantso Jokelin",
     "Alex af Heurlin", "Jaakko Lyytinen", "Harri Sulavuori",
     "Petja Pelli", "Suvi Turtiainen",
+    "Pihla Saravirta", "Topi Kosunen", "Susanna Reinboth",
 ]
 
 ETUNIMI_KARTTA = {
@@ -64,6 +65,9 @@ ETUNIMI_KARTTA = {
     # pelkkä "Anni" vanhoissa jaksokuvauksissa viittaa häneen, ei Anni Lassilaan
     "anni": "Anni Keski-Heikkilä",
     "iida": "Iida Sofia Hirvonen",
+    "pihla": "Pihla Saravirta",
+    "topi": "Topi Kosunen",
+    "susanna": "Susanna Reinboth",
 }
 
 
