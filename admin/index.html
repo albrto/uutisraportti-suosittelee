@@ -776,9 +776,37 @@
       cursor: pointer;
     }
 
+    @media (max-width: 768px) {
+      .action-btn, .filter-btn, .skip-btn, .participant-btn { min-height: 44px; }
+      .play-btn { width: 48px; height: 48px; font-size: 16px; }
+      .custom-input { min-height: 44px; }
+    }
+
     @media (max-width: 640px) {
-      header, main, .filterbar { padding-left: 16px; padding-right: 16px; }
+      header, main { padding-left: 12px; padding-right: 12px; }
+      .filterbar { padding-left: 0; padding-right: 0; }
       .stats { display: none; }
+      .progress-bar-wrap, .progress-info { display: none; }
+
+      main { padding-bottom: 90px; }
+
+      .card-header { padding: 12px 14px; }
+      .player-section, .recs-section { padding: 12px 14px; }
+      .rss-kuvaus { padding: 8px 14px; }
+
+      .player-row { flex-wrap: wrap; }
+      .player-controls { width: 100%; order: 2; }
+      .skip-btns { order: 3; width: 100%; gap: 8px; }
+      .skip-btn { flex: 1; text-align: center; }
+
+      .edit-grid { grid-template-columns: 1fr !important; }
+      .edit-grid > * { grid-column: span 1 !important; }
+
+      .rec-actions { flex-wrap: wrap; }
+      .action-btn { padding: 10px 14px; }
+
+      .save-bar { left: 12px; right: 12px; bottom: 16px; }
+      .save-btn { width: 100%; justify-content: center; }
     }
   </style>
 </head>
