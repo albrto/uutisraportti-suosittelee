@@ -25,17 +25,17 @@ TUNNETUT_NIMET = [
     "Lari Malmberg", "Anni Keski-Heikkilä", "Anni Lassila",
     "Aino Frilander", "Timo R. Stewart", "Elina Kervinen",
     "Elli Harju", "Emil Elo", "Hanna Mahlamäki",
-    "Hilla Körkkä", "Jarno Hartikainen", "Tommi Nieminen",
+    "Hilla Körkkö", "Jarno Hartikainen", "Tommi Nieminen",
     "Ville Similä", "Venla Kuokkanen", "Toni Lehtinen",
-    "Sara Vainio", "Susanna Salmi", "Niklas Storås",
+    "Sara Vainio", "Susanne Salmi", "Niclas Storås",
     "Matti Apunen", "Pia Elonen", "Tuija Siltamäki",
     "Tuomas Niskakangas", "Julian Puumalainen",
     "Karoliina Knuuti", "Anni Huttunen",
-    "Milka Valtanen", "Matilda Jokinen", "Ida-Sofia Hirvonen",
+    "Milka Valtanen", "Matilda Jokinen", "Iida Sofia Hirvonen",
     "Inkeri Harju", "Milla Palkoaho", "Oskari Eronen",
     "Jukka Huusko", "Joona Aaltonen", "Heini Pitkänen",
-    "Irina Hala", "Ilmo Ilkka", "Jantso Jokelin",
-    "Aleksi Af Heurlin", "Jaakko Lyytinen", "Harri Sulavuori",
+    "Irina Hasala", "Ilmo Ilkka", "Jantso Jokelin",
+    "Alex af Heurlin", "Jaakko Lyytinen", "Harri Sulavuori",
     "Petja Pelli", "Suvi Turtiainen",
 ]
 
@@ -60,7 +60,10 @@ ETUNIMI_KARTTA = {
     "paavo": "Paavo Teittinen",
     "lari": "Lari Malmberg",
     "julian": "Julian Puumalainen",
-    "anni": "Anni Lassila",
+    # Anni Keski-Heikkilä oli podcastin vakiokasvo (ei enää HS:llä) —
+    # pelkkä "Anni" vanhoissa jaksokuvauksissa viittaa häneen, ei Anni Lassilaan
+    "anni": "Anni Keski-Heikkilä",
+    "iida": "Iida Sofia Hirvonen",
 }
 
 

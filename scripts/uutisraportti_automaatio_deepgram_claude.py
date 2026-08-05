@@ -6,6 +6,7 @@ import json
 from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
+from generoi_validointidata import poimi_osallistujat_rss
 
 load_dotenv(override=True)
 
@@ -15,49 +16,96 @@ LATAA_MÄÄRÄ = 421
 LEIKKAUS_SEKUNTIA = 1200  # Viimeiset 20 min
 TULOS_TIEDOSTO = "suositukset.json"
 HISTORIA_TIEDOSTO = "historia_json.txt"
+TRANSKRIPTIT_KANSIO = "transkriptit"
 
 # --- API AVAIMET ---
 # Nämä pitää lisätä .env-tiedostoon!
 DEEPGRAM_API_KEY = os.getenv("DEEPGRAM_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
+def transkriptin_polku(jakso_id):
+    turvallinen = re.sub(r'[^A-Za-z0-9_-]', '_', jakso_id)
+    return os.path.join(TRANSKRIPTIT_KANSIO, f"{turvallinen}.txt")
+
+def tallenna_transkripti(jakso_id, teksti):
+    os.makedirs(TRANSKRIPTIT_KANSIO, exist_ok=True)
+    polku = transkriptin_polku(jakso_id)
+    with open(polku, "w", encoding="utf-8") as f:
+        f.write(teksti)
+    return polku
+
 def transkriboi_deepgram(audio_path):
     print("Lähetetään ääni Deepgramille transkriptioon (tämä kestää vain pari sekuntia)...")
-    url = "https://api.deepgram.com/v1/listen?model=nova-2&language=fi&smart_format=true"
+    url = "https://api.deepgram.com/v1/listen?model=nova-2&language=fi&smart_format=true&diarize=true&utterances=true"
     headers = {
         "Authorization": f"Token {DEEPGRAM_API_KEY}",
         "Content-Type": "audio/mp3"
     }
     with open(audio_path, "rb") as audio:
         response = requests.post(url, headers=headers, data=audio)
-    
+
     if response.status_code == 200:
         data = response.json()
+        # Ensisijaisesti puhujittain eroteltu teksti ("Puhuja N: ..."), jotta
+        # suosittelija voidaan päätellä puhujasta eikä pelkästä asiayhteydestä
         try:
-            teksti = data['results']['channels'][0]['alternatives'][0]['transcript']
-            return teksti
+            utterances = data['results']['utterances']
+            rivit = []
+            for u in utterances:
+                puhuja = u.get('speaker', '?')
+                transcript = u.get('transcript', '').strip()
+                if transcript:
+                    rivit.append(f"Puhuja {puhuja}: {transcript}")
+            if rivit:
+                return "\n".join(rivit)
+        except KeyError:
+            pass
+        try:
+            return data['results']['channels'][0]['alternatives'][0]['transcript']
         except KeyError:
             return ""
     else:
         print(f"Deepgram virhe: {response.status_code} - {response.text}")
         return ""
 
-def analysoi_claudella(teksti):
-    print("Pyydetään Anthropic Claude 3.5 Sonnet -mallia poimimaan suositukset JSON-muodossa...")
+def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
+    print("Pyydetään Claude-mallia poimimaan suositukset JSON-muodossa...")
     client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    
-    system_prompt = """Olet ammattimainen suomalainen toimitussihteeri. Tehtäväsi on poimia Uutisraportti-podcastin raakatekstistä VAIN todelliset kulttuuri- ja kulutussuositukset.
+
+    # Rakennetaan suosittelija-sääntö jaksokohtaisesti: RSS-kuvauksesta poimitut
+    # osallistujat ovat ainoat sallitut nimet — ei kiinteää nimilistaa, joka
+    # ohjaisi mallia arvaamaan henkilöitä, jotka eivät ole studiossa.
+    puhujaohje = (
+        "Teksti sisältää jakson alkuesittelyt ja lopun suositusosion. Jos rivit on merkitty "
+        "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin alkuesittelyistä, kuka "
+        "puhujanumero on kukin henkilö (juontaja esittelee itsensä ja vieraat), ja käytä sitten "
+        "puhujanumeroa suosituksen antajan tunnistamiseen. "
+    )
+    if osallistujat:
+        suosittelija_saanto = (
+            f"2. SUOSITTELIJA: Tässä jaksossa ovat RSS-kuvauksen mukaan äänessä: {', '.join(osallistujat)}. "
+            "Suosittelijan on oltava joku näistä henkilöistä. " + puhujaohje +
+            "Jos suosituksen antaa selvästi joku muu, joka esitellään jakson alussa nimeltä, käytä sitä nimeä. "
+            "Jos et pysty päättelemään suosittelijaa varmasti, käytä arvoa \"tuntematon\" — älä koskaan arvaa."
+        )
+    else:
+        suosittelija_saanto = (
+            "2. SUOSITTELIJA: " + puhujaohje +
+            "Jos et pysty päättelemään suosittelijaa varmasti, käytä arvoa \"tuntematon\" — älä koskaan arvaa."
+        )
+
+    system_prompt = f"""Olet ammattimainen suomalainen toimitussihteeri. Tehtäväsi on poimia Uutisraportti-podcastin raakatekstistä VAIN todelliset kulttuuri- ja kulutussuositukset.
 Paluuta TISMALLEEN JA AINOASTAAN validia JSON-rakennetta, ei mitään muuta tekstiä.
 
 SÄÄNNÖT:
 1. KORJAA VIRHEET JA KÄÄNNÄ: Korjaa teosten nimet (esim. "weathering heights" -> "Humiseva harju"). Käännä yleiskieliset asiat suomeksi (esim. "pistachio spread" -> "pistaasilevite").
-2. SUOSITTELIJA: Saat tekstin, jossa on sekä jakson alkuesittelyt että lopun suositukset. Päättele puhuja. Vaihtoehdot: Tuomas Peltomäki, Salla Vuorikoski, Marko Junkkari, Jussi Niemeläinen, Anna-Sofia Berner, Anni Keski-Heikki.
+{suosittelija_saanto}
 3. KATEGORIAT: Määritä AINA jokaiselle suositukselle ylätason "paakategoria", jonka on TISMALLEEN YKSI SEURAAVISTA: "kirja", "elokuva", "tv-sarja", "podcast", "artikkeli", "musiikki", "ruoka", "kulttuuri", "urheilu", tai "muu" (jos mikään edeltävistä ei sovi). Keksi lisäksi 1-3 tarkempaa, vapaamuotoista tägiä "kategoriat"-listaan (esim. "teatteri", "historia", "viini").
 4. LINKIT: Lisää Goodreads-linkki (`https://www.goodreads.com/search?q=Nimi`) kirjoille ja IMDb-linkki (`https://www.imdb.com/find/?q=Nimi`) elokuville/sarjoille. Musiikille ja podcasteille lisää suoratoistolinkki "lisatieto_linkki" -kenttään (esim. `https://open.spotify.com/search/Nimi` tai vastaava haku Apple Musiciin, Tidaliin tai Suplaan). Kaikille "google_linkki" -kenttään hakulinkki `https://www.google.com/search?q=Nimi`.
 
 VASTAUKSEN RAKENNE (palauta taulukko):
 [
-  {
+  {{
     "teos": "Oikea Nimi",
     "paakategoria": "kirja",
     "google_linkki": "https://www.google.com/...",
@@ -65,7 +113,7 @@ VASTAUKSEN RAKENNE (palauta taulukko):
     "kuvaus": "1-2 lausetta...",
     "suosittelija": "Tuomas Peltomäki",
     "kategoriat": ["historia", "elämäkerrat"]
-  }
+  }}
 ]
 Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json ... ```). Jos suosituksia ei ole, palauta `[]`.
 """
@@ -76,6 +124,11 @@ Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json 
         "claude-opus-4-6"
     ]
 
+    viesti = ""
+    if jakso_kuvaus:
+        viesti += f"Jakson RSS-kuvaus (taustatietoa puhujista):\n{jakso_kuvaus}\n\n"
+    viesti += f"Analysoi tämä teksti ja palauta JSON:\n\n{teksti}"
+
     tulos = None
     for model_name in models_to_try:
         try:
@@ -85,7 +138,7 @@ Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json 
                 temperature=0.1,
                 system=system_prompt,
                 messages=[
-                    {"role": "user", "content": f"Analysoi tämä teksti ja palauta JSON:\n\n{teksti}"}
+                    {"role": "user", "content": viesti}
                 ]
             )
             tulos = response.content[0].text.strip()
@@ -171,8 +224,17 @@ def aja_prosessi():
             raakateksti = transkriboi_deepgram(clip_temp)
             
             if raakateksti:
-                # 2. Tekstistä JSONiks Claudella
-                suositukset_json = analysoi_claudella(raakateksti)
+                # Talletetaan raakatranskripti (commitoidaan repoon), jotta
+                # uudelleenanalyysi ei vaadi audion uudelleenlatausta
+                tallenna_transkripti(jakson_tunniste, raakateksti)
+                # 2. Tekstistä JSONiks Claudella — jaksokohtaiset osallistujat RSS-kuvauksesta
+                jakso_kuvaus = entry.get("summary", "") or entry.get("description", "")
+                osallistujat = poimi_osallistujat_rss(jakso_kuvaus)
+                if osallistujat:
+                    print(f"Osallistujat RSS-kuvauksesta: {', '.join(osallistujat)}")
+                else:
+                    print("⚠️ Osallistujia ei löytynyt RSS-kuvauksesta — suosittelija päätellään pelkästä tekstistä.")
+                suositukset_json = analysoi_claudella(raakateksti, osallistujat, jakso_kuvaus)
                 
                 # Vaikka olisi tyhjä lista ([]), tallennetaan silti että jakso on käsitelty
                 jakso_data = {
