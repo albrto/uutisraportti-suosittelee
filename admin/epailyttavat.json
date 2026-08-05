@@ -8761,6 +8761,7 @@
     "kesto_sek": 4658,
     "kesto_str": "01:17:38",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -8768,7 +8769,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Inside the Highs and Lows of Sapphic Pop's Banner Year",
         "paakategoria": "artikkeli",
@@ -15234,6 +15235,7 @@
     "kesto_sek": 4825,
     "kesto_str": "01:20:25",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
     ],
@@ -15256,7 +15258,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vieraana omassa talossa – Taavi Törissaaren tarina",
         "paakategoria": "artikkeli",
