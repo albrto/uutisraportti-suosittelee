@@ -596,7 +596,10 @@
     "kesto_sek": 5168,
     "kesto_str": "01:26:08",
     "rss_osallistujat": [
-      "Teemu Muhonen"
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko ja Salla sekä podcastissa vieraileva Teemu Muhonen keskustelevat hallituksen suunnitelmista likistää viimekätistä toimeentulotukea vielä entisestään, Metan Mark Zuckerbergin magaistumisesta ja ulkoasiainvaliokunnan ex-puheenjohtaja Kimmo Kiljusen paluusta poliittisille areenoille etelän lämmöstä annetuissa haastatteluissa.</p>",
     "suositukset": [
@@ -2842,6 +2845,7 @@
     "kesto_str": "01:11:00",
     "rss_osallistujat": [
       "Jaakko Lyytinen",
+      "Maria Manner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -3052,7 +3056,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/ff230cdc-4132-4d68-bfcf-8204628eb713/URPOD-25-02-06.mp3",
     "kesto_sek": 5121,
     "kesto_str": "01:25:21",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Sohvi ja Marko keskustelevat valtiopäivien avajaisista, jossa keskustelun kohteena oli presidentti Alexander Stubbin puolusteleva puhe liittyen presidentin valtaoikeuksiin, Ilta-Sanomien järjestämä ensimmäinen vaaliväittely, ja Trumpin toinen toistaan mielettömämmät suunnitelmat maailman menoksi.</p>",
     "suositukset": [
       {
@@ -3173,7 +3181,10 @@
     "kesto_sek": 4066,
     "kesto_str": "01:07:46",
     "rss_osallistujat": [
-      "Jussi Niemeläinen"
+      "Anna-Sofia Berner",
+      "Jussi Niemeläinen",
+      "Marko Junkkari",
+      "Salla Vuorikoski"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Sohvi, Salla ja Marko keskustelevat Sanna Marinin odotetusta kirjasta&nbsp;<em>Toivo on tekoja</em>. Onko se rahastusta, poliitikon muistelmat vai inspiroiva teos? Millainen oli Marinin paluu suomalaisen median eli Markon eteen?</p><p>Lisäksi puhutaan New Yorkin pormestarivaalit voittaneesta ja Suomessakin ihastusta herättäneestä Zohran Mamdanista sekä Venäjästä, missä ",
     "suositukset": [
@@ -3310,7 +3321,9 @@
     "kesto_sek": 4534,
     "kesto_str": "01:15:34",
     "rss_osallistujat": [
-      "Marko Junkkari"
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Sohvi ja kirjavapaalta palannut Marko Junkkari keskustelevat hallituksen budjettiriihestä ja sen ympärillä käydystä keskustelusta kulttuurin rahoittamisesta; SDP:n uudesta voimantunnosta ja sen aiheuttamasta natisemisesta puolueen sisällä; ja Saksassa käydyistä osavaltiovaaleista, joissa melko sus puolueet ponnistivat voittoon.",
     "suositukset": [
@@ -3840,6 +3853,7 @@
     "kesto_sek": 3850,
     "kesto_str": "01:04:10",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Marko Junkkari",
       "Tommi Nieminen"
     ],
@@ -3877,7 +3891,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "The Apprentice (elokuva)",
         "paakategoria": "elokuva",
@@ -4850,9 +4864,9 @@
     "kesto_sek": 4112,
     "kesto_str": "01:08:32",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Marko Junkkari",
-      "Salla Vuorikoski",
-      "Sohvi Sirkesalo"
+      "Salla Vuorikoski"
     ],
     "rss_kuvaus": "<p>Tämän viikon podissa kysytään, onko Kela-pomo Lasse Lehtonen joutunut ajojahdin kohteeksi. </p><p>Lisäksi puhutaan Trumpin puolustusministeri Pete Hegsethistä, jonka epäillään syyllistyneen sotarikokseen veneiskussa Venezuelan edustalla. Mitä Yhdysvallat ylipäätään aikoo Venezuelassa?</p><p>Lopuksi ruoditaan hallituksen jännät lehmänkaupat taksien ja tuulimyllyjen kanssa. Studiossa Salla, Sohvi",
     "suositukset": [
@@ -5417,7 +5431,10 @@
     "kesto_sek": 5388,
     "kesto_str": "01:29:48",
     "rss_osallistujat": [
-      "Susanne Salmi"
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Susanne Salmi",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tässä varsinkin Yhdysvaltain presidentinvaaleihin keskittyvässä jaksossa Tuomas, Marko ja Salla sekä Amerikkapodista vierailemaan saapunut Susanne Salmi keskustelevat ensi viikon vaalipäivästä, kampanjoinnin kehityskuluista, suurista asioista jotka sivuutettiin, sekä niukan tuloksen mahdollisista seuraamuksista. Lisäksi aiheina Suomen aloittama venäläisen omaisuuden takavarikointi ja keskustan ",
     "suositukset": [
@@ -5754,7 +5771,10 @@
     "kesto_sek": 5342,
     "kesto_str": "01:29:02",
     "rss_osallistujat": [
-      "Jarno Hartikainen"
+      "Anna-Sofia Berner",
+      "Anni Keski-Heikkilä",
+      "Jarno Hartikainen",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Anni ja Sohvi ja Brysselistä langan päässä Jarno Hartikainen keskustelevat EU-vaalien loppusuorasta ja siitä, mitä tarkoittaa kun oikeistoryhmät parlamentissa ovat kenties ryhmittymässä uudelleen; mikä on EPP:n ja kokoomuksen suunnitelma ns. Ruanda/Albania -mallista ja miksi siitä ei juuri ole puhetta Suomessa; ja lisäksi Valkeakoskella tehdystä nuoren tytön surmas",
     "suositukset": [
@@ -6535,6 +6555,7 @@
     "kesto_sek": 4451,
     "kesto_str": "01:14:11",
     "rss_osallistujat": [
+      "Jussi Niemeläinen",
       "Marko Junkkari",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -6826,7 +6847,10 @@
     "kesto_sek": 5426,
     "kesto_str": "01:30:26",
     "rss_osallistujat": [
-      "Jukka Huusko"
+      "Anna-Sofia Berner",
+      "Jukka Huusko",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Marko ja Sohvi ja podcastissa vieraileva Jukka Huusko keskustelevat eskalaatiosta lähi-idässä, jälleen pettymyksistä PISA-tutkimuksissa, ja Googlen hämmästyttävästä NotebookML:stä.",
     "suositukset": [
@@ -7951,7 +7975,10 @@
     "kesto_sek": 5446,
     "kesto_str": "01:30:46",
     "rss_osallistujat": [
-      "Teemu Muhonen"
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Teemu Muhonen",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Salla keskustelevat Suomen talouden tilanteesta, joka on ollut kaikkien huulilla nyt kun budjettiriihi käynnistyy ensi viikolla. Lisäksi aiheeksi valikoitui eilen keskiviikkona A-Studiossa melkoista mölinää pitänyt Teemu Keskisarja, ja lopuksi vielä keskustellaan vanhempien reaktiosta lasten kännykättömyyteen kouluissa sekä EU:n uudesta tiukemmasta laps",
     "suositukset": [
@@ -8196,6 +8223,7 @@
     "kesto_sek": 3435,
     "kesto_str": "57:15",
     "rss_osallistujat": [
+      "Maria Manner",
       "Marko Junkkari",
       "Tommi Nieminen",
       "Tuomas Peltomäki"
@@ -8732,12 +8760,15 @@
     "audio_url": "https://podcasts.captivate.fm/media/40af82a4-98d0-4506-8588-389a6c21df5c/URPOD-24-11-28.mp3",
     "kesto_sek": 4658,
     "kesto_str": "01:17:38",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Anna-Sofia keskustelevat yhdessä toimittaja Satu Vasantolan kanssa Respektiä-nimisestä teini-ikäisille pojille kirjoitetusta seksikirjasta konservatiivi- ja uskonnollispiireissä noussut melko tulehtunut keskustelu; Puolustusvoimain komentaja laittoi liikkeelle suurella todennäköisyydellä maaliin päätyvän tapahtumaketjun kun ehdotti että Ottawan-sopimuks",
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Inside the Highs and Lows of Sapphic Pop's Banner Year",
         "paakategoria": "artikkeli",
@@ -8947,6 +8978,7 @@
     "kesto_sek": 3287,
     "kesto_str": "54:47",
     "rss_osallistujat": [
+      "Maria Manner",
       "Marko Junkkari",
       "Sara Vainio",
       "Tuomas Peltomäki"
@@ -9665,7 +9697,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/e8504bfd-93af-4de1-98a4-2318b2dcfd6e/1924030769-uutisraportti-2692024-velka-4ever-woken-loppu-edusku.mp3",
     "kesto_sek": 4672,
     "kesto_str": "01:17:52",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Sohvi ja Marko keskustelevat valtionvelan sinnikkäästä kasvusta vuodesta toiseen; USA:ssa käytävästä keskustelusta, jonka mukaan \"woke\" on jo loppu; ja kansanedustajia ilahduttaneesta turvetempauksesta, jonka seurauksena eduskutatalo sai uutta hauskaa väriä.",
     "suositukset": [
       {
@@ -9891,8 +9927,8 @@
     "kesto_str": "01:12:40",
     "rss_osallistujat": [
       "Alex af Heurlin",
-      "Salla Vuorikoski",
-      "Sohvi Sirkesalo"
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski"
     ],
     "rss_kuvaus": "<p>Podissa keskustellaan Iranin sodan moninaisista vaikutuksista tavallisen suomalaisen arkeen. Lisäksi ruoditaan Suomen rikkaita. Keitä he ovat, mistä omaisuus on tehty ja miksi heitä on niin vähän? Lopuksi katsotaan peiliin ja pohditaan kohua herättänytta tutkimusta, joka paljasti Tampereen toimittajaopiskelijoiden tykkäävän tosi paljon vasemmistoliitosta.  Studiossa Salla Vuorikoski, Anna-Sofia",
     "suositukset": [
@@ -10187,7 +10223,11 @@
     "audio_url": "https://episodes.captivate.fm/episode/6d1db8c7-4504-4efb-bbce-3b955a9fd79a.mp3",
     "kesto_sek": 4927,
     "kesto_str": "01:22:07",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Marko keskustelevat Suomen ajautumisesta taloudellisesti hyvin synkkiin vibesiin, kuten nuorisolaiset asiaa nimittävät, ja heillähän tunnelmat ovat kaikkein synkimmät. Lisäksi aiheena Suomen pyristely Palestiinan-tunnustamiskysymyksessä, ja ysäri.</p>",
     "suositukset": [
       {
@@ -11496,7 +11536,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/0bf3c6d4-f6c5-4608-8139-0418fbb3bd7f/URPOD-24-10-22-V2.mp3",
     "kesto_sek": 5084,
     "kesto_str": "01:24:44",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tässä 10v-juhlajaksossa Tuomas, Sohvi ja Marko keskustelevat (lyhyesti Viertola-esitutkinnan valmistumisesta), USA:n vaalitilanteesta ja vaalien mahdollisesta vaikutuksesta USA:n Nato-politiikkaan, eduskunnan työilmapiiristä ja Krista Kiuruun kohdistuvista syytöksistä, sekä tästä podcastista ja sitä edeltäneestä poliittisesta satiirisarjasta, joka täyttää TÄNÄÄN 10 vuotta.</p><p>Uutisraportti p",
     "suositukset": [
       {
@@ -11939,7 +11983,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/663a6ace-f4fb-49b7-a305-7c209abe6e68/1828476363-uutisraportti-2352024-meri-ja-maarajatila-meri-ja-pu.mp3",
     "kesto_sek": 4199,
     "kesto_str": "01:09:59",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Salla ja Sohvi keskustelevat Venäjän pikaisesti alkaneesta ja pikaisesti loppuneesta uhkauksesta siirrellä merirajoja, hallituksen rajalakiesityksestä, Ylen eurovaalipaneeleista ja vasemmistoryhmittymästä Euroopan parlamentissa, sekä Helsingin kaupunkiin kohdistuneesta hakkerihyökkäyksestä, joka oli Suomen suurin.",
     "suositukset": [
       {
@@ -12499,7 +12547,9 @@
     "kesto_sek": 4839,
     "kesto_str": "01:20:39",
     "rss_osallistujat": [
-      "Elli Harju"
+      "Elli Harju",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja vierailemaan tullut politiikan toimittaja Elli Harju keskustelevat hallituksen sisäisistä ristiriidoista, joissa panokset ovat oudot ja epäsuhtaiset: makeiset ja datasalit. </p><p>Lisäksi aiheena viimeisin pakotekierros, johon osallistuivat EU-maat, USA ja Britannia. Erityisesti kiinnostuksen kohteena on ns. Euroclear-kuvio. </p><p>Kolmantena aiheena pr",
     "suositukset": [
@@ -12558,7 +12608,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/b41a973a-40f3-498e-ae19-e9dc5cf12002/URPOD-25-01-23.mp3",
     "kesto_sek": 5287,
     "kesto_str": "01:28:07",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Sohvi ja Marko keskustelevat yksinomaan tällä viikolla alkaneesta Trumpin presidentinvaalikaudesta. Siellä sisällä keskustelua käydään esimerkiksi sekä Trumpin että hänen edeltäjänsä Joe Bidenin armahduksista, Trumpin uudesta kuninkaallisesta roolista, korkeimman oikeuden asemasta Trumpin kaudella, hänen presidentillisistä asetuksistaan. Toinen keskustelu liitty",
     "suositukset": [
       {
@@ -13054,8 +13108,7 @@
     "rss_osallistujat": [
       "Anna-Sofia Berner",
       "Marko Junkkari",
-      "Pekka Mykkänen",
-      "Sohvi Sirkesalo"
+      "Pekka Mykkänen"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa vierailee juuri Israelista palannut ulkomaantoimittaja Pekka Mykkänen. Pekka kertoo haastatteluistaan israelilaisten ja palestiinalaisten kanssa sekä miltä nyt näyttää sillä paikalla, jossa Hamas teki terrori-iskunsa 7. lokakuuta 2023. </p><p>Lisäksi keskustellaan siitä, miten Gazan tilanne ravistelee myös Suomen politiikkaa. Aiheena on myös Anna-Sofia Bernerin torstaina i",
     "suositukset": [
@@ -13947,6 +14000,7 @@
     "kesto_sek": 4687,
     "kesto_str": "01:18:07",
     "rss_osallistujat": [
+      "Hanna Havusto",
       "Maria Manner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -14419,7 +14473,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/0b9b8920-8ecd-4da4-b868-6438d0e325b8/URPOD-25-03-20-v2.mp3",
     "kesto_sek": 5480,
     "kesto_str": "01:31:20",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko ja Salla keskustelevat Ukrainan presidentti Volodymyr Zelenskyin Suomen-vierailusta ja siihen liittyvistä tunnelmista, Trumpin käynnistämästä kauppasodasta ja sen syistä ja seurauksista ja motiiveista, ja persujen maahanmuuttopolitiikan pikkuhiljaa kiristyvästä otteesta, jonka myötä Suomen kansalaisuudesta on tullut jotain joka on \"ansaittava\".</p>",
     "suositukset": [
       {
@@ -14494,7 +14552,9 @@
     "kesto_str": "01:31:37",
     "rss_osallistujat": [
       "Elina Kervinen",
-      "Suvi Turtiainen"
+      "Salla Vuorikoski",
+      "Suvi Turtiainen",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Taas tuli liian pitkä jakso! Anteeksi! Mutta on niin intensiivinen tämä nykyinen aika. Tämän viikon podcastissa Tuomas, Salla, HS:n turvallisuupolitiikkaa seuraava toimittaja Elina Kervinen ja Berliinin-kirjeenvaihtaja Suvi Turtiainen keskustelevat rönsyillen ja vuolaasti ja 1h30min verran siitä kaaosmaisesti kieppuvasta poliittisesta myrskystä joka pyörii ympäri Eurooppaa. Keskustelu alkaa Sak",
     "suositukset": [
@@ -14554,6 +14614,7 @@
     "kesto_sek": 4529,
     "kesto_str": "01:15:29",
     "rss_osallistujat": [
+      "Jussi Niemeläinen",
       "Maria Manner",
       "Marko Junkkari",
       "Pekka Mykkänen",
@@ -15172,7 +15233,10 @@
     "audio_url": "https://podcasts.captivate.fm/media/6ee8844f-9b24-4125-8b91-a13521b21fa1/1812591534-uutisraportti-vornanen-out-oikeusvaltiopaniikki-gaza.mp3",
     "kesto_sek": 4825,
     "kesto_str": "01:20:25",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, Salla ja Anna-Sofia keskustelevat perussuomalaiskansanedustaja Timo Vornasen ammuskelutapauksesta, huolista Suomen oikeusvaltiokehityksen suhteen, ja tulehtuneista Gaza-mielenosoituksista Yhdysvalloissa.",
     "suositukset": [
       {
@@ -15192,7 +15256,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": false,
+        "is_suspicious": true,
         "suosittelija": "Anna-Sofia Berner",
         "teos": "Vieraana omassa talossa – Taavi Törissaaren tarina",
         "paakategoria": "artikkeli",
@@ -15633,7 +15697,11 @@
     "audio_url": "https://episodes.captivate.fm/episode/e4cee621-b96c-4d3d-b7cf-ecb1acfb2f84.mp3",
     "kesto_sek": 5014,
     "kesto_str": "01:23:34",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko ja Sohvi keskustelevat peukusta eli tuttavallisemmin alfa-pvp:stä, joka on noussut kokoaan suuremmaksi mediailmiöksi. Lisäksi keskustellaan Gazan edustalle viime yönä saapuneista avustuslaivoista ja kuullaan pieni raportti paikan päältä, ja viimeisenä keskustellaan taksiuudistuksen uudistuksesta ali app-ekonomian tuhoisuudesta Suomessa.</p>",
     "suositukset": [
       {
@@ -15692,6 +15760,7 @@
     "kesto_sek": 4020,
     "kesto_str": "01:07:00",
     "rss_osallistujat": [
+      "Hanna Havusto",
       "Hanna Mahlamäki",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -15753,7 +15822,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/47947fd1-f016-4e1c-8a0f-bee7cabb9645/1919351471-uutisraportti-1992024-hakulaitehyokkays-libanonissa.mp3",
     "kesto_sek": 4945,
     "kesto_str": "01:22:25",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Marko ja Salla keskustelevat Israelin (todennäköisesti) tekemästä elektroniikkalaittein toteutetusta iskusta Hizbollah-poliitikoihin, brasilialaisia jalkapallonuoria koskevasta HS-selvityksestä, ja perussuomalaisvyörytyksestä joka selvästi on omille viestimistä sen jälkeen, kun puoluetta riepoteltiin hallituksen rasismiohjelman myötä.",
     "suositukset": [
       {
@@ -15874,6 +15947,7 @@
     "kesto_sek": 3244,
     "kesto_str": "54:04",
     "rss_osallistujat": [
+      "Maria Manner",
       "Marko Junkkari",
       "Tuomas Peltomäki"
     ],
@@ -16355,7 +16429,10 @@
     "kesto_sek": 4852,
     "kesto_str": "01:20:52",
     "rss_osallistujat": [
-      "Jussi Niemeläinen"
+      "Anna-Sofia Berner",
+      "Jussi Niemeläinen",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Salla ja Sohvi keskustelevat SDP:n kuumana hehkuvasta kannatuskäyrästä, USA:N kuumana hehkuvista pörssikäyristä ja Suomessa kuumana käytävästä keskustelusta Fatim Diarran, Krista Kiurun ja Jussi Halla-ahon ja heidän kannattajiensa kesken.</p>",
     "suositukset": [
@@ -16541,7 +16618,12 @@
     "audio_url": "https://episodes.captivate.fm/episode/0e9b050a-8e2d-41c1-85db-8fbe5f37ca41.mp3",
     "kesto_sek": 5017,
     "kesto_str": "01:23:37",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Marko, Salla ja Sohvi keskustelevat niistä erilaisista siivuista ja lonkeroista, jotka Charlie Kirkin salamurhasta ovat seuranneet; pitkästä ja surullisesta saagasta Helsingin yliopiston, ruotsalaisen halpiskrääsäketju Rustan ja kirjauppa Sivullisen välillä; ja pääministerin kanslian suunnitelmista ottaa valtioneuvoston viestintä kokonaisuudessaan alleen.</p>",
     "suositukset": [
       {
@@ -17712,7 +17794,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/ae32e1f8-81ad-4839-a448-b0ba7b3455a5/URPOD-24-10-17.mp3",
     "kesto_sek": 5358,
     "kesto_str": "01:29:18",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Salla, Tuomas ja Marko keskustelevat nuuskamauista ja niiden ympärillä käytävästä lobbauskesksutelusta, e-jääkiekkoilija Janne Puhakan surmasta ja P. Diddyn oikeustapauksesta, joka syöksee kokonaisen tiktok-sukupolven folioon.</p>",
     "suositukset": [
       {
@@ -18334,7 +18420,10 @@
     "audio_url": "https://podcasts.captivate.fm/media/88416559-885a-4c5d-b408-38744395ca8e/1823242773-uutisraportti-1652023-slovakialainen-salamurhayritys.mp3",
     "kesto_sek": 4476,
     "kesto_str": "01:14:36",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon jaksossa Tuomas, AKH ja Salla keskustelevat Slovakian pääministeri Robert Ficon salamurhayrityksestä, ajallisesti (henkisesti) samaan aikaan sijoittuneesta poliittisen väkivallan tapauksesta Oulussa, Kööpenhaminassa järjestetystä tilaisuudesta, jossa maailman loordit ja loordittaret päätyivät siihen että Ukrainalle on tarjottava Nato-jäsenyyttä; ja vielä viimeiseksi OpenAI:n viimeisim",
     "suositukset": [
       {
@@ -18881,7 +18970,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/83bb82a1-d14d-4e4e-978e-a3083ace77d3/URPOD-25-01-16.mp3",
     "kesto_sek": 4772,
     "kesto_str": "01:19:32",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Sohvi ja Marko keskustelevat kehittyvästä ja huojentavasta tilanteesta Gazassa, ja arvailevat kumpikohan presidenteistä sen takana on: väistyvä Biden vain muutaman päivän päästä aloittava Trump. Lisäksi aiheina Suomen Nato-kokous ja sen niveltyminen joulupäivänä alkaneeseen Eagle S -saagaan, ja eduskuntaan tehty huumeratsia ja sen suhtautuminen kansanedustajien ",
     "suositukset": [
       {
@@ -19259,10 +19352,10 @@
     "kesto_sek": 4155,
     "kesto_str": "01:09:15",
     "rss_osallistujat": [
+      "Anna-Sofia Berner",
       "Anni Huttunen",
       "Anni Keski-Heikkilä",
-      "Marko Junkkari",
-      "Sohvi Sirkesalo"
+      "Marko Junkkari"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa keskustellaan Gazan epätoivoisesta humanitaarisesta tilanteesta, sodan jatkosta ja siitä, mitä ulkomaailma voi tehdä siviilien hädän helpottamiseksi. Miksi sota Gazassa on medialle vaikeampi aihe kuin sota Ukrainassa?</p><p>Lisäksi aiheena on Suomen datakeskusbuumi ja se, miksi perussuomalaiset ministerit epäilevät Tiktokin datakeskushanketta. Mikä oikeastaan on datakeskus",
     "suositukset": [
@@ -20188,8 +20281,10 @@
     "kesto_sek": 4785,
     "kesto_str": "01:19:45",
     "rss_osallistujat": [
+      "Marko Junkkari",
       "Suvi Turtiainen",
-      "Tommi Nieminen"
+      "Tommi Nieminen",
+      "Tuomas Peltomäki"
     ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko, featuretoimituksesta podcastiin piipahtanut Tommi Nieminen ja puhelimella suoraan Munchenista studioon saapunut Berliinin-kirjeenvaihtaja Suvi Turtiainen keskustelevat vauhdilla etenevästä tilanteesta Ukrainan ympärillä, ja siihen liittyen yllättävästä puhelusta Trumpin ja Putinin välillä, rauhansopimuksen eri elementeistä, Munchenin turvallisuuskonferenssis",
     "suositukset": [
@@ -20813,6 +20908,7 @@
     "kesto_sek": 4708,
     "kesto_str": "01:18:28",
     "rss_osallistujat": [
+      "Hanna Havusto",
       "Hanna Mahlamäki",
       "Salla Vuorikoski",
       "Tuomas Peltomäki"
@@ -21357,7 +21453,12 @@
     "audio_url": "https://podcasts.captivate.fm/media/c388165b-69dc-46af-993b-055c8f4d6989/1915221824-uutisraportti-1292024-trump-vs-harris-yle-leikkaukse.mp3",
     "kesto_sek": 4539,
     "kesto_str": "01:15:39",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Anna-Sofia Berner",
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "Tämän viikon podcastissa Tuomas, Marko, Sohvi ja Salla keskustelevat USA:n presidentinvaalien ensimmäisestä tai tavallaan toisesta väittelystä; Ylen rahoituspäätöksestä, joka nytkähtänee eteenpäin tänään; sekä Ylen ympärillä kuohuvista lukuisista skandaaleista ja niiden merkityksestä. Alussa luvattu eheytyshoitokeskustelu jäi tällä kertaa käymättä, kun aika loppui kesken.",
     "suositukset": [
       {
@@ -21857,7 +21958,11 @@
     "audio_url": "https://podcasts.captivate.fm/media/ab4c94a1-c5bd-42c0-ae33-42f92aff6a9f/URPOD-24-12-12.mp3",
     "kesto_sek": 5515,
     "kesto_str": "01:31:55",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon podcastissa Tuomas, Salla ja Marko keskustelevat alkuun lyhyesti linnan juhlista ja niiden luonteesta, sen jälkeen sote-valiokunnan ympärillä kieppuvasta kriisien vyyhdistä jossa pääasiallinen kieputtaja on podin ystävä Krista Kiuru; ja Syyrian tilanteesta sen jälkeen kun hirmuhallitsija Assad joutui luikkimaan pakoon Venäjälle; ja lopuksi koko maailman seuraamasta murhasta New Yor",
     "suositukset": [
       {
@@ -22620,6 +22725,7 @@
     "kesto_sek": 3709,
     "kesto_str": "01:01:49",
     "rss_osallistujat": [
+      "Maria Manner",
       "Marko Junkkari",
       "Tommi Nieminen",
       "Tuomas Peltomäki"
@@ -22987,6 +23093,7 @@
     "kesto_sek": 5174,
     "kesto_str": "01:26:14",
     "rss_osallistujat": [
+      "Maria Manner",
       "Maria Pettersson",
       "Marko Junkkari",
       "Tuomas Peltomäki"
@@ -23833,7 +23940,11 @@
     "audio_url": "https://episodes.captivate.fm/episode/8c59c939-817f-4936-9dcd-ef4280499fb3.mp3",
     "kesto_sek": 4654,
     "kesto_str": "01:17:34",
-    "rss_osallistujat": [],
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
     "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas, Marko ja Salla keskustelevat poikkeuksellisesta Valkoisen talon vierailusta, jossa presidentit Alexander Stubb ja Donald Trump ja pääministeri Petteri Orpo istuskelivat kuin ystävykset, rennosti vain jäämurtajilla bisnestä tehden; ja Suomea tällä viikolla kuohuttaneesta porno-opesta, ja vielä eduskunnan vaalimasta arvokkaasta käytöksestä.</p>",
     "suositukset": [
       {
