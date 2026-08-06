@@ -79,6 +79,9 @@ Koodarin tekniset commitit:
             tulos = re.sub(r'^```html\s*', '', tulos)
             tulos = re.sub(r'^```\s*', '', tulos)
             tulos = re.sub(r'\s*```$', '', tulos)
+            # Varmistus: emojit pois vaikka malli ohittaisi prompt-säännön
+            tulos = re.sub('[\U0001F000-\U0001FAFF☀-➿️‍⭐⬆⬇]', '', tulos)
+            tulos = re.sub(r'<li>\s+', '<li>', tulos)
             return tulos.strip()
         except Exception as e:
             print(f"  ⚠️ Malli {model_name} epäonnistui: {e}")
