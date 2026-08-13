@@ -1,5 +1,134 @@
 [
   {
+    "id": "cb5898ce-be5b-440b-a7f8-6e5a95d61cc7",
+    "jakso_otsikko": "Ps vs. sdp vs. kok, mopomiitti, Ämpäripää-upon-Clacton",
+    "paivamaara": "13.8.2026",
+    "suositukset": [
+      {
+        "teos": "Tähtäimessä Eichmann",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=T%C3%A4ht%C3%A4imess%C3%A4+Eichmann+Neal+Bascomb",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Hunting+Eichmann+Neal+Bascomb",
+        "kuvaus": "Neal Bascombin tietokirja kertoo Adolf Eichmannista ja siitä, kuinka Mossad kidnappasi hänet Argentiinasta 1960-luvun alussa. Kirja käsittelee myös sitä seurannutta oikeudenkäyntiä.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "historia",
+          "tietokirja",
+          "toinen maailmansota"
+        ]
+      },
+      {
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
+        "kuvaus": "Game of Thronesin esiosasarja, jonka Tuomas Peltomäki sai katsottua loppuun kesän aikana. Hänen mukaansa erittäin hyvä sarja, vaikka ei aivan Game of Thronesin tasolla.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "fantasia",
+          "draama"
+        ]
+      },
+      {
+        "teos": "Works in Progress",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Works+in+Progress+magazine",
+        "lisatieto_linkki": "https://www.worksinprogress.news",
+        "kuvaus": "Jack Dorseyn rahoittama julkaisu, joka tarjoaa mielenkiintoisia, tiedettä sivuavia artikkeleita. Tarkoituksena on inspiroida ihmisiä siihen, mitä tutkimuksella ja ajattelulla voidaan saavuttaa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "tiede",
+          "ajattelu",
+          "verkkolehti"
+        ]
+      },
+      {
+        "teos": "Odysseus",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Odyssey+Christopher+Nolan+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Odyssey+Christopher+Nolan",
+        "kuvaus": "Christopher Nolanin ohjaama elokuva, joka perustuu Homeroksen Odysseiaan. Tuomas Peltomäen mukaan erittäin hyvä elokuva, jossa on muutama erityisen vaikuttava kohtaus.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "toiminta",
+          "seikkailu",
+          "antiikin Kreikka"
+        ]
+      },
+      {
+        "teos": "The Rest Is History – Odysseus-erikoisjaksot",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=The+Rest+Is+History+Odysseus",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History%20Odysseus",
+        "kuvaus": "The Rest Is History -podcastin kaksiosaiset erikoisjaksot, joissa käydään läpi Odysseiaa. Tuomas Peltomäen mukaan erinomaista kuunneltavaa Nolan-elokuvan jälkeen.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "historia",
+          "kirjallisuus",
+          "antiikin Kreikka"
+        ]
+      },
+      {
+        "teos": "Menetetyt miljardit",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit",
+        "kuvaus": "Helsingin Sanomien podcast, joka kertoo Fortumin seikkailusta Venäjällä ja käsittelee vallankäyttöä sekä vastuuta. Salla Vuorikosken mukaan todella hyvä ja huolellisesti tehty teos.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "talous",
+          "valta",
+          "tutkiva journalismi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2e361f9a-e869-448b-b930-1c412452be83",
+    "jakso_otsikko": "Sekava Ceuta, laaduttomat lukukausimaksut, Kesäraportin kyselytunti",
+    "paivamaara": "6.8.2026",
+    "suositukset": [
+      {
+        "teos": "Ensitreffit alttarilla Australia (viime vuoden kausi)",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Ensitreffit+alttarilla+Australia",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Married+at+First+Sight+Australia",
+        "kuvaus": "Reality-sarja, jossa tuntemattomia ihmisiä yhdistetään avioliittoon. Pihla suosittelee viime vuoden Australian kautta pitkien hiljaisuuksien puheenaiheeksi.",
+        "suosittelija": "Pihla Saravirta",
+        "kategoriat": [
+          "reality-tv",
+          "viihde"
+        ]
+      },
+      {
+        "teos": "Love Island UK, kausi 3",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Love+Island+UK+kausi+3",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Island+UK+season+3",
+        "kuvaus": "Pihla kehuu kolmoskauden draamaa ja nokkelia leikkauksia sekä tuotantoa. Hänen mukaansa se on niin hyvä.",
+        "suosittelija": "Pihla Saravirta",
+        "kategoriat": [
+          "reality-tv",
+          "viihde",
+          "draama"
+        ]
+      },
+      {
+        "teos": "The Strokes – The New Abnormal",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=The+Strokes+The+New+Abnormal",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20The%20New%20Abnormal",
+        "kuvaus": "The Strokes julkaisi uuden levyn monen vuoden tauon jälkeen. Topi suosittelee levyä lämpimästi, vaikka se on jakanut mielipiteitä.",
+        "suosittelija": "Topi Kosunen",
+        "kategoriat": [
+          "rock",
+          "indie",
+          "albumi"
+        ]
+      }
+    ]
+  },
+  {
     "id": "e97f2d5c-d446-4afa-a9c8-371a6fbac493",
     "jakso_otsikko": "Bordeaux’n apokalyptinen pilvi, temukotien ruostuvat suihkut, bajamajafestarit",
     "paivamaara": "30.7.2026",

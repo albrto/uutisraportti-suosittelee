@@ -2667,6 +2667,68 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 477,
+    "jakso_id": "2e361f9a-e869-448b-b930-1c412452be83",
+    "jakso_otsikko": "Sekava Ceuta, laaduttomat lukukausimaksut, Kesäraportin kyselytunti",
+    "paivamaara": "6.8.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/2e361f9a-e869-448b-b930-1c412452be83.mp3",
+    "kesto_sek": 4225,
+    "kesto_str": "01:10:25",
+    "rss_osallistujat": [
+      "John Helin",
+      "Pihla Saravirta",
+      "Topi Kosunen",
+      "Tuija Siltamäki"
+    ],
+    "rss_kuvaus": "<p>Uutisraportti-podcastin kesätiimin viimeisessä jaksossa puhutaan Espanjan Ceutaan vyöryneistä tuhansista siirtolaisista sekä tapauksen ympärillä käydystä poliittisesta keskustelusta, jossa väläyteltiin Espanjan erottamista vapaan liikkuvuuden Schengen-alueesta.</p><p>Monimutkaisten geopoliittisten tapahtumien lisäksi studiossa keskustellaan myös jatkuvasti esillä olevista korkeakoulujen lukukau",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Ensitreffit alttarilla Australia (viime vuoden kausi)",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "reality-tv",
+          "viihde"
+        ],
+        "kuvaus": "Reality-sarja, jossa tuntemattomia ihmisiä yhdistetään avioliittoon. Pihla suosittelee viime vuoden Australian kautta pitkien hiljaisuuksien puheenaiheeksi.",
+        "google_linkki": "https://www.google.com/search?q=Ensitreffit+alttarilla+Australia",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Married+at+First+Sight+Australia"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Pihla Saravirta",
+        "teos": "Love Island UK, kausi 3",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "reality-tv",
+          "viihde",
+          "draama"
+        ],
+        "kuvaus": "Pihla kehuu kolmoskauden draamaa ja nokkelia leikkauksia sekä tuotantoa. Hänen mukaansa se on niin hyvä.",
+        "google_linkki": "https://www.google.com/search?q=Love+Island+UK+kausi+3",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Love+Island+UK+season+3"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Topi Kosunen",
+        "teos": "The Strokes – The New Abnormal",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "rock",
+          "indie",
+          "albumi"
+        ],
+        "kuvaus": "The Strokes julkaisi uuden levyn monen vuoden tauon jälkeen. Topi suosittelee levyä lämpimästi, vaikka se on jakanut mielipiteitä.",
+        "google_linkki": "https://www.google.com/search?q=The+Strokes+The+New+Abnormal",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20The%20New%20Abnormal"
+      }
+    ]
+  },
+  {
     "j_idx": 145,
     "jakso_id": "tag:soundcloud,2010:tracks/871160479",
     "jakso_otsikko": "6.8.2020: Koronaviruksen toinen aalto Suomessa, Libanonin tilanne ja kuuntelijoiden kysymyksiä",
@@ -20778,6 +20840,108 @@ window.VALIDATION_DATA = [
         "kuvaus": "Adam Curtisin dokumenttisarja kuvaa, miten lännen uuskonservatismi ja radikaali islam lähtivät liikkeelle samasta pisteestä 1950-luvun Chicagosta. Sarja seuraa aatteiden leviämistä ympäri maailmaa aina 9/11-iskuihin asti.",
         "google_linkki": "https://www.google.com/search?q=The+Power+of+Nightmares+Adam+Curtis",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=The+Power+of+Nightmares"
+      }
+    ]
+  },
+  {
+    "j_idx": 478,
+    "jakso_id": "cb5898ce-be5b-440b-a7f8-6e5a95d61cc7",
+    "jakso_otsikko": "Ps vs. sdp vs. kok, mopomiitti, Ämpäripää-upon-Clacton",
+    "paivamaara": "13.8.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/cb5898ce-be5b-440b-a7f8-6e5a95d61cc7.mp3",
+    "kesto_sek": 5214,
+    "kesto_str": "01:26:54",
+    "rss_osallistujat": [],
+    "rss_kuvaus": "<p>Tämän viikon podcastissa keskustellaan kesän jälkeen käynnistyvästä poliittisesta taktisesta kilvoittelusta, jonka osapuolina ovat perussuomalaisten Mauri Peltokangas, sdp:n puheenjohtaja Antti Lindtman ja pääministeri Petteri Orpo. Lisäksi aiheina Tuusulan mopomiitti ja poliisin toiminta, sekä Clactonin täytevaalit Britanniassa.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Tähtäimessä Eichmann",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historia",
+          "tietokirja",
+          "toinen maailmansota"
+        ],
+        "kuvaus": "Neal Bascombin tietokirja kertoo Adolf Eichmannista ja siitä, kuinka Mossad kidnappasi hänet Argentiinasta 1960-luvun alussa. Kirja käsittelee myös sitä seurannutta oikeudenkäyntiä.",
+        "google_linkki": "https://www.google.com/search?q=T%C3%A4ht%C3%A4imess%C3%A4+Eichmann+Neal+Bascomb",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Hunting+Eichmann+Neal+Bascomb"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "draama"
+        ],
+        "kuvaus": "Game of Thronesin esiosasarja, jonka Tuomas Peltomäki sai katsottua loppuun kesän aikana. Hänen mukaansa erittäin hyvä sarja, vaikka ei aivan Game of Thronesin tasolla.",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Works in Progress",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "tiede",
+          "ajattelu",
+          "verkkolehti"
+        ],
+        "kuvaus": "Jack Dorseyn rahoittama julkaisu, joka tarjoaa mielenkiintoisia, tiedettä sivuavia artikkeleita. Tarkoituksena on inspiroida ihmisiä siihen, mitä tutkimuksella ja ajattelulla voidaan saavuttaa.",
+        "google_linkki": "https://www.google.com/search?q=Works+in+Progress+magazine",
+        "lisatieto_linkki": "https://www.worksinprogress.news"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Odysseus",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "toiminta",
+          "seikkailu",
+          "antiikin Kreikka"
+        ],
+        "kuvaus": "Christopher Nolanin ohjaama elokuva, joka perustuu Homeroksen Odysseiaan. Tuomas Peltomäen mukaan erittäin hyvä elokuva, jossa on muutama erityisen vaikuttava kohtaus.",
+        "google_linkki": "https://www.google.com/search?q=Odyssey+Christopher+Nolan+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Odyssey+Christopher+Nolan"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Rest Is History – Odysseus-erikoisjaksot",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "historia",
+          "kirjallisuus",
+          "antiikin Kreikka"
+        ],
+        "kuvaus": "The Rest Is History -podcastin kaksiosaiset erikoisjaksot, joissa käydään läpi Odysseiaa. Tuomas Peltomäen mukaan erinomaista kuunneltavaa Nolan-elokuvan jälkeen.",
+        "google_linkki": "https://www.google.com/search?q=The+Rest+Is+History+Odysseus",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Rest%20Is%20History%20Odysseus"
+      },
+      {
+        "r_idx": 5,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Menetetyt miljardit",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "valta",
+          "tutkiva journalismi"
+        ],
+        "kuvaus": "Helsingin Sanomien podcast, joka kertoo Fortumin seikkailusta Venäjällä ja käsittelee vallankäyttöä sekä vastuuta. Salla Vuorikosken mukaan todella hyvä ja huolellisesti tehty teos.",
+        "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit"
       }
     ]
   },
