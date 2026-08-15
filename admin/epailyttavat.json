@@ -2715,16 +2715,45 @@
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Topi Kosunen",
-        "teos": "The Strokes – The New Abnormal",
+        "teos": "The Strokes – Reality Awaits",
         "paakategoria": "musiikki",
         "kategoriat": [
           "rock",
           "indie",
           "albumi"
         ],
-        "kuvaus": "The Strokes julkaisi uuden levyn monen vuoden tauon jälkeen. Topi suosittelee levyä lämpimästi, vaikka se on jakanut mielipiteitä.",
-        "google_linkki": "https://www.google.com/search?q=The+Strokes+The+New+Abnormal",
-        "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20The%20New%20Abnormal"
+        "kuvaus": "The Strokes julkaisi Reality Awaits -levyn kuuden vuoden tauon jälkeen. Topi suosittelee levyä lämpimästi, vaikka se on jakanut mielipiteitä muun muassa Julian Casablancasin käytöksen vuoksi. DM:t ovat auki levykeskustelulle.",
+        "google_linkki": "https://www.google.com/search?q=The+Strokes+Reality+Awaits",
+        "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20Reality%20Awaits"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuija Siltamäki",
+        "teos": "Ile Vainion loppukesän hiljaisuus",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "huumori",
+          "julkisuus"
+        ],
+        "kuvaus": "Tuija Siltamäen toivesuositus: Ile Vainio olisi loppukesän hiljaa. Taustalla Vainion ylinopeussakoista poikinut, sittemmin poistettu Facebook-päivitys liikennevalvonnan johtajasta Dennis Pastersteinista sekä podcast-puheet mieskunnosta.",
+        "google_linkki": "https://www.google.com/search?q=Ile+Vainio+Dennis+Pasterstein",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ile+Vainio+ylinopeus+K%C3%A4pyl%C3%A4"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "John Helin",
+        "teos": "Tikanheitto, lautapelit ja syvälliset keskustelut ystävien kanssa",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "vapaa-aika",
+          "ystävyys",
+          "mökkeily"
+        ],
+        "kuvaus": "John Helin suosittelee mökkiviikonlopun ohjelmaa: tikanheittoa, lautapelejä poikien kanssa sekä miehisiä keskusteluja sielun syvimmistä asioista. Puhukaa ystävienne kanssa vaikeistakin asioista – se on hienoa.",
+        "google_linkki": "https://www.google.com/search?q=tikanheitto+lautapelit+m%C3%B6kkeily",
+        "lisatieto_linkki": "https://www.google.com/search?q=lautapelit+suositukset"
       }
     ]
   },
@@ -9936,7 +9965,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Johnn Helin",
+        "suosittelija": "John Helin",
         "teos": "Ursan Aurinkokuntamalli",
         "paakategoria": "kulttuuri",
         "kategoriat": [
@@ -20942,6 +20971,36 @@
         "kuvaus": "Helsingin Sanomien podcast, joka kertoo Fortumin seikkailusta Venäjällä ja käsittelee vallankäyttöä sekä vastuuta. Salla Vuorikosken mukaan todella hyvä ja huolellisesti tehty teos.",
         "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Fortum",
         "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit"
+      },
+      {
+        "r_idx": 6,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "havainto",
+          "ystävällisyys",
+          "arki"
+        ],
+        "kuvaus": "Polven hiusmurtuman vuoksi kuukauden kainalosauvoilla liikkunut Marko Junkkari havaitsi, miten kilttejä ja avuliaita ihmiset – etenkin nuoret – ovat: metroaseman ovia pidetään auki ja kahvilassa kuppi kannetaan pöytään. Usko ihmisen hyvyyteen palasi.",
+        "google_linkki": "https://www.google.com/search?q=kainalosauvat",
+        "lisatieto_linkki": "https://www.google.com/search?q=polven+hiusmurtuma+kainalosauvat"
+      },
+      {
+        "r_idx": 7,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Alt Shift X – House of the Dragon -jaksoanalyysit",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "youtube",
+          "fantasia",
+          "jaksoanalyysi"
+        ],
+        "kuvaus": "Tuomas Peltomäki vaihtoi House of the Dragon -jaksokeskustelunsa Alt Shift X -tubettajan jaksoanalyyseihin. Kauden finaalin analyysi kesti viisi ja puoli tuntia – Peltomäen mukaan kannattaa ehdottomasti kuunnella.",
+        "google_linkki": "https://www.google.com/search?q=Alt+Shift+X+House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.youtube.com/@AltShiftX"
       }
     ]
   },
