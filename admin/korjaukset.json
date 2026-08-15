@@ -160,5 +160,35 @@
         "journalismi"
       ]
     }
+  },
+  {
+    "jakso_id": "2e361f9a-e869-448b-b930-1c412452be83",
+    "jakso_otsikko": "Sekava Ceuta, laaduttomat lukukausimaksut, Kesäraportin kyselytunti",
+    "paivamaara": "6.8.2026",
+    "r_idx": 2,
+    "teos": "The Strokes – The New Abnormal",
+    "uusi_data": {
+      "teos": "The Strokes – Reality Awaits",
+      "suosittelija": "Topi Kosunen",
+      "kuvaus": "The Strokes julkaisi Reality Awaits -levyn kuuden vuoden tauon jälkeen. Topi suosittelee levyä lämpimästi, vaikka se on jakanut mielipiteitä muun muassa Julian Casablancasin käytöksen vuoksi. DM:t ovat auki levykeskustelulle.",
+      "paakategoria": "musiikki",
+      "google_linkki": "https://www.google.com/search?q=The+Strokes+Reality+Awaits",
+      "lisatieto_linkki": "https://open.spotify.com/search/The%20Strokes%20Reality%20Awaits",
+      "kategoriat": [
+        "rock",
+        "indie",
+        "albumi"
+      ]
+    }
+  },
+  {
+    "jakso_id": "5ae70b59-55ee-4a4e-9cf2-290640c7a9b8",
+    "jakso_otsikko": "Trumpin nuoleskelu, Ruotsi vie kaiken, maanantailorvinta",
+    "paivamaara": "26.6.2025",
+    "r_idx": 1,
+    "teos": "Ursan Aurinkokuntamalli",
+    "uusi_data": {
+      "suosittelija": "John Helin"
+    }
   }
 ]

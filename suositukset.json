@@ -80,6 +80,32 @@
           "valta",
           "tutkiva journalismi"
         ]
+      },
+      {
+        "teos": "Kainalosauvat (ja ihmisten ystävällisyys)",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=kainalosauvat",
+        "lisatieto_linkki": "https://www.google.com/search?q=polven+hiusmurtuma+kainalosauvat",
+        "kuvaus": "Polven hiusmurtuman vuoksi kuukauden kainalosauvoilla liikkunut Marko Junkkari havaitsi, miten kilttejä ja avuliaita ihmiset – etenkin nuoret – ovat: metroaseman ovia pidetään auki ja kahvilassa kuppi kannetaan pöytään. Usko ihmisen hyvyyteen palasi.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "havainto",
+          "ystävällisyys",
+          "arki"
+        ]
+      },
+      {
+        "teos": "Alt Shift X – House of the Dragon -jaksoanalyysit",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Alt+Shift+X+House+of+the+Dragon",
+        "lisatieto_linkki": "https://www.youtube.com/@AltShiftX",
+        "kuvaus": "Tuomas Peltomäki vaihtoi House of the Dragon -jaksokeskustelunsa Alt Shift X -tubettajan jaksoanalyyseihin. Kauden finaalin analyysi kesti viisi ja puoli tuntia – Peltomäen mukaan kannattaa ehdottomasti kuunnella.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "youtube",
+          "fantasia",
+          "jaksoanalyysi"
+        ]
       }
     ]
   },
@@ -124,6 +150,31 @@
           "rock",
           "indie",
           "albumi"
+        ]
+      },
+      {
+        "teos": "Ile Vainion loppukesän hiljaisuus",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Ile+Vainio+Dennis+Pasterstein",
+        "lisatieto_linkki": "https://www.google.com/search?q=Ile+Vainio+ylinopeus+K%C3%A4pyl%C3%A4",
+        "kuvaus": "Tuija Siltamäen toivesuositus: Ile Vainio olisi loppukesän hiljaa. Taustalla Vainion ylinopeussakoista poikinut, sittemmin poistettu Facebook-päivitys liikennevalvonnan johtajasta Dennis Pastersteinista sekä podcast-puheet mieskunnosta.",
+        "suosittelija": "Tuija Siltamäki",
+        "kategoriat": [
+          "huumori",
+          "julkisuus"
+        ]
+      },
+      {
+        "teos": "Tikanheitto, lautapelit ja syvälliset keskustelut ystävien kanssa",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=tikanheitto+lautapelit+m%C3%B6kkeily",
+        "lisatieto_linkki": "https://www.google.com/search?q=lautapelit+suositukset",
+        "kuvaus": "John Helin suosittelee mökkiviikonlopun ohjelmaa: tikanheittoa, lautapelejä poikien kanssa sekä miehisiä keskusteluja sielun syvimmistä asioista. Puhukaa ystävienne kanssa vaikeistakin asioista – se on hienoa.",
+        "suosittelija": "John Helin",
+        "kategoriat": [
+          "vapaa-aika",
+          "ystävyys",
+          "mökkeily"
         ]
       }
     ]
