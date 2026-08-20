@@ -14175,6 +14175,83 @@
     ]
   },
   {
+    "j_idx": 479,
+    "jakso_id": "ab9178df-9e1b-4865-aeac-e421b2f7587c",
+    "jakso_otsikko": "Orpon Valmet-ongelma, demarien Tanska-linja, Menetetyt miljardit",
+    "paivamaara": "20.8.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/ab9178df-9e1b-4865-aeac-e421b2f7587c.mp3",
+    "kesto_sek": 4961,
+    "kesto_str": "01:22:41",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Salla Vuorikoski, Marko Junkkari ja Tuomas Peltomäki keskustelevat politiikan kesäjuhlaviikoista, ja varsinkin pääministeri Petteri Orpon ympärillä leijuvista suhmurointi–korruptiosyytelmistä, sekä Sdp:n uudesta tanskalaisemmasta maahanmuuttolinjasta. Lisäksi keskustellaan Tuomaksen uudesta Menetetyt miljardit -podcastista.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Kiinnostuksen vyöhyke (Zone of Interest)",
+        "paakategoria": "elokuva",
+        "kategoriat": [
+          "historia",
+          "holokausti",
+          "draama"
+        ],
+        "kuvaus": "Vuoden 2023 elokuva, joka kuvaa Auschwitzin komentaja Rudolf Hössin kotielämää leirin aidan vieressä. Vaikuttava ja pysäyttävä teos pahuuden arkipäiväisyydestä.",
+        "google_linkki": "https://www.google.com/search?q=Zone+of+Interest+2023+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Zone+of+Interest"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "fantasia",
+          "jaksoselostukset",
+          "draama"
+        ],
+        "kuvaus": "Salla kertoo katsoneensa sarjan jaksoselostuksia apuna käyttäen, mikä avasi sarjan ihan eri tavalla – erityisesti kauden viimeinen jakso avautui paremmin.",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "sosiologia",
+          "politiikka",
+          "historia"
+        ],
+        "kuvaus": "Yalen sosiologian professori James C. Scottin kirja siitä, miten valtiot pyrkivät hallinnolliseen selkeyteen ja pakottavat sen yhteiskuntaan – sukunimistä metsänhoitoon ja pad thai -reseptiin.",
+        "google_linkki": "https://www.google.com/search?q=Seeing+Like+a+State+James+Scott",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Seeing+Like+a+State+James+Scott"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Menetetyt miljardit",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "talous",
+          "journalismi",
+          "Suomi"
+        ],
+        "kuvaus": "Tuomas Peltomäen uusi podcast, joka käsittelee Fortumin ja Uniperin kauppaa sekä laajemmin suomalaisen bisneseliitin vastuukysymyksiä. Kuunneltavissa ilmaiseksi Helsingin Sanomien sovelluksessa.",
+        "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Tuomas+Peltomäki",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit"
+      }
+    ]
+  },
+  {
     "j_idx": 147,
     "jakso_id": "tag:soundcloud,2010:tracks/879031654",
     "jakso_otsikko": "20.8.2020: Unohdettu ilmastonmuutos, Jenkkien vaalit ja Valko-Venäjä vielä kerran",

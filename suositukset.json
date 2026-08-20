@@ -1,5 +1,64 @@
 [
   {
+    "id": "ab9178df-9e1b-4865-aeac-e421b2f7587c",
+    "jakso_otsikko": "Orpon Valmet-ongelma, demarien Tanska-linja, Menetetyt miljardit",
+    "paivamaara": "20.8.2026",
+    "suositukset": [
+      {
+        "teos": "Kiinnostuksen vyöhyke (Zone of Interest)",
+        "paakategoria": "elokuva",
+        "google_linkki": "https://www.google.com/search?q=Zone+of+Interest+2023+elokuva",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Zone+of+Interest",
+        "kuvaus": "Vuoden 2023 elokuva, joka kuvaa Auschwitzin komentaja Rudolf Hössin kotielämää leirin aidan vieressä. Vaikuttava ja pysäyttävä teos pahuuden arkipäiväisyydestä.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "historia",
+          "holokausti",
+          "draama"
+        ]
+      },
+      {
+        "teos": "House of the Dragon",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=House+of+the+Dragon+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=House+of+the+Dragon",
+        "kuvaus": "Salla kertoo katsoneensa sarjan jaksoselostuksia apuna käyttäen, mikä avasi sarjan ihan eri tavalla – erityisesti kauden viimeinen jakso avautui paremmin.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "fantasia",
+          "jaksoselostukset",
+          "draama"
+        ]
+      },
+      {
+        "teos": "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Seeing+Like+a+State+James+Scott",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Seeing+Like+a+State+James+Scott",
+        "kuvaus": "Yalen sosiologian professori James C. Scottin kirja siitä, miten valtiot pyrkivät hallinnolliseen selkeyteen ja pakottavat sen yhteiskuntaan – sukunimistä metsänhoitoon ja pad thai -reseptiin.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "sosiologia",
+          "politiikka",
+          "historia"
+        ]
+      },
+      {
+        "teos": "Menetetyt miljardit",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Menetetyt+miljardit+podcast+Tuomas+Peltomäki",
+        "lisatieto_linkki": "https://open.spotify.com/search/Menetetyt%20miljardit",
+        "kuvaus": "Tuomas Peltomäen uusi podcast, joka käsittelee Fortumin ja Uniperin kauppaa sekä laajemmin suomalaisen bisneseliitin vastuukysymyksiä. Kuunneltavissa ilmaiseksi Helsingin Sanomien sovelluksessa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "talous",
+          "journalismi",
+          "Suomi"
+        ]
+      }
+    ]
+  },
+  {
     "id": "cb5898ce-be5b-440b-a7f8-6e5a95d61cc7",
     "jakso_otsikko": "Ps vs. sdp vs. kok, mopomiitti, Ämpäripää-upon-Clacton",
     "paivamaara": "13.8.2026",
