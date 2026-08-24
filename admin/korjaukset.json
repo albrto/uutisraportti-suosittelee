@@ -190,5 +190,27 @@
     "uusi_data": {
       "suosittelija": "John Helin"
     }
+  },
+  {
+    "jakso_id": "ab9178df-9e1b-4865-aeac-e421b2f7587c",
+    "jakso_otsikko": "Orpon Valmet-ongelma, demarien Tanska-linja, Menetetyt miljardit",
+    "paivamaara": "20.8.2026",
+    "r_idx": 0,
+    "teos": "Kiinnostuksen vyöhyke (Zone of Interest)",
+    "uusi_data": {
+      "suosittelija": "Salla Vuorikoski",
+      "kuvaus": "Vuoden 2023 elokuva, joka kuvaa Auschwitzin komentaja Rudolf Hössin kotielämää leirin aidan vieressä. Sallan mukaan maagisesti rakennettu, vaikuttava ja pysäyttävä elokuva pahuuden arkipäiväisyydestä."
+    }
+  },
+  {
+    "jakso_id": "ab9178df-9e1b-4865-aeac-e421b2f7587c",
+    "jakso_otsikko": "Orpon Valmet-ongelma, demarien Tanska-linja, Menetetyt miljardit",
+    "paivamaara": "20.8.2026",
+    "r_idx": 1,
+    "teos": "House of the Dragon",
+    "uusi_data": {
+      "suosittelija": "Marko Junkkari",
+      "kuvaus": "Marko katsoi sarjan Tuomaksen viime viikon suosituksen innoittamana ja kertoo kirjallisten jaksoselostusten avanneen sarjan ihan eri tavalla – erityisesti kauden viimeinen jakso aukesi paremmin."
+    }
   }
 ]
