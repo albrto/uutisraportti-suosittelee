@@ -853,7 +853,7 @@
         "google_linkki": "https://www.google.com/search?q=El%C3%A4m%C3%A4ni+ilman+sinua+Lotta+Lehtikari+Anna+Pihlajaniemi",
         "lisatieto_linkki": "https://www.goodreads.com/search?q=El%C3%A4m%C3%A4ni+ilman+sinua",
         "kuvaus": "Näyttelijä Lotta Lehtikarin ja Anna Pihlajaniemen yhdessä kirjoittama teos, joka kertoo siitä, kuinka Lehtikarin sisko ja äiti ovat molemmat päätyneet itsemurhaan. Koskettava ja surullinen kirja selviytymisestä ja elämästä eteenpäin.",
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Hanna Mahlamäki",
         "kategoriat": [
           "omaelämäkerta",
           "mielenterveys",
@@ -874,16 +874,16 @@
         ]
       },
       {
-        "teos": "Hell or High Water",
-        "paakategoria": "elokuva",
-        "google_linkki": "https://www.google.com/search?q=Hell+or+High+Water+2016+elokuva",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hell+or+High+Water",
-        "kuvaus": "Lännenelokuva veljesparista, joka yrittää pelastaa äitinsä farmin ahneelta pankilta. Mukana myös Texas Ranger, joka lähtee heitä jäljittämään.",
+        "teos": "Cineast",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Cineast+kirjasto+suoratoistopalvelu",
+        "lisatieto_linkki": "https://www.cineast.fi",
+        "kuvaus": "Pohjoismaisten kirjastojen yhteinen elokuvien suoratoistopalvelu, josta voi katsoa neljä elokuvaa kuukaudessa ilmaiseksi kirjastokortilla. Tuomas katsoi palvelusta mm. lännenelokuvan Hell or High Water — varsinainen suositus on itse palvelu.",
         "suosittelija": "Tuomas Peltomäki",
         "kategoriat": [
-          "lännenelokuva",
-          "rikos",
-          "Texas"
+          "kirjasto",
+          "suoratoisto",
+          "elokuvat"
         ]
       }
     ]
@@ -1155,7 +1155,7 @@
         "google_linkki": "https://www.google.com/search?q=Good+Hang+with+Amy+Poehler+podcast",
         "lisatieto_linkki": "https://open.spotify.com/search/Good%20Hang%20with%20Amy%20Poehler",
         "kuvaus": "Amy Poehlerin podcast, jossa hän juttelee vanhojen ystävien ja kollegoiden kanssa. Jussi kuunteli jakson, jossa vieraana oli Steve Carell, ja hekotteli lenkillä.",
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Salla Vuorikoski",
         "kategoriat": [
           "komedia",
           "viihde",
@@ -1168,7 +1168,7 @@
         "google_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "lisatieto_linkki": "https://www.google.com/search?q=Fiasconaro+pistaasilevite",
         "kuvaus": "Fiasconaaron pistaasilevite, jonka Salla kehuu parhaaksi. Myös Amazonilta löytyy hyvä vaihtoehto.",
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
           "herkku",
           "italialainen",
@@ -1176,15 +1176,15 @@
         ]
       },
       {
-        "teos": "Taskmaster (Britannia)",
+        "teos": "LOL: Last One Laughing UK",
         "paakategoria": "tv-sarja",
-        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+TV+show",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK",
-        "kuvaus": "Brittiläinen komediasarja, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Toinen kausi on paraikaa käynnissä Amazonilla, juontajana Jim Carr ja mukana mm. David Mitchell.",
-        "suosittelija": "Tuomas Peltomäki",
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+UK",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing+UK",
+        "kuvaus": "Brittiläinen komediakilpailu, jossa koomikot yrittävät saada toisensa nauramaan pysyen itse vakavina. Jussin suositus — datassa oli aiemmin virheellisesti Taskmaster.",
+        "suosittelija": "Jussi Niemeläinen",
         "kategoriat": [
           "komedia",
-          "brittiläinen",
+          "kilpailu",
           "viihde"
         ]
       },
@@ -3053,7 +3053,7 @@
         "google_linkki": "https://www.google.com/search?q=Murdle+peli",
         "lisatieto_linkki": "https://murdle.com",
         "kuvaus": "Päivittäin vaihtuva logiikkapähkinäpeli, jossa annettujen vihjeiden pohjalta pitää selvittää murhaaja. Tehtävät vaikeutuvat viikon mittaan maanantaista sunnuntaihin.",
-        "suosittelija": "Hanna Havunen",
+        "suosittelija": "Hanna Havusto",
         "kategoriat": [
           "mobiilipeli",
           "logiikkapeli",
@@ -18252,7 +18252,7 @@
         "google_linkki": "https://www.google.com/search?q=Silta+tv-sarja+ruotsalainen",
         "lisatieto_linkki": "https://www.imdb.com/find/?q=Broen+Broen+The+Bridge",
         "kuvaus": "Ruotsalais-tanskalainen pohjoismainen rikossarja, jonka avausjakso herätti ristiriitaisia tunteita me too -syksyn jälkeen. Kiinnostava katsoa mihin se menee.",
-        "suosittelija": "Anu Koivonen",
+        "suosittelija": "Anu Koivunen",
         "kategoriat": [
           "pohjoismainen noir",
           "rikossarja",

@@ -1517,7 +1517,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Unto Hämäläinen",
         "teos": "Jaakko Teppo – elämäkerta",
         "paakategoria": "kirja",
@@ -1532,7 +1532,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Unto Hämäläinen",
         "teos": "Harry Potter -kirjasarja",
         "paakategoria": "kirja",
@@ -1575,7 +1575,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Juha Kauppinen",
         "teos": "Iivisniemen pesänjakajat",
         "paakategoria": "artikkeli",
@@ -5176,8 +5176,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Anu Koivonen",
+        "is_suspicious": false,
+        "suosittelija": "Anu Koivunen",
         "teos": "Silta",
         "paakategoria": "tv-sarja",
         "kategoriat": [
@@ -15536,7 +15536,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Jussi Niemeläinen",
+        "suosittelija": "Salla Vuorikoski",
         "teos": "Good Hang with Amy Poehler",
         "paakategoria": "podcast",
         "kategoriat": [
@@ -15551,7 +15551,7 @@
       {
         "r_idx": 1,
         "is_suspicious": false,
-        "suosittelija": "Salla Vuorikoski",
+        "suosittelija": "Jussi Niemeläinen",
         "teos": "Pistaasilevite (Fiasconaro)",
         "paakategoria": "ruoka",
         "kategoriat": [
@@ -15566,17 +15566,32 @@
       {
         "r_idx": 2,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
-        "teos": "Taskmaster (Britannia)",
+        "suosittelija": "Jussi Niemeläinen",
+        "teos": "LOL: Last One Laughing UK",
         "paakategoria": "tv-sarja",
         "kategoriat": [
           "komedia",
-          "brittiläinen",
+          "kilpailu",
           "viihde"
         ],
-        "kuvaus": "Brittiläinen komediasarja, jossa kymmenen koomikkoa yrittää saada toisensa nauramaan pysyen itse vakavana. Toinen kausi on paraikaa käynnissä Amazonilla, juontajana Jim Carr ja mukana mm. David Mitchell.",
-        "google_linkki": "https://www.google.com/search?q=Taskmaster+UK+TV+show",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Taskmaster+UK"
+        "kuvaus": "Brittiläinen komediakilpailu, jossa koomikot yrittävät saada toisensa nauramaan pysyen itse vakavina. Jussin suositus — datassa oli aiemmin virheellisesti Taskmaster.",
+        "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+UK",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing+UK"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Uutisrapsa.fi",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "verkkosivu",
+          "kuuntelijaprojekti",
+          "meta"
+        ],
+        "kuvaus": "Kuuntelijan vibe-koodaama sivusto, joka kokoaa Uutisraportin suositukset yhteen paikkaan. Tuomaksen suositus — eli juuri se sivusto, jolla luet tätä.",
+        "google_linkki": "https://www.google.com/search?q=uutisrapsa.fi",
+        "lisatieto_linkki": "https://uutisrapsa.fi"
       }
     ]
   },
@@ -17709,8 +17724,8 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
-        "suosittelija": "Hanna Havunen",
+        "is_suspicious": false,
+        "suosittelija": "Hanna Havusto",
         "teos": "Murdle",
         "paakategoria": "muu",
         "kategoriat": [
@@ -18122,7 +18137,7 @@
     "suositukset": [
       {
         "r_idx": 0,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Maija-Riitta Ollila",
         "teos": "Making Sense with Sam Harris",
         "paakategoria": "podcast",
@@ -21205,7 +21220,7 @@
       {
         "r_idx": 0,
         "is_suspicious": false,
-        "suosittelija": "Tuomas Peltomäki",
+        "suosittelija": "Hanna Mahlamäki",
         "teos": "Elämäni ilman sinua",
         "paakategoria": "kirja",
         "kategoriat": [
@@ -21236,16 +21251,16 @@
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Hell or High Water",
-        "paakategoria": "elokuva",
+        "teos": "Cineast",
+        "paakategoria": "muu",
         "kategoriat": [
-          "lännenelokuva",
-          "rikos",
-          "Texas"
+          "kirjasto",
+          "suoratoisto",
+          "elokuvat"
         ],
-        "kuvaus": "Lännenelokuva veljesparista, joka yrittää pelastaa äitinsä farmin ahneelta pankilta. Mukana myös Texas Ranger, joka lähtee heitä jäljittämään.",
-        "google_linkki": "https://www.google.com/search?q=Hell+or+High+Water+2016+elokuva",
-        "lisatieto_linkki": "https://www.imdb.com/find/?q=Hell+or+High+Water"
+        "kuvaus": "Pohjoismaisten kirjastojen yhteinen elokuvien suoratoistopalvelu, josta voi katsoa neljä elokuvaa kuukaudessa ilmaiseksi kirjastokortilla. Tuomas katsoi palvelusta mm. lännenelokuvan Hell or High Water — varsinainen suositus on itse palvelu.",
+        "google_linkki": "https://www.google.com/search?q=Cineast+kirjasto+suoratoistopalvelu",
+        "lisatieto_linkki": "https://www.cineast.fi"
       }
     ]
   },
@@ -24294,7 +24309,7 @@
       },
       {
         "r_idx": 1,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Taru Tujunen",
         "teos": "Kaikkien vitsausten ruhtinas: Syövän elämäkerta",
         "paakategoria": "kirja",
@@ -24309,7 +24324,7 @@
       },
       {
         "r_idx": 2,
-        "is_suspicious": true,
+        "is_suspicious": false,
         "suosittelija": "Taru Tujunen",
         "teos": "The Gene: An Intimate History",
         "paakategoria": "kirja",
