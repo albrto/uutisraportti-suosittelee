@@ -213,10 +213,16 @@ def main():
             
             # Tarkistetaan onko tämä suositus epäilyttävä
             is_suspicious = False
-            if rss_osallistujat and suosittelija:
-                if not loytyy(suosittelija, rss_osallistujat):
-                    if (jakso_id, r_idx) not in ohitukset_set:
-                        is_suspicious = True
+            if suosittelija:
+                if rss_osallistujat and not loytyy(suosittelija, rss_osallistujat):
+                    is_suspicious = True
+                # Tarkan kirjoitusasun invariantti: lähes oikea nimi (esim.
+                # "Johnn Helin") ei saa mennä loytyy():n sukunimiosuman turvin
+                # läpi — kaikki muut kuin täsmälleen tunnetut nimet liputetaan.
+                if suosittelija != "tuntematon" and suosittelija not in TUNNETUT_NIMET:
+                    is_suspicious = True
+                if is_suspicious and (jakso_id, r_idx) in ohitukset_set:
+                    is_suspicious = False
             
             # Lisää kaikki suositukset listaan (oli ne epäilyttäviä tai ei)
             # Rajoitetaan määrää hieman jos satoja, mutta tässä otetaan kaikki

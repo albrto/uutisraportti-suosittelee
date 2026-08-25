@@ -1,3 +1,4 @@
+import difflib
 import feedparser
 import requests
 import os
@@ -6,7 +7,7 @@ import json
 from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
-from generoi_validointidata import poimi_osallistujat_rss
+from generoi_validointidata import poimi_osallistujat_rss, TUNNETUT_NIMET
 
 load_dotenv(override=True)
 
@@ -14,6 +15,7 @@ load_dotenv(override=True)
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 LATAA_MÄÄRÄ = 421
 LEIKKAUS_SEKUNTIA = 1200  # Viimeiset 20 min
+ALKU_SEKUNTIA = 300  # Ensimmäiset 5 min — esittelykierros voi alkaa vasta ~3 min kohdalla (alun mainokset, aiheet ennen esittelyjä)
 TULOS_TIEDOSTO = "suositukset.json"
 HISTORIA_TIEDOSTO = "historia_json.txt"
 TRANSKRIPTIT_KANSIO = "transkriptit"
@@ -68,40 +70,95 @@ def transkriboi_deepgram(audio_path):
         print(f"Deepgram virhe: {response.status_code} - {response.text}")
         return ""
 
-def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
-    print("Pyydetään Claude-mallia poimimaan suositukset JSON-muodossa...")
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+# Mallit fallback-järjestyksessä. Huom: Sonnet 5 ei hyväksy temperature-parametria,
+# joten sitä ei anneta millekään mallille.
+MALLIT = [
+    "claude-sonnet-5",
+    "claude-sonnet-4-6",
+    "claude-haiku-4-5-20251001",
+    "claude-opus-4-6"
+]
 
-    # Rakennetaan suosittelija-sääntö jaksokohtaisesti: RSS-kuvauksesta poimitut
+# Kentät, jotka malli tuottaa laadunvarmistusta varten mutta joita ei
+# tallenneta suositukset.json-tiedostoon (sivuston skeema pysyy ennallaan)
+SISAISET_KENTAT = ("puhuja_peruste", "epavarma_teos")
+
+
+def normalisoi_kirjoitusasu(nimi, tunnetut):
+    """Napsauttaa täsmäävän tai lähes täsmäävän kirjoitusasun tunnettuun nimeen
+    (esim. "Johnn Helin" → "John Helin"). Ilman osumaa nimi palautuu ennallaan."""
+    for tunnettu in tunnetut:
+        if nimi.lower() == tunnettu.lower():
+            return tunnettu
+    for tunnettu in tunnetut:
+        if difflib.SequenceMatcher(None, nimi.lower(), tunnettu.lower()).ratio() >= 0.85:
+            return tunnettu
+    return nimi
+
+
+def normalisoi_suosittelija(nimi, osallistujat):
+    """Palauttaa suosittelijan tarkassa kanonisessa kirjoitusasussa.
+
+    Kun jakson osallistujat tunnetaan RSS-kuvauksesta, ne ovat ainoa sallittu
+    arvojoukko: kirjoitusasu ei jää mallin varaan, ja täysin vieras nimi
+    muuttuu arvoksi "tuntematon". Ilman osallistujalistaa korjataan vain
+    kirjoitusasu TUNNETUT_NIMET-listaa vasten — vieras nimi säilyy ennallaan,
+    koska kyseessä voi olla aito vieras (validaattori liputtaa sen silti).
+    """
+    if not nimi or nimi.strip().lower() == "tuntematon":
+        return "tuntematon"
+    nimi = nimi.strip()
+    if not osallistujat:
+        return normalisoi_kirjoitusasu(nimi, TUNNETUT_NIMET)
+    tulos = normalisoi_kirjoitusasu(nimi, osallistujat)
+    if tulos != nimi or tulos in osallistujat:
+        return tulos
+    osat = nimi.split()
+    for osallistuja in osallistujat:
+        o_osat = osallistuja.split()
+        if osat[-1].lower() == o_osat[-1].lower() and len(osat[-1]) > 2:
+            return osallistuja
+        if osat[0].lower() == o_osat[0].lower() and len(osat[0]) > 3:
+            return osallistuja
+    return "tuntematon"
+
+
+def rakenna_system_prompt(osallistujat):
+    # Suosittelija-sääntö rakennetaan jaksokohtaisesti: RSS-kuvauksesta poimitut
     # osallistujat ovat ainoat sallitut nimet — ei kiinteää nimilistaa, joka
     # ohjaisi mallia arvaamaan henkilöitä, jotka eivät ole studiossa.
     puhujaohje = (
-        "Teksti sisältää jakson alkuesittelyt ja lopun suositusosion. Jos rivit on merkitty "
-        "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin alkuesittelyistä, kuka "
-        "puhujanumero on kukin henkilö (juontaja esittelee itsensä ja vieraat), ja käytä sitten "
-        "puhujanumeroa suosituksen antajan tunnistamiseen. "
+        "Teksti sisältää jakson alkupuolen ja lopun suositusosion. Jos rivit on merkitty "
+        "puhujittain (\"Puhuja 0:\", \"Puhuja 1:\" jne.), selvitä ensin, kuka puhujanumero on "
+        "kukin henkilö: alkuesittelyt, nimeltä puhuttelut ja tervehdykset ovat todisteita. "
+        "Lisää jokaiseen suositukseen kenttä \"puhuja_peruste\": lyhyt suora sitaatti "
+        "transkriptista, joka osoittaa mistä päättelit puhujanumeron ja henkilön vastaavuuden. "
     )
     if osallistujat:
         suosittelija_saanto = (
-            f"2. SUOSITTELIJA: Tässä jaksossa ovat RSS-kuvauksen mukaan äänessä: {', '.join(osallistujat)}. "
+            f"4. SUOSITTELIJA JA PERUSTELU: Tässä jaksossa ovat RSS-kuvauksen mukaan äänessä: {', '.join(osallistujat)}. "
             "Suosittelijan on oltava joku näistä henkilöistä. " + puhujaohje +
             "Jos suosituksen antaa selvästi joku muu, joka esitellään jakson alussa nimeltä, käytä sitä nimeä. "
-            "Jos et pysty päättelemään suosittelijaa varmasti, käytä arvoa \"tuntematon\" — älä koskaan arvaa."
+            "Jos et pysty osoittamaan puhuja_peruste-sitaattia tai päättelemään suosittelijaa varmasti, "
+            "käytä arvoa \"tuntematon\" — älä koskaan arvaa."
         )
     else:
         suosittelija_saanto = (
-            "2. SUOSITTELIJA: " + puhujaohje +
-            "Jos et pysty päättelemään suosittelijaa varmasti, käytä arvoa \"tuntematon\" — älä koskaan arvaa."
+            "4. SUOSITTELIJA JA PERUSTELU: " + puhujaohje +
+            "Jos et pysty osoittamaan puhuja_peruste-sitaattia tai päättelemään suosittelijaa varmasti, "
+            "käytä arvoa \"tuntematon\" — älä koskaan arvaa."
         )
 
-    system_prompt = f"""Olet ammattimainen suomalainen toimitussihteeri. Tehtäväsi on poimia Uutisraportti-podcastin raakatekstistä VAIN todelliset kulttuuri- ja kulutussuositukset.
-Paluuta TISMALLEEN JA AINOASTAAN validia JSON-rakennetta, ei mitään muuta tekstiä.
+    return f"""Olet ammattimainen suomalainen toimitussihteeri. Tehtäväsi on poimia Uutisraportti-podcastin raakatekstistä KAIKKI jakson suositusosiossa annetut kulttuuri-, kulutus- ja elämäntapasuositukset.
+Palauta TISMALLEEN JA AINOASTAAN validia JSON-rakennetta, ei mitään muuta tekstiä.
 
 SÄÄNNÖT:
-1. KORJAA VIRHEET JA KÄÄNNÄ: Korjaa teosten nimet (esim. "weathering heights" -> "Humiseva harju"). Käännä yleiskieliset asiat suomeksi (esim. "pistachio spread" -> "pistaasilevite").
+1. POIMI KAIKKI SUOSITUKSET: Ota mukaan myös vitsinä tai puolitosissaan annetut sekä epätyypilliset suositukset (havainnot, elämäntavat, toiveet — esim. kainalosauvat, tikanheitto, "suosittelen että X on hiljaa loppukesän"). Jos asia kehystetään jaksossa suositukseksi, se on suositus — huumori näkyköön kuvauksessa ja kategorioissa, ei poisjättönä. Sama puhuja voi antaa useita suosituksia putkeen — käy suositusosio huolellisesti läpi loppuun asti äläkä jätä yhtään väliin.
+2. ÄLÄ POIMI MAINOKSIA, PUHEENAIHEITA TAI KEHYSTARINOITA: Puhujan oman tuotteen esittely, jonka hän itse kehystää mainokseksi, ei ole suositus. Jakson uutis- tai haastatteluaiheena käsiteltyä asiaa ei poimita, ellei sitä suositella varsinaisessa suositusosiossa (yleensä jakson lopussa). Juontajan kuvitteellinen kehystarina tai skenaario, jolla suositusosio pohjustetaan (esim. "kun kävelette terassille ja otatte siinä yhden kuplivan..."), ei ole suositus — poimi vain se, mitä puhujat itse suosittelevat vastauksissaan.
+3. KORJAA VAIN VARMAT VIRHEET JA KÄÄNNÄ: Korjaa teosten nimien ilmeiset litterointivirheet VAIN kun tunnistat teoksen varmasti (esim. "weathering heights" -> "Humiseva harju"). Jos asiayhteys viittaa uuteen tai tuoreeseen julkaisuun, jota et varmuudella tunne, säilytä nimi kuullussa muodossa ja lisää suositukseen kenttä "epavarma_teos": true. ÄLÄ KOSKAAN korvaa teosta saman tekijän toisella, tunnetummalla teoksella. Kuvaus ei saa olla ristiriidassa teoksen nimen kanssa (jos puhuja sanoo "uusi levy", teos ei voi olla vuosia vanha julkaisu). Käännä yleiskieliset asiat suomeksi (esim. "pistachio spread" -> "pistaasilevite").
 {suosittelija_saanto}
-3. KATEGORIAT: Määritä AINA jokaiselle suositukselle ylätason "paakategoria", jonka on TISMALLEEN YKSI SEURAAVISTA: "kirja", "elokuva", "tv-sarja", "podcast", "artikkeli", "musiikki", "ruoka", "kulttuuri", "urheilu", tai "muu" (jos mikään edeltävistä ei sovi). Keksi lisäksi 1-3 tarkempaa, vapaamuotoista tägiä "kategoriat"-listaan (esim. "teatteri", "historia", "viini").
-4. LINKIT: Lisää Goodreads-linkki (`https://www.goodreads.com/search?q=Nimi`) kirjoille ja IMDb-linkki (`https://www.imdb.com/find/?q=Nimi`) elokuville/sarjoille. Musiikille ja podcasteille lisää suoratoistolinkki "lisatieto_linkki" -kenttään (esim. `https://open.spotify.com/search/Nimi` tai vastaava haku Apple Musiciin, Tidaliin tai Suplaan). Kaikille "google_linkki" -kenttään hakulinkki `https://www.google.com/search?q=Nimi`.
+5. KATEGORIAT: Määritä AINA jokaiselle suositukselle ylätason "paakategoria", jonka on TISMALLEEN YKSI SEURAAVISTA: "kirja", "elokuva", "tv-sarja", "podcast", "artikkeli", "musiikki", "ruoka", "kulttuuri", "urheilu", tai "muu" (jos mikään edeltävistä ei sovi). Keksi lisäksi 1-3 tarkempaa, vapaamuotoista tägiä "kategoriat"-listaan (esim. "teatteri", "historia", "viini").
+6. LINKIT: Lisää Goodreads-linkki (`https://www.goodreads.com/search?q=Nimi`) kirjoille ja IMDb-linkki (`https://www.imdb.com/find/?q=Nimi`) elokuville/sarjoille. Musiikille ja podcasteille lisää suoratoistolinkki "lisatieto_linkki" -kenttään (esim. `https://open.spotify.com/search/Nimi` tai vastaava haku Apple Musiciin, Tidaliin tai Suplaan). Kaikille "google_linkki" -kenttään hakulinkki `https://www.google.com/search?q=Nimi`.
 
 VASTAUKSEN RAKENNE (palauta taulukko):
 [
@@ -112,57 +169,117 @@ VASTAUKSEN RAKENNE (palauta taulukko):
     "lisatieto_linkki": "https://www.goodreads.com/...",
     "kuvaus": "1-2 lausetta...",
     "suosittelija": "Tuomas Peltomäki",
+    "puhuja_peruste": "Puhuja 2 esittelee itsensä: 'Mun nimi on Tuomas Peltomäki'",
     "kategoriat": ["historia", "elämäkerrat"]
   }}
 ]
+Kenttä "epavarma_teos": true lisätään vain, jos teoksen nimen kirjoitusasu jäi epävarmaksi.
 Palauta pelkkä suora lista `[]`. Älä käytä markdown-koodiblokkeja (```json ... ```). Jos suosituksia ei ole, palauta `[]`.
 """
 
-    models_to_try = [
-        "claude-sonnet-4-6",
-        "claude-haiku-4-5-20251001",
-        "claude-opus-4-6"
-    ]
+
+def kysy_claudelta(client, system_prompt, viesti):
+    """Kysyy JSON-listan malleilta fallback-järjestyksessä.
+
+    Palauttaa jäsennetyn listan tai None, jos yksikään malli ei tuottanut
+    kelvollista JSONia. JSON-jäsennysvirhe siirtyy seuraavaan malliin sen
+    sijaan, että se tulkittaisiin tyhjäksi tulokseksi.
+    """
+    for model_name in MALLIT:
+        try:
+            response = client.messages.create(
+                model=model_name,
+                max_tokens=8000,
+                system=system_prompt,
+                messages=[
+                    {"role": "user", "content": viesti}
+                ]
+            )
+            # Uudemmat mallit voivat palauttaa thinking-lohkoja tekstin edellä
+            tulos = "".join(b.text for b in response.content if b.type == "text").strip()
+            if tulos.startswith("```json"):
+                tulos = tulos[7:]
+            if tulos.endswith("```"):
+                tulos = tulos[:-3]
+            jasennetty = json.loads(tulos.strip())
+            if not isinstance(jasennetty, list):
+                raise ValueError(f"Odotettiin JSON-listaa, saatiin {type(jasennetty).__name__}")
+            print(f"Käytettiin mallia: {model_name}")
+            return jasennetty
+        except Exception as e:
+            print(f"⚠️ Malli {model_name} epäonnistui: {e}")
+            continue
+    return None
+
+
+def analysoi_claudella(teksti, osallistujat=None, jakso_kuvaus=""):
+    """Poimii suositukset kaksivaiheisesti: pääpoiminta + täydennystarkistus.
+
+    Palauttaa parin (suositukset, varoitukset). Varoitukset ovat ihmiselle
+    tarkoitettuja huomioita (epävarmat teosnimet, tuntemattomiksi jääneet
+    suosittelijat), jotka päätyvät sähköposti-ilmoitukseen.
+    """
+    print("Pyydetään Claude-mallia poimimaan suositukset JSON-muodossa...")
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    system_prompt = rakenna_system_prompt(osallistujat)
 
     viesti = ""
     if jakso_kuvaus:
         viesti += f"Jakson RSS-kuvaus (taustatietoa puhujista):\n{jakso_kuvaus}\n\n"
     viesti += f"Analysoi tämä teksti ja palauta JSON:\n\n{teksti}"
 
-    tulos = None
-    for model_name in models_to_try:
-        try:
-            response = client.messages.create(
-                model=model_name,
-                max_tokens=4000,
-                temperature=0.1,
-                system=system_prompt,
-                messages=[
-                    {"role": "user", "content": viesti}
-                ]
+    suositukset = kysy_claudelta(client, system_prompt, viesti)
+    if suositukset is None:
+        print("Virhe: Yksikään Anthropic-malli ei palauttanut kelvollista JSON-listaa.")
+        return [], ["Poiminta epäonnistui kokonaan — yksikään malli ei palauttanut kelvollista JSONia."]
+
+    varoitukset = []
+
+    # Täydennystarkistus: annetaan sama transkripti ja jo löydetyt suositukset,
+    # kysytään mitä jäi poimimatta. Halpa toinen kutsu, joka paikkaa yhden
+    # läpikäynnin recall-puutteet (esim. monta suositusta putkeen samalta puhujalta).
+    print("Ajetaan täydennystarkistus...")
+    loydetyt_tiivistelma = json.dumps(
+        [{"teos": s.get("teos", ""), "suosittelija": s.get("suosittelija", "")} for s in suositukset],
+        ensure_ascii=False,
+    )
+    tarkistusviesti = (
+        f"{viesti}\n\n---\n\nTästä transkriptista on jo poimittu seuraavat suositukset:\n{loydetyt_tiivistelma}\n\n"
+        "Käy suositusosio uudelleen läpi ja palauta samassa JSON-muodossa PELKÄSTÄÄN ne suositukset, "
+        "jotka puuttuvat yllä olevalta listalta. Muista myös vitsinä annetut ja epätyypilliset suositukset. "
+        "Jos mitään ei puutu, palauta []."
+    )
+    puuttuvat = kysy_claudelta(client, system_prompt, tarkistusviesti)
+    if puuttuvat:
+        olemassa = {s.get("teos", "").strip().lower() for s in suositukset}
+        uudet = [p for p in puuttuvat if p.get("teos", "").strip().lower() not in olemassa]
+        if uudet:
+            print(f"Täydennystarkistus löysi {len(uudet)} lisäsuositusta.")
+            varoitukset.append(
+                f"Täydennystarkistus löysi {len(uudet)} suositusta, jotka jäivät ensimmäisellä kierroksella poimimatta: "
+                + ", ".join(f"\"{u.get('teos', '?')}\"" for u in uudet)
             )
-            tulos = response.content[0].text.strip()
-            print(f"Käytettiin mallia: {model_name}")
-            break
-        except Exception as e:
-            print(f"⚠️ Malli {model_name} epäonnistui: {e}")
-            continue
-                
-    if not tulos:
-        print("Virhe: Yksikään Anthropic-malli ei ollut käytettävissä omalla API-avaimellasi.")
-        return []
-        
-    # Puhdistetaan mahdolliset markdown-blokit
-    if tulos.startswith("```json"):
-        tulos = tulos[7:]
-    if tulos.endswith("```"):
-        tulos = tulos[:-3]
-        
-    try:
-        return json.loads(tulos.strip())
-    except Exception as e:
-        print(f"Virhe JSON:n luomisessa: {e}\nRAAKATULOS:\n{tulos}")
-        return []
+            suositukset.extend(uudet)
+
+    # Deterministinen jälkikäsittely: suosittelijan kirjoitusasu ei jää mallin
+    # varaan, ja sisäiset laadunvarmistuskentät siivotaan pois ennen tallennusta.
+    for s in suositukset:
+        alkuperainen = s.get("suosittelija", "")
+        s["suosittelija"] = normalisoi_suosittelija(alkuperainen, osallistujat or [])
+        if s["suosittelija"] != alkuperainen and alkuperainen and s["suosittelija"] != "tuntematon":
+            print(f"  ✏️ Suosittelija normalisoitu: \"{alkuperainen}\" → \"{s['suosittelija']}\"")
+        if s["suosittelija"] == "tuntematon":
+            varoitukset.append(
+                f"Suosittelija jäi tuntemattomaksi: \"{s.get('teos', '?')}\" (mallin ehdotus: \"{alkuperainen or '-'}\")."
+            )
+        if s.get("epavarma_teos"):
+            varoitukset.append(
+                f"Epävarma teosnimi: \"{s.get('teos', '?')}\" ({s['suosittelija']}) — tarkista kirjoitusasu, kyseessä voi olla uutuusjulkaisu."
+            )
+        for kentta in SISAISET_KENTAT:
+            s.pop(kentta, None)
+
+    return suositukset, varoitukset
 
 def aja_prosessi():
     if not DEEPGRAM_API_KEY or not ANTHROPIC_API_KEY:
@@ -212,9 +329,11 @@ def aja_prosessi():
             audio = AudioSegment.from_file(mp3_temp)
             kesto_ms = len(audio)
             
-            # Otetaan ensimmäiset 2 min ja varsinainen loppuosa
-            alku_osa = audio[:120000]
-            loppu_osa_alku_ms = max(0, kesto_ms - (LEIKKAUS_SEKUNTIA * 1000))
+            # Otetaan alkuosa (esittelyt) ja varsinainen loppuosa. Loppuosa ei
+            # ala koskaan ennen alkuosan loppua, ettei lyhyissä jaksoissa synny
+            # päällekkäistä tekstiä.
+            alku_osa = audio[:ALKU_SEKUNTIA * 1000]
+            loppu_osa_alku_ms = max(ALKU_SEKUNTIA * 1000, kesto_ms - (LEIKKAUS_SEKUNTIA * 1000))
             loppu_osa = audio[loppu_osa_alku_ms:]
             
             yhdistetty_audio = alku_osa + loppu_osa
@@ -234,8 +353,22 @@ def aja_prosessi():
                     print(f"Osallistujat RSS-kuvauksesta: {', '.join(osallistujat)}")
                 else:
                     print("⚠️ Osallistujia ei löytynyt RSS-kuvauksesta — suosittelija päätellään pelkästä tekstistä.")
-                suositukset_json = analysoi_claudella(raakateksti, osallistujat, jakso_kuvaus)
-                
+                suositukset_json, varoitukset = analysoi_claudella(raakateksti, osallistujat, jakso_kuvaus)
+
+                # Yleensä jokainen studiossa olija suosittelee jotain suositusosiossa —
+                # osallistuja ilman yhtään suositusta on merkki poimimatta jääneestä.
+                if osallistujat and suositukset_json:
+                    suosittelijat = {s.get("suosittelija") for s in suositukset_json}
+                    ilman_suositusta = [o for o in osallistujat if o not in suosittelijat]
+                    if ilman_suositusta:
+                        varoitukset.append(
+                            "Osallistujilta ei löytynyt yhtään suositusta: "
+                            + ", ".join(ilman_suositusta)
+                            + " — tarkista jäikö jotain poimimatta."
+                        )
+                for v in varoitukset:
+                    print(f"  ⚠️ {v}")
+
                 # Vaikka olisi tyhjä lista ([]), tallennetaan silti että jakso on käsitelty
                 jakso_data = {
                     "id": jakson_tunniste,
@@ -257,7 +390,8 @@ def aja_prosessi():
                 tulos_data = {
                     "jakso_otsikko": otsikko,
                     "suosituksia_kpl": len(suositukset_json),
-                    "jakson_id": jakson_tunniste
+                    "jakson_id": jakson_tunniste,
+                    "varoitukset": varoitukset
                 }
                 with open("ajon_tulos.json", "w", encoding="utf-8") as ft:
                     json.dump(tulos_data, ft, ensure_ascii=False)

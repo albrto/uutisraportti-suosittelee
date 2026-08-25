@@ -56,19 +56,27 @@ def main():
     jakso_otsikko = tulos.get("jakso_otsikko", "Nimetön jakso")
     suos_kpl = tulos.get("suosituksia_kpl", 0)
     jakson_id = tulos.get("jakson_id", "")
-    
+    varoitukset = tulos.get("varoitukset", [])
+
     epailyttavia_kpl = hae_epailyttavien_luettelo(jakson_id)
-    
+
     sähköpostin_otsikko = f"Uutisraportti: Uusi jakso '{jakso_otsikko}' käsitelty!"
-    
+
     viesti = f"Skripti ajettiin onnistuneesti.\n\nKäsitelty jakso: {jakso_otsikko}\nAnalysoitavaksi löytyi yhteensä {suos_kpl} suositusta.\n\n"
-    
+
     if epailyttavia_kpl > 0:
         sähköpostin_otsikko = f"⚠️ Huomio: Uudessa Uutisraportti-jaksossa epäilyttäviä suosittelijoita!"
         viesti += f"⚠️ HUOMIO: Skripti poimi tästä jaksosta {epailyttavia_kpl} epäilyttävää suosittelijanimeä, jotka eivät täsmää RSS-feediin.\n"
         viesti += "Käy tarkistamassa ja vahvistamassa ne osoitteessa: https://uutisrapsa.fi/admin\n"
     else:
         viesti += "Kaikki suosittelijanimet vaikuttivat luotettavilta.\n"
+
+    if varoitukset:
+        if epailyttavia_kpl == 0:
+            sähköpostin_otsikko = f"⚠️ Uutisraportti: '{jakso_otsikko}' käsitelty — {len(varoitukset)} tarkistettavaa"
+        viesti += "\nAutomaattiset laatuvaroitukset:\n"
+        for v in varoitukset:
+            viesti += f"- {v}\n"
         
     laheta_sahkoposti(sähköpostin_otsikko, viesti)
     
