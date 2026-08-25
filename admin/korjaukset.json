@@ -212,5 +212,95 @@
       "suosittelija": "Marko Junkkari",
       "kuvaus": "Marko katsoi sarjan Tuomaksen viime viikon suosituksen innoittamana ja kertoo kirjallisten jaksoselostusten avanneen sarjan ihan eri tavalla – erityisesti kauden viimeinen jakso aukesi paremmin."
     }
+  },
+  {
+    "jakso_id": "6aac3b69-2cf9-4376-a755-53ee36496071",
+    "jakso_otsikko": "Palkkasotilas­loikkari, pika­synnytykset, superstriimaaja",
+    "paivamaara": "17.7.2025",
+    "r_idx": 1,
+    "teos": "Murdle",
+    "uusi_data": {
+      "suosittelija": "Hanna Havusto"
+    }
+  },
+  {
+    "jakso_id": "399c30b6-1830-419c-8484-0a9246d3242d",
+    "jakso_otsikko": "LäpiHUUTOvaalit: Väittelyä Laura Huhtasaaren persoonasta",
+    "paivamaara": "4.1.2018",
+    "r_idx": 1,
+    "teos": "Silta",
+    "uusi_data": {
+      "suosittelija": "Anu Koivunen"
+    }
+  },
+  {
+    "jakso_id": "07271fe1-1641-4985-b9ea-c5641bbeb58b",
+    "jakso_otsikko": "Demarien talousasento, rauhanpuhe Suomessa, viisut",
+    "paivamaara": "13.5.2026",
+    "r_idx": 0,
+    "teos": "Elämäni ilman sinua",
+    "uusi_data": {
+      "suosittelija": "Hanna Mahlamäki"
+    }
+  },
+  {
+    "jakso_id": "07271fe1-1641-4985-b9ea-c5641bbeb58b",
+    "jakso_otsikko": "Demarien talousasento, rauhanpuhe Suomessa, viisut",
+    "paivamaara": "13.5.2026",
+    "r_idx": 2,
+    "teos": "Hell or High Water",
+    "uusi_data": {
+      "teos": "Cineast",
+      "paakategoria": "muu",
+      "google_linkki": "https://www.google.com/search?q=Cineast+kirjasto+suoratoistopalvelu",
+      "lisatieto_linkki": "https://www.cineast.fi",
+      "kuvaus": "Pohjoismaisten kirjastojen yhteinen elokuvien suoratoistopalvelu, josta voi katsoa neljä elokuvaa kuukaudessa ilmaiseksi kirjastokortilla. Tuomas katsoi palvelusta mm. lännenelokuvan Hell or High Water — varsinainen suositus on itse palvelu.",
+      "suosittelija": "Tuomas Peltomäki",
+      "kategoriat": [
+        "kirjasto",
+        "suoratoisto",
+        "elokuvat"
+      ]
+    }
+  },
+  {
+    "jakso_id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminaatiokortit",
+    "paivamaara": "2.4.2026",
+    "r_idx": 0,
+    "teos": "Good Hang with Amy Poehler",
+    "uusi_data": {
+      "suosittelija": "Salla Vuorikoski"
+    }
+  },
+  {
+    "jakso_id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminaatiokortit",
+    "paivamaara": "2.4.2026",
+    "r_idx": 1,
+    "teos": "Pistaasilevite (Fiasconaro)",
+    "uusi_data": {
+      "suosittelija": "Jussi Niemeläinen"
+    }
+  },
+  {
+    "jakso_id": "c3ef6603-60ad-46cd-9285-1b0c618aa657",
+    "jakso_otsikko": "Droonit, oh no vai hohhoi?, koronaselvitys, illuminaatiokortit",
+    "paivamaara": "2.4.2026",
+    "r_idx": 2,
+    "teos": "Taskmaster (Britannia)",
+    "uusi_data": {
+      "teos": "LOL: Last One Laughing UK",
+      "paakategoria": "tv-sarja",
+      "google_linkki": "https://www.google.com/search?q=LOL+Last+One+Laughing+UK",
+      "lisatieto_linkki": "https://www.imdb.com/find/?q=Last+One+Laughing+UK",
+      "kuvaus": "Brittiläinen komediakilpailu, jossa koomikot yrittävät saada toisensa nauramaan pysyen itse vakavina. Jussin suositus — datassa oli aiemmin virheellisesti Taskmaster.",
+      "suosittelija": "Jussi Niemeläinen",
+      "kategoriat": [
+        "komedia",
+        "kilpailu",
+        "viihde"
+      ]
+    }
   }
 ]

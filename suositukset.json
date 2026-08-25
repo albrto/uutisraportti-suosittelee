@@ -1187,6 +1187,19 @@
           "brittiläinen",
           "viihde"
         ]
+      },
+      {
+        "teos": "Uutisrapsa.fi",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=uutisrapsa.fi",
+        "lisatieto_linkki": "https://uutisrapsa.fi",
+        "kuvaus": "Kuuntelijan vibe-koodaama sivusto, joka kokoaa Uutisraportin suositukset yhteen paikkaan. Tuomaksen suositus — eli juuri se sivusto, jolla luet tätä.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "verkkosivu",
+          "kuuntelijaprojekti",
+          "meta"
+        ]
       }
     ]
   },
