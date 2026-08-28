@@ -9062,6 +9062,68 @@
     ]
   },
   {
+    "j_idx": 480,
+    "jakso_id": "55a18a7b-5c36-422b-8fd2-328b50402bbd",
+    "jakso_otsikko": "Puolueiden idearikkaus, Kuka Trumpin rakastaja? -visailu, Iran, hedonismi",
+    "paivamaara": "27.8.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/55a18a7b-5c36-422b-8fd2-328b50402bbd.mp3",
+    "kesto_sek": 4725,
+    "kesto_str": "01:18:45",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Salla Vuorikoski, Marko Junkkari ja Tuomas Peltomäki keskustelevat moninaisista kesäkokouksista tulleista aloitteista ja ajatuksista, joita puolueet ovat saaneet aikaisiksi. Sdp on kehitellyt puolustusveroa, kokoomus tekoälykysymyksiin vastaamista pääomilla, erilaiset tahot suojelupoliisille uutta kotia... kaikki käydään läpi. Lisäksi aiheina Trumpin rakastajatar-epäilykse",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Salla Vuorikoski",
+        "teos": "Dolly Parton – Greatest Hits",
+        "paakategoria": "musiikki",
+        "kategoriat": [
+          "country-musiikki",
+          "muistokirjoitus",
+          "hyväntekeväisyys"
+        ],
+        "kuvaus": "Dolly Partonin kuoltua suositellaan kuuntelemaan hänen kokoelmalevyään kuohuviinin kera ja muistelemaan hänen uraansa sekä hyväntekeväisyystyötään, kuten Imagination Library -kirjaprojektia.",
+        "google_linkki": "https://www.google.com/search?q=Dolly+Parton+Greatest+Hits",
+        "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%20Greatest%20Hits"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Mad Men",
+        "paakategoria": "tv-sarja",
+        "kategoriat": [
+          "draama",
+          "1960-luku",
+          "suoratoisto"
+        ],
+        "kuvaus": "Marko aloitti sarjan ensimmäisen kauden uudelleenkatselun ja yllättyi siitä, ettei ollutkaan nähnyt sitä aiemmin – sarja kuvaa hätkähdyttävästi 1960-luvun mainostoimiston naisten kohtelua ja miesten viinan- ja sikarinpolttoa.",
+        "google_linkki": "https://www.google.com/search?q=Mad+Men+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mad%20Men"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Irakilainen isä yössä",
+        "paakategoria": "artikkeli",
+        "kategoriat": [
+          "maahanmuutto",
+          "reportaasi",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Helsingin Sanomien juttu, jossa vantaalainen toimittaja Sargon (nimi kuultu epävarmasti) kulki kolmen vuoden ajan pääkaupunkiseudun yössä ymmärtääkseen, miksi osa maahanmuuttajapojista ajautuu ongelmiin – juttu tarjoaa harvinaisen irakilaismiehen perspektiivin suomalaisessa mediassa.",
+        "google_linkki": "https://www.google.com/search?q=Irakilainen+isä+yössä+Helsingin+Sanomat+Sargon",
+        "lisatieto_linkki": "https://www.google.com/search?q=Irakilainen+isä+yössä+Helsingin+Sanomat"
+      }
+    ]
+  },
+  {
     "j_idx": 205,
     "jakso_id": "tag:soundcloud,2010:tracks/1113986368",
     "jakso_otsikko": "27.8.2021: Afganistanin kaaos, keskustan loiset, iloisia uutisia Itämerestä",

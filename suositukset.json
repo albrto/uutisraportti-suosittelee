@@ -1,5 +1,51 @@
 [
   {
+    "id": "55a18a7b-5c36-422b-8fd2-328b50402bbd",
+    "jakso_otsikko": "Puolueiden idearikkaus, Kuka Trumpin rakastaja? -visailu, Iran, hedonismi",
+    "paivamaara": "27.8.2026",
+    "suositukset": [
+      {
+        "teos": "Dolly Parton – Greatest Hits",
+        "paakategoria": "musiikki",
+        "google_linkki": "https://www.google.com/search?q=Dolly+Parton+Greatest+Hits",
+        "lisatieto_linkki": "https://open.spotify.com/search/Dolly%20Parton%20Greatest%20Hits",
+        "kuvaus": "Dolly Partonin kuoltua suositellaan kuuntelemaan hänen kokoelmalevyään kuohuviinin kera ja muistelemaan hänen uraansa sekä hyväntekeväisyystyötään, kuten Imagination Library -kirjaprojektia.",
+        "suosittelija": "Salla Vuorikoski",
+        "kategoriat": [
+          "country-musiikki",
+          "muistokirjoitus",
+          "hyväntekeväisyys"
+        ]
+      },
+      {
+        "teos": "Mad Men",
+        "paakategoria": "tv-sarja",
+        "google_linkki": "https://www.google.com/search?q=Mad+Men+tv-sarja",
+        "lisatieto_linkki": "https://www.imdb.com/find/?q=Mad%20Men",
+        "kuvaus": "Marko aloitti sarjan ensimmäisen kauden uudelleenkatselun ja yllättyi siitä, ettei ollutkaan nähnyt sitä aiemmin – sarja kuvaa hätkähdyttävästi 1960-luvun mainostoimiston naisten kohtelua ja miesten viinan- ja sikarinpolttoa.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "draama",
+          "1960-luku",
+          "suoratoisto"
+        ]
+      },
+      {
+        "teos": "Irakilainen isä yössä",
+        "paakategoria": "artikkeli",
+        "google_linkki": "https://www.google.com/search?q=Irakilainen+isä+yössä+Helsingin+Sanomat+Sargon",
+        "lisatieto_linkki": "https://www.google.com/search?q=Irakilainen+isä+yössä+Helsingin+Sanomat",
+        "kuvaus": "Helsingin Sanomien juttu, jossa vantaalainen toimittaja Sargon (nimi kuultu epävarmasti) kulki kolmen vuoden ajan pääkaupunkiseudun yössä ymmärtääkseen, miksi osa maahanmuuttajapojista ajautuu ongelmiin – juttu tarjoaa harvinaisen irakilaismiehen perspektiivin suomalaisessa mediassa.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "maahanmuutto",
+          "reportaasi",
+          "yhteiskunta"
+        ]
+      }
+    ]
+  },
+  {
     "id": "ab9178df-9e1b-4865-aeac-e421b2f7587c",
     "jakso_otsikko": "Orpon Valmet-ongelma, demarien Tanska-linja, Menetetyt miljardit",
     "paivamaara": "20.8.2026",
