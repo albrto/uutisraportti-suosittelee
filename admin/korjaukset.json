@@ -312,5 +312,25 @@
     "uusi_data": {
       "suosittelija": "Tuomas Peltomäki"
     }
+  },
+  {
+    "jakso_id": "55a18a7b-5c36-422b-8fd2-328b50402bbd",
+    "jakso_otsikko": "Puolueiden idearikkaus, Kuka Trumpin rakastaja? -visailu, Iran, hedonismi",
+    "paivamaara": "27.8.2026",
+    "r_idx": 2,
+    "teos": "Irakilainen isä yössä",
+    "uusi_data": {
+      "teos": "Irakilaisisä löysi Helsingin yöstä ongelmia, joita ei ole syytä aliarvioida",
+      "suosittelija": "Tuomas Peltomäki",
+      "paakategoria": "artikkeli",
+      "google_linkki": "https://www.google.com/search?q=Irakilaisisä+löysi+Helsingin+yöstä+ongelmia+Helsingin+Sanomat",
+      "lisatieto_linkki": "https://www.hs.fi/feature/art-2000011963093.html",
+      "kuvaus": "Sarkawt Rstemin ja Tuija Pallasteen Helsingin Sanomien juttu, jossa vantaalainen toimittaja Sarkawt Rstem kulki kolmen vuoden ajan pääkaupunkiseudun yössä ymmärtääkseen, miksi osa maahanmuuttajapojista ajautuu ongelmiin – juttu tarjoaa harvinaisen irakilaismiehen perspektiivin suomalaisessa mediassa.",
+      "kategoriat": [
+        "maahanmuutto",
+        "reportaasi",
+        "yhteiskunta"
+      ]
+    }
   }
 ]
