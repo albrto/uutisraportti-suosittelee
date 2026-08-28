@@ -9110,7 +9110,7 @@ window.VALIDATION_DATA = [
         "r_idx": 2,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "Irakilaisisä löysi Helsingin yöstä ongelmia, joita ei ole syytä aliarvioida",
+        "teos": "Irakilainen isä yössä",
         "paakategoria": "artikkeli",
         "kategoriat": [
           "maahanmuutto",
