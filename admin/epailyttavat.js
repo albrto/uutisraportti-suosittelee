@@ -6258,6 +6258,97 @@ window.VALIDATION_DATA = [
     ]
   },
   {
+    "j_idx": 481,
+    "jakso_id": "f07d11bd-8280-48aa-b407-2459c051daee",
+    "jakso_otsikko": "P. Orpon boringriihi?, Saksan drooni-iskut, onko woke 1.0 tosiaan kuollut?",
+    "paivamaara": "3.9.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/f07d11bd-8280-48aa-b407-2459c051daee.mp3",
+    "kesto_sek": 4865,
+    "kesto_str": "01:21:05",
+    "rss_osallistujat": [
+      "Hanna Havusto",
+      "Hanna Mahlamäki",
+      "Marko Junkkari",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Marko Junkkari ja vierailemaan tullut HS:n politiikan toimituksen esihenkilö Hanna Mahlamäki keskustelevat Petteri Orpon hallituksen viimeisestä budjettiriihestä, siitä että Saksan hallitus nimesi Venäjän tekijäksi Leipzigin drooni-iskun yrityksessä, ja siitä, onko woke 1.0 jo tosiaan siis kuollut ja cancelointi menettänyt voimansa.</p>",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Hanna Mahlamäki",
+        "teos": "Tuhottu lapsuus",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "tietokirja",
+          "rikollisuus",
+          "yhteiskunta"
+        ],
+        "kuvaus": "Tutkivien toimittajien Rami Mäkisen ja Matti Rämön tietokirja, joka kertoo karusti Anneli Auvinen-tapauksen lapsille tapahtuneesta suomalaisen lastensuojelun, poliisityön ja viranomaistoiminnan kautta - mutta myös selviytymisestä.",
+        "google_linkki": "https://www.google.com/search?q=Tuhottu+lapsuus+Rami+Mäkinen+Matti+Rämö",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tuhottu+lapsuus"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Regime Change",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "elämäkerta"
+        ],
+        "kuvaus": "New York Timesin toimittajan Trump-kirja, joka käy analyyttisesti teema kerrallaan läpi Trumpin pyrkimystä kostaa vihollisilleen ja miten hän on sen toteuttanut.",
+        "google_linkki": "https://www.google.com/search?q=Regime+Change+book+Trump",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Regime+Change+Trump"
+      },
+      {
+        "r_idx": 2,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Futucast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "haastattelu",
+          "media"
+        ],
+        "kuvaus": "Isakko-nimisen haastattelijan podcast, jossa Tuomas Peltomäki vieraili puhumassa Menetetyt miljardit -podcastista - Peltomäki kehui haastattelijaa mahtavaksi ja jaksoa erinomaiseksi.",
+        "google_linkki": "https://www.google.com/search?q=Futucast+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Futucast"
+      },
+      {
+        "r_idx": 3,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Luomakunta-podcast",
+        "paakategoria": "podcast",
+        "kategoriat": [
+          "stand up",
+          "keskustelu"
+        ],
+        "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
+        "google_linkki": "https://www.google.com/search?q=Luomakunta-podcast+Jonne+Ranta",
+        "lisatieto_linkki": "https://open.spotify.com/search/Luomakunta-podcast"
+      },
+      {
+        "r_idx": 4,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
+        "paakategoria": "muu",
+        "kategoriat": [
+          "luonto",
+          "tekoäly",
+          "harrastus"
+        ],
+        "kuvaus": "Peltomäki suosittelee kysymään tekoälyltä (Claude) luonnossa liikkuessa, mitä eläimiä ja ilmiöitä alueella on odotettavissa - tekoäly kertoi mm. ilveksistä, kauriista ja lintulajeista sekä teki jopa kalenterimerkintöjä tulevia bongausretkiä varten.",
+        "google_linkki": "https://www.google.com/search?q=Claude+tekoäly+luontoretki",
+        "lisatieto_linkki": ""
+      }
+    ]
+  },
+  {
     "j_idx": 149,
     "jakso_id": "tag:soundcloud,2010:tracks/886895596",
     "jakso_otsikko": "3.9.2020: Marin vs. vuorineuvokset, Navalnyin myrkytys, lobbarit ja politiikka",
@@ -23647,6 +23738,54 @@ window.VALIDATION_DATA = [
         "kuvaus": "Facebook-ryhmä, jossa ihmiset pyytävät muita restauroimaan ja muokkaamaan vanhoja valokuviaan. Salla Vuorikoski kertoo ryhmän avaavan kiinnostavan ja välillä synkänkin puolen ihmiselämästä.",
         "google_linkki": "https://www.google.com/search?q=Photo+Restoration+Group+Facebook",
         "lisatieto_linkki": "https://www.facebook.com/groups/search/results/?q=Photo+Restoration+Group"
+      }
+    ]
+  },
+  {
+    "j_idx": 482,
+    "jakso_id": "d73c9351-f95f-4f18-8ac5-986e892176d7",
+    "jakso_otsikko": "AfD:n voitto–paniikki nyt vai myöhemmin?, Suomi <3 Israel, Olivia Oraksen kuolema",
+    "paivamaara": "10.9.2026",
+    "audio_url": "https://episodes.captivate.fm/episode/d73c9351-f95f-4f18-8ac5-986e892176d7.mp3",
+    "kesto_sek": 5114,
+    "kesto_str": "01:25:14",
+    "rss_osallistujat": [
+      "Marko Junkkari",
+      "Salla Vuorikoski",
+      "Suvi Turtiainen",
+      "Tuomas Peltomäki"
+    ],
+    "rss_kuvaus": "<p>Tämän viikon jaksossa Tuomas Peltomäki, Salla Vuorikoski, Marko Junkkari ja entinen Berliinin-kirjeenvaihtaja Suvi Turtiainen keskustelevat AfD:n voitosta Saksi-Anhaltin osavaltiossa ja Ruotsin tulevista vaaleista, sekä Suomen ja Israelin välisestä asekaupasta, joka on muuttunut poliittisesti ja moraalisesti kestämättömäksi; ja vaikuttaja Olivia Oraksen kuolemasta, ja siihen liittyvistä kysymyk",
+    "suositukset": [
+      {
+        "r_idx": 0,
+        "is_suspicious": false,
+        "suosittelija": "Marko Junkkari",
+        "teos": "Last Days of Night",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "historiallinen romaani",
+          "oikeussalidekari",
+          "keksijät"
+        ],
+        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
+        "google_linkki": "https://www.google.com/search?q=Last+Days+of+Night+Graham+Moore",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Last+Days+of+Night+Graham+Moore"
+      },
+      {
+        "r_idx": 1,
+        "is_suspicious": false,
+        "suosittelija": "Tuomas Peltomäki",
+        "teos": "The Apple 1st Fifty Years",
+        "paakategoria": "kirja",
+        "kategoriat": [
+          "teknologia",
+          "historia",
+          "Apple"
+        ],
+        "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
+        "google_linkki": "https://www.google.com/search?q=Apple+The+First+Fifty+Years+David+Pogue",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Apple+The+First+Fifty+Years+David+Pogue"
       }
     ]
   },

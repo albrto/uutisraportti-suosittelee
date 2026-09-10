@@ -1,5 +1,108 @@
 [
   {
+    "id": "d73c9351-f95f-4f18-8ac5-986e892176d7",
+    "jakso_otsikko": "AfD:n voitto–paniikki nyt vai myöhemmin?, Suomi <3 Israel, Olivia Oraksen kuolema",
+    "paivamaara": "10.9.2026",
+    "suositukset": [
+      {
+        "teos": "Last Days of Night",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Last+Days+of+Night+Graham+Moore",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Last+Days+of+Night+Graham+Moore",
+        "kuvaus": "Fiktiivinen mutta osin tositapahtumiin perustuva romaani 1880-luvun Yhdysvalloista, jossa Edison, Westinghouse ja Tesla käyvät ankaraa patenttitaistelua sähkölampusta ja sähkövirran hallinnasta.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "historiallinen romaani",
+          "oikeussalidekari",
+          "keksijät"
+        ]
+      },
+      {
+        "teos": "The Apple 1st Fifty Years",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Apple+The+First+Fifty+Years+David+Pogue",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Apple+The+First+Fifty+Years+David+Pogue",
+        "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "teknologia",
+          "historia",
+          "Apple"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f07d11bd-8280-48aa-b407-2459c051daee",
+    "jakso_otsikko": "P. Orpon boringriihi?, Saksan drooni-iskut, onko woke 1.0 tosiaan kuollut?",
+    "paivamaara": "3.9.2026",
+    "suositukset": [
+      {
+        "teos": "Tuhottu lapsuus",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Tuhottu+lapsuus+Rami+Mäkinen+Matti+Rämö",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Tuhottu+lapsuus",
+        "kuvaus": "Tutkivien toimittajien Rami Mäkisen ja Matti Rämön tietokirja, joka kertoo karusti Anneli Auvinen-tapauksen lapsille tapahtuneesta suomalaisen lastensuojelun, poliisityön ja viranomaistoiminnan kautta - mutta myös selviytymisestä.",
+        "suosittelija": "Hanna Mahlamäki",
+        "kategoriat": [
+          "tietokirja",
+          "rikollisuus",
+          "yhteiskunta"
+        ]
+      },
+      {
+        "teos": "Regime Change",
+        "paakategoria": "kirja",
+        "google_linkki": "https://www.google.com/search?q=Regime+Change+book+Trump",
+        "lisatieto_linkki": "https://www.goodreads.com/search?q=Regime+Change+Trump",
+        "kuvaus": "New York Timesin toimittajan Trump-kirja, joka käy analyyttisesti teema kerrallaan läpi Trumpin pyrkimystä kostaa vihollisilleen ja miten hän on sen toteuttanut.",
+        "suosittelija": "Marko Junkkari",
+        "kategoriat": [
+          "politiikka",
+          "yhdysvallat",
+          "elämäkerta"
+        ]
+      },
+      {
+        "teos": "Futucast",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Futucast+podcast",
+        "lisatieto_linkki": "https://open.spotify.com/search/Futucast",
+        "kuvaus": "Isakko-nimisen haastattelijan podcast, jossa Tuomas Peltomäki vieraili puhumassa Menetetyt miljardit -podcastista - Peltomäki kehui haastattelijaa mahtavaksi ja jaksoa erinomaiseksi.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "haastattelu",
+          "media"
+        ]
+      },
+      {
+        "teos": "Luomakunta-podcast",
+        "paakategoria": "podcast",
+        "google_linkki": "https://www.google.com/search?q=Luomakunta-podcast+Jonne+Ranta",
+        "lisatieto_linkki": "https://open.spotify.com/search/Luomakunta-podcast",
+        "kuvaus": "Uutisrapsan entisen käsikirjoittajan, stand up -koomikko Jonne Rannan podcast, jossa Peltomäki kävi puhumassa Menetetyistä miljardeista - hyvin vapaamuotoinen ja hauska podcast.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "stand up",
+          "keskustelu"
+        ]
+      },
+      {
+        "teos": "Tekoälyn (Claude) käyttäminen luonnonilmiöiden seuraamiseen",
+        "paakategoria": "muu",
+        "google_linkki": "https://www.google.com/search?q=Claude+tekoäly+luontoretki",
+        "lisatieto_linkki": "",
+        "kuvaus": "Peltomäki suosittelee kysymään tekoälyltä (Claude) luonnossa liikkuessa, mitä eläimiä ja ilmiöitä alueella on odotettavissa - tekoäly kertoi mm. ilveksistä, kauriista ja lintulajeista sekä teki jopa kalenterimerkintöjä tulevia bongausretkiä varten.",
+        "suosittelija": "Tuomas Peltomäki",
+        "kategoriat": [
+          "luonto",
+          "tekoäly",
+          "harrastus"
+        ]
+      }
+    ]
+  },
+  {
     "id": "55a18a7b-5c36-422b-8fd2-328b50402bbd",
     "jakso_otsikko": "Puolueiden idearikkaus, Kuka Trumpin rakastaja? -visailu, Iran, hedonismi",
     "paivamaara": "27.8.2026",
