@@ -53,33 +53,54 @@ def main():
         print(f"Virhe luettaessa ajon statusta: {e}")
         return
 
-    jakso_otsikko = tulos.get("jakso_otsikko", "Nimetön jakso")
-    suos_kpl = tulos.get("suosituksia_kpl", 0)
-    jakson_id = tulos.get("jakson_id", "")
-    varoitukset = tulos.get("varoitukset", [])
+    # Yksi ajo voi käsitellä useita jaksoja: uusi muoto on lista.
+    # Vanha yksittäinen dict hyväksytään yhä yhteensopivuuden vuoksi.
+    tulokset = tulos if isinstance(tulos, list) else [tulos]
+    if not tulokset:
+        os.remove(STATUS_FILE)
+        print("laheta_ilmoitus.py: Ei raportoitavaa, uusia jaksoja ei käsitelty.")
+        return
 
-    epailyttavia_kpl = hae_epailyttavien_luettelo(jakson_id)
+    epailyttavia_yht = 0
+    varoituksia_yht = 0
+    osiot = []
+    for t in tulokset:
+        jakso_otsikko = t.get("jakso_otsikko", "Nimetön jakso")
+        suos_kpl = t.get("suosituksia_kpl", 0)
+        varoitukset = t.get("varoitukset", [])
+        epailyttavia_kpl = hae_epailyttavien_luettelo(t.get("jakson_id", ""))
+        epailyttavia_yht += epailyttavia_kpl
+        varoituksia_yht += len(varoitukset)
 
-    sähköpostin_otsikko = f"Uutisraportti: Uusi jakso '{jakso_otsikko}' käsitelty!"
+        osio = f"Käsitelty jakso: {jakso_otsikko}\nAnalysoitavaksi löytyi yhteensä {suos_kpl} suositusta.\n"
+        if epailyttavia_kpl > 0:
+            osio += f"⚠️ HUOMIO: Skripti poimi tästä jaksosta {epailyttavia_kpl} epäilyttävää suosittelijanimeä, jotka eivät täsmää RSS-feediin.\n"
+        else:
+            osio += "Kaikki suosittelijanimet vaikuttivat luotettavilta.\n"
+        if varoitukset:
+            osio += "Automaattiset laatuvaroitukset:\n"
+            for v in varoitukset:
+                osio += f"- {v}\n"
+        osiot.append(osio)
 
-    viesti = f"Skripti ajettiin onnistuneesti.\n\nKäsitelty jakso: {jakso_otsikko}\nAnalysoitavaksi löytyi yhteensä {suos_kpl} suositusta.\n\n"
-
-    if epailyttavia_kpl > 0:
-        sähköpostin_otsikko = f"⚠️ Huomio: Uudessa Uutisraportti-jaksossa epäilyttäviä suosittelijoita!"
-        viesti += f"⚠️ HUOMIO: Skripti poimi tästä jaksosta {epailyttavia_kpl} epäilyttävää suosittelijanimeä, jotka eivät täsmää RSS-feediin.\n"
-        viesti += "Käy tarkistamassa ja vahvistamassa ne osoitteessa: https://uutisrapsa.fi/admin\n"
+    if len(tulokset) == 1:
+        otsikko_osa = f"'{tulokset[0].get('jakso_otsikko', 'Nimetön jakso')}'"
     else:
-        viesti += "Kaikki suosittelijanimet vaikuttivat luotettavilta.\n"
+        otsikko_osa = f"{len(tulokset)} jaksoa"
 
-    if varoitukset:
-        if epailyttavia_kpl == 0:
-            sähköpostin_otsikko = f"⚠️ Uutisraportti: '{jakso_otsikko}' käsitelty — {len(varoitukset)} tarkistettavaa"
-        viesti += "\nAutomaattiset laatuvaroitukset:\n"
-        for v in varoitukset:
-            viesti += f"- {v}\n"
-        
+    if epailyttavia_yht > 0:
+        sähköpostin_otsikko = f"⚠️ Uutisraportti: {otsikko_osa} käsitelty — {epailyttavia_yht} epäilyttävää suosittelijaa"
+    elif varoituksia_yht > 0:
+        sähköpostin_otsikko = f"⚠️ Uutisraportti: {otsikko_osa} käsitelty — {varoituksia_yht} tarkistettavaa"
+    else:
+        sähköpostin_otsikko = f"Uutisraportti: {otsikko_osa} käsitelty!"
+
+    viesti = "Skripti ajettiin onnistuneesti.\n\n" + "\n".join(osiot)
+    if epailyttavia_yht > 0:
+        viesti += "\nKäy tarkistamassa ja vahvistamassa epäilyttävät osoitteessa: https://uutisrapsa.fi/admin\n"
+
     laheta_sahkoposti(sähköpostin_otsikko, viesti)
-    
+
     # Siivous
     os.remove(STATUS_FILE)
 

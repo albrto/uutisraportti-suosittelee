@@ -19,6 +19,7 @@ ALKU_SEKUNTIA = 300  # Ensimmäiset 5 min — esittelykierros voi alkaa vasta ~3
 TULOS_TIEDOSTO = "suositukset.json"
 HISTORIA_TIEDOSTO = "historia_json.txt"
 TRANSKRIPTIT_KANSIO = "transkriptit"
+AJON_TULOS_TIEDOSTO = "ajon_tulos.json"
 
 # --- API AVAIMET ---
 # Nämä pitää lisätä .env-tiedostoon!
@@ -299,6 +300,13 @@ def aja_prosessi():
             except:
                 kaikki_data = []
 
+    # Sähköposti-ilmoituksen tulostiedosto kerää kaikki tämän ajon jaksot listaksi.
+    # Mahdollinen edellisen ajon jämätiedosto poistetaan heti, ettei vanha jakso
+    # päädy uuteen ilmoitukseen.
+    ajon_tulokset = []
+    if os.path.exists(AJON_TULOS_TIEDOSTO):
+        os.remove(AJON_TULOS_TIEDOSTO)
+
     feed = feedparser.parse(RSS_URL)
 
     for entry in reversed(feed.entries[:LATAA_MÄÄRÄ]):
@@ -386,15 +394,17 @@ def aja_prosessi():
                 with open(HISTORIA_TIEDOSTO, "a", encoding="utf-8") as h:
                     h.write(jakson_tunniste + "\n")
                     
-                # Tallennetaan tilapäistieto sähköposti-ilmoitusta varten
-                tulos_data = {
+                # Tallennetaan tilapäistieto sähköposti-ilmoitusta varten.
+                # Lista kirjoitetaan joka jakson jälkeen, jotta kesken kaatunut
+                # ajo raportoi silti jo valmistuneet jaksot.
+                ajon_tulokset.append({
                     "jakso_otsikko": otsikko,
                     "suosituksia_kpl": len(suositukset_json),
                     "jakson_id": jakson_tunniste,
                     "varoitukset": varoitukset
-                }
-                with open("ajon_tulos.json", "w", encoding="utf-8") as ft:
-                    json.dump(tulos_data, ft, ensure_ascii=False)
+                })
+                with open(AJON_TULOS_TIEDOSTO, "w", encoding="utf-8") as ft:
+                    json.dump(ajon_tulokset, ft, ensure_ascii=False)
                     
                 print(f"✅ Jakso valmis ja tallennettu suositukset.json -tiedostoon!")
             else:

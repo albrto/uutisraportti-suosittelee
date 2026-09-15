@@ -14,6 +14,9 @@ on:
 jobs:
   run-automation:
     runs-on: ubuntu-latest
+    # Ilman aikarajaa jumiutunut runner roikkuu GitHubin 6 tunnin kattoon asti
+    # ja viikon ajo jää hiljaa väliin (kävi 3.9.2026: apt-get jumitti 6 h)
+    timeout-minutes: 45
     permissions:
       contents: write
     
