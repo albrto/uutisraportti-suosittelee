@@ -2,6 +2,10 @@ name: Uutisraportti Automaatio
 
 on:
   push:
+    # Vain main: dev-haaran (branch deploy -kokeiluversio) pushit eivät saa
+    # käynnistää tuotantoputkea
+    branches:
+      - main
     paths:
       - 'admin/korjaukset.json'
       - 'admin/ohitukset.json'
