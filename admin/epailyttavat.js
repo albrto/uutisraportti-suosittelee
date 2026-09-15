@@ -23776,7 +23776,7 @@ window.VALIDATION_DATA = [
         "r_idx": 1,
         "is_suspicious": false,
         "suosittelija": "Tuomas Peltomäki",
-        "teos": "The Apple 1st Fifty Years",
+        "teos": "Apple: The First 50 Years",
         "paakategoria": "kirja",
         "kategoriat": [
           "teknologia",
@@ -23784,8 +23784,8 @@ window.VALIDATION_DATA = [
           "Apple"
         ],
         "kuvaus": "New York Timesin toimittaja David Poguen kirjoittama runsaasti kuvitettu coffee table -kirja Applen viisikymmenvuotisesta historiasta; kertoo yllättävän paljon uutta myös pitkälle Apple-historiaan perehtyneelle.",
-        "google_linkki": "https://www.google.com/search?q=Apple+The+First+Fifty+Years+David+Pogue",
-        "lisatieto_linkki": "https://www.goodreads.com/search?q=Apple+The+First+Fifty+Years+David+Pogue"
+        "google_linkki": "https://www.google.com/search?q=Apple+The+First+50+Years+David+Pogue",
+        "lisatieto_linkki": "https://www.goodreads.com/book/show/239495879-apple"
       }
     ]
   },
