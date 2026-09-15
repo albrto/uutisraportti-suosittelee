@@ -2,24 +2,32 @@ import subprocess
 import anthropic
 import os
 import json
+import re
 from datetime import datetime
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 def hae_git_historia():
     print("📜 Luetaan git-historiaa...")
-    cmd = ['git', 'log', '-n', '20', '--pretty=format:%s|||%b']
+    # Erottimina ohjausmerkit %x1e (commit) ja %x1f (otsikko/body): monirivinen
+    # commit-body ei näin hajoa useaksi näennäiscommitiksi, kuten kävi kun
+    # historia jaettiin rivinvaihdoilla.
+    cmd = ['git', 'log', '-n', '20', '--pretty=format:%s%x1f%b%x1e']
     result = subprocess.run(cmd, capture_output=True, text=True)
     commits = []
-    
-    lines = result.stdout.strip().split('\n')
-    print(f"📄 Löydettiin {len(lines)} riviä historiatierosta.")
-    
-    for line in lines:
-        if not line: continue
-        osat = line.split('|||')
+
+    tietueet = [t for t in result.stdout.split('\x1e') if t.strip()]
+    print(f"📄 Löydettiin {len(tietueet)} committia.")
+
+    for tietue in tietueet:
+        osat = tietue.strip().split('\x1f')
         otsikko = osat[0].strip()
-        body = osat[1].strip() if len(osat) > 1 else ""
+        # Attribuutiorivit (Co-Authored-By) eivät kuulu muutoslokiin
+        body_rivit = osat[1].splitlines() if len(osat) > 1 else []
+        body = " ".join(
+            r.strip() for r in body_rivit
+            if r.strip() and not r.strip().lower().startswith("co-authored-by:")
+        )
 
         print(f"  - Tutkitaan: {otsikko}")
 
@@ -68,10 +76,12 @@ Koodarin tekniset commitit:
     
     for model_name in models_to_try:
         try:
+            # HUOM: ei temperature-parametria — nykyinen anthropic-SDK ei
+            # hyväksy sitä lainkaan (TypeError), mikä rikkoi lokigeneroinnin
+            # 15.8.–15.9.2026 väliseksi ajaksi.
             response = client.messages.create(
                 model=model_name,
                 max_tokens=800,
-                temperature=0.2,
                 messages=[{"role": "user", "content": prompt}]
             )
             tulos = response.content[0].text.strip()
@@ -88,8 +98,6 @@ Koodarin tekniset commitit:
             continue
             
     return None
-
-import re
 
 def paivita_html(uusi_teksti):
     html_polku = "muutokset.html"
