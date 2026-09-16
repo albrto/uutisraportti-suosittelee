@@ -3,7 +3,7 @@
 Generoi validointi-JSON-tiedoston selainpohjaista validointisivua varten.
 Sisältää kaikki epäilyttävät tapaukset audio URL:eineen ja kestoineen.
 
-Tulos: /Users/antero/.gemini/antigravity/scratch/validointidata/epailyttavat.json
+Tulos: admin/epailyttavat.json (ajetaan web-repon juuresta)
 """
 import feedparser
 import json

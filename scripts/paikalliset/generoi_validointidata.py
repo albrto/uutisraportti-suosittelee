@@ -3,7 +3,7 @@
 Generoi validointi-JSON-tiedoston selainpohjaista validointisivua varten.
 Sisältää kaikki epäilyttävät tapaukset audio URL:eineen ja kestoineen.
 
-Tulos: /Users/antero/.gemini/antigravity/scratch/validointidata/epailyttavat.json
+Tulos: /Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/validointidata/epailyttavat.json
 """
 import feedparser
 import json
@@ -13,7 +13,7 @@ import os
 SUOSITUKSET = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/suositukset.json"
 OHITUKSET = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/ohitukset.json"
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
-TULOS = "/Users/antero/.gemini/antigravity/scratch/validointidata/epailyttavat.json"
+TULOS = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/validointidata/epailyttavat.json"
 
 TUNNETUT_NIMET = [
     "Tuomas Peltomäki", "Salla Vuorikoski", "Marko Junkkari",

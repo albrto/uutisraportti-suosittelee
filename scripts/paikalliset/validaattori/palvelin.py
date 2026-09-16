@@ -82,7 +82,7 @@ class EventHandler(http.server.SimpleHTTPRequestHandler):
                 print(f"✅ Lisätty pysyvä ohitus: {item_to_ignore}")
                 
                 # Päivitetään validaattorin data jotta se häviää heti
-                generoi_script = "/Users/antero/.gemini/antigravity/scratch/generoi_validointidata.py"
+                generoi_script = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/generoi_validointidata.py"
                 subprocess.run(["python3", generoi_script])
 
                 self.send_response(200)
