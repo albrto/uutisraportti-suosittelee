@@ -4,7 +4,7 @@ import re
 import os
 
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
-TULOS_TIEDOSTO = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/suositukset.json"
+TULOS_TIEDOSTO = "/Users/antero/Koodi/uutisraportti-web/pipeline/suositukset.json"
 
 # ===== TUNNETUT TOIMITTAJAT =====
 TUNNETUT_NIMET = [
@@ -188,7 +188,7 @@ def main():
                     "epailyttavat_suositukset": lopulliset_epailyttavat
                 })
 
-    VALIDOINTI_DIR = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/validointidata"
+    VALIDOINTI_DIR = "/Users/antero/Koodi/uutisraportti-web/pipeline/validointidata"
     VALIDOINTI_JS = os.path.join(VALIDOINTI_DIR, "epailyttavat.js")
     # JSON-muotoa lukevat laheta_ilmoitus.py ja korjaa_suosittelijat.py;
     # JS-muotoa validaattori-UI (index.html). Sama data, sama liputuslogiikka.

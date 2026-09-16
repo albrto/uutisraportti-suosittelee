@@ -11,7 +11,7 @@ import re
 import os
 import sys
 
-SUOSITUKSET_TIEDOSTO = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/suositukset.json"
+SUOSITUKSET_TIEDOSTO = "/Users/antero/Koodi/uutisraportti-web/pipeline/suositukset.json"
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 
 TUNNETUT_NIMET = [

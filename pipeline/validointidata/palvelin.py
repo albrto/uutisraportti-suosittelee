@@ -21,7 +21,7 @@ class EventHandler(http.server.SimpleHTTPRequestHandler):
                 
                 # Tallenna korjaukset.json
                 # Huom: Tallennetaan iCloud-kansioon, jotta paivita_korjaukset.sh löytää sen
-                icloud_dir = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi"
+                icloud_dir = "/Users/antero/Koodi/uutisraportti-web/pipeline"
                 icloud_path = os.path.join(icloud_dir, "korjaukset.json")
                 with open(icloud_path, 'w', encoding='utf-8') as f:
                     json.dump(corrections, f, ensure_ascii=False, indent=2)
@@ -64,7 +64,7 @@ class EventHandler(http.server.SimpleHTTPRequestHandler):
             
             try:
                 item_to_ignore = json.loads(post_data)
-                icloud_dir = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi"
+                icloud_dir = "/Users/antero/Koodi/uutisraportti-web/pipeline"
                 ohitukset_path = os.path.join(icloud_dir, "ohitukset.json")
                 
                 ohitukset = []
