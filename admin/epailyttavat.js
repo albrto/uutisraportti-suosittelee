@@ -8679,7 +8679,7 @@ window.VALIDATION_DATA = [
         "r_idx": 0,
         "is_suspicious": false,
         "suosittelija": "Aino Frilander",
-        "teos": "Hesburger ranskanperunat paprikamajoneesilla",
+        "teos": "Hesburgerin ranskanperunat paprikamajoneesilla",
         "paakategoria": "ruoka",
         "kategoriat": [
           "pikaruoka",
