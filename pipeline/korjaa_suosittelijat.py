@@ -37,7 +37,9 @@ from uutisraportti_automaatio_deepgram_claude import (
 
 load_dotenv(override=True)
 
-EPAILYTTAVAT = "/Users/antero/Koodi/uutisraportti-web/pipeline/validointidata/epailyttavat.json"
+# Polut ankkuroidaan tiedoston omaan sijaintiin, jotta kansion voi nimetä/siirtää vapaasti
+PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
+EPAILYTTAVAT = os.path.join(PIPELINE_KANSIO, "validointidata", "epailyttavat.json")
 EHDOTUKSET = "korjausehdotukset.json"
 KORJAUKSET = "korjaukset.json"
 OHITUKSET = "ohitukset.json"

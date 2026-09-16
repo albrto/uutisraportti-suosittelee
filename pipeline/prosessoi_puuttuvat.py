@@ -8,7 +8,10 @@ import time
 import sys
 from playwright.sync_api import sync_playwright
 
-OUTPUT = "/Users/antero/Koodi/uutisraportti-web/pipeline/supla_audio_urlit.json"
+import os
+# Polut ankkuroidaan tiedoston omaan sijaintiin, jotta kansion voi nimetä/siirtää vapaasti
+PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
+OUTPUT = os.path.join(PIPELINE_KANSIO, "supla_audio_urlit.json")
 
 with open(OUTPUT, "r") as f:
     data = json.load(f)

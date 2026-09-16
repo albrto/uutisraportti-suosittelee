@@ -1,17 +1,17 @@
 #!/bin/bash
 # Siirrytään työkansioon
-cd "/Users/antero/Koodi/uutisraportti-web/pipeline"
+cd "$(dirname "$0")"
 
 # Yhteiset skriptit (../scripts/) ajetaan paikallisessa moodissa:
 # datakopiot tässä kansiossa, epäilyttävät validointidatassa
-export UUTISRAPSA_DATAKANSIO="/Users/antero/Koodi/uutisraportti-web/pipeline"
-export UUTISRAPSA_EPAILYTTAVAT="/Users/antero/Koodi/uutisraportti-web/pipeline/validointidata/epailyttavat.json"
+export UUTISRAPSA_DATAKANSIO="$PWD"
+export UUTISRAPSA_EPAILYTTAVAT="$PWD/validointidata/epailyttavat.json"
 
 echo "🚀 Aloitetaan automaatio $(date)"
 
 # Hae mahdolliset iPadilla tehdyt ohitukset/korjaukset
 echo "☁️ Haetaan iPadin tekemät ohitukset..."
-git -C "/Users/antero/Koodi/uutisraportti-web" pull --quiet || true
+git -C .. pull --quiet || true
 ./venv/bin/python3 synkronoi_pilvi_tiedostot.py
 
 # Ajetaan automaatio (Deepgram + Claude) käyttäen virtuaaliympäristöä

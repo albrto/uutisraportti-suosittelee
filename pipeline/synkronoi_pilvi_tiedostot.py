@@ -2,8 +2,10 @@
 import json
 import os
 
-ICLOUD_DIR = "/Users/antero/Koodi/uutisraportti-web/pipeline"
-GITHUB_DIR = "/Users/antero/Koodi/uutisraportti-web"
+# Polut ankkuroidaan tiedoston omaan sijaintiin, jotta kansion voi nimetä/siirtää vapaasti
+PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
+ICLOUD_DIR = PIPELINE_KANSIO
+GITHUB_DIR = os.path.dirname(PIPELINE_KANSIO)
 
 def lue_json(polku):
     if not os.path.exists(polku):

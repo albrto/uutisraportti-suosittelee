@@ -4,7 +4,9 @@ import re
 import os
 
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
-TULOS_TIEDOSTO = "/Users/antero/Koodi/uutisraportti-web/pipeline/suositukset.json"
+# Polut ankkuroidaan tiedoston omaan sijaintiin, jotta kansion voi nimetä/siirtää vapaasti
+PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
+TULOS_TIEDOSTO = os.path.join(PIPELINE_KANSIO, "suositukset.json")
 
 # Nimilistat ja osallistujaparseri yhteismoduulista (scripts/nimet.py) —
 # aiemmin tässä olleet kopiot piti pitää käsin synkassa generoi_validointidatan kanssa
@@ -129,7 +131,7 @@ def main():
                     "epailyttavat_suositukset": lopulliset_epailyttavat
                 })
 
-    VALIDOINTI_DIR = "/Users/antero/Koodi/uutisraportti-web/pipeline/validointidata"
+    VALIDOINTI_DIR = os.path.join(PIPELINE_KANSIO, "validointidata")
     VALIDOINTI_JS = os.path.join(VALIDOINTI_DIR, "epailyttavat.js")
     # JSON-muotoa lukevat laheta_ilmoitus.py ja korjaa_suosittelijat.py;
     # JS-muotoa validaattori-UI (index.html). Sama data, sama liputuslogiikka.

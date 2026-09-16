@@ -8,7 +8,7 @@ export UUTISRAPSA_EPAILYTTAVAT="$PWD/validointidata/epailyttavat.json"
 
 # 1. Hae korjaukset ja ohitukset pilvestä (iPadilta)
 echo "☁️ Haetaan uusimmat korjaukset pilvestä..."
-git -C "/Users/antero/Koodi/uutisraportti-web" pull --quiet || true
+git -C .. pull --quiet || true
 ./venv/bin/python3 synkronoi_pilvi_tiedostot.py
 
 # 2. Tarkista löytyykö korjaukset.json (esim. juuri pilvestä haettu)
@@ -28,7 +28,7 @@ if [ $? -eq 0 ]; then
 
     # 5. Julkaise muutokset tuotantoon jos soveltaminen onnistui
     echo "🚀 Julkaistaan muutokset tuotantoon..."
-    /Users/antero/Koodi/uutisraportti-web/julkaise.sh
+    ../julkaise.sh
 
     # 6. Siivoa korjaukset.json talteen (tai poista)
     mv korjaukset.json korjaukset_applied_$(date +%Y%m%d_%H%M%S).json

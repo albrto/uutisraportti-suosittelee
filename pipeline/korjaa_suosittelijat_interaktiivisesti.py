@@ -11,7 +11,9 @@ import re
 import os
 import sys
 
-SUOSITUKSET_TIEDOSTO = "/Users/antero/Koodi/uutisraportti-web/pipeline/suositukset.json"
+# Polut ankkuroidaan tiedoston omaan sijaintiin, jotta kansion voi nimetä/siirtää vapaasti
+PIPELINE_KANSIO = os.path.dirname(os.path.abspath(__file__))
+SUOSITUKSET_TIEDOSTO = os.path.join(PIPELINE_KANSIO, "suositukset.json")
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 
 TUNNETUT_NIMET = [
