@@ -51,13 +51,24 @@ jobs:
                   "subject": otsikko,
                   "viesti": viesti,
               }).encode()
-              with urllib.request.urlopen(urllib.request.Request(NETLIFY_URL, data=data), timeout=30) as res:
+              # Sama User-Agent kuin tuotannon laheta_ilmoitus.py:llä (requests):
+              # Python-urllibin oletustunniste jää Netlify Formsin
+              # Akismet-suodattimeen, jolloin sähköposti-ilmoitusta ei lähde.
+              req = urllib.request.Request(
+                  NETLIFY_URL, data=data,
+                  headers={"User-Agent": "python-requests/2.32.3"},
+              )
+              with urllib.request.urlopen(req, timeout=30) as res:
                   print(f"Hälytys lähetetty, HTTP {res.status}")
 
           if os.environ.get("TESTIHALYTYS") == "true":
               laheta_halytys(
-                  "TESTI: Tuoreusvahti",
-                  "Tämä on tuoreusvahdin testihälytys. Sähköpostikanava toimii.",
+                  "TESTI: Tuoreusvahti toimii",
+                  "Tämä on Uutisrapsan tuoreusvahdin testihälytys, joka käynnistettiin "
+                  "käsin GitHub Actionsista (workflow_dispatch, testihalytys=true).\n\n"
+                  "Jos luet tätä sähköpostista, hälytyskanava toimii: tuoreusvahti "
+                  "pystyy ilmoittamaan, jos torstain automaatioajo ei ole käsitellyt "
+                  f"uusinta jaksoa.\n\nAjot: {ACTIONS_URL}",
               )
               sys.exit(0)
 
