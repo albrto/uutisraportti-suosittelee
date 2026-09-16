@@ -82,8 +82,10 @@ class EventHandler(http.server.SimpleHTTPRequestHandler):
                 print(f"✅ Lisätty pysyvä ohitus: {item_to_ignore}")
                 
                 # Päivitetään validaattorin data jotta se häviää heti
-                generoi_script = "/Users/antero/Library/Mobile Documents/com~apple~CloudDocs/Koodi/Uutisrapsa.fi/generoi_validointidata.py"
-                subprocess.run(["python3", generoi_script])
+                # (repon venv-python, koska validoi tarvitsee feedparserin)
+                validoi_script = os.path.join(icloud_dir, "validoi_suosittelijat.py")
+                venv_python = os.path.join(icloud_dir, "venv", "bin", "python3")
+                subprocess.run([venv_python, validoi_script])
 
                 self.send_response(200)
                 self.send_header('Content-type', 'application/json')
