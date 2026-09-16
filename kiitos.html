@@ -19,5 +19,16 @@
       </div>
     </header>
   </div>
+  <!-- Kävijämittaus (GoatCounter): evästeetön, vain tuotantodomainilla,
+       jotta dev-kokeiluversio ja paikallinen selailu eivät kirjaudu tilastoihin -->
+  <script>
+    if (location.hostname === 'uutisrapsa.fi' || location.hostname === 'www.uutisrapsa.fi') {
+      var gc = document.createElement('script');
+      gc.async = true;
+      gc.src = 'https://gc.zgo.at/count.js';
+      gc.dataset.goatcounter = 'https://uutisrapsa.goatcounter.com/count';
+      document.body.appendChild(gc);
+    }
+  </script>
 </body>
 </html>
