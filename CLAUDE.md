@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Suositusautomaatio + website for the Finnish HS podcast "Uutisraportti". The pipeline pulls new episodes from the RSS feed, transcribes the intro + last 10 minutes (the recommendations segment) with Deepgram, then has Claude extract structured cultural/consumer recommendations into `suositukset.json`. That JSON powers the static site at uutisrapsa.fi (Netlify, publishes this repo's root from GitHub `main`).
 
-**Everything lives in this one repo since 16.9.2026** (github.com/albrto/uutisraportti-suosittelee, working copy `/Users/antero/Koodi/uutisraportti-web`):
+**Everything lives in this one repo since 16.9.2026** (github.com/albrto/**uutisrapsa** (renamed 16.9.2026 from uutisraportti-suosittelee; GitHub redirects the old name), working copy `/Users/antero/Koodi/uutisrapsa`):
 
 - **Repo root** — the published site (`index.html`, `app.js`, `style.css`, `suositukset.json`), `admin/` UI, `transkriptit/` (shared speaker-labeled transcript cache, robots-disallowed), `scripts/` (the copies GitHub Actions runs), `julkaise.sh`, workflows.
 - **`pipeline/`** — the local toolbox (previously a separate iCloud folder `…/com~apple~CloudDocs/Koodi/Uutisrapsa.fi`, and before that Google Antigravity's scratch dir where the project started). Scripts are committed; **secrets and local data copies are gitignored** (`.env`, `venv/`, `suositukset.json` + backups, `historia_json.txt` + backups, `korjaukset.json`, `ohitukset.json`, `korjausehdotukset.json`, `supla_audio_urlit.json`, `ajon_tulos.json`, `validointidata/epailyttavat.*`, `screenshotit/`). Gitignored files never reach GitHub or Netlify — but they also have **no backup** (the iCloud safety net is gone), so treat `pipeline/korjausehdotukset.json` and the local data copies with care.
@@ -34,7 +34,7 @@ Monitoring (added 16.9.2026): `.github/workflows/tuoreusvahti.yml` runs Fridays 
 Local tooling runs from `pipeline/` (there is no test suite):
 
 ```bash
-cd /Users/antero/Koodi/uutisraportti-web/pipeline
+cd /Users/antero/Koodi/uutisrapsa/pipeline
 
 # Regular automation (sync corrections from admin/ → process new episodes → email)
 ./aja_automaatio.sh
