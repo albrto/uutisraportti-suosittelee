@@ -17,6 +17,10 @@ Netlify serves everything committed at the repo root, so committed pipeline file
 
 All code, identifiers, comments, prompts, and logs are in Finnish. Match that when editing — don't translate variable names or rewrite prompts in English.
 
+## Design work (phase 1 redesign, started 16.9.2026)
+
+The **Impeccable** design skill (impeccable.style, v4.3.1) is installed project-level for Claude Code: skill + agents + detector hooks live in the gitignored `.claude/` (the installer's duplicate GitHub Copilot copy under `.github/` was deleted — don't reinstall it, it would be committed and published). Use `/impeccable` commands for UI work. **`PRODUCT.md` at the repo root is the product-truth file the skill reads — keep it up to date like this file.** Key confirmed design constraints: flat & stylish look (away from the old purple-glow), light + dark themes via `prefers-color-scheme`, playful podcast-spirited Finnish UI copy, front page serves both "find the newest episode's rec" and "browse everything" jobs, KKV ad-disclosure slot needed for future affiliate links. Style reference (not to copy): https://promille.jyrki-anttila.workers.dev. Redesign work happens on the `dev` branch (Netlify branch deploy, noindex).
+
 ## ⚠️ Production runs in GitHub Actions, not locally
 
 The live pipeline is `.github/workflows/automaatio.yml`, running Thursdays 16:00 UTC and on pushes to **main** touching `admin/korjaukset.json` or `ohitukset.json` (branch filter added 15.9.2026 so the `dev` branch — Netlify branch deploy at `dev--uutisrapsa.netlify.app`, noindex'd via a `[context.branch-deploy]` build command in `netlify.toml` — can't trigger production runs). The job has `timeout-minutes: 45` (added 15.9.2026 after the 3.9.2026 run hung in `apt-get` for GitHub's full 6 h limit and silently skipped the week — the 10.9. run then caught up both episodes). It uses the pipeline-script copies in `scripts/` and commits results to GitHub → Netlify publishes.
