@@ -1,0 +1,37 @@
+name: Automaatiohälytys
+
+# Lähettää sähköposti-ilmoituksen (Netlify Forms, sama kanava kuin
+# laheta_ilmoitus.py) kun automaatioajo tai tuoreusvahti päättyy virheeseen,
+# peruuntuu tai osuu aikakattoon. workflow_run-triggeri kattaa myös
+# timeout-tapaukset, joita ajon sisäinen if: failure() -askel ei kata.
+# Käsin ajettuna (workflow_dispatch) lähettää testihälytyksen.
+
+on:
+  workflow_run:
+    workflows: ["Uutisraportti Automaatio", "Tuoreusvahti"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  halyta:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'failure' ||
+      github.event.workflow_run.conclusion == 'timed_out' ||
+      github.event.workflow_run.conclusion == 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Lähetä hälytys Netlify Formsin kautta
+        env:
+          TYONKULKU: ${{ github.event.workflow_run.name || 'testi (workflow_dispatch)' }}
+          TULOS: ${{ github.event.workflow_run.conclusion || 'testi' }}
+          AJO_URL: ${{ github.event.workflow_run.html_url || 'https://github.com/albrto/uutisraportti-suosittelee/actions' }}
+        run: |
+          VIESTI=$(printf 'GitHub Actions -ajo ei onnistunut.\nTyönkulku: %s\nTulos: %s\nAjo: %s' \
+            "$TYONKULKU" "$TULOS" "$AJO_URL")
+          curl -sS -o /dev/null -w "Netlify Forms: HTTP %{http_code}\n" "https://uutisrapsa.fi/" \
+            --data-urlencode "form-name=automaatio-ilmoitus" \
+            --data-urlencode "subject=HÄLYTYS: ${TYONKULKU} päättyi tulokseen ${TULOS}" \
+            --data-urlencode "viesti=${VIESTI}"

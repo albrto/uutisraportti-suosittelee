@@ -1,0 +1,91 @@
+name: Tuoreusvahti
+
+# Varmistaa perjantaisin, että torstain automaatioajo on oikeasti käsitellyt
+# RSS-syötteen uusimmat jaksot: vertaa syötteen guideja sivustolla julkaistuun
+# historia_json.txt:hen. Vertailu tehdään RSS:ää vasten, joten podcastin
+# tauot eivät aiheuta vääriä hälytyksiä — hälytys tulee vain jos jakso
+# ilmestyi eikä putki käsitellyt sitä.
+# Tausta: 3.9.2026 ajo jumittui ja viikko jäi hiljaa väliin (huomattiin
+# vasta viikkoa myöhemmin). Tämä vahti olisi napannut sen seuraavana päivänä.
+
+on:
+  schedule:
+    # Perjantaisin klo 16:00 UTC, vuorokausi torstain automaatioajon jälkeen
+    - cron: '0 16 * * 5'
+  workflow_dispatch:
+    inputs:
+      testihalytys:
+        description: 'Lähetä testihälytys sähköpostikanavan varmistamiseksi'
+        type: boolean
+        default: false
+
+jobs:
+  tarkista-tuoreus:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Tarkista että uusimmat jaksot on käsitelty
+        env:
+          TESTIHALYTYS: ${{ inputs.testihalytys }}
+        run: |
+          python3 - <<'PYEOF'
+          import os
+          import sys
+          import urllib.parse
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timedelta, timezone
+          from email.utils import parsedate_to_datetime
+
+          RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
+          HISTORIA_URL = "https://uutisrapsa.fi/historia_json.txt"
+          NETLIFY_URL = "https://uutisrapsa.fi/"
+          ACTIONS_URL = "https://github.com/albrto/uutisraportti-suosittelee/actions"
+          IKKUNA = timedelta(days=8)       # kuinka tuoreet jaksot tarkistetaan
+          ARMONAIKA = timedelta(hours=20)  # tätä tuoreempia ei vaadita vielä käsitellyiksi
+
+          def laheta_halytys(otsikko, viesti):
+              data = urllib.parse.urlencode({
+                  "form-name": "automaatio-ilmoitus",
+                  "subject": otsikko,
+                  "viesti": viesti,
+              }).encode()
+              with urllib.request.urlopen(urllib.request.Request(NETLIFY_URL, data=data), timeout=30) as res:
+                  print(f"Hälytys lähetetty, HTTP {res.status}")
+
+          if os.environ.get("TESTIHALYTYS") == "true":
+              laheta_halytys(
+                  "TESTI: Tuoreusvahti",
+                  "Tämä on tuoreusvahdin testihälytys. Sähköpostikanava toimii.",
+              )
+              sys.exit(0)
+
+          with urllib.request.urlopen(RSS_URL, timeout=60) as r:
+              feed = ET.parse(r).getroot()
+          with urllib.request.urlopen(HISTORIA_URL, timeout=60) as r:
+              historia = {rivi.strip() for rivi in r.read().decode("utf-8").splitlines() if rivi.strip()}
+
+          nyt = datetime.now(timezone.utc)
+          puuttuvat = []
+          for item in feed.findall("./channel/item"):
+              guid = (item.findtext("guid") or "").strip()
+              pub = parsedate_to_datetime(item.findtext("pubDate"))
+              ika = nyt - pub
+              if ika > IKKUNA or ika < ARMONAIKA:
+                  continue
+              if guid not in historia:
+                  otsikko = (item.findtext("title") or "(ei otsikkoa)").strip()
+                  puuttuvat.append(f"- {otsikko} ({pub:%d.%m.%Y}, id {guid})")
+
+          if puuttuvat:
+              viesti = (
+                  "Tuoreusvahti havaitsi jaksoja, joita automaatio ei ole käsitellyt:\n\n"
+                  + "\n".join(puuttuvat)
+                  + f"\n\nTarkista GitHub Actionsin ajot: {ACTIONS_URL}"
+              )
+              laheta_halytys("HÄLYTYS: Uutisrapsa-automaatio ei ole käsitellyt uusinta jaksoa", viesti)
+              sys.exit(1)
+
+          print("Kaikki kunnossa: RSS:n tuoreet jaksot löytyvät käsittelyhistoriasta.")
+          PYEOF
