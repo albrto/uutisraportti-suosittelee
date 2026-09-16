@@ -99,6 +99,23 @@ Koodarin tekniset commitit:
             
     return None
 
+def paivita_footer_versio(uusi_versio):
+    # Pidä etusivun footerin versionumero muutoslokin tasalla —
+    # kovakoodattu numero jäi aiemmin jälkeen (v1.2.0 vs. muutoslokin v1.13.0)
+    polku = "index.html"
+    if not os.path.exists(polku):
+        print(f"⚠️ Tiedostoa {polku} ei löydy, footerin versio jäi päivittämättä.")
+        return
+    with open(polku, 'r', encoding='utf-8') as f:
+        sisalto = f.read()
+    uusi_sisalto, maara = re.subn(r'Versio v\d+\.\d+\.\d+', f'Versio {uusi_versio}', sisalto)
+    if maara == 0:
+        print("⚠️ Footerin versiomerkintää ei löytynyt index.html:stä.")
+        return
+    with open(polku, 'w', encoding='utf-8') as f:
+        f.write(uusi_sisalto)
+    print(f"✅ Footerin versio päivitetty: {uusi_versio}")
+
 def paivita_html(uusi_teksti):
     html_polku = "muutokset.html"
     if not os.path.exists(html_polku):
@@ -148,6 +165,7 @@ def paivita_html(uusi_teksti):
         with open(html_polku, 'w', encoding='utf-8') as f:
             f.write(uusi_sisalto)
         print(f"🚀 Muutosloki {uusi_versio} tallennettu onnistuneesti!")
+        paivita_footer_versio(uusi_versio)
         return True
     else:
         print("❌ Virhe: Ei löydetty h1-tagia, jossa luki 'Muutosloki'.")
