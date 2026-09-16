@@ -20,3 +20,4 @@ pipeline/ajon_tulos.json
 pipeline/validointidata/epailyttavat.js
 pipeline/validointidata/epailyttavat.json
 .claude/
+pipeline/korjaukset_applied_*.json

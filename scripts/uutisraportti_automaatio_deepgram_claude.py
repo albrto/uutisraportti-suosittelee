@@ -7,19 +7,28 @@ import json
 from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
-from generoi_validointidata import poimi_osallistujat_rss, TUNNETUT_NIMET
+from nimet import poimi_osallistujat_rss, TUNNETUT_NIMET
 
-load_dotenv(override=True)
+# --- POLUT ---
+# Sama skripti ajaa sekä GitHub Actionsin (data repon juuressa) että
+# paikallisen putken (datakopiot pipeline/-kansiossa). Paikallinen ajo
+# asettaa UUTISRAPSA_DATAKANSIO-ympäristömuuttujan; oletus on repon juuri,
+# jolloin käytös on täsmälleen entinen Actions-käytös.
+JUURI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATAKANSIO = os.environ.get("UUTISRAPSA_DATAKANSIO", JUURI)
+
+# Actionsissa avaimet tulevat ympäristöstä; paikallisesti pipeline/.env:stä
+load_dotenv(os.path.join(DATAKANSIO, ".env"), override=True)
 
 # --- ASETUKSET ---
 RSS_URL = "https://feeds.captivate.fm/uutisraportti-podcast/"
 LATAA_MÄÄRÄ = 421
 LEIKKAUS_SEKUNTIA = 1200  # Viimeiset 20 min
 ALKU_SEKUNTIA = 300  # Ensimmäiset 5 min — esittelykierros voi alkaa vasta ~3 min kohdalla (alun mainokset, aiheet ennen esittelyjä)
-TULOS_TIEDOSTO = "suositukset.json"
-HISTORIA_TIEDOSTO = "historia_json.txt"
-TRANSKRIPTIT_KANSIO = "transkriptit"
-AJON_TULOS_TIEDOSTO = "ajon_tulos.json"
+TULOS_TIEDOSTO = os.path.join(DATAKANSIO, "suositukset.json")
+HISTORIA_TIEDOSTO = os.path.join(DATAKANSIO, "historia_json.txt")
+TRANSKRIPTIT_KANSIO = os.path.join(JUURI, "transkriptit")  # jaettu välimuisti, aina repon juuressa
+AJON_TULOS_TIEDOSTO = os.path.join(DATAKANSIO, "ajon_tulos.json")
 
 # --- API AVAIMET ---
 # Nämä pitää lisätä .env-tiedostoon!
@@ -36,6 +45,13 @@ def tallenna_transkripti(jakso_id, teksti):
     with open(polku, "w", encoding="utf-8") as f:
         f.write(teksti)
     return polku
+
+def lue_transkripti(jakso_id):
+    polku = transkriptin_polku(jakso_id)
+    if os.path.exists(polku):
+        with open(polku, "r", encoding="utf-8") as f:
+            return f.read()
+    return None
 
 def transkriboi_deepgram(audio_path):
     print("Lähetetään ääni Deepgramille transkriptioon (tämä kestää vain pari sekuntia)...")

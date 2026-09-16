@@ -6,6 +6,10 @@ from pydub import AudioSegment
 from dotenv import load_dotenv
 import anthropic
 from datetime import datetime
+# Yhteiset skriptit (mm. uutisraportti_automaatio_deepgram_claude) asuvat
+# 16.9.2026 alkaen vain scripts/-kansiossa — lisätään se importtipolkuun
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scripts"))
 from uutisraportti_automaatio_deepgram_claude import tallenna_transkripti, analysoi_claudella
 
 load_dotenv(override=True)
